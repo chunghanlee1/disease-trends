@@ -40,7 +40,12 @@ def parse_args():
         default=500,
         help='Number of terms to process',
     )
-
+    parser.add_argument(
+        '--terms_per_call',
+        type=int,
+        default=4,
+        help='Number of terms to process',
+    )
 
     return parser.parse_args()
 
@@ -55,13 +60,13 @@ def main():
     start_index=0
 
     #Start collecting data. For each keyword...
-    for index in range(start_index, n_symptoms,4):
+    for index in range(start_index, n_symptoms,terms_per_call):
         #If reach end of list
-        if n_symptoms - index < 3:
+        if n_symptoms - index < terms_per_call-1:
             symptoms = symptoms_list[index:]
         #else we select 4 keywords at once
         else:
-            symptoms=symptoms_list[index:index+4]
+            symptoms=symptoms_list[index:index+terms_per_call]
         
         #For each state, fetch data...
         for state in states_list:
