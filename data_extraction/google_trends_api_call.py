@@ -28,13 +28,28 @@ def parse_args():
         type=FileType('r'),
         help='Tab delimited file. First column is the symptom descriptor',
     )
+    parser.add_argument(
+        '--offset',
+        type=int,
+        default=0,
+        help='Number of term in term list to start with',
+    )
+    parser.add_argument(
+        '--nterms',
+        type=int,
+        default=500,
+        help='Number of terms to process',
+    )
+
+
     return parser.parse_args()
 
 def main():
     args = parse_args()
     # Login to Google. Only need to run this once, the rest of requests will use the same session.
     pytrend = TrendReq()
-    symptoms_list = [r.strip().split('\t')[0] for r in args.symptoms][1:]
+    symptoms_list = [r.strip().split('\t')[0] for r in args.symptoms]
+    symptoms_list = symptoms_list[offset+1:nterms+1]# add 1 for header
     raw_data={state:[] for state in states_list}
     n_symptoms=len(symptoms_list)
     start_index=0
@@ -84,7 +99,7 @@ def main():
     #Check to make sure we can combine the data frame. If not, then we need to save each dataframe in the list separately
     if sum([not d.shape==data_aggregated_by_state[0].shape for d in data_aggregated_by_state]) == 0:
         final_df = pd.concat(data_aggregated_by_state, axis=0)
-        final_df.to_csv('data.csv',sep=',', encoding='utf-8')
+        final_df.to_csv('.'.join(['data',str(args.offset),'-',str(args.nterms-1), 'csv']), sep=',', encoding='utf-8')
     
 if(__name__=='__main__'):
     main()
