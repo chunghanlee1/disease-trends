@@ -55,13 +55,12 @@ def main():
     # Login to Google. Only need to run this once, the rest of requests will use the same session.
     pytrend = TrendReq()
     symptoms_list = [r.strip().split('\t')[0] for r in args.symptoms]
-    symptoms_list = symptoms_list[args.offset+1:args.nterms+1]# add 1 for header
+    symptoms_list = symptoms_list[args.offset+1:args.offset+1+args.nterms]# add 1 for header
     raw_data={state:[] for state in states_list}
     n_symptoms=len(symptoms_list)
     start_index=0
-
     #Start collecting data. For each keyword...
-    for index in range(start_index, n_symptoms,args.terms_per_call):
+    for index in range(start_index, n_symptoms, args.terms_per_call):
         #If reach end of list
         if n_symptoms - index < args.terms_per_call-1:
             symptoms = symptoms_list[index:]
