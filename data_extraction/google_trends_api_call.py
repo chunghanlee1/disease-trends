@@ -44,10 +44,11 @@ def parse_args():
         '--terms_per_call',
         type=int,
         default=4,
-        help='Number of terms to process',
+        help='Number of terms to process per call. MAX allowed by google API is 4',
     )
-
-    return parser.parse_args()
+    args = parser.parse_args()
+    assert args.terms_per_call <=4, "Google's API limits terms per call to 4"
+    return args
 
 def main():
     args = parse_args()
