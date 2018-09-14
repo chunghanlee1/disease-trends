@@ -104,7 +104,7 @@ def main():
     #Check to make sure we can combine the data frame. If not, then we need to save each dataframe in the list separately
     if sum([not d.shape==data_aggregated_by_state[0].shape for d in data_aggregated_by_state]) == 0:
         final_df = pd.concat(data_aggregated_by_state, axis=0)
-        final_df.to_csv('.'.join(['data',str(args.offset),'-',str(args.nterms-1), 'csv']), sep=',', encoding='utf-8')
+        final_df.to_csv('parts/'+'.'.join(['data',str(args.offset)+'-'+str(args.nterms-1), 'csv']), sep=',', encoding='utf-8')
     
 if(__name__=='__main__'):
     main()
