@@ -24,11 +24,6 @@ def parse_args():
     from argparse import ArgumentParser, FileType
     parser = ArgumentParser(description='Calculate p-values for pairs of terms')
     parser.add_argument(
-        'symptoms',
-        type=FileType('r'),
-        help='Tab delimited file. First column is the symptom descriptor',
-    )
-    parser.add_argument(
         '--offset',
         type=int,
         default=0,
@@ -45,6 +40,16 @@ def parse_args():
         type=int,
         default=4,
         help='Number of terms to process per call. MAX allowed by google API is 4',
+    )
+    parser.add_argument(
+        '--out_prefix',
+				default='data',
+        help='Tab delimited file. First column is the symptom descriptor',
+    )
+    parser.add_argument(
+        'symptoms',
+        type=FileType('r'),
+        help='Tab delimited file. First column is the symptom descriptor',
     )
     args = parser.parse_args()
     assert args.terms_per_call <=4, "Google's API limits terms per call to 4"
@@ -104,7 +109,7 @@ def main():
     #Check to make sure we can combine the data frame. If not, then we need to save each dataframe in the list separately
     if sum([not d.shape==data_aggregated_by_state[0].shape for d in data_aggregated_by_state]) == 0:
         final_df = pd.concat(data_aggregated_by_state, axis=0)
-        final_df.to_csv('parts/'+'.'.join(['data',str(args.offset)+'-'+str(args.nterms-1), 'csv']), sep=',', encoding='utf-8')
+        final_df.to_csv('parts/'+'.'.join([args.out_prefix,str(args.offset)+'-'+str(args.nterms-1), 'csv']), sep=',', encoding='utf-8')
     
 if(__name__=='__main__'):
     main()
