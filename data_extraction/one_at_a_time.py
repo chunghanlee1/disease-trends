@@ -38,12 +38,6 @@ def parse_args():
         help='Number of terms to process',
     )
     parser.add_argument(
-        '--terms_per_call',
-        type=int,
-        default=4,
-        help='Number of terms to process per call. MAX allowed by google API is 4',
-    )
-    parser.add_argument(
         '--out_prefix',
         default='data',
         help='Tab delimited file. First column is the symptom descriptor',
@@ -54,7 +48,6 @@ def parse_args():
         help='Tab delimited file. First column is the symptom descriptor',
     )
     args = parser.parse_args()
-    assert args.terms_per_call <=4, "Google's API limits terms per call to 4"
     return args
 
 def main():
