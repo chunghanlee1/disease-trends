@@ -55,8 +55,8 @@ def main():
     # Login to Google. Only need to run this once, the rest of requests will use the same session.
     pytrend = TrendReq()
     symptoms_list = [r.strip().split('\t')[0] for r in args.symptoms]
-    symptoms_list = symptoms_list[args.offset+1:args.offset+1+args.nterms]# add 1 for header
-    with open(args.out_prefix+'.trends.tsv', 'w') as fh:
+    symptoms_list = symptoms_list[args.offset+1:args.offset+1+args.nterms]
+    with open('parts/'+'.'.join([args.out_prefix, str(args.offset), str(args.offset+args.nterms-1),'tsv']), 'w') as fh:
         for symptom in symptoms_list:
             #For each state, fetch data...
             for state in states_list:
