@@ -61,14 +61,20 @@ def main():
             #For each state, fetch data...
             for state in states_list:
                 # Need to extract data relative to a baseline. Here we use "cough"
-                pytrend.build_payload(kw_list=[symptom], timeframe= 'all', geo='US-'+state)
+                while True:
+                    try:
+                        pytrend.build_payload(kw_list=[symptom], timeframe= 'all', geo='US-'+state)
+                        time.sleep(np.random.randint(45,65))
+                        break
+                    except:
+                        print('Try again for {},{}'.format(state, symptom))
+                        time.sleep(np.random.randint(45,65))
+                        continue
                 interest_over_time_df = pytrend.interest_over_time()
                 interest_over_time_df['state']=state
                 interest_over_time_df['symptom']=symptom
                 interest_over_time_df.to_csv(fh, sep=',', encoding='utf-8')
                 print('Downloaded data for State: {}, Symptom: {}'.format(state, symptom))
-                time.sleep(np.random.randint(45,65))
-
           
 if(__name__=='__main__'):
     main()
