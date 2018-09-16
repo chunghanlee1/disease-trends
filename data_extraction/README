@@ -1,0 +1,8 @@
+#Run the following to combine the files in "parts".
+#Output is "combined.tsv" and a "summary.tsv" file.
+./combine.py research/ncomms5212-s3.txt > summary.tsv
+#Then run the following to extract the ones to redo
+grep NoData summary.tsv > no_data.tsv
+split no_data.tsv parts/nodata.
+./redo.py --out parts/redo.aa.tsv --to_redo parts/nodata.aa
+
