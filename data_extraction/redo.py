@@ -11,6 +11,7 @@ from pytrends.exceptions import ResponseError
 import time
 from csv import DictReader, DictWriter
 from random import randint
+import re
 
 #Initiate data & variables
 states_list = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DC", "DE", "FL", "GA", 
@@ -45,15 +46,17 @@ def main():
     reader = DictReader(args.to_redo, fieldnames=['symptom', 'state', 'status'], delimiter='\t')
     for row in reader:
         symptom = row['symptom']
+        symptom = re.sub('[^0-9a-zA-Z]+', ' ', symptom)
         state = row['state']
         print(symptom,state)
         #For each state, fetch data...
         # Need to extract data relative to a baseline. Here we use "cough"
-        while True:
+        for i in range(5):
             try:
                 pytrend.build_payload(kw_list=[symptom], timeframe= 'all', geo='US-'+state)
                 interest_over_time_df = pytrend.interest_over_time()
                 if 'date' not in interest_over_time_df:
+                    time.sleep(randint(20,30))
                     continue
                 interest_over_time_df['state']=state
                 interest_over_time_df['symptom']=symptom
