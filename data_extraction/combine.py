@@ -54,7 +54,7 @@ def main():
     symptom_list = [r.strip().split('\t')[0] for r in args.symptoms][1:]
     symptoms_dict={s:{st:[] for st in states} for s in symptom_list}
     symptoms=[]
-    for path in glob('parts/data*tsv'):
+    for path in glob('parts/*tsv'):
         symptoms.append(parse_symptoms(path, symptoms_dict))
     writer = DictWriter(args.out, fieldnames=fieldnames)
     writer.writeheader()

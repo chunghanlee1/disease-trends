@@ -60,7 +60,7 @@ def main():
                     continue
                 interest_over_time_df['state']=state
                 interest_over_time_df['symptom']=symptom
-                interest_over_time_df.to_csv(fh, sep=',', encoding='utf-8')
+                interest_over_time_df.to_csv(args.out, sep=',', encoding='utf-8')
                 print('Downloaded data for State: {}, Symptom: {}'.format(state, symptom))
                 time.sleep(randint(40,55))
                 break
