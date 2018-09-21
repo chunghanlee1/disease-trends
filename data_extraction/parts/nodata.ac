@@ -1,3 +1,483 @@
+a
+Vocal Cord Paralysis	MI	NoData
+Vocal Cord Paralysis	MN	NoData
+Vocal Cord Paralysis	MS	NoData
+Vocal Cord Paralysis	MO	NoData
+Vocal Cord Paralysis	MT	NoData
+Vocal Cord Paralysis	NE	NoData
+Vocal Cord Paralysis	NV	NoData
+Vocal Cord Paralysis	NH	NoData
+Vocal Cord Paralysis	NM	NoData
+Vocal Cord Paralysis	NC	NoData
+Vocal Cord Paralysis	ND	NoData
+Vocal Cord Paralysis	OH	NoData
+Vocal Cord Paralysis	OK	NoData
+Vocal Cord Paralysis	OR	NoData
+Vocal Cord Paralysis	RI	NoData
+Vocal Cord Paralysis	SC	NoData
+Vocal Cord Paralysis	SD	NoData
+Vocal Cord Paralysis	TN	NoData
+Vocal Cord Paralysis	UT	NoData
+Vocal Cord Paralysis	VT	NoData
+Vocal Cord Paralysis	VA	NoData
+Vocal Cord Paralysis	WA	NoData
+Vocal Cord Paralysis	WV	NoData
+Vocal Cord Paralysis	WI	NoData
+Vocal Cord Paralysis	WY	NoData
+Myoclonus	AK	NoData
+Myoclonus	MT	NoData
+Myoclonus	ND	NoData
+Myoclonus	VT	NoData
+Myoclonus	WY	NoData
+Facial Pain	AK	NoData
+Facial Pain	AR	NoData
+Facial Pain	DC	NoData
+Facial Pain	DE	NoData
+Facial Pain	HI	NoData
+Facial Pain	ID	NoData
+Facial Pain	IA	NoData
+Facial Pain	ME	NoData
+Facial Pain	MS	NoData
+Facial Pain	MT	NoData
+Facial Pain	NE	NoData
+Facial Pain	NV	NoData
+Facial Pain	NH	NoData
+Facial Pain	NM	NoData
+Facial Pain	ND	NoData
+Facial Pain	RI	NoData
+Facial Pain	SD	NoData
+Facial Pain	VT	NoData
+Facial Pain	WV	NoData
+Facial Pain	WY	NoData
+Reflex, Abnormal	AL	NoData
+Reflex, Abnormal	AK	NoData
+Reflex, Abnormal	AZ	NoData
+Reflex, Abnormal	AR	NoData
+Reflex, Abnormal	CA	NoData
+Reflex, Abnormal	CO	NoData
+Reflex, Abnormal	CT	NoData
+Reflex, Abnormal	DC	NoData
+Reflex, Abnormal	DE	NoData
+Reflex, Abnormal	FL	NoData
+Reflex, Abnormal	GA	NoData
+Reflex, Abnormal	HI	NoData
+Reflex, Abnormal	ID	NoData
+Reflex, Abnormal	IL	NoData
+Reflex, Abnormal	IN	NoData
+Reflex, Abnormal	IA	NoData
+Reflex, Abnormal	KS	NoData
+Reflex, Abnormal	KY	NoData
+Reflex, Abnormal	LA	NoData
+Reflex, Abnormal	ME	NoData
+Reflex, Abnormal	MD	NoData
+Reflex, Abnormal	MA	NoData
+Reflex, Abnormal	MI	NoData
+Reflex, Abnormal	MN	NoData
+Reflex, Abnormal	MS	NoData
+Reflex, Abnormal	MO	NoData
+Reflex, Abnormal	MT	NoData
+Reflex, Abnormal	NE	NoData
+Reflex, Abnormal	NV	NoData
+Reflex, Abnormal	NH	NoData
+Reflex, Abnormal	NJ	NoData
+Reflex, Abnormal	NM	NoData
+Reflex, Abnormal	NY	NoData
+Reflex, Abnormal	NC	NoData
+Reflex, Abnormal	ND	NoData
+Reflex, Abnormal	OH	NoData
+Reflex, Abnormal	OK	NoData
+Reflex, Abnormal	OR	NoData
+Reflex, Abnormal	PA	NoData
+Reflex, Abnormal	RI	NoData
+Reflex, Abnormal	SC	NoData
+Reflex, Abnormal	SD	NoData
+Reflex, Abnormal	TN	NoData
+Reflex, Abnormal	TX	NoData
+Reflex, Abnormal	UT	NoData
+Reflex, Abnormal	VT	NoData
+Reflex, Abnormal	VA	NoData
+Reflex, Abnormal	WA	NoData
+Reflex, Abnormal	WV	NoData
+Reflex, Abnormal	WI	NoData
+Reflex, Abnormal	WY	NoData
+Acute Coronary Syndrome	AL	NoData
+Acute Coronary Syndrome	AK	NoData
+Acute Coronary Syndrome	AR	NoData
+Acute Coronary Syndrome	DC	NoData
+Acute Coronary Syndrome	DE	NoData
+Acute Coronary Syndrome	HI	NoData
+Acute Coronary Syndrome	ID	NoData
+Acute Coronary Syndrome	IA	NoData
+Acute Coronary Syndrome	KS	NoData
+Acute Coronary Syndrome	KY	NoData
+Acute Coronary Syndrome	LA	NoData
+Acute Coronary Syndrome	ME	NoData
+Acute Coronary Syndrome	MS	NoData
+Acute Coronary Syndrome	MT	NoData
+Acute Coronary Syndrome	NE	NoData
+Acute Coronary Syndrome	NV	NoData
+Acute Coronary Syndrome	NH	NoData
+Acute Coronary Syndrome	NM	NoData
+Acute Coronary Syndrome	ND	NoData
+Acute Coronary Syndrome	OK	NoData
+Acute Coronary Syndrome	RI	NoData
+Acute Coronary Syndrome	SD	NoData
+Acute Coronary Syndrome	UT	NoData
+Acute Coronary Syndrome	VT	NoData
+Acute Coronary Syndrome	WV	NoData
+Acute Coronary Syndrome	WY	NoData
+Paresis	AK	NoData
+Paresis	DE	NoData
+Paresis	HI	NoData
+Paresis	ID	NoData
+Paresis	MT	NoData
+Paresis	NH	NoData
+Paresis	ND	NoData
+Paresis	RI	NoData
+Paresis	VT	NoData
+Paresis	WY	NoData
+Voice Disorders	AL	NoData
+Voice Disorders	AK	NoData
+Voice Disorders	AZ	NoData
+Voice Disorders	AR	NoData
+Voice Disorders	CA	NoData
+Voice Disorders	CO	NoData
+Voice Disorders	CT	NoData
+Voice Disorders	DC	NoData
+Voice Disorders	DE	NoData
+Voice Disorders	FL	NoData
+Voice Disorders	GA	NoData
+Voice Disorders	HI	NoData
+Voice Disorders	ID	NoData
+Voice Disorders	IL	NoData
+Voice Disorders	IN	NoData
+Voice Disorders	IA	NoData
+Voice Disorders	KS	NoData
+Voice Disorders	KY	NoData
+Voice Disorders	LA	NoData
+Voice Disorders	ME	NoData
+Voice Disorders	MD	NoData
+Voice Disorders	MA	NoData
+Voice Disorders	MI	NoData
+Voice Disorders	MN	NoData
+Voice Disorders	MS	NoData
+Voice Disorders	MO	NoData
+Voice Disorders	MT	NoData
+Voice Disorders	NE	NoData
+Voice Disorders	NV	NoData
+Voice Disorders	NH	NoData
+Voice Disorders	NJ	NoData
+Voice Disorders	NM	NoData
+Voice Disorders	NC	NoData
+Voice Disorders	ND	NoData
+Voice Disorders	OH	NoData
+Voice Disorders	OK	NoData
+Voice Disorders	OR	NoData
+Voice Disorders	PA	NoData
+Voice Disorders	RI	NoData
+Voice Disorders	SC	NoData
+Voice Disorders	SD	NoData
+Voice Disorders	TN	NoData
+Voice Disorders	UT	NoData
+Voice Disorders	VT	NoData
+Voice Disorders	VA	NoData
+Voice Disorders	WA	NoData
+Voice Disorders	WV	NoData
+Voice Disorders	WI	NoData
+Voice Disorders	WY	NoData
+Language Development Disorders	AL	NoData
+Language Development Disorders	AK	NoData
+Language Development Disorders	AZ	NoData
+Language Development Disorders	AR	NoData
+Language Development Disorders	CA	NoData
+Language Development Disorders	CO	NoData
+Language Development Disorders	CT	NoData
+Language Development Disorders	DC	NoData
+Language Development Disorders	DE	NoData
+Language Development Disorders	FL	NoData
+Language Development Disorders	GA	NoData
+Language Development Disorders	HI	NoData
+Language Development Disorders	ID	NoData
+Language Development Disorders	IL	NoData
+Language Development Disorders	IN	NoData
+Language Development Disorders	IA	NoData
+Language Development Disorders	KS	NoData
+Language Development Disorders	KY	NoData
+Language Development Disorders	LA	NoData
+Language Development Disorders	ME	NoData
+Language Development Disorders	MD	NoData
+Language Development Disorders	MA	NoData
+Language Development Disorders	MI	NoData
+Language Development Disorders	MN	NoData
+Language Development Disorders	MS	NoData
+Language Development Disorders	MO	NoData
+Language Development Disorders	MT	NoData
+Language Development Disorders	NE	NoData
+Language Development Disorders	NV	NoData
+Language Development Disorders	NH	NoData
+Language Development Disorders	NJ	NoData
+Language Development Disorders	NM	NoData
+Language Development Disorders	NY	NoData
+Language Development Disorders	NC	NoData
+Language Development Disorders	ND	NoData
+Language Development Disorders	OH	NoData
+Language Development Disorders	OK	NoData
+Language Development Disorders	OR	NoData
+Language Development Disorders	PA	NoData
+Language Development Disorders	RI	NoData
+Language Development Disorders	SC	NoData
+Language Development Disorders	SD	NoData
+Language Development Disorders	TN	NoData
+Language Development Disorders	TX	NoData
+Language Development Disorders	UT	NoData
+Language Development Disorders	VT	NoData
+Language Development Disorders	VA	NoData
+Language Development Disorders	WA	NoData
+Language Development Disorders	WV	NoData
+Language Development Disorders	WI	NoData
+Language Development Disorders	WY	NoData
+Purpura, Thrombocytopenic, Idiopathic	AL	NoData
+Purpura, Thrombocytopenic, Idiopathic	AK	NoData
+Purpura, Thrombocytopenic, Idiopathic	AZ	NoData
+Purpura, Thrombocytopenic, Idiopathic	AR	NoData
+Purpura, Thrombocytopenic, Idiopathic	CA	NoData
+Purpura, Thrombocytopenic, Idiopathic	CO	NoData
+Purpura, Thrombocytopenic, Idiopathic	CT	NoData
+Purpura, Thrombocytopenic, Idiopathic	DC	NoData
+Purpura, Thrombocytopenic, Idiopathic	DE	NoData
+Purpura, Thrombocytopenic, Idiopathic	FL	NoData
+Purpura, Thrombocytopenic, Idiopathic	GA	NoData
+Purpura, Thrombocytopenic, Idiopathic	HI	NoData
+Purpura, Thrombocytopenic, Idiopathic	ID	NoData
+Purpura, Thrombocytopenic, Idiopathic	IL	NoData
+Purpura, Thrombocytopenic, Idiopathic	IN	NoData
+Purpura, Thrombocytopenic, Idiopathic	IA	NoData
+Purpura, Thrombocytopenic, Idiopathic	KS	NoData
+Purpura, Thrombocytopenic, Idiopathic	KY	NoData
+Purpura, Thrombocytopenic, Idiopathic	LA	NoData
+Purpura, Thrombocytopenic, Idiopathic	ME	NoData
+Purpura, Thrombocytopenic, Idiopathic	MD	NoData
+Purpura, Thrombocytopenic, Idiopathic	MA	NoData
+Purpura, Thrombocytopenic, Idiopathic	MI	NoData
+Purpura, Thrombocytopenic, Idiopathic	MN	NoData
+Purpura, Thrombocytopenic, Idiopathic	MS	NoData
+Purpura, Thrombocytopenic, Idiopathic	MO	NoData
+Purpura, Thrombocytopenic, Idiopathic	MT	NoData
+Purpura, Thrombocytopenic, Idiopathic	NE	NoData
+Purpura, Thrombocytopenic, Idiopathic	NV	NoData
+Purpura, Thrombocytopenic, Idiopathic	NH	NoData
+Purpura, Thrombocytopenic, Idiopathic	NJ	NoData
+Purpura, Thrombocytopenic, Idiopathic	NM	NoData
+Purpura, Thrombocytopenic, Idiopathic	NY	NoData
+Purpura, Thrombocytopenic, Idiopathic	NC	NoData
+Purpura, Thrombocytopenic, Idiopathic	ND	NoData
+Purpura, Thrombocytopenic, Idiopathic	OH	NoData
+Purpura, Thrombocytopenic, Idiopathic	OK	NoData
+Purpura, Thrombocytopenic, Idiopathic	OR	NoData
+Purpura, Thrombocytopenic, Idiopathic	PA	NoData
+Purpura, Thrombocytopenic, Idiopathic	RI	NoData
+Purpura, Thrombocytopenic, Idiopathic	SC	NoData
+Purpura, Thrombocytopenic, Idiopathic	SD	NoData
+Purpura, Thrombocytopenic, Idiopathic	TN	NoData
+Purpura, Thrombocytopenic, Idiopathic	TX	NoData
+Purpura, Thrombocytopenic, Idiopathic	UT	NoData
+Purpura, Thrombocytopenic, Idiopathic	VT	NoData
+Purpura, Thrombocytopenic, Idiopathic	VA	NoData
+Purpura, Thrombocytopenic, Idiopathic	WA	NoData
+Purpura, Thrombocytopenic, Idiopathic	WV	NoData
+Purpura, Thrombocytopenic, Idiopathic	WI	NoData
+Purpura, Thrombocytopenic, Idiopathic	WY	NoData
+Diplopia	AK	NoData
+Diplopia	VT	NoData
+Diplopia	WY	NoData
+Cyanosis	VT	NoData
+Arthralgia	AK	NoData
+Arthralgia	MT	NoData
+Arthralgia	ND	NoData
+Arthralgia	SD	NoData
+Arthralgia	VT	NoData
+Arthralgia	WY	NoData
+Hyperkinesis	AL	NoData
+Hyperkinesis	AK	NoData
+Hyperkinesis	AZ	NoData
+Hyperkinesis	AR	NoData
+Hyperkinesis	CO	NoData
+Hyperkinesis	CT	NoData
+Hyperkinesis	DC	NoData
+Hyperkinesis	DE	NoData
+Hyperkinesis	GA	NoData
+Hyperkinesis	HI	NoData
+Hyperkinesis	ID	NoData
+Hyperkinesis	IN	NoData
+Hyperkinesis	IA	NoData
+Hyperkinesis	KS	NoData
+Hyperkinesis	KY	NoData
+Hyperkinesis	LA	NoData
+Hyperkinesis	ME	NoData
+Hyperkinesis	MD	NoData
+Hyperkinesis	MA	NoData
+Hyperkinesis	MN	NoData
+Hyperkinesis	MS	NoData
+Hyperkinesis	MO	NoData
+Hyperkinesis	MT	NoData
+Hyperkinesis	NE	NoData
+Hyperkinesis	NV	NoData
+Hyperkinesis	NH	NoData
+Hyperkinesis	NJ	NoData
+Hyperkinesis	NM	NoData
+Hyperkinesis	NC	NoData
+Hyperkinesis	ND	NoData
+Hyperkinesis	OH	NoData
+Hyperkinesis	OK	NoData
+Hyperkinesis	OR	NoData
+Hyperkinesis	RI	NoData
+Hyperkinesis	SC	NoData
+Hyperkinesis	SD	NoData
+Hyperkinesis	TN	NoData
+Hyperkinesis	UT	NoData
+Hyperkinesis	VT	NoData
+Hyperkinesis	VA	NoData
+Hyperkinesis	WA	NoData
+Hyperkinesis	WV	NoData
+Hyperkinesis	WI	NoData
+Hyperkinesis	WY	NoData
+Color Vision Defects	AL	NoData
+Color Vision Defects	AK	NoData
+Color Vision Defects	AZ	NoData
+Color Vision Defects	AR	NoData
+Color Vision Defects	CA	NoData
+Color Vision Defects	CO	NoData
+Color Vision Defects	CT	NoData
+Color Vision Defects	DC	NoData
+Color Vision Defects	DE	NoData
+Color Vision Defects	FL	NoData
+Color Vision Defects	GA	NoData
+Color Vision Defects	HI	NoData
+Color Vision Defects	ID	NoData
+Color Vision Defects	IL	NoData
+Color Vision Defects	IN	NoData
+Color Vision Defects	IA	NoData
+Color Vision Defects	KS	NoData
+Color Vision Defects	KY	NoData
+Color Vision Defects	LA	NoData
+Color Vision Defects	ME	NoData
+Color Vision Defects	MD	NoData
+Color Vision Defects	MA	NoData
+Color Vision Defects	MI	NoData
+Color Vision Defects	MN	NoData
+Color Vision Defects	MS	NoData
+Color Vision Defects	MO	NoData
+Color Vision Defects	MT	NoData
+Color Vision Defects	NE	NoData
+Color Vision Defects	NV	NoData
+Color Vision Defects	NH	NoData
+Color Vision Defects	NJ	NoData
+Color Vision Defects	NM	NoData
+Color Vision Defects	NY	NoData
+Color Vision Defects	NC	NoData
+Color Vision Defects	ND	NoData
+Color Vision Defects	OH	NoData
+Color Vision Defects	OK	NoData
+Color Vision Defects	OR	NoData
+Color Vision Defects	PA	NoData
+Color Vision Defects	RI	NoData
+Color Vision Defects	SC	NoData
+Color Vision Defects	SD	NoData
+Color Vision Defects	TN	NoData
+Color Vision Defects	TX	NoData
+Color Vision Defects	UT	NoData
+Color Vision Defects	VT	NoData
+Color Vision Defects	VA	NoData
+Color Vision Defects	WA	NoData
+Color Vision Defects	WV	NoData
+Color Vision Defects	WI	NoData
+Color Vision Defects	WY	NoData
+Cachexia	AK	NoData
+Cachexia	DE	NoData
+Cachexia	WY	NoData
+Chorea	AK	NoData
+Chorea	WY	NoData
+Unconsciousness	AK	NoData
+Unconsciousness	AR	NoData
+Unconsciousness	DC	NoData
+Unconsciousness	DE	NoData
+Unconsciousness	HI	NoData
+Unconsciousness	ID	NoData
+Unconsciousness	IA	NoData
+Unconsciousness	LA	NoData
+Unconsciousness	ME	NoData
+Unconsciousness	MS	NoData
+Unconsciousness	MT	NoData
+Unconsciousness	NE	NoData
+Unconsciousness	NH	NoData
+Unconsciousness	NM	NoData
+Unconsciousness	ND	NoData
+Unconsciousness	OK	NoData
+Unconsciousness	RI	NoData
+Unconsciousness	SC	NoData
+Unconsciousness	SD	NoData
+Unconsciousness	UT	NoData
+Unconsciousness	VT	NoData
+Unconsciousness	WV	NoData
+Unconsciousness	WY	NoData
+Purpura, Thrombotic Thrombocytopenic	AL	NoData
+Purpura, Thrombotic Thrombocytopenic	AK	NoData
+Purpura, Thrombotic Thrombocytopenic	AZ	NoData
+Purpura, Thrombotic Thrombocytopenic	AR	NoData
+Purpura, Thrombotic Thrombocytopenic	CA	NoData
+Purpura, Thrombotic Thrombocytopenic	CO	NoData
+Purpura, Thrombotic Thrombocytopenic	CT	NoData
+Purpura, Thrombotic Thrombocytopenic	DC	NoData
+Purpura, Thrombotic Thrombocytopenic	DE	NoData
+Purpura, Thrombotic Thrombocytopenic	FL	NoData
+Purpura, Thrombotic Thrombocytopenic	GA	NoData
+Purpura, Thrombotic Thrombocytopenic	HI	NoData
+Purpura, Thrombotic Thrombocytopenic	ID	NoData
+Purpura, Thrombotic Thrombocytopenic	IL	NoData
+Purpura, Thrombotic Thrombocytopenic	IN	NoData
+Purpura, Thrombotic Thrombocytopenic	IA	NoData
+Purpura, Thrombotic Thrombocytopenic	KS	NoData
+Purpura, Thrombotic Thrombocytopenic	KY	NoData
+Purpura, Thrombotic Thrombocytopenic	LA	NoData
+Purpura, Thrombotic Thrombocytopenic	ME	NoData
+Purpura, Thrombotic Thrombocytopenic	MD	NoData
+Purpura, Thrombotic Thrombocytopenic	MA	NoData
+Purpura, Thrombotic Thrombocytopenic	MI	NoData
+Purpura, Thrombotic Thrombocytopenic	MN	NoData
+Purpura, Thrombotic Thrombocytopenic	MS	NoData
+Purpura, Thrombotic Thrombocytopenic	MO	NoData
+Purpura, Thrombotic Thrombocytopenic	MT	NoData
+Purpura, Thrombotic Thrombocytopenic	NE	NoData
+Purpura, Thrombotic Thrombocytopenic	NV	NoData
+Purpura, Thrombotic Thrombocytopenic	NH	NoData
+Purpura, Thrombotic Thrombocytopenic	NJ	NoData
+Purpura, Thrombotic Thrombocytopenic	NM	NoData
+Purpura, Thrombotic Thrombocytopenic	NY	NoData
+Purpura, Thrombotic Thrombocytopenic	NC	NoData
+Purpura, Thrombotic Thrombocytopenic	ND	NoData
+Purpura, Thrombotic Thrombocytopenic	OH	NoData
+Purpura, Thrombotic Thrombocytopenic	OK	NoData
+Purpura, Thrombotic Thrombocytopenic	OR	NoData
+Purpura, Thrombotic Thrombocytopenic	PA	NoData
+Purpura, Thrombotic Thrombocytopenic	RI	NoData
+Purpura, Thrombotic Thrombocytopenic	SC	NoData
+Purpura, Thrombotic Thrombocytopenic	SD	NoData
+Purpura, Thrombotic Thrombocytopenic	TN	NoData
+Purpura, Thrombotic Thrombocytopenic	TX	NoData
+Purpura, Thrombotic Thrombocytopenic	UT	NoData
+Purpura, Thrombotic Thrombocytopenic	VT	NoData
+Purpura, Thrombotic Thrombocytopenic	VA	NoData
+Purpura, Thrombotic Thrombocytopenic	WA	NoData
+Purpura, Thrombotic Thrombocytopenic	WV	NoData
+Purpura, Thrombotic Thrombocytopenic	WI	NoData
+Purpura, Thrombotic Thrombocytopenic	WY	NoData
+Fever of Unknown Origin	AL	NoData
+Fever of Unknown Origin	AK	NoData
+Fever of Unknown Origin	AZ	NoData
+Fever of Unknown Origin	AR	NoData
+Fever of Unknown Origin	CO	NoData
+Fever of Unknown Origin	CT	NoData
+Fever of Unknown Origin	DC	NoData
 Fever of Unknown Origin	DE	NoData
 Fever of Unknown Origin	FL	NoData
 Fever of Unknown Origin	GA	NoData
@@ -217,784 +697,4 @@ Purpura, Schoenlein-Henoch	WA	NoData
 Purpura, Schoenlein-Henoch	WV	NoData
 Purpura, Schoenlein-Henoch	WI	NoData
 Purpura, Schoenlein-Henoch	WY	NoData
-Hirsutism	AK	NoData
-Hirsutism	MT	NoData
-Hirsutism	ND	NoData
-Hirsutism	VT	NoData
-Hirsutism	WY	NoData
-Eye Manifestations	AL	NoData
-Eye Manifestations	AK	NoData
-Eye Manifestations	AZ	NoData
-Eye Manifestations	AR	NoData
-Eye Manifestations	CA	NoData
-Eye Manifestations	CO	NoData
-Eye Manifestations	CT	NoData
-Eye Manifestations	DC	NoData
-Eye Manifestations	DE	NoData
-Eye Manifestations	FL	NoData
-Eye Manifestations	GA	NoData
-Eye Manifestations	HI	NoData
-Eye Manifestations	ID	NoData
-Eye Manifestations	IL	NoData
-Eye Manifestations	IN	NoData
-Eye Manifestations	IA	NoData
-Eye Manifestations	KS	NoData
-Eye Manifestations	KY	NoData
-Eye Manifestations	LA	NoData
-Eye Manifestations	ME	NoData
-Eye Manifestations	MD	NoData
-Eye Manifestations	MA	NoData
-Eye Manifestations	MI	NoData
-Eye Manifestations	MN	NoData
-Eye Manifestations	MS	NoData
-Eye Manifestations	MO	NoData
-Eye Manifestations	MT	NoData
-Eye Manifestations	NE	NoData
-Eye Manifestations	NV	NoData
-Eye Manifestations	NH	NoData
-Eye Manifestations	NJ	NoData
-Eye Manifestations	NM	NoData
-Eye Manifestations	NY	NoData
-Eye Manifestations	NC	NoData
-Eye Manifestations	ND	NoData
-Eye Manifestations	OH	NoData
-Eye Manifestations	OK	NoData
-Eye Manifestations	OR	NoData
-Eye Manifestations	PA	NoData
-Eye Manifestations	RI	NoData
-Eye Manifestations	SC	NoData
-Eye Manifestations	SD	NoData
-Eye Manifestations	TN	NoData
-Eye Manifestations	TX	NoData
-Eye Manifestations	UT	NoData
-Eye Manifestations	VT	NoData
-Eye Manifestations	VA	NoData
-Eye Manifestations	WA	NoData
-Eye Manifestations	WV	NoData
-Eye Manifestations	WI	NoData
-Eye Manifestations	WY	NoData
-Psychomotor Agitation	AL	NoData
-Psychomotor Agitation	AK	NoData
-Psychomotor Agitation	AZ	NoData
-Psychomotor Agitation	AR	NoData
-Psychomotor Agitation	CO	NoData
-Psychomotor Agitation	CT	NoData
-Psychomotor Agitation	DC	NoData
-Psychomotor Agitation	DE	NoData
-Psychomotor Agitation	HI	NoData
-Psychomotor Agitation	ID	NoData
-Psychomotor Agitation	IN	NoData
-Psychomotor Agitation	IA	NoData
-Psychomotor Agitation	KS	NoData
-Psychomotor Agitation	KY	NoData
-Psychomotor Agitation	LA	NoData
-Psychomotor Agitation	ME	NoData
-Psychomotor Agitation	MD	NoData
-Psychomotor Agitation	MN	NoData
-Psychomotor Agitation	MS	NoData
-Psychomotor Agitation	MO	NoData
-Psychomotor Agitation	MT	NoData
-Psychomotor Agitation	NE	NoData
-Psychomotor Agitation	NV	NoData
-Psychomotor Agitation	NH	NoData
-Psychomotor Agitation	NJ	NoData
-Psychomotor Agitation	NM	NoData
-Psychomotor Agitation	ND	NoData
-Psychomotor Agitation	OK	NoData
-Psychomotor Agitation	OR	NoData
-Psychomotor Agitation	RI	NoData
-Psychomotor Agitation	SC	NoData
-Psychomotor Agitation	SD	NoData
-Psychomotor Agitation	TN	NoData
-Psychomotor Agitation	UT	NoData
-Psychomotor Agitation	VT	NoData
-Psychomotor Agitation	VA	NoData
-Psychomotor Agitation	WA	NoData
-Psychomotor Agitation	WV	NoData
-Psychomotor Agitation	WI	NoData
-Psychomotor Agitation	WY	NoData
-Dysmenorrhea	VT	NoData
-Fetal Distress	AL	NoData
-Fetal Distress	AK	NoData
-Fetal Distress	AZ	NoData
-Fetal Distress	AR	NoData
-Fetal Distress	CO	NoData
-Fetal Distress	CT	NoData
-Fetal Distress	DC	NoData
-Fetal Distress	DE	NoData
-Fetal Distress	FL	NoData
-Fetal Distress	GA	NoData
-Fetal Distress	HI	NoData
-Fetal Distress	ID	NoData
-Fetal Distress	IL	NoData
-Fetal Distress	IN	NoData
-Fetal Distress	IA	NoData
-Fetal Distress	KS	NoData
-Fetal Distress	KY	NoData
-Fetal Distress	LA	NoData
-Fetal Distress	ME	NoData
-Fetal Distress	MD	NoData
-Fetal Distress	MA	NoData
-Fetal Distress	MI	NoData
-Fetal Distress	MN	NoData
-Fetal Distress	MS	NoData
-Fetal Distress	MO	NoData
-Fetal Distress	MT	NoData
-Fetal Distress	NE	NoData
-Fetal Distress	NV	NoData
-Fetal Distress	NH	NoData
-Fetal Distress	NJ	NoData
-Fetal Distress	NM	NoData
-Fetal Distress	NC	NoData
-Fetal Distress	ND	NoData
-Fetal Distress	OH	NoData
-Fetal Distress	OK	NoData
-Fetal Distress	OR	NoData
-Fetal Distress	PA	NoData
-Fetal Distress	RI	NoData
-Fetal Distress	SC	NoData
-Fetal Distress	SD	NoData
-Fetal Distress	TN	NoData
-Fetal Distress	UT	NoData
-Fetal Distress	VT	NoData
-Fetal Distress	VA	NoData
-Fetal Distress	WA	NoData
-Fetal Distress	WV	NoData
-Fetal Distress	WI	NoData
-Fetal Distress	WY	NoData
-Heart Murmurs	AL	NoData
-Heart Murmurs	AK	NoData
-Heart Murmurs	AR	NoData
-Heart Murmurs	CO	NoData
-Heart Murmurs	DC	NoData
-Heart Murmurs	DE	NoData
-Heart Murmurs	HI	NoData
-Heart Murmurs	ID	NoData
-Heart Murmurs	IA	NoData
-Heart Murmurs	KS	NoData
-Heart Murmurs	KY	NoData
-Heart Murmurs	LA	NoData
-Heart Murmurs	ME	NoData
-Heart Murmurs	MN	NoData
-Heart Murmurs	MS	NoData
-Heart Murmurs	MO	NoData
-Heart Murmurs	MT	NoData
-Heart Murmurs	NE	NoData
-Heart Murmurs	NV	NoData
-Heart Murmurs	NH	NoData
-Heart Murmurs	NM	NoData
-Heart Murmurs	ND	NoData
-Heart Murmurs	OK	NoData
-Heart Murmurs	OR	NoData
-Heart Murmurs	RI	NoData
-Heart Murmurs	SC	NoData
-Heart Murmurs	SD	NoData
-Heart Murmurs	UT	NoData
-Heart Murmurs	VT	NoData
-Heart Murmurs	WV	NoData
-Heart Murmurs	WI	NoData
-Heart Murmurs	WY	NoData
-Torticollis	WY	NoData
-Skin Manifestations	AL	NoData
-Skin Manifestations	AK	NoData
-Skin Manifestations	AZ	NoData
-Skin Manifestations	AR	NoData
-Skin Manifestations	CA	NoData
-Skin Manifestations	CO	NoData
-Skin Manifestations	CT	NoData
-Skin Manifestations	DC	NoData
-Skin Manifestations	DE	NoData
-Skin Manifestations	FL	NoData
-Skin Manifestations	GA	NoData
-Skin Manifestations	HI	NoData
-Skin Manifestations	ID	NoData
-Skin Manifestations	IL	NoData
-Skin Manifestations	IN	NoData
-Skin Manifestations	IA	NoData
-Skin Manifestations	KS	NoData
-Skin Manifestations	KY	NoData
-Skin Manifestations	LA	NoData
-Skin Manifestations	ME	NoData
-Skin Manifestations	MD	NoData
-Skin Manifestations	MA	NoData
-Skin Manifestations	MI	NoData
-Skin Manifestations	MN	NoData
-Skin Manifestations	MS	NoData
-Skin Manifestations	MO	NoData
-Skin Manifestations	MT	NoData
-Skin Manifestations	NE	NoData
-Skin Manifestations	NV	NoData
-Skin Manifestations	NH	NoData
-Skin Manifestations	NJ	NoData
-Skin Manifestations	NM	NoData
-Skin Manifestations	NY	NoData
-Skin Manifestations	NC	NoData
-Skin Manifestations	ND	NoData
-Skin Manifestations	OH	NoData
-Skin Manifestations	OK	NoData
-Skin Manifestations	OR	NoData
-Skin Manifestations	PA	NoData
-Skin Manifestations	RI	NoData
-Skin Manifestations	SC	NoData
-Skin Manifestations	SD	NoData
-Skin Manifestations	TN	NoData
-Skin Manifestations	TX	NoData
-Skin Manifestations	UT	NoData
-Skin Manifestations	VT	NoData
-Skin Manifestations	VA	NoData
-Skin Manifestations	WA	NoData
-Skin Manifestations	WV	NoData
-Skin Manifestations	WI	NoData
-Skin Manifestations	WY	NoData
-Hearing Loss, Conductive	AL	NoData
-Hearing Loss, Conductive	AK	NoData
-Hearing Loss, Conductive	AZ	NoData
-Hearing Loss, Conductive	AR	NoData
-Hearing Loss, Conductive	CA	NoData
-Hearing Loss, Conductive	CO	NoData
-Hearing Loss, Conductive	CT	NoData
-Hearing Loss, Conductive	DC	NoData
-Hearing Loss, Conductive	DE	NoData
-Hearing Loss, Conductive	FL	NoData
-Hearing Loss, Conductive	GA	NoData
-Hearing Loss, Conductive	HI	NoData
-Hearing Loss, Conductive	ID	NoData
-Hearing Loss, Conductive	IL	NoData
-Hearing Loss, Conductive	IN	NoData
-Hearing Loss, Conductive	IA	NoData
-Hearing Loss, Conductive	KS	NoData
-Hearing Loss, Conductive	KY	NoData
-Hearing Loss, Conductive	LA	NoData
-Hearing Loss, Conductive	ME	NoData
-Hearing Loss, Conductive	MD	NoData
-Hearing Loss, Conductive	MA	NoData
-Hearing Loss, Conductive	MI	NoData
-Hearing Loss, Conductive	MN	NoData
-Hearing Loss, Conductive	MS	NoData
-Hearing Loss, Conductive	MO	NoData
-Hearing Loss, Conductive	MT	NoData
-Hearing Loss, Conductive	NE	NoData
-Hearing Loss, Conductive	NV	NoData
-Hearing Loss, Conductive	NH	NoData
-Hearing Loss, Conductive	NJ	NoData
-Hearing Loss, Conductive	NM	NoData
-Hearing Loss, Conductive	NY	NoData
-Hearing Loss, Conductive	NC	NoData
-Hearing Loss, Conductive	ND	NoData
-Hearing Loss, Conductive	OH	NoData
-Hearing Loss, Conductive	OK	NoData
-Hearing Loss, Conductive	OR	NoData
-Hearing Loss, Conductive	PA	NoData
-Hearing Loss, Conductive	RI	NoData
-Hearing Loss, Conductive	SC	NoData
-Hearing Loss, Conductive	SD	NoData
-Hearing Loss, Conductive	TN	NoData
-Hearing Loss, Conductive	TX	NoData
-Hearing Loss, Conductive	UT	NoData
-Hearing Loss, Conductive	VT	NoData
-Hearing Loss, Conductive	VA	NoData
-Hearing Loss, Conductive	WA	NoData
-Hearing Loss, Conductive	WV	NoData
-Hearing Loss, Conductive	WI	NoData
-Hearing Loss, Conductive	WY	NoData
-Thinness	AL	NoData
-Thinness	AK	NoData
-Thinness	AZ	NoData
-Thinness	CO	NoData
-Thinness	CT	NoData
-Thinness	DC	NoData
-Thinness	DE	NoData
-Thinness	HI	NoData
-Thinness	ID	NoData
-Thinness	IA	NoData
-Thinness	KS	NoData
-Thinness	KY	NoData
-Thinness	LA	NoData
-Thinness	ME	NoData
-Thinness	MD	NoData
-Thinness	MS	NoData
-Thinness	MT	NoData
-Thinness	NE	NoData
-Thinness	NV	NoData
-Thinness	NH	NoData
-Thinness	NM	NoData
-Thinness	ND	NoData
-Thinness	OK	NoData
-Thinness	OR	NoData
-Thinness	RI	NoData
-Thinness	SC	NoData
-Thinness	SD	NoData
-Thinness	TN	NoData
-Thinness	UT	NoData
-Thinness	VT	NoData
-Thinness	WV	NoData
-Thinness	WY	NoData
-Gait Disorders, Neurologic	AL	NoData
-Gait Disorders, Neurologic	AK	NoData
-Gait Disorders, Neurologic	AZ	NoData
-Gait Disorders, Neurologic	AR	NoData
-Gait Disorders, Neurologic	CA	NoData
-Gait Disorders, Neurologic	CO	NoData
-Gait Disorders, Neurologic	CT	NoData
-Gait Disorders, Neurologic	DC	NoData
-Gait Disorders, Neurologic	DE	NoData
-Gait Disorders, Neurologic	FL	NoData
-Gait Disorders, Neurologic	GA	NoData
-Gait Disorders, Neurologic	HI	NoData
-Gait Disorders, Neurologic	ID	NoData
-Gait Disorders, Neurologic	IL	NoData
-Gait Disorders, Neurologic	IN	NoData
-Gait Disorders, Neurologic	IA	NoData
-Gait Disorders, Neurologic	KS	NoData
-Gait Disorders, Neurologic	KY	NoData
-Gait Disorders, Neurologic	LA	NoData
-Gait Disorders, Neurologic	ME	NoData
-Gait Disorders, Neurologic	MD	NoData
-Gait Disorders, Neurologic	MA	NoData
-Gait Disorders, Neurologic	MI	NoData
-Gait Disorders, Neurologic	MN	NoData
-Gait Disorders, Neurologic	MS	NoData
-Gait Disorders, Neurologic	MO	NoData
-Gait Disorders, Neurologic	MT	NoData
-Gait Disorders, Neurologic	NE	NoData
-Gait Disorders, Neurologic	NV	NoData
-Gait Disorders, Neurologic	NH	NoData
-Gait Disorders, Neurologic	NJ	NoData
-Gait Disorders, Neurologic	NM	NoData
-Gait Disorders, Neurologic	NY	NoData
-Gait Disorders, Neurologic	NC	NoData
-Gait Disorders, Neurologic	ND	NoData
-Gait Disorders, Neurologic	OH	NoData
-Gait Disorders, Neurologic	OK	NoData
-Gait Disorders, Neurologic	OR	NoData
-Gait Disorders, Neurologic	PA	NoData
-Gait Disorders, Neurologic	RI	NoData
-Gait Disorders, Neurologic	SC	NoData
-Gait Disorders, Neurologic	SD	NoData
-Gait Disorders, Neurologic	TN	NoData
-Gait Disorders, Neurologic	TX	NoData
-Gait Disorders, Neurologic	UT	NoData
-Gait Disorders, Neurologic	VT	NoData
-Gait Disorders, Neurologic	VA	NoData
-Gait Disorders, Neurologic	WA	NoData
-Gait Disorders, Neurologic	WV	NoData
-Gait Disorders, Neurologic	WI	NoData
-Gait Disorders, Neurologic	WY	NoData
-Fetal Hypoxia	AL	NoData
-Fetal Hypoxia	AK	NoData
-Fetal Hypoxia	AZ	NoData
-Fetal Hypoxia	AR	NoData
-Fetal Hypoxia	CA	NoData
-Fetal Hypoxia	CO	NoData
-Fetal Hypoxia	CT	NoData
-Fetal Hypoxia	DC	NoData
-Fetal Hypoxia	DE	NoData
-Fetal Hypoxia	FL	NoData
-Fetal Hypoxia	GA	NoData
-Fetal Hypoxia	HI	NoData
-Fetal Hypoxia	ID	NoData
-Fetal Hypoxia	IL	NoData
-Fetal Hypoxia	IN	NoData
-Fetal Hypoxia	IA	NoData
-Fetal Hypoxia	KS	NoData
-Fetal Hypoxia	KY	NoData
-Fetal Hypoxia	LA	NoData
-Fetal Hypoxia	ME	NoData
-Fetal Hypoxia	MD	NoData
-Fetal Hypoxia	MA	NoData
-Fetal Hypoxia	MI	NoData
-Fetal Hypoxia	MN	NoData
-Fetal Hypoxia	MS	NoData
-Fetal Hypoxia	MO	NoData
-Fetal Hypoxia	MT	NoData
-Fetal Hypoxia	NE	NoData
-Fetal Hypoxia	NV	NoData
-Fetal Hypoxia	NH	NoData
-Fetal Hypoxia	NJ	NoData
-Fetal Hypoxia	NM	NoData
-Fetal Hypoxia	NY	NoData
-Fetal Hypoxia	NC	NoData
-Fetal Hypoxia	ND	NoData
-Fetal Hypoxia	OH	NoData
-Fetal Hypoxia	OK	NoData
-Fetal Hypoxia	OR	NoData
-Fetal Hypoxia	PA	NoData
-Fetal Hypoxia	RI	NoData
-Fetal Hypoxia	SC	NoData
-Fetal Hypoxia	SD	NoData
-Fetal Hypoxia	TN	NoData
-Fetal Hypoxia	TX	NoData
-Fetal Hypoxia	UT	NoData
-Fetal Hypoxia	VT	NoData
-Fetal Hypoxia	VA	NoData
-Fetal Hypoxia	WA	NoData
-Fetal Hypoxia	WV	NoData
-Fetal Hypoxia	WI	NoData
-Fetal Hypoxia	WY	NoData
-Olfaction Disorders	AL	NoData
-Olfaction Disorders	AK	NoData
-Olfaction Disorders	AZ	NoData
-Olfaction Disorders	AR	NoData
-Olfaction Disorders	CA	NoData
-Olfaction Disorders	CO	NoData
-Olfaction Disorders	CT	NoData
-Olfaction Disorders	DC	NoData
-Olfaction Disorders	DE	NoData
-Olfaction Disorders	FL	NoData
-Olfaction Disorders	GA	NoData
-Olfaction Disorders	HI	NoData
-Olfaction Disorders	ID	NoData
-Olfaction Disorders	IL	NoData
-Olfaction Disorders	IN	NoData
-Olfaction Disorders	IA	NoData
-Olfaction Disorders	KS	NoData
-Olfaction Disorders	KY	NoData
-Olfaction Disorders	LA	NoData
-Olfaction Disorders	ME	NoData
-Olfaction Disorders	MD	NoData
-Olfaction Disorders	MA	NoData
-Olfaction Disorders	MI	NoData
-Olfaction Disorders	MN	NoData
-Olfaction Disorders	MS	NoData
-Olfaction Disorders	MO	NoData
-Olfaction Disorders	MT	NoData
-Olfaction Disorders	NE	NoData
-Olfaction Disorders	NV	NoData
-Olfaction Disorders	NH	NoData
-Olfaction Disorders	NJ	NoData
-Olfaction Disorders	NM	NoData
-Olfaction Disorders	NY	NoData
-Olfaction Disorders	NC	NoData
-Olfaction Disorders	ND	NoData
-Olfaction Disorders	OH	NoData
-Olfaction Disorders	OK	NoData
-Olfaction Disorders	OR	NoData
-Olfaction Disorders	PA	NoData
-Olfaction Disorders	RI	NoData
-Olfaction Disorders	SC	NoData
-Olfaction Disorders	SD	NoData
-Olfaction Disorders	TN	NoData
-Olfaction Disorders	TX	NoData
-Olfaction Disorders	UT	NoData
-Olfaction Disorders	VT	NoData
-Olfaction Disorders	VA	NoData
-Olfaction Disorders	WA	NoData
-Olfaction Disorders	WV	NoData
-Olfaction Disorders	WI	NoData
-Olfaction Disorders	WY	NoData
-Postoperative Nausea and Vomiting	AL	NoData
-Postoperative Nausea and Vomiting	AK	NoData
-Postoperative Nausea and Vomiting	AZ	NoData
-Postoperative Nausea and Vomiting	AR	NoData
-Postoperative Nausea and Vomiting	CA	NoData
-Postoperative Nausea and Vomiting	CO	NoData
-Postoperative Nausea and Vomiting	CT	NoData
-Postoperative Nausea and Vomiting	DC	NoData
-Postoperative Nausea and Vomiting	DE	NoData
-Postoperative Nausea and Vomiting	FL	NoData
-Postoperative Nausea and Vomiting	GA	NoData
-Postoperative Nausea and Vomiting	HI	NoData
-Postoperative Nausea and Vomiting	ID	NoData
-Postoperative Nausea and Vomiting	IL	NoData
-Postoperative Nausea and Vomiting	IN	NoData
-Postoperative Nausea and Vomiting	IA	NoData
-Postoperative Nausea and Vomiting	KS	NoData
-Postoperative Nausea and Vomiting	KY	NoData
-Postoperative Nausea and Vomiting	LA	NoData
-Postoperative Nausea and Vomiting	ME	NoData
-Postoperative Nausea and Vomiting	MD	NoData
-Postoperative Nausea and Vomiting	MA	NoData
-Postoperative Nausea and Vomiting	MI	NoData
-Postoperative Nausea and Vomiting	MN	NoData
-Postoperative Nausea and Vomiting	MS	NoData
-Postoperative Nausea and Vomiting	MO	NoData
-Postoperative Nausea and Vomiting	MT	NoData
-Postoperative Nausea and Vomiting	NE	NoData
-Postoperative Nausea and Vomiting	NV	NoData
-Postoperative Nausea and Vomiting	NH	NoData
-Postoperative Nausea and Vomiting	NJ	NoData
-Postoperative Nausea and Vomiting	NM	NoData
-Postoperative Nausea and Vomiting	NY	NoData
-Postoperative Nausea and Vomiting	NC	NoData
-Postoperative Nausea and Vomiting	ND	NoData
-Postoperative Nausea and Vomiting	OH	NoData
-Postoperative Nausea and Vomiting	OK	NoData
-Postoperative Nausea and Vomiting	OR	NoData
-Postoperative Nausea and Vomiting	PA	NoData
-Postoperative Nausea and Vomiting	RI	NoData
-Postoperative Nausea and Vomiting	SC	NoData
-Postoperative Nausea and Vomiting	SD	NoData
-Postoperative Nausea and Vomiting	TN	NoData
-Postoperative Nausea and Vomiting	TX	NoData
-Postoperative Nausea and Vomiting	UT	NoData
-Postoperative Nausea and Vomiting	VT	NoData
-Postoperative Nausea and Vomiting	VA	NoData
-Postoperative Nausea and Vomiting	WA	NoData
-Postoperative Nausea and Vomiting	WV	NoData
-Postoperative Nausea and Vomiting	WI	NoData
-Postoperative Nausea and Vomiting	WY	NoData
-Muscle Hypotonia	AL	NoData
-Muscle Hypotonia	AK	NoData
-Muscle Hypotonia	AZ	NoData
-Muscle Hypotonia	AR	NoData
-Muscle Hypotonia	CA	NoData
-Muscle Hypotonia	CO	NoData
-Muscle Hypotonia	CT	NoData
-Muscle Hypotonia	DC	NoData
-Muscle Hypotonia	DE	NoData
-Muscle Hypotonia	FL	NoData
-Muscle Hypotonia	GA	NoData
-Muscle Hypotonia	HI	NoData
-Muscle Hypotonia	ID	NoData
-Muscle Hypotonia	IL	NoData
-Muscle Hypotonia	IN	NoData
-Muscle Hypotonia	IA	NoData
-Muscle Hypotonia	KS	NoData
-Muscle Hypotonia	KY	NoData
-Muscle Hypotonia	LA	NoData
-Muscle Hypotonia	ME	NoData
-Muscle Hypotonia	MD	NoData
-Muscle Hypotonia	MA	NoData
-Muscle Hypotonia	MI	NoData
-Muscle Hypotonia	MN	NoData
-Muscle Hypotonia	MS	NoData
-Muscle Hypotonia	MO	NoData
-Muscle Hypotonia	MT	NoData
-Muscle Hypotonia	NE	NoData
-Muscle Hypotonia	NV	NoData
-Muscle Hypotonia	NJ	NoData
-Muscle Hypotonia	NM	NoData
-Muscle Hypotonia	NY	NoData
-Muscle Hypotonia	NC	NoData
-Muscle Hypotonia	ND	NoData
-Muscle Hypotonia	OH	NoData
-Muscle Hypotonia	OK	NoData
-Muscle Hypotonia	OR	NoData
-Muscle Hypotonia	PA	NoData
-Muscle Hypotonia	RI	NoData
-Muscle Hypotonia	SC	NoData
-Muscle Hypotonia	SD	NoData
-Muscle Hypotonia	TN	NoData
-Muscle Hypotonia	TX	NoData
-Muscle Hypotonia	UT	NoData
-Muscle Hypotonia	VT	NoData
-Muscle Hypotonia	VA	NoData
-Muscle Hypotonia	WA	NoData
-Muscle Hypotonia	WV	NoData
-Muscle Hypotonia	WI	NoData
-Muscle Hypotonia	WY	NoData
-Scotoma	AK	NoData
-Scotoma	AR	NoData
-Scotoma	DE	NoData
-Scotoma	HI	NoData
-Scotoma	ID	NoData
-Scotoma	ME	NoData
-Scotoma	MT	NoData
-Scotoma	NH	NoData
-Scotoma	NM	NoData
-Scotoma	ND	NoData
-Scotoma	RI	NoData
-Scotoma	SD	NoData
-Scotoma	VT	NoData
-Scotoma	WV	NoData
-Scotoma	WY	NoData
-Hemianopsia	AK	NoData
-Hemianopsia	DE	NoData
-Hemianopsia	HI	NoData
-Hemianopsia	ID	NoData
-Hemianopsia	MT	NoData
-Hemianopsia	NM	NoData
-Hemianopsia	ND	NoData
-Hemianopsia	RI	NoData
-Hemianopsia	SD	NoData
-Hemianopsia	VT	NoData
-Hemianopsia	WY	NoData
-Persistent Vegetative State	AL	NoData
-Persistent Vegetative State	AK	NoData
-Persistent Vegetative State	AR	NoData
-Persistent Vegetative State	CT	NoData
-Persistent Vegetative State	DE	NoData
-Persistent Vegetative State	HI	NoData
-Persistent Vegetative State	ID	NoData
-Persistent Vegetative State	IN	NoData
-Persistent Vegetative State	IA	NoData
-Persistent Vegetative State	KS	NoData
-Persistent Vegetative State	KY	NoData
-Persistent Vegetative State	LA	NoData
-Persistent Vegetative State	ME	NoData
-Persistent Vegetative State	MS	NoData
-Persistent Vegetative State	MT	NoData
-Persistent Vegetative State	NE	NoData
-Persistent Vegetative State	NV	NoData
-Persistent Vegetative State	NH	NoData
-Persistent Vegetative State	NM	NoData
-Persistent Vegetative State	ND	NoData
-Persistent Vegetative State	OK	NoData
-Persistent Vegetative State	RI	NoData
-Persistent Vegetative State	SC	NoData
-Persistent Vegetative State	SD	NoData
-Persistent Vegetative State	TN	NoData
-Persistent Vegetative State	UT	NoData
-Persistent Vegetative State	VT	NoData
-Persistent Vegetative State	WV	NoData
-Persistent Vegetative State	WI	NoData
-Persistent Vegetative State	WY	NoData
-Catalepsy	AL	NoData
-Catalepsy	AK	NoData
-Catalepsy	AR	NoData
-Catalepsy	CO	NoData
-Catalepsy	CT	NoData
-Catalepsy	DC	NoData
-Catalepsy	DE	NoData
-Catalepsy	HI	NoData
-Catalepsy	ID	NoData
-Catalepsy	IA	NoData
-Catalepsy	KS	NoData
-Catalepsy	KY	NoData
-Catalepsy	LA	NoData
-Catalepsy	ME	NoData
-Catalepsy	MD	NoData
-Catalepsy	MS	NoData
-Catalepsy	MO	NoData
-Catalepsy	MT	NoData
-Catalepsy	NE	NoData
-Catalepsy	NV	NoData
-Catalepsy	NH	NoData
-Catalepsy	NM	NoData
-Catalepsy	ND	NoData
-Catalepsy	OR	NoData
-Catalepsy	RI	NoData
-Catalepsy	SD	NoData
-Catalepsy	TN	NoData
-Catalepsy	UT	NoData
-Catalepsy	VT	NoData
-Catalepsy	WV	NoData
-Catalepsy	WI	NoData
-Catalepsy	WY	NoData
-Tetany	AK	NoData
-Tetany	VT	NoData
-Jaundice, Obstructive	AL	NoData
-Jaundice, Obstructive	AK	NoData
-Jaundice, Obstructive	AZ	NoData
-Jaundice, Obstructive	AR	NoData
-Jaundice, Obstructive	CA	NoData
-Jaundice, Obstructive	CO	NoData
-Jaundice, Obstructive	CT	NoData
-Jaundice, Obstructive	DC	NoData
-Jaundice, Obstructive	DE	NoData
-Jaundice, Obstructive	FL	NoData
-Jaundice, Obstructive	GA	NoData
-Jaundice, Obstructive	HI	NoData
-Jaundice, Obstructive	ID	NoData
-Jaundice, Obstructive	IL	NoData
-Jaundice, Obstructive	IN	NoData
-Jaundice, Obstructive	IA	NoData
-Jaundice, Obstructive	KS	NoData
-Jaundice, Obstructive	KY	NoData
-Jaundice, Obstructive	LA	NoData
-Jaundice, Obstructive	ME	NoData
-Jaundice, Obstructive	MD	NoData
-Jaundice, Obstructive	MA	NoData
-Jaundice, Obstructive	MI	NoData
-Jaundice, Obstructive	MN	NoData
-Jaundice, Obstructive	MS	NoData
-Jaundice, Obstructive	MO	NoData
-Jaundice, Obstructive	MT	NoData
-Jaundice, Obstructive	NE	NoData
-Jaundice, Obstructive	NV	NoData
-Jaundice, Obstructive	NH	NoData
-Jaundice, Obstructive	NJ	NoData
-Jaundice, Obstructive	NM	NoData
-Jaundice, Obstructive	NY	NoData
-Jaundice, Obstructive	NC	NoData
-Jaundice, Obstructive	ND	NoData
-Jaundice, Obstructive	OH	NoData
-Jaundice, Obstructive	OK	NoData
-Jaundice, Obstructive	OR	NoData
-Jaundice, Obstructive	PA	NoData
-Jaundice, Obstructive	RI	NoData
-Jaundice, Obstructive	SC	NoData
-Jaundice, Obstructive	SD	NoData
-Jaundice, Obstructive	TN	NoData
-Jaundice, Obstructive	TX	NoData
-Jaundice, Obstructive	UT	NoData
-Jaundice, Obstructive	VT	NoData
-Jaundice, Obstructive	VA	NoData
-Jaundice, Obstructive	WA	NoData
-Jaundice, Obstructive	WV	NoData
-Jaundice, Obstructive	WI	NoData
-Jaundice, Obstructive	WY	NoData
-Cerebrospinal Fluid Rhinorrhea	AL	NoData
-Cerebrospinal Fluid Rhinorrhea	AK	NoData
-Cerebrospinal Fluid Rhinorrhea	AZ	NoData
-Cerebrospinal Fluid Rhinorrhea	AR	NoData
-Cerebrospinal Fluid Rhinorrhea	CA	NoData
-Cerebrospinal Fluid Rhinorrhea	CO	NoData
-Cerebrospinal Fluid Rhinorrhea	CT	NoData
-Cerebrospinal Fluid Rhinorrhea	DC	NoData
-Cerebrospinal Fluid Rhinorrhea	DE	NoData
-Cerebrospinal Fluid Rhinorrhea	FL	NoData
-Cerebrospinal Fluid Rhinorrhea	GA	NoData
-Cerebrospinal Fluid Rhinorrhea	HI	NoData
-Cerebrospinal Fluid Rhinorrhea	ID	NoData
-Cerebrospinal Fluid Rhinorrhea	IL	NoData
-Cerebrospinal Fluid Rhinorrhea	IN	NoData
-Cerebrospinal Fluid Rhinorrhea	IA	NoData
-Cerebrospinal Fluid Rhinorrhea	KS	NoData
-Cerebrospinal Fluid Rhinorrhea	KY	NoData
-Cerebrospinal Fluid Rhinorrhea	LA	NoData
-Cerebrospinal Fluid Rhinorrhea	ME	NoData
-Cerebrospinal Fluid Rhinorrhea	MD	NoData
-Cerebrospinal Fluid Rhinorrhea	MA	NoData
-Cerebrospinal Fluid Rhinorrhea	MI	NoData
-Cerebrospinal Fluid Rhinorrhea	MN	NoData
-Cerebrospinal Fluid Rhinorrhea	MS	NoData
-Cerebrospinal Fluid Rhinorrhea	MO	NoData
-Cerebrospinal Fluid Rhinorrhea	MT	NoData
-Cerebrospinal Fluid Rhinorrhea	NE	NoData
-Cerebrospinal Fluid Rhinorrhea	NV	NoData
-Cerebrospinal Fluid Rhinorrhea	NH	NoData
-Cerebrospinal Fluid Rhinorrhea	NJ	NoData
-Cerebrospinal Fluid Rhinorrhea	NM	NoData
-Cerebrospinal Fluid Rhinorrhea	NY	NoData
-Cerebrospinal Fluid Rhinorrhea	NC	NoData
-Cerebrospinal Fluid Rhinorrhea	ND	NoData
-Cerebrospinal Fluid Rhinorrhea	OH	NoData
-Cerebrospinal Fluid Rhinorrhea	OK	NoData
-Cerebrospinal Fluid Rhinorrhea	OR	NoData
-Cerebrospinal Fluid Rhinorrhea	PA	NoData
-Cerebrospinal Fluid Rhinorrhea	RI	NoData
-Cerebrospinal Fluid Rhinorrhea	SC	NoData
-Cerebrospinal Fluid Rhinorrhea	SD	NoData
-Cerebrospinal Fluid Rhinorrhea	TN	NoData
-Cerebrospinal Fluid Rhinorrhea	TX	NoData
-Cerebrospinal Fluid Rhinorrhea	UT	NoData
-Cerebrospinal Fluid Rhinorrhea	VT	NoData
-Cerebrospinal Fluid Rhinorrhea	VA	NoData
-Cerebrospinal Fluid Rhinorrhea	WA	NoData
-Cerebrospinal Fluid Rhinorrhea	WV	NoData
-Cerebrospinal Fluid Rhinorrhea	WI	NoData
-Cerebrospinal Fluid Rhinorrhea	WY	NoData
-Apraxias	AL	NoData
-Apraxias	AK	NoData
-Apraxias	AZ	NoData
-Apraxias	AR	NoData
-Apraxias	CA	NoData
-Apraxias	CO	NoData
-Apraxias	CT	NoData
-Apraxias	DC	NoData
-Apraxias	DE	NoData
-Apraxias	FL	NoData
-Apraxias	GA	NoData
-Apraxias	HI	NoData
-Apraxias	ID	NoData
-Apraxias	IL	NoData
-Apraxias	IN	NoData
-Apraxias	IA	NoData
-Apraxias	KS	NoData
-Apraxias	KY	NoData
-Apraxias	LA	NoData
-Apraxias	ME	NoData
-Apraxias	MD	NoData
-Apraxias	MA	NoData
-Apraxias	MI	NoData
+Hirs
