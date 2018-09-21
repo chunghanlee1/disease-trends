@@ -55,9 +55,9 @@ def main():
             try:
                 pytrend.build_payload(kw_list=[symptom], timeframe= 'all', geo='US-'+state)
                 interest_over_time_df = pytrend.interest_over_time()
-                if 'date' not in interest_over_time_df:
-                    time.sleep(randint(20,30))
-                    continue
+                #if 'date' not in interest_over_time_df:
+                #    time.sleep(randint(20,30))
+                #    continue
                 interest_over_time_df['state']=state
                 interest_over_time_df['symptom']=symptom
                 interest_over_time_df.to_csv(args.out, sep=',', encoding='utf-8')
