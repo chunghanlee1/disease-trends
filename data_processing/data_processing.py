@@ -5,7 +5,7 @@ Created on Fri Sep 21 13:16:42 2018
 @author: Chunghan
 """
 
-import os
+
 import pandas as pd
 from collections import defaultdict
 import json
@@ -45,7 +45,7 @@ def generate_corr_df(data, start_date = '2014-01-01'):
         
         #Calculate contemporaneous correlation between each pair
         corr = segment_by_state.corr('pearson')#Must use this to calculate pairwise correlation correctly. np looks at rows
-        corr_data = corr.reset_index(drop=False).melt(id_vars= ['symptom'], var_name= 'pair', value_name='aggregate correlation')
+        corr_data = corr.reset_index(drop=False).melt(id_vars= ['symptom'], var_name= 'pair', value_name='aggregate_correlation')
         
         #Calculate rolling window correlation
         end_window = segment_by_state.index.get_loc(start_date)
@@ -68,13 +68,14 @@ def generate_corr_df(data, start_date = '2014-01-01'):
 
 
 #======================== Process data ==================
-if not 'processing' in os.getcwd():
-    print("Make sure your working directory is disease-trends\/data_processing")
-    raise FileNotFoundError  
-data = pd.read_csv('../data_extraction/combined.csv')
+try:
+   data = pd.read_csv('../data_extraction/combined.csv')
+except FileNotFoundError:
+    raise FileNotFoundError("Make sure your working directory is disease-trends\/data_processing")
+    
 
 concat_data = generate_corr_df(data, start_date)
-concat_data.to_csv('processed.csv')
+concat_data.to_csv('processed.csv', index=False)
 #=======================================================
 
 
