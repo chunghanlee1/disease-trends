@@ -69,20 +69,20 @@ def generate_corr_df(data, start_date = '2014-01-01'):
 
 #======================== Process data ==================
 try:
-   data = pd.read_csv('../data_extraction/combined.csv')
+   data = pd.read_csv('data_extraction/combined.tsv')
 except FileNotFoundError:
-    raise FileNotFoundError("Make sure your working directory is disease-trends\/data_processing")
+    raise FileNotFoundError("Make sure your working directory is 'disease-trends' and not in any subdirectory")
     
 
 concat_data = generate_corr_df(data, start_date)
-concat_data.to_csv('processed.csv', index=False)
+concat_data.to_csv('data_processing/processed.csv', index=False)
 #=======================================================
 
 
 #===============Create disease mapping JSON data================
 
 #Create JSON file that saves the mapping from symptom to an array of diseases
-raw_mapping = pd.read_csv('../data_extraction/research/ncomms5212-s4.txt', sep='\t')[['MeSH Symptom Term', 'MeSH Disease Term','TFIDF score']]
+raw_mapping = pd.read_csv('data_extraction/research/ncomms5212-s4.txt', sep='\t')[['MeSH Symptom Term', 'MeSH Disease Term','TFIDF score']]
 symptom_disease_mapping = defaultdict(list)
 for symp in raw_mapping['MeSH Symptom Term'].unique():
     disease_list = list(raw_mapping[raw_mapping['MeSH Symptom Term'] == symp]['MeSH Disease Term'])
@@ -90,7 +90,7 @@ for symp in raw_mapping['MeSH Symptom Term'].unique():
 x=json.dumps(symptom_disease_mapping, indent=1)
 
 #Writing JSON to file https://stackoverflow.com/questions/12309269/how-do-i-write-json-data-to-a-file
-with open('symptom_disease_mapping.json', 'w') as f:
+with open('data_processing/symptom_disease_mapping.json', 'w') as f:
     json.dump(symptom_disease_mapping, f)
 
 
