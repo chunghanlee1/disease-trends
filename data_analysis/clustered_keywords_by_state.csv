@@ -1,0 +1,7960 @@
+symptom,state,Up to 2018-08-01,Up to 2018-09-01,aggregate_correlation
+Abdominal Pain,AL,20,14,57
+Ageusia,AL,26,40,39
+Agnosia,AL,43,76,73
+Agraphia,AL,16,12,53
+Amaurosis Fugax,AL,28,72,77
+Amblyopia,AL,33,5,60
+Amnesia,AL,47,16,31
+Angina Pectoris,AL,30,7,62
+Anisocoria,AL,23,38,36
+Anomia,AL,30,7,62
+Anorexia,AL,71,63,18
+Anoxia,AL,72,1,81
+Aphasia,AL,62,48,9
+Apnea,AL,70,46,11
+Arthralgia,AL,57,50,13
+Asthenia,AL,75,67,25
+Ataxia,AL,76,61,26
+Back Pain,AL,20,14,57
+Birth Weight,AL,58,51,14
+Blindness,AL,74,63,21
+Body Weight,AL,60,54,16
+Bulimia,AL,72,63,18
+Cachexia,AL,28,72,77
+Catatonia,AL,23,38,36
+Cerebellar Ataxia,AL,23,38,36
+Chest Pain,AL,20,14,57
+Chills,AL,20,14,57
+Chorea,AL,6,27,43
+Colic,AL,69,65,23
+Coma,AL,3,71,82
+Communication Disorders,AL,45,77,75
+Confusion,AL,49,36,2
+Constipation,AL,20,14,57
+Coprophagia,AL,48,69,32
+Cough,AL,20,14,57
+Cyanosis,AL,53,56,5
+Deafness,AL,57,50,13
+Delirium,AL,37,34,67
+Diarrhea,AL,20,14,57
+Diplopia,AL,43,59,73
+Dizziness,AL,20,14,57
+Dysarthria,AL,8,29,45
+Dysgeusia,AL,64,46,7
+Dyslexia,AL,55,57,19
+Dysmenorrhea,AL,63,47,10
+Dyspepsia,AL,77,59,27
+Dysphonia,AL,78,43,28
+Dyspnea,AL,49,36,2
+Dystonia,AL,42,52,72
+Dysuria,AL,54,56,6
+Earache,AL,21,15,58
+Ecchymosis,AL,65,44,8
+Echolalia,AL,52,37,3
+Edema,AL,39,17,69
+Emaciation,AL,10,31,47
+Encopresis,AL,25,39,38
+Eructation,AL,11,32,48
+Eye Pain,AL,20,14,57
+Facial Pain,AL,64,46,7
+Fasciculation,AL,56,58,4
+Fatigue,AL,20,14,57
+Feminization,AL,79,45,29
+Fever,AL,20,14,57
+Flank Pain,AL,53,56,5
+Flatulence,AL,68,64,22
+Flushing,AL,51,42,1
+Gagging,AL,47,67,31
+Gastroparesis,AL,40,74,70
+Halitosis,AL,29,73,78
+Hallucinations,AL,22,68,59
+Headache,AL,20,14,57
+Hearing Loss,AL,69,65,22
+Heartburn,AL,20,14,57
+Hematemesis,AL,44,76,74
+Hemianopsia,AL,4,25,41
+Hemiplegia,AL,13,20,50
+Hemoglobinuria,AL,7,28,44
+Hemoptysis,AL,15,2,52
+Hiccup,AL,38,35,68
+Hirsutism,AL,76,61,26
+Hoarseness,AL,78,43,28
+Horner Syndrome,AL,52,37,3
+Hot Flashes,AL,34,6,61
+Hydrops Fetalis,AL,14,18,51
+Hyperacusis,AL,77,59,27
+Hyperalgesia,AL,16,12,53
+Hypercapnia,AL,52,37,3
+Hyperemesis Gravidarum,AL,2,70,80
+Hyperesthesia,AL,1,69,79
+Hyperventilation,AL,41,75,71
+Hypocapnia,AL,1,69,79
+Hypothermia,AL,59,53,15
+Hypoventilation,AL,1,69,79
+Illusions,AL,71,63,18
+Intermittent Claudication,AL,12,33,49
+Jaundice,AL,64,44,7
+Labor Pain,AL,35,21,33
+Lethargy,AL,51,42,1
+Livedo Reticularis,AL,13,19,50
+Low Back Pain,AL,76,61,26
+Mental Retardation,AL,71,63,18
+Metatarsalgia,AL,36,23,35
+Miosis,AL,5,26,42
+Morning Sickness,AL,56,58,4
+Motion Sickness,AL,56,58,4
+Mouth Breathing,AL,26,40,39
+Muscle Cramp,AL,48,24,32
+Muscle Weakness,AL,68,64,24
+Muscular Atrophy,AL,74,67,21
+Mutism,AL,35,22,34
+Myoclonus,AL,64,46,7
+Myotonia,AL,1,69,79
+Nausea,AL,20,14,57
+Neck Pain,AL,20,14,57
+Neuralgia,AL,66,11,64
+Nocturia,AL,14,18,52
+Obesity,AL,71,63,18
+Oliguria,AL,17,3,54
+Ophthalmoplegia,AL,9,30,46
+Orthostatic Intolerance,AL,30,7,62
+Overweight,AL,80,62,30
+Pain,AL,20,14,57
+Pallor,AL,67,49,12
+Paralysis,AL,50,9,66
+Paraplegia,AL,62,46,9
+Paresis,AL,30,7,62
+Paresthesia,AL,14,18,51
+Pelvic Pain,AL,19,13,56
+Photophobia,AL,59,53,15
+Polyuria,AL,7,28,44
+Presbycusis,AL,27,41,40
+Prosopagnosia,AL,10,31,47
+Proteinuria,AL,55,57,19
+Pruritus,AL,44,76,74
+Purpura,AL,68,64,24
+Quadriplegia,AL,48,76,32
+Renal Colic,AL,48,76,32
+Sarcopenia,AL,28,72,77
+Sciatica,AL,19,13,56
+Scotoma,AL,25,39,38
+Seizures,AL,18,4,55
+Shoulder Pain,AL,20,14,57
+Sleep Deprivation,AL,73,66,20
+Sleep Disorders,AL,74,63,21
+Sneezing,AL,20,14,57
+Snoring,AL,79,45,29
+Spasm,AL,31,10,65
+Stupor,AL,17,3,54
+Stuttering,AL,61,55,17
+Sweating Sickness,AL,4,25,41
+Syncope,AL,46,78,76
+Tetany,AL,32,8,63
+Tics,AL,73,66,20
+Tinea Pedis,AL,77,59,27
+Tinnitus,AL,24,60,37
+Toothache,AL,20,14,57
+Torticollis,AL,69,65,22
+Tremor,AL,77,59,27
+Trismus,AL,5,26,42
+Unconsciousness,AL,64,46,7
+Urinary Incontinence,AL,48,19,32
+Vertigo,AL,56,58,4
+Vomiting,AL,20,14,57
+Weight Gain,AL,20,14,57
+Weight Loss,AL,20,14,57
+Abdominal Pain,AK,14,16,14
+Amnesia,AK,38,25,32
+Anorexia,AK,16,8,11
+Aphasia,AK,24,51,50
+Apnea,AK,17,7,12
+Ataxia,AK,50,45,45
+Back Pain,AK,35,22,29
+Birth Weight,AK,20,41,55
+Blindness,AK,16,8,11
+Body Weight,AK,4,3,4
+Bulimia,AK,6,13,6
+Chest Pain,AK,35,22,29
+Chills,AK,25,42,21
+Colic,AK,21,48,25
+Coma,AK,27,2,23
+Confusion,AK,22,49,26
+Constipation,AK,35,22,29
+Cough,AK,35,22,29
+Cyanosis,AK,39,30,37
+Delirium,AK,6,14,6
+Diarrhea,AK,35,22,29
+Dizziness,AK,7,17,7
+Dysarthria,AK,26,44,22
+Dyslexia,AK,13,1,10
+Dysmenorrhea,AK,18,38,53
+Dyspepsia,AK,43,33,42
+Dyspnea,AK,9,18,8
+Dystonia,AK,24,51,51
+Dysuria,AK,6,14,6
+Earache,AK,37,24,31
+Edema,AK,10,5,9
+Eye Pain,AK,6,14,6
+Fatigue,AK,15,6,15
+Feminization,AK,45,35,40
+Fever,AK,35,22,29
+Flatulence,AK,25,43,21
+Flushing,AK,30,10,16
+Gagging,AK,13,1,10
+Gastroparesis,AK,8,4,52
+Halitosis,AK,23,50,49
+Hallucinations,AK,43,33,42
+Headache,AK,35,22,29
+Hearing Loss,AK,6,14,6
+Heartburn,AK,36,23,30
+Hiccup,AK,3,39,3
+Hot Flashes,AK,11,12,20
+Hyperemesis Gravidarum,AK,41,32,39
+Hyperventilation,AK,29,9,18
+Hypothermia,AK,48,26,34
+Illusions,AK,16,8,11
+Jaundice,AK,44,34,43
+Lethargy,AK,2,28,2
+Low Back Pain,AK,42,29,36
+Morning Sickness,AK,49,27,35
+Motion Sickness,AK,9,18,8
+Nausea,AK,35,22,29
+Neck Pain,AK,9,18,8
+Neuralgia,AK,8,4,52
+Obesity,AK,17,7,12
+Overweight,AK,17,28,13
+Pain,AK,35,22,29
+Pallor,AK,32,19,33
+Paralysis,AK,40,31,38
+Paresthesia,AK,23,50,49
+Pelvic Pain,AK,1,15,1
+Pruritus,AK,52,47,48
+Purpura,AK,27,2,23
+Sciatica,AK,51,46,46
+Seizures,AK,12,10,17
+Shoulder Pain,AK,5,20,5
+Sneezing,AK,30,11,19
+Snoring,AK,28,52,24
+Spasm,AK,47,37,47
+Stuttering,AK,44,34,44
+Syncope,AK,1,14,1
+Tics,AK,6,13,6
+Tinnitus,AK,31,11,19
+Toothache,AK,29,9,18
+Torticollis,AK,46,36,41
+Tremor,AK,19,40,54
+Vertigo,AK,42,29,36
+Vomiting,AK,35,22,29
+Weight Gain,AK,33,21,27
+Weight Loss,AK,34,21,28
+Abdominal Pain,AZ,31,43,24
+Acute Coronary Syndrome,AZ,6,9,33
+Ageusia,AZ,13,17,42
+Agnosia,AZ,5,8,32
+Agraphia,AZ,72,70,73
+Albuminuria,AZ,23,18,5
+Alien Hand Syndrome,AZ,72,70,73
+Amaurosis Fugax,AZ,55,80,56
+Amblyopia,AZ,74,58,75
+Amnesia,AZ,31,43,24
+Angina Pectoris,AZ,70,73,71
+Anisocoria,AZ,76,60,77
+Anomia,AZ,37,21,8
+Anorexia,AZ,68,78,69
+Anoxia,AZ,49,3,49
+Aphasia,AZ,75,58,76
+Apnea,AZ,31,41,24
+Arthralgia,AZ,78,49,79
+Asthenia,AZ,54,60,54
+Ataxia,AZ,79,72,80
+Athetosis,AZ,72,70,73
+Back Pain,AZ,31,43,24
+Birth Weight,AZ,25,19,6
+Blindness,AZ,65,69,66
+Body Weight,AZ,72,70,73
+Bulimia,AZ,72,70,73
+Cachexia,AZ,49,3,49
+Catalepsy,AZ,47,52,47
+Catatonia,AZ,66,76,67
+Cerebellar Ataxia,AZ,78,49,79
+Chest Pain,AZ,31,43,24
+Chills,AZ,31,43,24
+Chorea,AZ,69,75,70
+Colic,AZ,35,46,29
+Coma,AZ,34,45,28
+Communication Disorders,AZ,67,77,68
+Confusion,AZ,75,54,76
+Constipation,AZ,31,43,24
+Coprophagia,AZ,19,33,16
+Cough,AZ,31,43,24
+Cyanosis,AZ,76,60,77
+Deafness,AZ,44,83,44
+Delirium,AZ,10,13,37
+Diarrhea,AZ,31,43,24
+Diplopia,AZ,71,82,72
+Dizziness,AZ,31,43,24
+Dysarthria,AZ,79,72,80
+Dysgeusia,AZ,37,22,8
+Dyslexia,AZ,72,70,73
+Dysmenorrhea,AZ,26,20,7
+Dyspepsia,AZ,66,76,67
+Dysphonia,AZ,81,47,82
+Dyspnea,AZ,76,60,77
+Dystonia,AZ,57,65,58
+Dysuria,AZ,24,39,27
+Earache,AZ,31,43,24
+Ecchymosis,AZ,20,26,17
+Echolalia,AZ,72,70,73
+Edema,AZ,29,40,22
+Emaciation,AZ,43,34,43
+Encopresis,AZ,68,78,69
+Eructation,AZ,41,35,38
+Eye Pain,AZ,29,41,22
+Facial Pain,AZ,1,38,1
+Facial Paralysis,AZ,55,80,56
+Fasciculation,AZ,57,65,58
+Fatigue,AZ,31,43,24
+Feminization,AZ,54,83,54
+Fetal Macrosomia,AZ,40,1,2
+Fever,AZ,31,43,24
+Flank Pain,AZ,62,81,63
+Flatulence,AZ,68,78,69
+Flushing,AZ,51,55,51
+Gagging,AZ,14,28,11
+Gastroparesis,AZ,30,42,23
+Halitosis,AZ,61,79,62
+Hallucinations,AZ,31,43,24
+Headache,AZ,31,43,24
+Hearing Loss,AZ,45,64,45
+Heart Murmurs,AZ,69,75,70
+Heartburn,AZ,31,43,24
+Hematemesis,AZ,15,29,12
+Hemianopsia,AZ,68,78,69
+Hemiplegia,AZ,33,44,26
+Hemoglobinuria,AZ,55,80,55
+Hemoptysis,AZ,77,61,78
+Hiccup,AZ,31,43,24
+Hirsutism,AZ,59,74,60
+Hoarseness,AZ,63,71,64
+Horner Syndrome,AZ,71,82,72
+Hot Flashes,AZ,31,43,24
+Hydrops Fetalis,AZ,53,57,53
+Hyperacusis,AZ,47,52,47
+Hyperalgesia,AZ,38,23,9
+Hypercalciuria,AZ,42,36,39
+Hypercapnia,AZ,12,15,41
+Hyperemesis Gravidarum,AZ,43,38,43
+Hyperesthesia,AZ,1,37,1
+Hyperventilation,AZ,7,10,34
+Hypocapnia,AZ,40,1,2
+Hypothermia,AZ,73,59,74
+Hypoventilation,AZ,11,14,40
+Illusions,AZ,68,78,69
+Intermittent Claudication,AZ,5,8,32
+Jaundice,AZ,32,43,25
+Labor Pain,AZ,50,48,50
+Language Disorders,AZ,72,70,73
+Lethargy,AZ,18,32,15
+Livedo Reticularis,AZ,2,5,3
+Low Back Pain,AZ,21,25,18
+Mental Retardation,AZ,68,78,69
+Metatarsalgia,AZ,1,37,1
+Miosis,AZ,8,11,35
+Morning Sickness,AZ,31,43,24
+Motion Sickness,AZ,61,79,62
+Mouth Breathing,AZ,3,6,4
+Muscle Cramp,AZ,73,59,74
+Muscle Weakness,AZ,62,81,63
+Mutism,AZ,38,23,9
+Myoclonus,AZ,54,83,54
+Myokymia,AZ,58,66,59
+Myotonia,AZ,43,75,43
+Nausea,AZ,31,43,24
+Neck Pain,AZ,31,43,24
+Neuralgia,AZ,72,70,73
+Nocturia,AZ,80,50,81
+Obesity,AZ,68,78,69
+Oliguria,AZ,16,30,13
+Ophthalmoplegia,AZ,55,80,55
+Orthostatic Intolerance,AZ,4,7,31
+Overweight,AZ,65,69,66
+Pain,AZ,31,43,24
+Pallor,AZ,39,24,10
+Paralysis,AZ,31,43,24
+Paraparesis,AZ,17,31,14
+Paraplegia,AZ,47,52,47
+Paresis,AZ,4,7,31
+Paresthesia,AZ,46,4,46
+Pelvic Pain,AZ,31,43,24
+Persistent Vegetative State,AZ,2,5,3
+Photophobia,AZ,57,65,58
+Polyuria,AZ,48,53,48
+Presbycusis,AZ,11,14,40
+Prosopagnosia,AZ,43,2,43
+Proteinuria,AZ,76,60,77
+Pruritus,AZ,65,69,66
+Pseudophakia,AZ,23,18,5
+Purpura,AZ,78,49,79
+Quadriplegia,AZ,21,25,18
+Renal Colic,AZ,2,5,3
+Sarcopenia,AZ,80,50,81
+Sciatica,AZ,31,43,24
+Scotoma,AZ,55,80,55
+Seizures,AZ,31,43,24
+Shoulder Pain,AZ,31,43,24
+Sleep Deprivation,AZ,55,80,56
+Sleep Disorders,AZ,68,78,69
+Sneezing,AZ,31,43,24
+Snoring,AZ,28,63,21
+Spasm,AZ,29,41,22
+Speech Disorders,AZ,67,77,68
+Stupor,AZ,12,16,41
+Stuttering,AZ,72,70,73
+Susac Syndrome,AZ,36,34,30
+Sweating Sickness,AZ,9,12,36
+Syncope,AZ,52,56,52
+Tetany,AZ,60,74,61
+Tics,AZ,56,67,57
+Tinea Pedis,AZ,22,27,19
+Tinnitus,AZ,30,42,23
+Toothache,AZ,31,43,24
+Torticollis,AZ,76,51,77
+Tremor,AZ,27,62,20
+Trismus,AZ,64,68,65
+Unconsciousness,AZ,64,68,65
+Urinary Incontinence,AZ,54,83,54
+Vertigo,AZ,27,62,20
+Vomiting,AZ,31,43,24
+Weight Gain,AZ,31,43,24
+Weight Loss,AZ,31,43,24
+Abdominal Pain,AR,21,9,40
+Ageusia,AR,28,6,23
+Agnosia,AR,10,22,30
+Agraphia,AR,13,28,36
+Amblyopia,AR,53,43,2
+Amnesia,AR,32,12,28
+Angina Pectoris,AR,25,3,13
+Anisocoria,AR,38,50,52
+Anomia,AR,34,14,17
+Anorexia,AR,69,73,70
+Anoxia,AR,38,50,52
+Aphasia,AR,39,51,53
+Apnea,AR,68,76,69
+Arthralgia,AR,63,62,64
+Asthenia,AR,50,56,56
+Ataxia,AR,55,36,4
+Back Pain,AR,31,11,27
+Birth Weight,AR,60,44,9
+Blindness,AR,69,73,70
+Body Weight,AR,56,37,5
+Bulimia,AR,70,71,71
+Cachexia,AR,57,35,6
+Catatonia,AR,41,41,43
+Chest Pain,AR,31,11,27
+Chills,AR,30,8,25
+Chorea,AR,45,59,59
+Colic,AR,17,17,61
+Coma,AR,15,30,38
+Confusion,AR,40,53,54
+Constipation,AR,31,11,27
+Coprophagia,AR,8,38,49
+Cough,AR,31,11,27
+Cyanosis,AR,62,61,63
+Deafness,AR,53,43,2
+Delirium,AR,65,65,66
+Diarrhea,AR,31,11,27
+Diplopia,AR,6,33,32
+Dizziness,AR,48,54,62
+Dysarthria,AR,66,66,67
+Dysgeusia,AR,9,39,50
+Dyslexia,AR,46,60,60
+Dysmenorrhea,AR,51,57,57
+Dyspepsia,AR,67,67,68
+Dysphonia,AR,4,48,47
+Dyspnea,AR,17,17,61
+Dystonia,AR,55,36,4
+Dysuria,AR,41,41,43
+Earache,AR,42,41,42
+Ecchymosis,AR,20,20,22
+Echolalia,AR,27,5,15
+Edema,AR,59,74,8
+Emaciation,AR,29,7,24
+Encopresis,AR,12,25,35
+Eructation,AR,38,50,52
+Eye Pain,AR,21,9,40
+Fatigue,AR,44,58,51
+Feminization,AR,70,71,71
+Fever,AR,31,11,27
+Flank Pain,AR,19,19,21
+Flatulence,AR,64,63,65
+Flushing,AR,18,18,20
+Gagging,AR,16,26,39
+Gastroparesis,AR,12,25,35
+Halitosis,AR,73,68,74
+Hallucinations,AR,18,18,20
+Headache,AR,31,11,27
+Hearing Loss,AR,41,41,43
+Heartburn,AR,31,11,27
+Hematemesis,AR,38,50,52
+Hemianopsia,AR,66,66,67
+Hemiplegia,AR,66,66,67
+Hemoptysis,AR,2,46,45
+Hiccup,AR,47,75,16
+Hirsutism,AR,36,16,19
+Hoarseness,AR,38,50,52
+Hot Flashes,AR,19,21,21
+Hydrops Fetalis,AR,57,35,6
+Hypercapnia,AR,10,22,30
+Hyperemesis Gravidarum,AR,13,28,36
+Hyperventilation,AR,26,4,14
+Hypothermia,AR,37,52,58
+Hypoventilation,AR,35,15,18
+Illusions,AR,69,73,70
+Jaundice,AR,71,71,72
+Labor Pain,AR,65,64,66
+Lethargy,AR,72,70,73
+Low Back Pain,AR,47,75,16
+Mental Retardation,AR,69,73,70
+Metatarsalgia,AR,38,50,52
+Miosis,AR,11,23,31
+Morning Sickness,AR,43,42,44
+Motion Sickness,AR,68,76,69
+Mouth Breathing,AR,23,1,11
+Muscle Weakness,AR,49,55,55
+Mutism,AR,22,64,41
+Myoclonus,AR,62,61,63
+Nausea,AR,31,11,27
+Neck Pain,AR,42,11,42
+Neuralgia,AR,38,50,52
+Nocturia,AR,60,31,9
+Obesity,AR,69,73,70
+Oliguria,AR,52,29,1
+Overweight,AR,68,76,69
+Pain,AR,31,11,27
+Pallor,AR,5,49,48
+Paralysis,AR,58,40,7
+Paraplegia,AR,1,27,34
+Paresis,AR,1,27,34
+Paresthesia,AR,57,35,6
+Pelvic Pain,AR,30,8,25
+Photophobia,AR,20,19,22
+Polyuria,AR,14,24,37
+Presbycusis,AR,48,54,62
+Prosopagnosia,AR,24,2,12
+Proteinuria,AR,65,64,66
+Pruritus,AR,3,47,46
+Purpura,AR,72,70,73
+Quadriplegia,AR,22,29,41
+Sarcopenia,AR,23,1,11
+Sciatica,AR,44,58,51
+Seizures,AR,70,72,71
+Shoulder Pain,AR,31,11,27
+Sleep Deprivation,AR,37,52,58
+Sleep Disorders,AR,73,68,74
+Sneezing,AR,52,45,1
+Snoring,AR,58,40,7
+Spasm,AR,61,32,10
+Speech Disorders,AR,11,23,31
+Stupor,AR,25,3,13
+Stuttering,AR,74,69,75
+Syncope,AR,50,56,56
+Tetany,AR,7,34,33
+Thinness,AR,33,13,29
+Tics,AR,49,55,55
+Tinnitus,AR,41,77,43
+Toothache,AR,31,19,21
+Torticollis,AR,22,31,41
+Tremor,AR,59,74,8
+Urinary Incontinence,AR,38,50,52
+Vertigo,AR,54,53,3
+Vomiting,AR,42,11,27
+Weight Gain,AR,31,10,26
+Weight Loss,AR,31,10,26
+Abdominal Pain,CA,11,24,57
+Acute Coronary Syndrome,CA,78,77,7
+Ageusia,CA,50,11,27
+Agnosia,CA,33,2,69
+Agraphia,CA,60,45,34
+Albuminuria,CA,26,10,47
+Alien Hand Syndrome,CA,35,4,71
+Amaurosis Fugax,CA,60,45,34
+Amblyopia,CA,64,40,13
+Amnesia,CA,11,24,57
+Angina Pectoris,CA,18,31,65
+Anisocoria,CA,78,74,7
+Anomia,CA,39,36,45
+Anorexia,CA,66,65,15
+Anoxia,CA,58,47,42
+Aphasia,CA,11,24,57
+Aphonia,CA,1,32,77
+Apnea,CA,11,24,57
+Arthralgia,CA,6,30,53
+Asthenia,CA,66,65,15
+Ataxia,CA,11,23,57
+Athetosis,CA,5,38,52
+Back Pain,CA,11,24,57
+Birth Weight,CA,11,24,57
+Blindness,CA,66,65,15
+Body Weight,CA,11,24,57
+Body Weight Changes,CA,78,77,7
+Brown-Sequard Syndrome,CA,59,48,43
+Bulimia,CA,66,65,15
+Cachexia,CA,5,38,52
+Catalepsy,CA,56,78,26
+Catatonia,CA,4,16,51
+Cerebellar Ataxia,CA,56,42,26
+Chest Pain,CA,11,24,57
+Chills,CA,11,24,57
+Chorea,CA,61,41,33
+Colic,CA,11,24,57
+Coma,CA,11,24,57
+Communication Disorders,CA,19,22,66
+Confusion,CA,57,20,21
+Constipation,CA,11,24,57
+Coprophagia,CA,64,40,13
+Cough,CA,11,24,57
+Cyanosis,CA,11,24,57
+Deafness,CA,66,65,15
+Delirium,CA,11,24,57
+Diarrhea,CA,11,24,57
+Diplopia,CA,79,79,8
+Dizziness,CA,11,24,57
+Dysarthria,CA,11,24,57
+Dysgeusia,CA,56,77,26
+Dyskinesias,CA,66,63,15
+Dyslexia,CA,10,24,62
+Dysmenorrhea,CA,11,24,57
+Dyspepsia,CA,19,18,66
+Dysphonia,CA,20,19,67
+Dyspnea,CA,11,24,57
+Dystonia,CA,42,37,46
+Dysuria,CA,11,24,57
+Earache,CA,11,24,57
+Ecchymosis,CA,11,24,57
+Echolalia,CA,64,40,13
+Edema,CA,11,24,57
+Emaciation,CA,52,52,29
+Encopresis,CA,67,66,16
+Eructation,CA,63,57,12
+Eye Hemorrhage,CA,20,19,67
+Eye Pain,CA,11,24,57
+Facial Pain,CA,55,44,25
+Facial Paralysis,CA,53,76,23
+Fasciculation,CA,66,64,15
+Fatigue,CA,11,24,57
+Feminization,CA,66,65,15
+Fetal Distress,CA,75,71,4
+Fetal Macrosomia,CA,75,71,4
+Fetal Weight,CA,66,63,15
+Fever,CA,11,24,57
+Fever of Unknown Origin,CA,70,54,19
+Flank Pain,CA,11,24,57
+Flatulence,CA,66,65,15
+Flushing,CA,11,24,57
+Gagging,CA,11,24,57
+Gait Ataxia,CA,61,41,33
+Gastroparesis,CA,11,24,57
+Gerstmann Syndrome,CA,68,67,17
+Halitosis,CA,67,66,16
+Hallucinations,CA,11,24,57
+Headache,CA,11,24,57
+Hearing Disorders,CA,65,43,14
+Hearing Loss,CA,10,24,62
+Heart Murmurs,CA,66,65,15
+Heartburn,CA,11,24,57
+Hematemesis,CA,48,73,22
+Hemianopsia,CA,60,45,34
+Hemifacial Spasm,CA,40,59,39
+Hemiplegia,CA,11,24,57
+Hemoglobinuria,CA,41,60,40
+Hemoptysis,CA,11,24,57
+Hiccup,CA,11,24,57
+Hirsutism,CA,7,21,54
+Hoarseness,CA,4,16,51
+Horner Syndrome,CA,72,68,1
+Hot Flashes,CA,11,24,57
+Hydrops Fetalis,CA,50,47,27
+Hyperacusis,CA,65,43,14
+Hyperalgesia,CA,55,76,25
+Hypercalciuria,CA,73,69,2
+Hypercapnia,CA,8,22,55
+Hyperemesis Gravidarum,CA,16,28,63
+Hyperesthesia,CA,31,80,76
+Hypergammaglobulinemia,CA,2,46,78
+Hyperkinesis,CA,1,32,77
+Hyperoxia,CA,43,33,74
+Hyperphagia,CA,22,1,41
+Hyperventilation,CA,10,24,62
+Hypesthesia,CA,31,80,76
+Hypocapnia,CA,26,10,47
+Hypokinesia,CA,68,67,17
+Hypothermia,CA,12,25,58
+Hypoventilation,CA,65,40,14
+Illusions,CA,66,65,15
+Intermittent Claudication,CA,69,61,18
+Jaundice,CA,11,24,57
+Korsakoff Syndrome,CA,14,42,60
+Labor Pain,CA,11,24,57
+Language Disorders,CA,66,65,15
+Learning Disorders,CA,66,65,15
+Lethargy,CA,11,24,57
+Livedo Reticularis,CA,27,49,31
+Low Back Pain,CA,11,24,57
+Memory Disorders,CA,71,62,20
+Mental Fatigue,CA,49,81,30
+Mental Retardation,CA,66,65,15
+Metatarsalgia,CA,54,15,24
+Miosis,CA,56,50,26
+Morning Sickness,CA,11,24,57
+Motion Sickness,CA,11,24,57
+Mouth Breathing,CA,11,24,57
+Muscle Cramp,CA,21,18,68
+Muscle Rigidity,CA,17,29,64
+Muscle Spasticity,CA,25,8,38
+Muscle Weakness,CA,14,42,60
+Muscular Atrophy,CA,77,72,6
+Mutism,CA,10,39,62
+Myoclonus,CA,66,65,15
+Myokymia,CA,66,65,15
+Myotonia,CA,66,65,15
+Nausea,CA,11,24,57
+Neck Pain,CA,11,24,57
+Necrolytic Migratory Erythema,CA,45,53,9
+Neuralgia,CA,15,17,57
+Nocturia,CA,9,27,56
+Obesity,CA,66,65,15
+Oliguria,CA,11,24,57
+Ophthalmoplegia,CA,58,47,42
+Orthostatic Intolerance,CA,37,5,73
+Overweight,CA,11,24,57
+Pain,CA,11,24,57
+Pallor,CA,11,24,57
+Paralysis,CA,11,24,57
+Paraparesis,CA,78,77,7
+Paraplegia,CA,23,15,36
+Paresis,CA,76,64,5
+Paresthesia,CA,11,24,57
+Pelvic Pain,CA,11,24,57
+Persistent Vegetative State,CA,24,7,37
+Phantom Limb,CA,32,51,32
+Photophobia,CA,47,56,11
+Piriformis Muscle Syndrome,CA,78,74,7
+Polyuria,CA,11,24,57
+Presbycusis,CA,3,75,79
+Prosopagnosia,CA,28,12,48
+Prostatism,CA,23,9,36
+Proteinuria,CA,65,40,14
+Pruritus,CA,11,24,57
+Pseudobulbar Palsy,CA,69,61,18
+Pseudophakia,CA,44,34,75
+Psychomotor Agitation,CA,22,1,41
+Purpura,CA,38,35,44
+Purpura Fulminans,CA,45,53,9
+Quadriplegia,CA,4,16,51
+Renal Colic,CA,27,10,47
+Respiratory Aspiration,CA,74,70,3
+Respiratory Sounds,CA,51,23,28
+Reticulocytosis,CA,29,13,49
+Sarcopenia,CA,72,68,1
+Sciatica,CA,11,24,57
+Scotoma,CA,43,33,74
+Seizures,CA,11,24,57
+Shoulder Pain,CA,11,24,57
+Sleep Deprivation,CA,10,24,62
+Sleep Disorders,CA,66,65,15
+Sneezing,CA,11,24,57
+Snoring,CA,11,24,57
+Spasm,CA,11,24,57
+Speech Disorders,CA,66,63,15
+Stupor,CA,11,24,57
+Stuttering,CA,5,38,52
+Susac Syndrome,CA,24,7,37
+Sweating Sickness,CA,34,3,70
+Syncope,CA,11,24,57
+Synkinesis,CA,36,6,72
+Tetany,CA,30,14,50
+Thinness,CA,46,55,10
+Tics,CA,38,35,44
+Tinea Pedis,CA,61,44,61
+Tinnitus,CA,11,24,57
+Toothache,CA,11,24,57
+Torticollis,CA,13,26,59
+Tremor,CA,11,24,61
+Trismus,CA,68,67,17
+Unconsciousness,CA,60,45,34
+Urinary Incontinence,CA,10,42,62
+Urinoma,CA,63,58,12
+Vertigo,CA,11,24,57
+Virilism,CA,61,49,31
+Vocal Cord Paralysis,CA,62,39,35
+Vomiting,CA,11,24,57
+Waterhouse-Friderichsen Syndrome,CA,31,80,76
+Weight Gain,CA,11,24,57
+Weight Loss,CA,11,24,57
+Abdominal Pain,CO,21,19,30
+Acute Coronary Syndrome,CO,32,69,80
+Ageusia,CO,58,29,36
+Agnosia,CO,30,42,78
+Alien Hand Syndrome,CO,4,26,13
+Amaurosis Fugax,CO,36,34,84
+Amblyopia,CO,31,68,79
+Amnesia,CO,20,17,29
+Angina Pectoris,CO,78,79,60
+Anisocoria,CO,41,58,5
+Anomia,CO,41,57,4
+Anorexia,CO,76,77,45
+Anoxia,CO,48,7,51
+Aphasia,CO,3,14,26
+Apnea,CO,63,61,71
+Arthralgia,CO,26,38,74
+Asthenia,CO,38,53,1
+Ataxia,CO,44,56,11
+Back Pain,CO,21,19,30
+Birth Weight,CO,57,43,35
+Blindness,CO,76,77,45
+Body Weight,CO,65,64,67
+Bulimia,CO,76,77,45
+Cachexia,CO,80,81,64
+Catatonia,CO,48,11,51
+Chest Pain,CO,21,19,30
+Chills,CO,21,19,30
+Chorea,CO,74,72,47
+Colic,CO,57,43,35
+Coma,CO,20,17,29
+Confusion,CO,27,39,75
+Constipation,CO,21,19,30
+Coprophagia,CO,75,76,44
+Cough,CO,21,19,30
+Cyanosis,CO,36,34,84
+Deafness,CO,55,45,50
+Delirium,CO,6,28,15
+Diarrhea,CO,21,19,30
+Diplopia,CO,53,1,49
+Dizziness,CO,21,19,30
+Dysarthria,CO,14,24,23
+Dysgeusia,CO,50,42,55
+Dyslexia,CO,77,78,46
+Dysmenorrhea,CO,30,42,78
+Dyspepsia,CO,42,59,6
+Dysphonia,CO,75,76,44
+Dyspnea,CO,24,20,32
+Dystonia,CO,16,9,25
+Dysuria,CO,17,10,27
+Earache,CO,21,19,30
+Ecchymosis,CO,45,55,8
+Echolalia,CO,56,46,12
+Edema,CO,22,18,31
+Emaciation,CO,8,21,17
+Encopresis,CO,69,70,48
+Eructation,CO,39,51,2
+Eye Pain,CO,21,19,30
+Facial Pain,CO,49,8,52
+Fasciculation,CO,31,68,79
+Fatigue,CO,22,18,31
+Feminization,CO,76,77,45
+Fever,CO,21,19,30
+Flank Pain,CO,19,16,28
+Flatulence,CO,32,69,80
+Flushing,CO,81,82,65
+Gagging,CO,51,31,53
+Gastroparesis,CO,15,19,24
+Halitosis,CO,64,63,66
+Hallucinations,CO,37,15,85
+Headache,CO,21,19,30
+Hearing Loss,CO,61,49,39
+Heartburn,CO,21,19,30
+Hematemesis,CO,82,83,57
+Hemianopsia,CO,13,23,22
+Hemiplegia,CO,59,47,37
+Hemoglobinuria,CO,11,5,20
+Hemoptysis,CO,35,33,83
+Hiccup,CO,19,16,28
+Hirsutism,CO,66,65,68
+Hoarseness,CO,32,69,80
+Horner Syndrome,CO,65,64,67
+Hot Flashes,CO,22,18,31
+Hydrops Fetalis,CO,29,41,77
+Hyperacusis,CO,64,63,66
+Hyperalgesia,CO,82,83,57
+Hypercapnia,CO,1,3,62
+Hyperemesis Gravidarum,CO,23,30,33
+Hyperesthesia,CO,32,69,80
+Hyperventilation,CO,52,36,54
+Hypocapnia,CO,9,22,18
+Hypothermia,CO,62,50,40
+Hypoventilation,CO,28,40,76
+Illusions,CO,76,77,45
+Intermittent Claudication,CO,72,74,42
+Jaundice,CO,44,55,11
+Korsakoff Syndrome,CO,13,23,22
+Labor Pain,CO,33,35,81
+Lethargy,CO,77,78,46
+Livedo Reticularis,CO,35,33,83
+Low Back Pain,CO,43,60,7
+Mental Retardation,CO,76,77,45
+Metatarsalgia,CO,71,73,41
+Miosis,CO,75,76,44
+Morning Sickness,CO,20,17,29
+Motion Sickness,CO,34,37,82
+Mouth Breathing,CO,82,83,57
+Muscle Cramp,CO,74,71,47
+Muscle Weakness,CO,52,56,54
+Muscular Atrophy,CO,83,84,58
+Mutism,CO,65,64,67
+Myoclonus,CO,55,44,50
+Myotonia,CO,84,85,59
+Nausea,CO,21,19,30
+Neck Pain,CO,21,19,30
+Neuralgia,CO,76,77,45
+Nocturia,CO,67,66,69
+Obesity,CO,76,77,45
+Oliguria,CO,46,32,9
+Ophthalmoplegia,CO,7,12,16
+Orthostatic Intolerance,CO,29,41,77
+Overweight,CO,47,2,10
+Pain,CO,21,19,30
+Pallor,CO,45,55,8
+Paralysis,CO,21,19,30
+Paraplegia,CO,41,57,4
+Paresis,CO,38,53,1
+Paresthesia,CO,73,75,43
+Pelvic Pain,CO,21,19,30
+Persistent Vegetative State,CO,83,84,58
+Photophobia,CO,32,69,80
+Polyuria,CO,58,44,36
+Presbycusis,CO,83,84,58
+Prosopagnosia,CO,84,85,59
+Proteinuria,CO,71,73,41
+Pruritus,CO,53,72,49
+Pseudophakia,CO,25,25,34
+Purpura,CO,75,76,44
+Quadriplegia,CO,15,7,24
+Renal Colic,CO,1,3,62
+Sarcopenia,CO,66,65,68
+Sciatica,CO,21,19,30
+Scotoma,CO,41,57,4
+Seizures,CO,21,19,30
+Shoulder Pain,CO,21,19,30
+Sleep Deprivation,CO,77,78,46
+Sleep Disorders,CO,74,71,47
+Sneezing,CO,21,19,30
+Snoring,CO,21,19,30
+Spasm,CO,18,61,72
+Stupor,CO,40,52,3
+Stuttering,CO,54,54,56
+Sweating Sickness,CO,10,13,19
+Syncope,CO,68,67,70
+Synkinesis,CO,12,6,21
+Tetany,CO,5,27,14
+Tics,CO,69,70,48
+Tinea Pedis,CO,33,35,81
+Tinnitus,CO,21,19,30
+Toothache,CO,21,19,30
+Torticollis,CO,26,38,74
+Tremor,CO,70,62,73
+Trismus,CO,41,58,5
+Unconsciousness,CO,60,48,38
+Urinary Incontinence,CO,2,4,63
+Vertigo,CO,63,61,71
+Vomiting,CO,21,19,30
+Waterhouse-Friderichsen Syndrome,CO,79,80,61
+Weight Gain,CO,21,19,30
+Weight Loss,CO,21,19,30
+Abdominal Pain,CT,78,37,76
+Acute Coronary Syndrome,CT,28,1,48
+Ageusia,CT,54,58,57
+Agnosia,CT,44,82,7
+Amaurosis Fugax,CT,79,39,77
+Amblyopia,CT,75,30,73
+Amnesia,CT,82,34,80
+Angina Pectoris,CT,59,69,62
+Anisocoria,CT,41,59,1
+Anomia,CT,22,31,37
+Anorexia,CT,15,85,23
+Anoxia,CT,30,12,39
+Aphasia,CT,7,74,19
+Aphonia,CT,11,83,25
+Apnea,CT,37,40,50
+Arthralgia,CT,43,81,6
+Asthenia,CT,13,84,24
+Ataxia,CT,52,77,55
+Back Pain,CT,78,37,76
+Birth Weight,CT,24,56,44
+Blindness,CT,15,85,23
+Body Weight,CT,5,57,15
+Bulimia,CT,15,85,23
+Cachexia,CT,49,73,4
+Catatonia,CT,44,82,7
+Chest Pain,CT,78,37,76
+Chills,CT,78,37,76
+Chorea,CT,10,51,17
+Colic,CT,38,4,52
+Coma,CT,69,32,32
+Communication Disorders,CT,61,71,64
+Confusion,CT,17,87,22
+Constipation,CT,78,37,76
+Coprophagia,CT,62,16,65
+Cough,CT,78,37,76
+Cyanosis,CT,27,21,47
+Deafness,CT,16,86,21
+Delirium,CT,48,72,3
+Diarrhea,CT,78,37,76
+Diplopia,CT,12,7,26
+Dizziness,CT,78,37,76
+Dysarthria,CT,55,23,58
+Dysgeusia,CT,65,49,28
+Dyslexia,CT,52,77,55
+Dysmenorrhea,CT,31,13,40
+Dyspepsia,CT,6,53,16
+Dysphonia,CT,56,65,59
+Dyspnea,CT,47,79,10
+Dystonia,CT,14,84,18
+Dysuria,CT,30,12,39
+Earache,CT,38,4,52
+Ecchymosis,CT,42,60,2
+Echolalia,CT,41,59,1
+Edema,CT,35,3,51
+Emaciation,CT,76,35,74
+Encopresis,CT,9,52,18
+Eructation,CT,73,28,71
+Eye Pain,CT,78,37,76
+Facial Pain,CT,3,63,13
+Fasciculation,CT,66,50,29
+Fatigue,CT,78,37,76
+Feminization,CT,15,85,23
+Fever,CT,78,37,76
+Flank Pain,CT,25,11,45
+Flatulence,CT,17,87,22
+Flushing,CT,67,33,30
+Gagging,CT,39,6,53
+Gastroparesis,CT,60,70,63
+Halitosis,CT,16,86,21
+Hallucinations,CT,83,41,81
+Headache,CT,78,37,76
+Hearing Loss,CT,57,66,60
+Heart Murmurs,CT,32,9,41
+Heartburn,CT,78,37,76
+Hematemesis,CT,42,59,2
+Hemianopsia,CT,58,68,61
+Hemiplegia,CT,60,70,63
+Hemoglobinuria,CT,58,68,61
+Hemoptysis,CT,55,67,58
+Hiccup,CT,68,72,31
+Hirsutism,CT,10,54,17
+Hoarseness,CT,29,2,49
+Horner Syndrome,CT,86,19,84
+Hot Flashes,CT,37,5,50
+Hydrops Fetalis,CT,70,25,68
+Hyperacusis,CT,28,1,48
+Hyperalgesia,CT,22,31,37
+Hypercapnia,CT,73,28,71
+Hyperemesis Gravidarum,CT,81,42,79
+Hyperesthesia,CT,2,62,12
+Hyperventilation,CT,26,21,46
+Hypothermia,CT,11,83,25
+Hypoventilation,CT,32,9,41
+Illusions,CT,15,85,23
+Intermittent Claudication,CT,84,14,82
+Jaundice,CT,7,51,19
+Korsakoff Syndrome,CT,51,75,54
+Labor Pain,CT,65,49,28
+Lethargy,CT,71,24,69
+Livedo Reticularis,CT,85,55,83
+Low Back Pain,CT,26,11,46
+Mental Retardation,CT,15,85,23
+Metatarsalgia,CT,42,59,2
+Miosis,CT,23,26,38
+Morning Sickness,CT,74,29,72
+Motion Sickness,CT,20,45,35
+Mouth Breathing,CT,51,75,54
+Muscle Cramp,CT,11,83,25
+Muscle Weakness,CT,4,64,14
+Muscular Atrophy,CT,20,45,35
+Mutism,CT,30,12,39
+Myoclonus,CT,34,8,43
+Myotonia,CT,1,61,11
+Nausea,CT,78,37,76
+Neck Pain,CT,78,37,76
+Neuralgia,CT,36,47,27
+Nocturia,CT,18,43,33
+Obesity,CT,15,85,23
+Oliguria,CT,77,36,75
+Ophthalmoplegia,CT,54,67,57
+Orthostatic Intolerance,CT,20,45,35
+Overweight,CT,28,1,48
+Pain,CT,78,37,76
+Pallor,CT,44,82,7
+Paralysis,CT,11,83,25
+Paraplegia,CT,46,78,9
+Paresis,CT,45,80,8
+Paresthesia,CT,48,76,3
+Pelvic Pain,CT,40,3,51
+Photophobia,CT,11,83,25
+Polyuria,CT,21,46,36
+Presbycusis,CT,27,22,47
+Prosopagnosia,CT,1,61,11
+Proteinuria,CT,9,52,17
+Pruritus,CT,50,27,5
+Pseudophakia,CT,80,38,78
+Purpura,CT,33,10,42
+Quadriplegia,CT,87,20,85
+Renal Colic,CT,28,1,48
+Sarcopenia,CT,49,73,4
+Sciatica,CT,78,37,76
+Scotoma,CT,43,81,6
+Seizures,CT,51,75,54
+Shoulder Pain,CT,78,37,76
+Sleep Deprivation,CT,17,87,22
+Sleep Disorders,CT,15,85,23
+Sneezing,CT,78,37,76
+Snoring,CT,78,37,76
+Spasm,CT,46,78,9
+Stupor,CT,63,17,66
+Stuttering,CT,45,80,8
+Sweating Sickness,CT,63,17,66
+Syncope,CT,53,76,56
+Tetany,CT,72,15,70
+Tics,CT,19,44,34
+Tinea Pedis,CT,62,16,65
+Tinnitus,CT,52,77,55
+Toothache,CT,78,37,76
+Torticollis,CT,10,11,17
+Tremor,CT,35,48,27
+Trismus,CT,64,18,67
+Unconsciousness,CT,11,83,25
+Urinary Incontinence,CT,8,60,20
+Vertigo,CT,42,60,2
+Vomiting,CT,78,37,76
+Weight Gain,CT,78,37,76
+Weight Loss,CT,78,37,76
+Abdominal Pain,DC,26,31,30
+Agnosia,DC,73,42,65
+Alien Hand Syndrome,DC,4,13,13
+Amblyopia,DC,55,64,49
+Amnesia,DC,9,28,39
+Angina Pectoris,DC,31,72,67
+Anisocoria,DC,10,18,40
+Anomia,DC,29,38,33
+Anorexia,DC,58,59,44
+Anoxia,DC,55,64,49
+Aphasia,DC,62,63,48
+Apnea,DC,23,34,34
+Arthralgia,DC,1,7,10
+Asthenia,DC,8,17,37
+Ataxia,DC,49,54,54
+Back Pain,DC,26,31,30
+Birth Weight,DC,12,20,42
+Blindness,DC,58,59,44
+Body Weight,DC,56,65,55
+Bulimia,DC,58,59,44
+Cachexia,DC,85,80,77
+Catatonia,DC,42,78,85
+Chest Pain,DC,26,31,30
+Chills,DC,26,31,30
+Chorea,DC,39,8,5
+Colic,DC,17,29,25
+Coma,DC,28,33,32
+Confusion,DC,76,47,63
+Constipation,DC,26,31,30
+Coprophagia,DC,73,42,65
+Cough,DC,26,31,30
+Cyanosis,DC,55,64,49
+Deafness,DC,59,60,45
+Delirium,DC,24,35,35
+Diarrhea,DC,26,31,30
+Diplopia,DC,70,46,62
+Dizziness,DC,26,31,30
+Dysarthria,DC,8,17,38
+Dysgeusia,DC,83,52,18
+Dyslexia,DC,60,61,46
+Dysmenorrhea,DC,51,56,57
+Dyspepsia,DC,63,67,69
+Dysphonia,DC,64,1,1
+Dyspnea,DC,43,77,86
+Dystonia,DC,48,87,79
+Dysuria,DC,12,20,42
+Earache,DC,26,31,30
+Ecchymosis,DC,7,16,17
+Echolalia,DC,6,15,16
+Edema,DC,25,30,29
+Emaciation,DC,19,24,27
+Encopresis,DC,69,39,75
+Eye Pain,DC,26,31,30
+Fatigue,DC,26,31,30
+Feminization,DC,58,59,44
+Fever,DC,26,31,30
+Flank Pain,DC,46,84,84
+Flatulence,DC,45,74,87
+Flushing,DC,27,32,31
+Gagging,DC,18,23,26
+Gastroparesis,DC,47,76,89
+Halitosis,DC,73,42,65
+Hallucinations,DC,5,14,14
+Headache,DC,26,31,30
+Hearing Loss,DC,67,50,73
+Heartburn,DC,26,31,30
+Hematemesis,DC,3,11,12
+Hemianopsia,DC,13,21,43
+Hemiplegia,DC,3,11,12
+Hemoptysis,DC,84,53,19
+Hiccup,DC,37,5,3
+Hirsutism,DC,86,81,78
+Hoarseness,DC,40,82,80
+Horner Syndrome,DC,55,64,49
+Hot Flashes,DC,65,85,82
+Hyperacusis,DC,11,19,41
+Hypercapnia,DC,75,46,61
+Hyperemesis Gravidarum,DC,30,2,2
+Hyperventilation,DC,60,61,46
+Hypothermia,DC,72,41,60
+Hypoventilation,DC,35,3,6
+Illusions,DC,58,59,44
+Jaundice,DC,16,22,24
+Lethargy,DC,44,9,8
+Livedo Reticularis,DC,33,70,71
+Low Back Pain,DC,78,45,76
+Metatarsalgia,DC,36,4,7
+Miosis,DC,45,75,88
+Morning Sickness,DC,26,31,30
+Motion Sickness,DC,5,14,14
+Mutism,DC,68,69,74
+Myoclonus,DC,75,46,61
+Myotonia,DC,41,83,81
+Nausea,DC,26,31,30
+Neck Pain,DC,26,31,30
+Neuralgia,DC,67,77,73
+Nocturia,DC,71,40,59
+Obesity,DC,58,59,44
+Oliguria,DC,79,26,20
+Ophthalmoplegia,DC,20,25,28
+Orthostatic Intolerance,DC,34,73,68
+Overweight,DC,66,86,83
+Pain,DC,26,31,30
+Pallor,DC,14,36,36
+Paralysis,DC,25,30,29
+Paraplegia,DC,32,71,72
+Paresis,DC,81,51,22
+Paresthesia,DC,23,34,34
+Pelvic Pain,DC,26,31,30
+Persistent Vegetative State,DC,83,52,18
+Photophobia,DC,50,55,52
+Polyuria,DC,38,6,4
+Presbycusis,DC,8,17,38
+Prosopagnosia,DC,45,74,87
+Proteinuria,DC,2,12,11
+Pruritus,DC,82,49,23
+Purpura,DC,61,62,47
+Quadriplegia,DC,6,15,15
+Renal Colic,DC,16,22,24
+Sarcopenia,DC,52,57,53
+Sciatica,DC,25,31,29
+Scotoma,DC,80,27,21
+Seizures,DC,57,66,50
+Shoulder Pain,DC,26,31,30
+Sleep Deprivation,DC,73,42,65
+Sleep Disorders,DC,58,59,44
+Sneezing,DC,26,31,30
+Snoring,DC,21,10,37
+Spasm,DC,22,79,90
+Stupor,DC,71,40,59
+Stuttering,DC,74,43,66
+Sweating Sickness,DC,15,37,9
+Syncope,DC,56,65,51
+Tetany,DC,4,13,13
+Tics,DC,53,58,58
+Tinea Pedis,DC,40,82,80
+Tinnitus,DC,54,48,56
+Toothache,DC,26,31,30
+Torticollis,DC,63,68,70
+Tremor,DC,77,44,64
+Trismus,DC,81,51,22
+Urinary Incontinence,DC,68,49,74
+Vertigo,DC,77,44,64
+Vomiting,DC,26,31,30
+Weight Gain,DC,26,31,30
+Weight Loss,DC,26,31,30
+Abdominal Pain,DE,25,44,13
+Agnosia,DE,20,9,38
+Amnesia,DE,47,52,10
+Anorexia,DE,31,12,50
+Aphasia,DE,35,20,7
+Apnea,DE,64,37,27
+Arthralgia,DE,32,13,51
+Ataxia,DE,42,47,12
+Back Pain,DE,52,28,21
+Birth Weight,DE,41,46,11
+Blindness,DE,14,3,44
+Body Weight,DE,18,18,48
+Bulimia,DE,7,61,60
+Chest Pain,DE,49,29,25
+Chills,DE,3,55,3
+Chorea,DE,46,51,53
+Colic,DE,63,40,64
+Coma,DE,35,20,7
+Confusion,DE,23,57,65
+Constipation,DE,48,31,24
+Cough,DE,52,28,21
+Cyanosis,DE,47,52,10
+Deafness,DE,32,13,51
+Delirium,DE,27,39,54
+Diarrhea,DE,52,28,21
+Diplopia,DE,46,51,53
+Dizziness,DE,3,55,3
+Dysarthria,DE,26,59,14
+Dyslexia,DE,8,62,61
+Dysmenorrhea,DE,57,24,31
+Dyspepsia,DE,65,38,33
+Dyspnea,DE,43,48,8
+Dystonia,DE,39,4,18
+Dysuria,DE,59,33,32
+Earache,DE,6,60,63
+Ecchymosis,DE,55,22,29
+Echolalia,DE,38,42,17
+Edema,DE,13,5,43
+Eye Pain,DE,54,25,28
+Fatigue,DE,9,63,62
+Feminization,DE,13,6,43
+Fever,DE,52,28,21
+Flatulence,DE,28,15,55
+Flushing,DE,4,56,4
+Gagging,DE,19,19,49
+Gastroparesis,DE,1,54,1
+Halitosis,DE,14,3,44
+Hallucinations,DE,34,20,6
+Headache,DE,52,28,21
+Hearing Loss,DE,33,13,52
+Heartburn,DE,51,27,20
+Hemiplegia,DE,63,40,64
+Hemoptysis,DE,16,14,46
+Hiccup,DE,59,33,32
+Hirsutism,DE,10,64,58
+Hot Flashes,DE,50,26,26
+Hyperemesis Gravidarum,DE,1,54,1
+Hyperventilation,DE,4,56,4
+Hypocapnia,DE,66,41,59
+Hypothermia,DE,44,49,9
+Illusions,DE,31,12,50
+Jaundice,DE,11,1,41
+Lethargy,DE,12,2,42
+Low Back Pain,DE,34,20,6
+Morning Sickness,DE,15,7,45
+Motion Sickness,DE,38,42,17
+Myoclonus,DE,40,43,19
+Nausea,DE,52,28,21
+Neck Pain,DE,51,27,20
+Neuralgia,DE,16,14,46
+Nocturia,DE,41,46,11
+Obesity,DE,31,12,50
+Oliguria,DE,29,16,56
+Orthostatic Intolerance,DE,11,1,41
+Overweight,DE,27,39,54
+Pain,DE,52,28,21
+Pallor,DE,21,10,39
+Paralysis,DE,12,2,42
+Paresthesia,DE,60,34,34
+Pelvic Pain,DE,32,13,51
+Polyuria,DE,6,60,63
+Prosopagnosia,DE,56,23,30
+Proteinuria,DE,60,34,34
+Pruritus,DE,61,35,35
+Purpura,DE,36,8,15
+Sciatica,DE,34,21,6
+Seizures,DE,5,5,5
+Shoulder Pain,DE,37,53,16
+Sleep Deprivation,DE,32,13,51
+Sneezing,DE,2,54,2
+Snoring,DE,22,11,40
+Spasm,DE,17,17,47
+Stupor,DE,53,30,22
+Stuttering,DE,24,58,66
+Syncope,DE,47,52,10
+Tetany,DE,6,60,63
+Tics,DE,62,36,36
+Tinnitus,DE,36,17,15
+Toothache,DE,49,32,25
+Torticollis,DE,30,8,57
+Tremor,DE,58,45,37
+Vertigo,DE,18,18,48
+Vomiting,DE,48,31,24
+Weight Gain,DE,45,50,23
+Weight Loss,DE,52,28,21
+Abdominal Pain,FL,11,22,8
+Acute Coronary Syndrome,FL,45,54,35
+Ageusia,FL,33,50,71
+Agnosia,FL,30,7,68
+Agraphia,FL,55,71,49
+Albuminuria,FL,33,50,71
+Alien Hand Syndrome,FL,15,27,26
+Amaurosis Fugax,FL,60,41,54
+Amblyopia,FL,61,36,55
+Amnesia,FL,11,21,8
+Angina Pectoris,FL,31,8,69
+Anisocoria,FL,58,73,52
+Anomia,FL,37,12,17
+Anorexia,FL,53,75,47
+Anoxia,FL,51,70,45
+Aphasia,FL,11,22,8
+Aphonia,FL,45,30,35
+Apnea,FL,11,22,8
+Arthralgia,FL,36,5,16
+Asthenia,FL,55,71,49
+Ataxia,FL,11,22,8
+Athetosis,FL,43,67,42
+Back Pain,FL,11,22,8
+Birth Weight,FL,58,73,52
+Blindness,FL,53,75,47
+Body Weight,FL,12,21,9
+Body Weight Changes,FL,50,69,44
+Bulimia,FL,53,75,47
+Cachexia,FL,63,39,57
+Catalepsy,FL,45,57,35
+Catatonia,FL,10,19,7
+Cerebellar Ataxia,FL,72,45,62
+Chest Pain,FL,11,22,8
+Chills,FL,11,22,8
+Chorea,FL,55,71,49
+Colic,FL,11,22,8
+Coma,FL,11,22,8
+Communication Disorders,FL,50,69,44
+Confusion,FL,1,59,29
+Constipation,FL,11,22,8
+Coprophagia,FL,51,70,45
+Cough,FL,11,22,8
+Cyanosis,FL,72,46,62
+Deafness,FL,53,75,47
+Delirium,FL,25,49,74
+Diarrhea,FL,11,22,8
+Diplopia,FL,47,55,37
+Dizziness,FL,11,22,8
+Dysarthria,FL,68,15,66
+Dysgeusia,FL,57,72,51
+Dyskinesias,FL,41,63,40
+Dyslexia,FL,30,7,68
+Dysmenorrhea,FL,8,47,2
+Dyspepsia,FL,32,9,70
+Dysphonia,FL,54,74,48
+Dyspnea,FL,11,22,8
+Dystonia,FL,17,29,28
+Dysuria,FL,11,22,8
+Earache,FL,11,22,8
+Ecchymosis,FL,37,12,17
+Echolalia,FL,42,64,41
+Edema,FL,11,22,8
+Emaciation,FL,28,1,14
+Encopresis,FL,31,8,69
+Eructation,FL,48,56,38
+Eye Hemorrhage,FL,49,53,39
+Eye Pain,FL,11,22,8
+Facial Pain,FL,55,71,49
+Facial Paralysis,FL,52,25,46
+Fasciculation,FL,58,73,52
+Fatigue,FL,11,22,8
+Feminization,FL,53,75,47
+Fetal Weight,FL,66,42,64
+Fever,FL,11,22,8
+Flank Pain,FL,11,22,8
+Flatulence,FL,55,71,49
+Flushing,FL,13,16,10
+Gagging,FL,9,26,3
+Gastroparesis,FL,11,22,8
+Gerstmann Syndrome,FL,18,33,23
+Halitosis,FL,73,44,60
+Hallucinations,FL,11,22,8
+Headache,FL,11,22,8
+Hearing Loss,FL,9,26,4
+Heart Murmurs,FL,53,75,47
+Heartburn,FL,11,22,8
+Hematemesis,FL,39,4,19
+Hemianopsia,FL,69,13,67
+Hemifacial Spasm,FL,73,44,60
+Hemiplegia,FL,64,25,58
+Hemoglobinuria,FL,45,58,35
+Hemoptysis,FL,21,17,5
+Hiccup,FL,11,22,8
+Hirsutism,FL,26,3,12
+Hoarseness,FL,29,2,15
+Horner Syndrome,FL,3,65,31
+Hot Flashes,FL,11,22,8
+Hydrops Fetalis,FL,66,42,64
+Hyperacusis,FL,46,11,36
+Hyperalgesia,FL,15,27,26
+Hypercalciuria,FL,23,31,21
+Hypercapnia,FL,65,38,59
+Hyperemesis Gravidarum,FL,14,24,11
+Hyperesthesia,FL,51,70,45
+Hypergammaglobulinemia,FL,5,61,33
+Hyperkinesis,FL,41,63,40
+Hyperoxia,FL,59,40,53
+Hyperphagia,FL,67,43,65
+Hyperventilation,FL,54,76,48
+Hypesthesia,FL,61,36,55
+Hypocapnia,FL,6,62,34
+Hypokinesia,FL,59,40,53
+Hypothermia,FL,22,18,6
+Hypoventilation,FL,59,38,53
+Illusions,FL,53,75,47
+Intermittent Claudication,FL,38,10,18
+Jaundice,FL,11,20,8
+Korsakoff Syndrome,FL,55,71,49
+Labor Pain,FL,11,22,8
+Language Disorders,FL,53,75,47
+Learning Disorders,FL,53,75,47
+Lethargy,FL,36,5,16
+Livedo Reticularis,FL,58,73,52
+Low Back Pain,FL,9,26,3
+Mental Fatigue,FL,58,73,52
+Mental Retardation,FL,53,75,47
+Metatarsalgia,FL,46,56,36
+Miosis,FL,52,76,46
+Morning Sickness,FL,11,21,8
+Motion Sickness,FL,10,19,7
+Mouth Breathing,FL,7,20,1
+Muscle Cramp,FL,46,11,36
+Muscle Weakness,FL,69,14,67
+Muscular Atrophy,FL,54,76,48
+Mutism,FL,70,48,63
+Myoclonus,FL,38,74,18
+Myokymia,FL,58,73,52
+Myotonia,FL,56,71,50
+Nausea,FL,11,22,8
+Neck Pain,FL,11,22,8
+Necrolytic Migratory Erythema,FL,2,60,30
+Neuralgia,FL,7,46,1
+Nocturia,FL,29,2,15
+Obesity,FL,53,75,47
+Oliguria,FL,11,22,8
+Ophthalmoplegia,FL,34,50,72
+Orthostatic Intolerance,FL,41,63,40
+Overweight,FL,29,2,15
+Pain,FL,11,22,8
+Pallor,FL,11,23,8
+Paralysis,FL,11,22,8
+Paraparesis,FL,41,63,40
+Paraplegia,FL,57,72,51
+Paresis,FL,53,75,47
+Paresthesia,FL,11,22,8
+Pelvic Pain,FL,11,22,8
+Persistent Vegetative State,FL,52,76,46
+Phantom Limb,FL,73,44,60
+Photophobia,FL,45,54,35
+Polyuria,FL,4,66,32
+Presbycusis,FL,34,51,72
+Prosopagnosia,FL,35,52,73
+Proteinuria,FL,73,44,60
+Pruritus,FL,40,6,20
+Pseudophakia,FL,28,1,14
+Psychomotor Agitation,FL,16,28,27
+Purpura,FL,29,2,15
+Purpura Fulminans,FL,50,69,44
+Quadriplegia,FL,74,44,61
+Renal Colic,FL,48,56,38
+Respiratory Sounds,FL,20,35,25
+Reticulocytosis,FL,25,49,74
+Sarcopenia,FL,38,10,18
+Sciatica,FL,11,22,8
+Scotoma,FL,39,4,19
+Seizures,FL,11,22,8
+Shoulder Pain,FL,11,22,8
+Sleep Deprivation,FL,40,6,20
+Sleep Disorders,FL,53,75,47
+Sneezing,FL,11,22,8
+Snoring,FL,11,22,8
+Spasm,FL,11,22,8
+Speech Disorders,FL,47,55,37
+Stupor,FL,27,20,13
+Stuttering,FL,40,6,20
+Susac Syndrome,FL,71,30,75
+Sweating Sickness,FL,24,32,22
+Syncope,FL,12,22,9
+Synkinesis,FL,28,1,14
+Tetany,FL,29,2,15
+Thinness,FL,45,53,35
+Tics,FL,62,37,56
+Tinea Pedis,FL,54,71,48
+Tinnitus,FL,11,22,8
+Toothache,FL,11,22,8
+Torticollis,FL,39,4,19
+Tremor,FL,68,15,66
+Trismus,FL,44,68,43
+Unconsciousness,FL,55,71,49
+Urinary Incontinence,FL,37,12,17
+Vertigo,FL,28,1,14
+Vocal Cord Paralysis,FL,47,55,37
+Vomiting,FL,11,22,8
+Waterhouse-Friderichsen Syndrome,FL,19,34,24
+Weight Gain,FL,11,22,8
+Weight Loss,FL,12,21,9
+Abdominal Pain,GA,83,27,78
+Acute Coronary Syndrome,GA,33,67,37
+Ageusia,GA,70,16,7
+Agnosia,GA,26,54,30
+Agraphia,GA,12,76,50
+Albuminuria,GA,59,34,64
+Alien Hand Syndrome,GA,39,54,25
+Amaurosis Fugax,GA,9,79,49
+Amblyopia,GA,49,42,11
+Amnesia,GA,83,27,78
+Angina Pectoris,GA,1,50,40
+Anisocoria,GA,3,3,42
+Anomia,GA,24,48,19
+Anorexia,GA,34,68,38
+Anoxia,GA,28,63,32
+Aphasia,GA,2,60,41
+Aphonia,GA,67,17,58
+Apnea,GA,82,24,77
+Arthralgia,GA,5,9,44
+Asthenia,GA,33,67,37
+Ataxia,GA,19,44,4
+Athetosis,GA,15,15,6
+Back Pain,GA,83,27,78
+Birth Weight,GA,53,1,68
+Blindness,GA,34,68,38
+Body Weight,GA,25,49,20
+Bulimia,GA,34,68,38
+Cachexia,GA,67,17,58
+Catalepsy,GA,50,40,12
+Catatonia,GA,72,20,70
+Cerebellar Ataxia,GA,31,65,35
+Chest Pain,GA,83,27,78
+Chills,GA,83,27,78
+Chorea,GA,11,81,47
+Colic,GA,83,27,78
+Coma,GA,83,27,78
+Communication Disorders,GA,34,68,38
+Confusion,GA,22,46,17
+Constipation,GA,83,27,78
+Coprophagia,GA,16,74,3
+Cough,GA,83,27,78
+Cyanosis,GA,38,25,15
+Deafness,GA,34,68,38
+Delirium,GA,12,76,50
+Diarrhea,GA,83,27,78
+Diplopia,GA,41,61,27
+Dizziness,GA,83,27,78
+Dysarthria,GA,72,20,70
+Dysgeusia,GA,3,3,42
+Dyslexia,GA,35,69,39
+Dysmenorrhea,GA,75,23,72
+Dyspepsia,GA,17,73,1
+Dysphonia,GA,33,67,37
+Dyspnea,GA,76,26,73
+Dystonia,GA,44,12,52
+Dysuria,GA,73,21,71
+Earache,GA,83,27,78
+Ecchymosis,GA,14,14,5
+Echolalia,GA,8,78,48
+Edema,GA,81,30,80
+Emaciation,GA,53,1,68
+Encopresis,GA,34,70,38
+Eructation,GA,56,18,59
+Eye Hemorrhage,GA,40,55,26
+Eye Pain,GA,83,27,78
+Facial Pain,GA,22,46,17
+Facial Paralysis,GA,30,64,34
+Fasciculation,GA,6,82,45
+Fatigue,GA,83,27,78
+Feminization,GA,32,66,36
+Fetal Weight,GA,34,73,38
+Fever,GA,83,27,78
+Flank Pain,GA,78,10,75
+Flatulence,GA,42,61,28
+Flushing,GA,52,57,14
+Gagging,GA,83,27,78
+Gastroparesis,GA,80,29,79
+Halitosis,GA,28,63,32
+Hallucinations,GA,83,27,78
+Headache,GA,83,27,78
+Hearing Loss,GA,37,58,23
+Heart Murmurs,GA,6,73,45
+Heartburn,GA,83,27,78
+Hematemesis,GA,24,48,19
+Hemianopsia,GA,29,63,33
+Hemiplegia,GA,60,35,65
+Hemoglobinuria,GA,31,65,35
+Hemoptysis,GA,46,52,8
+Hiccup,GA,83,27,78
+Hirsutism,GA,21,44,21
+Hoarseness,GA,48,51,10
+Horner Syndrome,GA,68,39,61
+Hot Flashes,GA,83,27,78
+Hydrops Fetalis,GA,8,78,48
+Hyperacusis,GA,28,63,32
+Hyperalgesia,GA,13,43,51
+Hypercapnia,GA,24,48,19
+Hyperemesis Gravidarum,GA,18,75,2
+Hyperesthesia,GA,10,80,47
+Hyperphagia,GA,31,65,35
+Hyperventilation,GA,11,81,47
+Hypocapnia,GA,67,17,58
+Hypothermia,GA,26,4,30
+Hypoventilation,GA,1,42,40
+Illusions,GA,34,68,38
+Intermittent Claudication,GA,10,80,63
+Jaundice,GA,83,27,78
+Korsakoff Syndrome,GA,77,41,74
+Labor Pain,GA,84,28,78
+Language Disorders,GA,29,65,33
+Learning Disorders,GA,33,67,37
+Lethargy,GA,82,24,77
+Livedo Reticularis,GA,64,6,55
+Low Back Pain,GA,80,29,79
+Mental Retardation,GA,34,68,38
+Metatarsalgia,GA,27,71,31
+Miosis,GA,27,71,31
+Morning Sickness,GA,83,27,78
+Motion Sickness,GA,80,29,79
+Mouth Breathing,GA,63,5,54
+Muscle Cramp,GA,55,11,22
+Muscle Weakness,GA,31,65,35
+Muscular Atrophy,GA,24,48,19
+Mutism,GA,4,77,43
+Myoclonus,GA,33,67,37
+Myokymia,GA,49,42,11
+Myotonia,GA,14,14,5
+Nausea,GA,83,27,78
+Neck Pain,GA,83,27,78
+Neuralgia,GA,36,58,24
+Nocturia,GA,36,59,24
+Obesity,GA,34,68,38
+Oliguria,GA,72,20,70
+Ophthalmoplegia,GA,51,56,13
+Orthostatic Intolerance,GA,56,18,59
+Overweight,GA,20,45,16
+Pain,GA,83,27,78
+Pallor,GA,74,22,71
+Paralysis,GA,83,27,78
+Paraparesis,GA,32,66,36
+Paraplegia,GA,16,74,3
+Paresis,GA,41,61,27
+Paresthesia,GA,79,37,76
+Pelvic Pain,GA,83,27,78
+Persistent Vegetative State,GA,17,73,1
+Phantom Limb,GA,61,32,63
+Photophobia,GA,65,7,56
+Polyuria,GA,23,47,18
+Presbycusis,GA,47,53,9
+Prosopagnosia,GA,57,36,66
+Proteinuria,GA,4,77,43
+Pruritus,GA,54,2,69
+Pseudophakia,GA,69,38,62
+Psychomotor Agitation,GA,53,1,68
+Purpura,GA,30,64,34
+Purpura Fulminans,GA,45,13,53
+Quadriplegia,GA,11,81,47
+Renal Colic,GA,47,50,9
+Respiratory Sounds,GA,58,19,60
+Sarcopenia,GA,46,52,8
+Sciatica,GA,83,27,78
+Scotoma,GA,39,54,25
+Seizures,GA,83,27,78
+Shoulder Pain,GA,83,27,78
+Sleep Deprivation,GA,29,65,33
+Sleep Disorders,GA,34,68,38
+Sneezing,GA,83,27,78
+Snoring,GA,83,27,78
+Spasm,GA,83,27,78
+Speech Disorders,GA,34,68,38
+Stupor,GA,63,5,54
+Stuttering,GA,31,65,35
+Sweating Sickness,GA,62,33,67
+Syncope,GA,71,31,81
+Tetany,GA,66,8,57
+Thinness,GA,64,6,55
+Tics,GA,51,56,13
+Tinea Pedis,GA,7,72,46
+Tinnitus,GA,37,25,23
+Toothache,GA,83,27,78
+Torticollis,GA,43,62,29
+Tremor,GA,5,9,44
+Trismus,GA,49,42,11
+Unconsciousness,GA,29,65,33
+Urinary Incontinence,GA,24,48,19
+Vertigo,GA,76,26,73
+Vomiting,GA,83,27,78
+Weight Gain,GA,83,27,78
+Weight Loss,GA,83,27,78
+Abdominal Pain,HI,49,45,41
+Agnosia,HI,42,38,34
+Amblyopia,HI,65,7,9
+Amnesia,HI,52,48,44
+Anorexia,HI,10,61,58
+Anoxia,HI,21,21,13
+Aphasia,HI,64,5,7
+Apnea,HI,45,41,37
+Arthralgia,HI,66,6,8
+Ataxia,HI,13,12,61
+Back Pain,HI,50,46,41
+Birth Weight,HI,26,24,18
+Blindness,HI,17,58,65
+Body Weight,HI,37,29,29
+Bulimia,HI,10,61,58
+Cachexia,HI,25,16,17
+Catatonia,HI,2,55,50
+Chest Pain,HI,50,46,41
+Chills,HI,59,2,2
+Chorea,HI,31,32,23
+Colic,HI,2,55,50
+Coma,HI,29,27,21
+Confusion,HI,57,52,48
+Constipation,HI,50,46,41
+Coprophagia,HI,61,8,4
+Cough,HI,50,46,41
+Cyanosis,HI,43,39,35
+Deafness,HI,5,64,53
+Delirium,HI,46,42,38
+Diarrhea,HI,50,46,41
+Diplopia,HI,13,40,61
+Dizziness,HI,1,54,49
+Dysarthria,HI,19,17,11
+Dyslexia,HI,26,22,18
+Dysmenorrhea,HI,18,19,10
+Dyspepsia,HI,57,52,48
+Dysphonia,HI,47,43,39
+Dyspnea,HI,2,55,50
+Dystonia,HI,58,1,1
+Dysuria,HI,20,18,12
+Earache,HI,32,33,24
+Ecchymosis,HI,22,12,14
+Echolalia,HI,40,36,32
+Edema,HI,35,10,27
+Eye Pain,HI,28,25,20
+Fatigue,HI,54,45,45
+Feminization,HI,8,59,56
+Fever,HI,48,44,40
+Flatulence,HI,7,63,55
+Flushing,HI,27,23,19
+Gagging,HI,7,63,55
+Gastroparesis,HI,24,15,16
+Halitosis,HI,23,13,15
+Hallucinations,HI,1,54,49
+Headache,HI,50,46,41
+Hearing Loss,HI,56,51,47
+Heartburn,HI,49,45,41
+Hemiplegia,HI,26,22,18
+Hemoptysis,HI,22,11,14
+Hiccup,HI,16,57,64
+Hirsutism,HI,63,4,6
+Hot Flashes,HI,6,24,54
+Hyperemesis Gravidarum,HI,55,50,46
+Hyperventilation,HI,16,57,64
+Hypothermia,HI,14,53,63
+Illusions,HI,8,59,56
+Jaundice,HI,31,32,23
+Lethargy,HI,32,32,24
+Low Back Pain,HI,15,14,62
+Miosis,HI,41,37,33
+Morning Sickness,HI,61,8,4
+Motion Sickness,HI,3,53,51
+Mutism,HI,13,32,61
+Myoclonus,HI,56,51,47
+Nausea,HI,50,46,41
+Neck Pain,HI,6,46,54
+Neuralgia,HI,9,60,57
+Nocturia,HI,59,2,2
+Obesity,HI,10,61,58
+Oliguria,HI,48,44,40
+Overweight,HI,5,64,53
+Pain,HI,50,46,41
+Pallor,HI,53,49,43
+Paralysis,HI,2,55,50
+Paresthesia,HI,18,19,10
+Pelvic Pain,HI,62,9,5
+Polyuria,HI,26,22,18
+Prosopagnosia,HI,26,22,18
+Proteinuria,HI,11,62,59
+Pruritus,HI,2,55,50
+Purpura,HI,63,4,6
+Sciatica,HI,38,30,30
+Seizures,HI,58,1,1
+Shoulder Pain,HI,50,46,41
+Sleep Deprivation,HI,23,13,15
+Sneezing,HI,51,47,42
+Snoring,HI,36,31,28
+Spasm,HI,4,56,52
+Stupor,HI,22,11,14
+Stuttering,HI,2,55,50
+Syncope,HI,33,34,25
+Tetany,HI,44,20,36
+Tics,HI,60,3,3
+Tinnitus,HI,30,28,22
+Toothache,HI,34,35,26
+Torticollis,HI,7,63,55
+Tremor,HI,12,65,60
+Vertigo,HI,39,26,31
+Vomiting,HI,50,46,41
+Weight Gain,HI,50,46,41
+Weight Loss,HI,50,46,41
+Abdominal Pain,ID,44,54,6
+Agnosia,ID,16,12,32
+Amblyopia,ID,46,50,53
+Amnesia,ID,48,52,55
+Angina Pectoris,ID,60,53,60
+Anorexia,ID,17,13,33
+Aphasia,ID,20,17,36
+Apnea,ID,34,59,43
+Arthralgia,ID,39,20,1
+Asthenia,ID,27,36,38
+Ataxia,ID,31,39,40
+Back Pain,ID,61,55,61
+Birth Weight,ID,19,6,35
+Blindness,ID,31,39,40
+Body Weight,ID,16,12,32
+Bulimia,ID,8,28,11
+Cachexia,ID,37,62,46
+Catatonia,ID,1,1,17
+Chest Pain,ID,61,55,61
+Chills,ID,5,3,21
+Chorea,ID,30,37,39
+Colic,ID,41,25,3
+Coma,ID,24,2,51
+Confusion,ID,14,10,30
+Constipation,ID,46,50,53
+Coprophagia,ID,10,29,15
+Cough,ID,61,55,61
+Cyanosis,ID,35,60,44
+Deafness,ID,17,14,33
+Delirium,ID,1,1,17
+Diarrhea,ID,61,55,61
+Diplopia,ID,32,38,41
+Dizziness,ID,12,51,13
+Dysarthria,ID,22,63,49
+Dyslexia,ID,10,29,15
+Dysmenorrhea,ID,47,61,54
+Dyspepsia,ID,36,33,45
+Dysphonia,ID,58,45,24
+Dyspnea,ID,33,32,42
+Dystonia,ID,17,14,33
+Dysuria,ID,26,35,37
+Earache,ID,10,53,15
+Ecchymosis,ID,3,4,19
+Echolalia,ID,66,67,66
+Edema,ID,41,25,3
+Encopresis,ID,49,41,8
+Eye Pain,ID,16,12,32
+Fatigue,ID,16,12,32
+Feminization,ID,2,7,18
+Fever,ID,61,55,61
+Flank Pain,ID,32,38,41
+Flatulence,ID,4,24,20
+Flushing,ID,42,22,4
+Gagging,ID,53,11,28
+Gastroparesis,ID,27,36,38
+Halitosis,ID,60,53,60
+Hallucinations,ID,43,23,5
+Headache,ID,61,55,61
+Hearing Loss,ID,10,29,15
+Heartburn,ID,61,55,61
+Hematemesis,ID,65,49,65
+Hemiplegia,ID,1,1,17
+Hemoptysis,ID,39,20,1
+Hiccup,ID,52,16,27
+Hirsutism,ID,40,21,2
+Hot Flashes,ID,9,13,12
+Hypercapnia,ID,16,12,32
+Hyperemesis Gravidarum,ID,62,56,62
+Hyperventilation,ID,21,65,48
+Hypothermia,ID,9,32,12
+Hypoventilation,ID,36,33,45
+Illusions,ID,8,27,11
+Jaundice,ID,42,22,4
+Labor Pain,ID,10,29,15
+Lethargy,ID,3,4,19
+Low Back Pain,ID,19,6,35
+Miosis,ID,57,44,58
+Morning Sickness,ID,6,3,22
+Motion Sickness,ID,2,65,18
+Mutism,ID,55,42,56
+Myoclonus,ID,25,66,52
+Myotonia,ID,34,59,43
+Nausea,ID,61,55,61
+Neck Pain,ID,51,15,26
+Neuralgia,ID,7,8,23
+Nocturia,ID,15,47,31
+Obesity,ID,8,27,11
+Oliguria,ID,59,46,59
+Overweight,ID,45,26,7
+Pain,ID,61,55,61
+Pallor,ID,64,58,63
+Paralysis,ID,54,18,29
+Paraplegia,ID,16,12,32
+Paresthesia,ID,27,36,38
+Pelvic Pain,ID,60,53,60
+Photophobia,ID,26,35,37
+Polyuria,ID,10,29,15
+Prosopagnosia,ID,56,43,57
+Proteinuria,ID,17,13,33
+Pruritus,ID,22,61,49
+Purpura,ID,23,64,50
+Sciatica,ID,13,31,14
+Seizures,ID,4,24,20
+Shoulder Pain,ID,61,55,61
+Sleep Deprivation,ID,10,29,15
+Sleep Disorders,ID,10,29,15
+Sneezing,ID,11,30,16
+Snoring,ID,51,15,26
+Spasm,ID,50,19,25
+Stupor,ID,47,48,54
+Stuttering,ID,18,5,34
+Syncope,ID,38,9,47
+Tetany,ID,39,20,1
+Tics,ID,28,40,9
+Tinnitus,ID,29,34,10
+Toothache,ID,49,41,8
+Torticollis,ID,4,28,20
+Tremor,ID,30,37,39
+Trismus,ID,21,65,48
+Vertigo,ID,16,12,32
+Vomiting,ID,61,55,61
+Weight Gain,ID,61,55,61
+Weight Loss,ID,63,57,64
+Abdominal Pain,IL,9,19,75
+Acute Coronary Syndrome,IL,74,86,60
+Ageusia,IL,84,5,84
+Agnosia,IL,63,63,35
+Agraphia,IL,73,89,54
+Albuminuria,IL,75,76,61
+Alien Hand Syndrome,IL,15,10,7
+Amaurosis Fugax,IL,32,57,46
+Amblyopia,IL,41,61,13
+Amnesia,IL,9,19,75
+Angina Pectoris,IL,51,33,23
+Anisocoria,IL,69,83,50
+Anomia,IL,37,28,58
+Anorexia,IL,48,69,20
+Anoxia,IL,50,66,22
+Aphasia,IL,18,45,1
+Aphonia,IL,90,82,90
+Apnea,IL,7,18,73
+Arthralgia,IL,58,53,30
+Asthenia,IL,47,67,19
+Ataxia,IL,19,47,2
+Athetosis,IL,21,48,4
+Back Pain,IL,9,19,75
+Birth Weight,IL,6,17,72
+Blindness,IL,48,69,20
+Body Weight,IL,67,26,39
+Bulimia,IL,48,69,20
+Cachexia,IL,70,84,51
+Catalepsy,IL,62,72,34
+Catatonia,IL,35,43,49
+Cerebellar Ataxia,IL,52,34,24
+Chest Pain,IL,9,19,75
+Chills,IL,9,19,75
+Chorea,IL,31,92,45
+Colic,IL,9,19,75
+Coma,IL,9,19,75
+Communication Disorders,IL,40,55,12
+Confusion,IL,48,69,20
+Constipation,IL,9,19,75
+Coprophagia,IL,53,56,25
+Cough,IL,9,19,75
+Cyanosis,IL,54,59,26
+Deafness,IL,44,67,16
+Delirium,IL,1,13,67
+Diarrhea,IL,9,19,75
+Diplopia,IL,39,31,56
+Dizziness,IL,9,19,75
+Dysarthria,IL,66,24,38
+Dysgeusia,IL,60,74,32
+Dyslexia,IL,48,69,20
+Dysmenorrhea,IL,45,32,17
+Dyspepsia,IL,56,90,28
+Dysphonia,IL,91,85,91
+Dyspnea,IL,9,19,75
+Dystonia,IL,38,30,55
+Dysuria,IL,9,19,75
+Earache,IL,9,19,75
+Ecchymosis,IL,17,12,59
+Echolalia,IL,30,42,44
+Edema,IL,5,15,71
+Emaciation,IL,85,6,85
+Encopresis,IL,44,67,16
+Eructation,IL,36,29,57
+Eye Hemorrhage,IL,71,87,52
+Eye Pain,IL,9,19,75
+Facial Pain,IL,51,68,23
+Facial Paralysis,IL,23,37,8
+Fasciculation,IL,44,67,16
+Fatigue,IL,9,19,75
+Feminization,IL,48,68,20
+Fetal Weight,IL,72,88,53
+Fever,IL,9,19,75
+Flank Pain,IL,8,18,74
+Flatulence,IL,45,32,17
+Flushing,IL,87,7,87
+Gagging,IL,9,19,75
+Gastroparesis,IL,9,19,75
+Halitosis,IL,62,72,34
+Hallucinations,IL,9,19,75
+Headache,IL,9,19,75
+Hearing Disorders,IL,20,48,3
+Hearing Loss,IL,20,49,3
+Heart Murmurs,IL,62,72,34
+Heartburn,IL,9,19,75
+Hematemesis,IL,79,1,79
+Hemianopsia,IL,59,73,31
+Hemiplegia,IL,65,52,37
+Hemoglobinuria,IL,24,75,9
+Hemoptysis,IL,56,90,28
+Hiccup,IL,9,19,75
+Hirsutism,IL,38,65,55
+Hoarseness,IL,52,34,24
+Horner Syndrome,IL,27,39,41
+Hot Flashes,IL,9,19,75
+Hydrops Fetalis,IL,36,29,57
+Hyperacusis,IL,28,40,42
+Hyperalgesia,IL,31,92,45
+Hypercalciuria,IL,88,80,88
+Hypercapnia,IL,22,46,5
+Hyperemesis Gravidarum,IL,11,22,77
+Hyperesthesia,IL,37,28,58
+Hyperkinesis,IL,84,5,84
+Hyperoxia,IL,55,93,27
+Hyperphagia,IL,35,58,6
+Hyperventilation,IL,63,63,35
+Hypesthesia,IL,89,81,89
+Hypocapnia,IL,29,41,43
+Hypokinesia,IL,82,94,82
+Hypothermia,IL,12,44,78
+Hypoventilation,IL,61,71,33
+Illusions,IL,48,69,20
+Intermittent Claudication,IL,71,87,52
+Jaundice,IL,9,19,75
+Korsakoff Syndrome,IL,13,8,65
+Labor Pain,IL,66,25,38
+Language Disorders,IL,48,69,20
+Learning Disorders,IL,48,69,20
+Lethargy,IL,83,3,83
+Livedo Reticularis,IL,60,74,32
+Low Back Pain,IL,9,19,75
+Mental Retardation,IL,48,69,20
+Metatarsalgia,IL,33,35,47
+Miosis,IL,61,71,33
+Morning Sickness,IL,9,19,75
+Motion Sickness,IL,3,20,69
+Mouth Breathing,IL,26,23,11
+Muscle Cramp,IL,83,4,83
+Muscle Weakness,IL,25,50,10
+Muscular Atrophy,IL,25,60,10
+Mutism,IL,49,64,21
+Myoclonus,IL,53,56,25
+Myokymia,IL,29,41,43
+Myotonia,IL,62,72,34
+Nausea,IL,9,19,75
+Neck Pain,IL,9,19,75
+Necrolytic Migratory Erythema,IL,92,79,92
+Neuralgia,IL,4,54,70
+Nocturia,IL,71,87,52
+Obesity,IL,48,69,20
+Oliguria,IL,10,19,76
+Ophthalmoplegia,IL,59,73,31
+Orthostatic Intolerance,IL,72,88,53
+Overweight,IL,64,51,36
+Pain,IL,9,19,75
+Pallor,IL,34,43,48
+Paralysis,IL,9,19,75
+Paraparesis,IL,80,2,80
+Paraplegia,IL,62,72,34
+Paresis,IL,27,39,41
+Paresthesia,IL,5,16,71
+Pelvic Pain,IL,9,19,75
+Persistent Vegetative State,IL,44,67,16
+Phantom Limb,IL,74,75,60
+Photophobia,IL,42,62,14
+Polyuria,IL,61,71,33
+Presbycusis,IL,16,60,6
+Prosopagnosia,IL,91,85,91
+Proteinuria,IL,40,55,12
+Pruritus,IL,64,51,36
+Pseudophakia,IL,33,36,47
+Psychomotor Agitation,IL,14,11,66
+Purpura,IL,58,66,30
+Purpura Fulminans,IL,62,72,34
+Quadriplegia,IL,47,65,19
+Renal Colic,IL,33,36,47
+Respiratory Sounds,IL,2,14,68
+Reticulocytosis,IL,40,55,12
+Sarcopenia,IL,62,72,34
+Sciatica,IL,9,19,75
+Scotoma,IL,41,61,13
+Seizures,IL,9,19,75
+Shoulder Pain,IL,9,19,75
+Sleep Deprivation,IL,62,72,34
+Sleep Disorders,IL,48,69,20
+Sneezing,IL,9,19,75
+Snoring,IL,9,19,75
+Spasm,IL,5,15,71
+Speech Disorders,IL,48,69,20
+Stupor,IL,81,21,81
+Stuttering,IL,46,70,18
+Susac Syndrome,IL,84,5,84
+Sweating Sickness,IL,76,77,62
+Syncope,IL,57,91,29
+Synkinesis,IL,40,55,12
+Tetany,IL,34,43,48
+Thinness,IL,42,49,14
+Tics,IL,43,62,15
+Tinea Pedis,IL,50,38,22
+Tinnitus,IL,7,18,73
+Toothache,IL,9,19,75
+Torticollis,IL,86,50,86
+Tremor,IL,68,27,40
+Trismus,IL,23,37,8
+Unconsciousness,IL,62,72,34
+Urinary Incontinence,IL,46,70,18
+Vertigo,IL,3,20,69
+Virilism,IL,78,9,64
+Vocal Cord Paralysis,IL,54,59,26
+Vomiting,IL,9,19,75
+Waterhouse-Friderichsen Syndrome,IL,77,78,63
+Weight Gain,IL,9,19,75
+Weight Loss,IL,9,19,75
+Abdominal Pain,IN,12,46,15
+Acute Coronary Syndrome,IN,44,19,44
+Ageusia,IN,33,84,33
+Agnosia,IN,30,81,30
+Agraphia,IN,76,77,76
+Albuminuria,IN,1,3,1
+Alien Hand Syndrome,IN,17,59,17
+Amaurosis Fugax,IN,62,38,62
+Amblyopia,IN,74,41,74
+Amnesia,IN,13,48,12
+Angina Pectoris,IN,62,38,62
+Anisocoria,IN,25,96,25
+Anomia,IN,5,58,5
+Anorexia,IN,93,33,97
+Anoxia,IN,90,15,94
+Aphasia,IN,92,25,96
+Aphonia,IN,76,77,76
+Apnea,IN,48,17,48
+Arthralgia,IN,84,7,84
+Asthenia,IN,44,19,44
+Ataxia,IN,49,18,49
+Athetosis,IN,20,88,20
+Back Pain,IN,12,46,15
+Birth Weight,IN,58,32,58
+Blindness,IN,93,33,97
+Body Weight,IN,46,21,46
+Bulimia,IN,93,33,97
+Cachexia,IN,57,31,57
+Catalepsy,IN,34,85,34
+Catatonia,IN,39,69,39
+Cerebellar Ataxia,IN,18,101,18
+Chest Pain,IN,12,46,15
+Chills,IN,12,46,15
+Chorea,IN,69,93,69
+Colic,IN,16,50,13
+Coma,IN,67,11,67
+Communication Disorders,IN,98,26,91
+Confusion,IN,93,33,97
+Constipation,IN,12,46,15
+Coprophagia,IN,95,71,88
+Cough,IN,12,46,15
+Cyanosis,IN,7,75,7
+Deafness,IN,60,33,60
+Delirium,IN,70,95,70
+Diarrhea,IN,12,46,15
+Diplopia,IN,1,3,1
+Dizziness,IN,12,46,15
+Dysarthria,IN,69,93,69
+Dysgeusia,IN,21,89,21
+Dyslexia,IN,84,7,84
+Dysmenorrhea,IN,63,39,63
+Dyspepsia,IN,90,14,94
+Dysphonia,IN,58,32,58
+Dyspnea,IN,82,9,82
+Dystonia,IN,76,77,76
+Dysuria,IN,67,11,67
+Earache,IN,12,46,15
+Ecchymosis,IN,44,19,44
+Echolalia,IN,81,43,81
+Edema,IN,83,10,83
+Emaciation,IN,67,11,67
+Encopresis,IN,88,23,92
+Eructation,IN,63,39,63
+Eye Hemorrhage,IN,69,93,69
+Eye Pain,IN,10,44,10
+Facial Pain,IN,99,13,99
+Fasciculation,IN,50,1,50
+Fatigue,IN,15,49,14
+Feminization,IN,94,28,98
+Fever,IN,12,46,15
+Flank Pain,IN,78,79,78
+Flatulence,IN,100,5,100
+Flushing,IN,89,24,93
+Gagging,IN,47,16,47
+Gastroparesis,IN,79,51,79
+Halitosis,IN,56,30,56
+Hallucinations,IN,10,44,10
+Headache,IN,12,46,15
+Hearing Loss,IN,71,2,71
+Heart Murmurs,IN,44,19,44
+Heartburn,IN,12,46,15
+Hematemesis,IN,76,77,76
+Hemianopsia,IN,43,65,43
+Hemiplegia,IN,67,11,67
+Hemoglobinuria,IN,88,23,92
+Hemoptysis,IN,29,100,29
+Hiccup,IN,47,16,47
+Hirsutism,IN,92,25,96
+Hoarseness,IN,25,96,25
+Horner Syndrome,IN,36,62,36
+Hot Flashes,IN,15,49,14
+Hydrops Fetalis,IN,97,73,90
+Hyperacusis,IN,51,66,51
+Hyperalgesia,IN,40,70,40
+Hypercapnia,IN,60,34,60
+Hyperemesis Gravidarum,IN,14,47,16
+Hyperesthesia,IN,19,87,19
+Hyperventilation,IN,94,26,98
+Hypocapnia,IN,84,7,84
+Hypothermia,IN,61,22,61
+Hypoventilation,IN,55,29,55
+Illusions,IN,93,33,97
+Intermittent Claudication,IN,63,39,63
+Jaundice,IN,6,76,6
+Korsakoff Syndrome,IN,24,92,24
+Labor Pain,IN,52,60,52
+Lethargy,IN,1,3,1
+Livedo Reticularis,IN,32,83,32
+Low Back Pain,IN,86,80,86
+Mental Retardation,IN,93,33,97
+Metatarsalgia,IN,77,78,77
+Miosis,IN,81,3,81
+Morning Sickness,IN,38,64,38
+Motion Sickness,IN,87,79,87
+Mouth Breathing,IN,76,77,76
+Muscle Cramp,IN,53,61,53
+Muscle Weakness,IN,27,98,27
+Muscular Atrophy,IN,93,33,97
+Mutism,IN,96,72,89
+Myoclonus,IN,62,38,62
+Myotonia,IN,23,91,23
+Nausea,IN,12,46,15
+Neck Pain,IN,12,46,15
+Neuralgia,IN,2,4,2
+Nocturia,IN,98,27,91
+Obesity,IN,93,33,97
+Oliguria,IN,26,97,26
+Ophthalmoplegia,IN,63,39,63
+Orthostatic Intolerance,IN,19,87,19
+Overweight,IN,72,35,72
+Pain,IN,12,46,15
+Pallor,IN,65,36,65
+Paralysis,IN,6,52,6
+Paraplegia,IN,75,42,75
+Paresis,IN,73,94,73
+Paresthesia,IN,45,20,45
+Pelvic Pain,IN,12,46,15
+Photophobia,IN,66,37,66
+Polyuria,IN,28,99,28
+Presbycusis,IN,59,28,59
+Prosopagnosia,IN,22,90,22
+Proteinuria,IN,88,23,92
+Pruritus,IN,95,71,88
+Pseudophakia,IN,41,67,41
+Purpura,IN,97,73,90
+Quadriplegia,IN,3,56,3
+Renal Colic,IN,55,29,55
+Sarcopenia,IN,42,68,42
+Sciatica,IN,12,46,15
+Scotoma,IN,60,34,60
+Seizures,IN,8,53,8
+Shoulder Pain,IN,12,46,15
+Sleep Deprivation,IN,60,33,60
+Sleep Disorders,IN,93,33,97
+Sneezing,IN,12,46,15
+Snoring,IN,11,45,11
+Spasm,IN,80,74,80
+Stupor,IN,4,57,4
+Stuttering,IN,91,13,95
+Sweating Sickness,IN,35,86,35
+Syncope,IN,85,8,85
+Tetany,IN,73,94,73
+Thinness,IN,37,63,37
+Tics,IN,64,40,64
+Tinea Pedis,IN,99,13,99
+Tinnitus,IN,54,54,54
+Toothache,IN,12,46,15
+Torticollis,IN,68,12,68
+Tremor,IN,91,14,95
+Trismus,IN,31,82,31
+Unconsciousness,IN,100,6,100
+Urinary Incontinence,IN,60,34,60
+Vertigo,IN,9,55,9
+Vomiting,IN,12,46,15
+Weight Gain,IN,12,46,15
+Weight Loss,IN,12,46,15
+Abdominal Pain,IA,30,20,11
+Agnosia,IA,65,66,39
+Amblyopia,IA,17,91,76
+Amnesia,IA,25,14,16
+Angina Pectoris,IA,19,83,69
+Anisocoria,IA,83,82,68
+Anomia,IA,57,52,86
+Anorexia,IA,90,88,81
+Anoxia,IA,84,29,72
+Aphasia,IA,20,84,70
+Apnea,IA,79,86,75
+Arthralgia,IA,62,57,89
+Asthenia,IA,45,41,49
+Ataxia,IA,82,80,66
+Athetosis,IA,26,15,17
+Back Pain,IA,30,20,11
+Birth Weight,IA,86,79,74
+Blindness,IA,90,88,81
+Body Weight,IA,59,56,88
+Bulimia,IA,90,88,81
+Cachexia,IA,39,1,20
+Catatonia,IA,56,53,85
+Chest Pain,IA,30,20,11
+Chills,IA,30,20,11
+Chorea,IA,67,68,41
+Colic,IA,53,45,54
+Coma,IA,48,44,52
+Confusion,IA,90,88,81
+Constipation,IA,30,20,11
+Coprophagia,IA,34,4,23
+Cough,IA,30,20,11
+Cyanosis,IA,75,32,60
+Deafness,IA,90,88,81
+Delirium,IA,69,70,43
+Diarrhea,IA,30,20,11
+Diplopia,IA,87,60,92
+Dizziness,IA,29,18,10
+Dysarthria,IA,8,9,34
+Dysgeusia,IA,3,36,3
+Dyslexia,IA,72,26,57
+Dysmenorrhea,IA,81,77,63
+Dyspepsia,IA,71,73,45
+Dysphonia,IA,42,39,46
+Dyspnea,IA,58,55,87
+Dystonia,IA,78,78,65
+Dysuria,IA,13,13,29
+Earache,IA,63,58,90
+Ecchymosis,IA,40,2,21
+Echolalia,IA,44,40,48
+Edema,IA,60,61,93
+Emaciation,IA,27,16,18
+Encopresis,IA,14,32,30
+Eye Pain,IA,23,22,14
+Fatigue,IA,29,18,10
+Feminization,IA,50,46,77
+Fever,IA,30,20,11
+Flank Pain,IA,81,77,63
+Flatulence,IA,77,76,64
+Flushing,IA,91,85,71
+Gagging,IA,68,69,42
+Gastroparesis,IA,35,5,24
+Halitosis,IA,52,49,79
+Hallucinations,IA,9,10,35
+Headache,IA,30,20,11
+Hearing Loss,IA,88,89,82
+Heartburn,IA,30,20,11
+Hematemesis,IA,12,33,38
+Hemianopsia,IA,60,61,93
+Hemiplegia,IA,1,37,1
+Hemoptysis,IA,49,48,53
+Hiccup,IA,64,59,91
+Hirsutism,IA,76,34,61
+Hoarseness,IA,57,52,86
+Hot Flashes,IA,46,42,50
+Hydrops Fetalis,IA,28,17,19
+Hyperacusis,IA,81,77,63
+Hyperalgesia,IA,20,84,70
+Hypercapnia,IA,37,35,28
+Hyperemesis Gravidarum,IA,51,47,78
+Hyperesthesia,IA,19,83,69
+Hyperventilation,IA,18,63,31
+Hypocapnia,IA,33,7,15
+Hypothermia,IA,61,62,94
+Hypoventilation,IA,75,36,60
+Illusions,IA,90,88,81
+Intermittent Claudication,IA,18,63,31
+Jaundice,IA,80,87,62
+Labor Pain,IA,21,51,8
+Lethargy,IA,70,72,44
+Low Back Pain,IA,55,45,56
+Mental Retardation,IA,90,88,81
+Metatarsalgia,IA,75,28,60
+Miosis,IA,15,64,32
+Morning Sickness,IA,49,48,53
+Motion Sickness,IA,54,50,55
+Mouth Breathing,IA,56,53,85
+Muscle Cramp,IA,62,57,89
+Muscle Weakness,IA,69,71,43
+Mutism,IA,60,61,93
+Myoclonus,IA,58,55,87
+Myotonia,IA,5,8,5
+Nausea,IA,30,20,11
+Neck Pain,IA,30,20,11
+Neuralgia,IA,43,39,47
+Nocturia,IA,6,23,6
+Obesity,IA,90,88,81
+Oliguria,IA,66,67,40
+Ophthalmoplegia,IA,60,61,93
+Orthostatic Intolerance,IA,44,40,48
+Overweight,IA,91,91,76
+Pain,IA,30,20,11
+Pallor,IA,57,52,86
+Paralysis,IA,80,87,62
+Paraplegia,IA,75,28,60
+Paresis,IA,76,51,61
+Paresthesia,IA,24,81,67
+Pelvic Pain,IA,22,19,9
+Photophobia,IA,81,77,63
+Polyuria,IA,58,55,87
+Presbycusis,IA,82,80,66
+Prosopagnosia,IA,38,30,26
+Proteinuria,IA,50,46,77
+Pruritus,IA,73,27,58
+Pseudophakia,IA,10,11,36
+Purpura,IA,92,90,83
+Quadriplegia,IA,4,24,4
+Renal Colic,IA,11,12,37
+Sarcopenia,IA,17,31,27
+Sciatica,IA,32,21,13
+Scotoma,IA,44,40,48
+Seizures,IA,77,76,64
+Shoulder Pain,IA,30,20,11
+Sleep Deprivation,IA,89,88,80
+Sleep Disorders,IA,91,91,76
+Sneezing,IA,30,19,11
+Snoring,IA,62,57,89
+Spasm,IA,93,92,84
+Stupor,IA,60,61,93
+Stuttering,IA,87,60,92
+Susac Syndrome,IA,2,38,2
+Sweating Sickness,IA,34,4,23
+Syncope,IA,85,85,73
+Tetany,IA,89,54,80
+Tics,IA,92,90,83
+Tinea Pedis,IA,41,3,22
+Tinnitus,IA,47,43,51
+Toothache,IA,31,20,12
+Torticollis,IA,16,65,33
+Tremor,IA,74,74,59
+Trismus,IA,7,25,7
+Urinary Incontinence,IA,74,75,59
+Vertigo,IA,79,86,75
+Vomiting,IA,30,20,11
+Weight Gain,IA,30,20,11
+Weight Loss,IA,36,6,25
+Abdominal Pain,KS,34,23,29
+Ageusia,KS,38,27,35
+Agnosia,KS,62,57,63
+Amaurosis Fugax,KS,60,66,61
+Amblyopia,KS,63,72,44
+Amnesia,KS,29,20,26
+Angina Pectoris,KS,60,67,61
+Anisocoria,KS,63,72,44
+Anomia,KS,39,28,11
+Anorexia,KS,50,58,50
+Anoxia,KS,68,71,43
+Aphasia,KS,58,2,60
+Apnea,KS,47,30,4
+Arthralgia,KS,60,66,61
+Asthenia,KS,13,17,71
+Ataxia,KS,61,65,62
+Back Pain,KS,34,23,29
+Birth Weight,KS,57,4,59
+Blindness,KS,50,58,50
+Body Weight,KS,54,74,56
+Bulimia,KS,50,58,50
+Cachexia,KS,1,40,5
+Catatonia,KS,40,68,36
+Chest Pain,KS,34,23,29
+Chills,KS,34,23,29
+Chorea,KS,65,63,48
+Colic,KS,43,56,39
+Coma,KS,30,21,27
+Confusion,KS,62,57,63
+Constipation,KS,34,23,29
+Coprophagia,KS,10,48,68
+Cough,KS,34,23,29
+Cyanosis,KS,71,34,66
+Deafness,KS,62,57,63
+Delirium,KS,14,50,72
+Diarrhea,KS,34,23,29
+Diplopia,KS,3,39,9
+Dizziness,KS,34,23,29
+Dysarthria,KS,56,44,58
+Dysgeusia,KS,46,29,3
+Dyslexia,KS,57,77,59
+Dysmenorrhea,KS,5,38,8
+Dyspepsia,KS,44,42,40
+Dysphonia,KS,66,70,49
+Dyspnea,KS,55,37,57
+Dystonia,KS,52,55,54
+Dysuria,KS,63,72,44
+Earache,KS,33,1,28
+Ecchymosis,KS,15,44,12
+Echolalia,KS,26,10,23
+Edema,KS,16,45,13
+Emaciation,KS,8,36,1
+Encopresis,KS,54,1,56
+Eye Pain,KS,12,51,70
+Facial Pain,KS,8,36,1
+Fatigue,KS,31,22,32
+Feminization,KS,48,76,51
+Fever,KS,34,23,29
+Flank Pain,KS,72,33,67
+Flatulence,KS,42,69,38
+Flushing,KS,43,56,39
+Gagging,KS,67,61,42
+Gastroparesis,KS,28,16,25
+Halitosis,KS,17,5,14
+Hallucinations,KS,15,44,12
+Headache,KS,34,23,29
+Hearing Loss,KS,50,75,52
+Heartburn,KS,34,23,29
+Hematemesis,KS,44,42,40
+Hemianopsia,KS,56,33,58
+Hemiplegia,KS,53,54,55
+Hemoptysis,KS,10,48,68
+Hiccup,KS,63,72,44
+Hirsutism,KS,56,66,58
+Hoarseness,KS,46,29,3
+Hot Flashes,KS,6,52,46
+Hydrops Fetalis,KS,17,5,14
+Hypercapnia,KS,17,5,14
+Hyperemesis Gravidarum,KS,56,13,58
+Hyperventilation,KS,63,72,44
+Hypothermia,KS,52,54,54
+Hypoventilation,KS,17,5,14
+Illusions,KS,50,58,50
+Jaundice,KS,53,54,55
+Labor Pain,KS,19,7,16
+Lethargy,KS,4,32,10
+Low Back Pain,KS,18,6,15
+Mental Retardation,KS,49,58,50
+Metatarsalgia,KS,65,63,48
+Miosis,KS,67,61,42
+Morning Sickness,KS,40,68,36
+Motion Sickness,KS,61,46,62
+Mouth Breathing,KS,69,35,64
+Muscle Cramp,KS,56,31,58
+Muscle Weakness,KS,2,41,6
+Mutism,KS,70,31,65
+Myoclonus,KS,68,71,43
+Nausea,KS,34,23,29
+Neck Pain,KS,34,23,29
+Neuralgia,KS,48,76,51
+Nocturia,KS,22,14,19
+Obesity,KS,50,58,50
+Oliguria,KS,15,44,12
+Overweight,KS,49,59,50
+Pain,KS,34,23,29
+Pallor,KS,3,39,9
+Paralysis,KS,31,22,32
+Paraplegia,KS,53,54,55
+Paresis,KS,27,15,24
+Paresthesia,KS,8,36,1
+Pelvic Pain,KS,32,47,33
+Photophobia,KS,5,38,8
+Polyuria,KS,10,48,68
+Presbycusis,KS,56,12,58
+Prosopagnosia,KS,9,62,2
+Proteinuria,KS,64,73,45
+Pruritus,KS,45,43,41
+Purpura,KS,57,61,59
+Purpura Fulminans,KS,20,8,17
+Quadriplegia,KS,24,18,21
+Renal Colic,KS,15,44,12
+Sarcopenia,KS,21,9,18
+Sciatica,KS,34,23,29
+Scotoma,KS,56,70,58
+Seizures,KS,11,49,69
+Shoulder Pain,KS,34,23,29
+Sleep Deprivation,KS,17,5,14
+Sleep Disorders,KS,50,58,50
+Sneezing,KS,33,3,28
+Snoring,KS,17,5,14
+Spasm,KS,59,60,7
+Stupor,KS,27,15,24
+Stuttering,KS,48,76,51
+Sweating Sickness,KS,23,11,20
+Syncope,KS,51,53,53
+Synkinesis,KS,37,26,34
+Tetany,KS,10,48,68
+Tics,KS,51,53,53
+Tinea Pedis,KS,7,64,47
+Tinnitus,KS,63,72,44
+Toothache,KS,36,25,30
+Torticollis,KS,41,65,37
+Tremor,KS,53,52,55
+Trismus,KS,68,71,43
+Unconsciousness,KS,25,19,22
+Urinary Incontinence,KS,63,72,44
+Vertigo,KS,17,5,14
+Vomiting,KS,34,23,29
+Weight Gain,KS,34,23,29
+Weight Loss,KS,35,24,31
+Abdominal Pain,KY,9,40,9
+Ageusia,KY,15,26,14
+Agnosia,KY,65,13,64
+Amaurosis Fugax,KY,34,62,33
+Amblyopia,KY,62,18,61
+Amnesia,KY,10,41,10
+Angina Pectoris,KY,35,63,34
+Anisocoria,KY,38,1,37
+Anomia,KY,40,4,39
+Anorexia,KY,64,17,63
+Anoxia,KY,54,51,53
+Aphasia,KY,5,52,5
+Apnea,KY,63,16,62
+Arthralgia,KY,32,20,31
+Asthenia,KY,48,9,47
+Ataxia,KY,50,43,49
+Back Pain,KY,9,40,9
+Birth Weight,KY,57,54,56
+Blindness,KY,64,17,63
+Body Weight,KY,53,55,52
+Bulimia,KY,64,17,63
+Cachexia,KY,55,54,54
+Catatonia,KY,1,36,1
+Chest Pain,KY,9,40,9
+Chills,KY,9,40,9
+Chorea,KY,6,42,6
+Colic,KY,61,19,60
+Coma,KY,66,14,65
+Communication Disorders,KY,52,53,51
+Confusion,KY,3,58,3
+Constipation,KY,9,40,9
+Coprophagia,KY,48,9,47
+Cough,KY,9,40,9
+Cyanosis,KY,45,21,44
+Deafness,KY,62,18,61
+Delirium,KY,43,64,42
+Diarrhea,KY,9,40,9
+Diplopia,KY,66,21,65
+Dizziness,KY,9,40,9
+Dysarthria,KY,52,60,51
+Dysgeusia,KY,24,35,23
+Dyslexia,KY,63,16,62
+Dysmenorrhea,KY,25,49,24
+Dyspepsia,KY,39,3,38
+Dysphonia,KY,44,13,43
+Dyspnea,KY,3,58,3
+Dystonia,KY,38,1,37
+Dysuria,KY,38,1,37
+Earache,KY,11,43,11
+Ecchymosis,KY,47,8,46
+Echolalia,KY,27,48,26
+Edema,KY,60,56,59
+Emaciation,KY,27,48,26
+Encopresis,KY,48,9,47
+Eye Pain,KY,13,39,12
+Facial Pain,KY,6,42,6
+Fasciculation,KY,19,30,18
+Fatigue,KY,9,40,9
+Feminization,KY,61,19,60
+Fever,KY,9,40,9
+Flank Pain,KY,35,63,34
+Flatulence,KY,37,66,36
+Flushing,KY,49,6,48
+Gagging,KY,26,50,25
+Gastroparesis,KY,8,22,8
+Halitosis,KY,56,10,55
+Hallucinations,KY,28,15,27
+Headache,KY,9,40,9
+Hearing Loss,KY,63,16,62
+Heartburn,KY,9,40,9
+Hematemesis,KY,2,37,2
+Hemianopsia,KY,4,59,4
+Hemiplegia,KY,41,2,40
+Hemoptysis,KY,38,1,37
+Hiccup,KY,7,42,7
+Hirsutism,KY,35,63,34
+Hoarseness,KY,33,60,32
+Horner Syndrome,KY,48,9,47
+Hot Flashes,KY,46,52,45
+Hydrops Fetalis,KY,29,47,28
+Hyperacusis,KY,25,49,24
+Hyperalgesia,KY,58,12,57
+Hypercapnia,KY,62,18,61
+Hyperemesis Gravidarum,KY,30,46,29
+Hyperesthesia,KY,59,45,58
+Hyperventilation,KY,55,54,54
+Hypothermia,KY,38,1,37
+Hypoventilation,KY,54,51,53
+Illusions,KY,64,17,63
+Intermittent Claudication,KY,20,31,19
+Jaundice,KY,44,23,43
+Labor Pain,KY,4,59,4
+Learning Disorders,KY,33,61,32
+Lethargy,KY,32,20,31
+Livedo Reticularis,KY,18,29,17
+Low Back Pain,KY,47,8,46
+Mental Retardation,KY,64,17,63
+Metatarsalgia,KY,45,21,44
+Miosis,KY,21,32,20
+Morning Sickness,KY,12,38,12
+Motion Sickness,KY,45,21,44
+Mouth Breathing,KY,25,49,24
+Muscle Cramp,KY,43,64,42
+Muscle Weakness,KY,55,54,54
+Mutism,KY,32,20,31
+Myoclonus,KY,65,13,64
+Myotonia,KY,32,20,31
+Nausea,KY,9,40,9
+Neck Pain,KY,9,40,9
+Neuralgia,KY,46,5,45
+Nocturia,KY,48,9,47
+Obesity,KY,64,17,63
+Oliguria,KY,6,42,6
+Orthostatic Intolerance,KY,19,30,18
+Overweight,KY,64,17,63
+Pain,KY,9,40,9
+Pallor,KY,4,59,4
+Paralysis,KY,4,59,4
+Paraplegia,KY,31,67,30
+Paresis,KY,22,33,21
+Paresthesia,KY,4,59,4
+Pelvic Pain,KY,49,6,48
+Photophobia,KY,25,49,24
+Polyuria,KY,36,65,35
+Presbycusis,KY,23,34,22
+Prosopagnosia,KY,16,27,15
+Proteinuria,KY,62,18,61
+Pruritus,KY,51,7,50
+Purpura,KY,59,9,58
+Quadriplegia,KY,17,28,16
+Renal Colic,KY,30,46,29
+Sarcopenia,KY,35,63,34
+Sciatica,KY,13,39,9
+Scotoma,KY,14,24,13
+Seizures,KY,11,44,11
+Shoulder Pain,KY,9,40,9
+Sleep Deprivation,KY,56,10,55
+Sleep Disorders,KY,64,17,63
+Sneezing,KY,12,38,12
+Snoring,KY,6,42,6
+Spasm,KY,59,57,58
+Stupor,KY,29,45,28
+Stuttering,KY,64,17,63
+Susac Syndrome,KY,32,20,31
+Sweating Sickness,KY,14,25,13
+Syncope,KY,39,3,38
+Tetany,KY,38,1,37
+Tics,KY,39,3,38
+Tinea Pedis,KY,4,59,4
+Tinnitus,KY,42,11,41
+Toothache,KY,9,40,9
+Torticollis,KY,48,9,47
+Tremor,KY,55,7,54
+Trismus,KY,36,65,35
+Unconsciousness,KY,41,2,40
+Urinary Incontinence,KY,64,17,63
+Vertigo,KY,8,22,8
+Vomiting,KY,9,40,9
+Weight Gain,KY,9,40,9
+Weight Loss,KY,9,40,9
+Abdominal Pain,LA,69,52,20
+Ageusia,LA,53,36,5
+Agnosia,LA,24,15,8
+Alien Hand Syndrome,LA,37,28,68
+Amaurosis Fugax,LA,67,49,3
+Amblyopia,LA,49,68,31
+Amnesia,LA,70,53,21
+Angina Pectoris,LA,21,16,49
+Anisocoria,LA,41,59,70
+Anomia,LA,48,71,30
+Anorexia,LA,32,12,55
+Anoxia,LA,37,28,68
+Aphasia,LA,27,32,52
+Apnea,LA,8,74,36
+Arthralgia,LA,1,23,59
+Asthenia,LA,19,21,73
+Ataxia,LA,28,9,56
+Athetosis,LA,42,60,71
+Back Pain,LA,69,52,20
+Birth Weight,LA,30,11,58
+Blindness,LA,31,12,55
+Body Weight,LA,20,22,74
+Bulimia,LA,32,12,55
+Cachexia,LA,2,26,61
+Catatonia,LA,17,19,64
+Chest Pain,LA,69,52,20
+Chills,LA,69,52,20
+Chorea,LA,12,1,44
+Colic,LA,71,50,22
+Coma,LA,26,65,54
+Communication Disorders,LA,25,17,53
+Confusion,LA,32,24,60
+Constipation,LA,69,52,20
+Coprophagia,LA,39,38,27
+Cough,LA,69,52,20
+Cyanosis,LA,44,62,15
+Deafness,LA,28,9,56
+Delirium,LA,11,33,38
+Diarrhea,LA,69,52,20
+Diplopia,LA,45,63,16
+Dizziness,LA,69,52,20
+Dysarthria,LA,15,72,47
+Dysgeusia,LA,51,73,33
+Dyslexia,LA,32,12,55
+Dysmenorrhea,LA,56,58,9
+Dyspepsia,LA,12,1,44
+Dysphonia,LA,3,27,62
+Dyspnea,LA,25,17,53
+Dystonia,LA,19,21,73
+Dysuria,LA,47,70,29
+Earache,LA,63,50,24
+Ecchymosis,LA,38,31,69
+Echolalia,LA,39,38,27
+Edema,LA,29,10,57
+Emaciation,LA,73,46,13
+Encopresis,LA,41,59,70
+Eye Pain,LA,68,51,19
+Facial Pain,LA,42,60,71
+Fatigue,LA,69,52,20
+Feminization,LA,33,13,40
+Fever,LA,69,52,20
+Flank Pain,LA,52,75,34
+Flatulence,LA,12,1,44
+Flushing,LA,28,9,56
+Gagging,LA,64,55,25
+Gastroparesis,LA,7,25,35
+Halitosis,LA,12,1,44
+Hallucinations,LA,20,24,60
+Headache,LA,69,52,20
+Hearing Loss,LA,31,12,55
+Heartburn,LA,69,52,20
+Hematemesis,LA,74,47,14
+Hemianopsia,LA,4,5,72
+Hemiplegia,LA,62,43,12
+Hemoptysis,LA,28,9,56
+Hiccup,LA,65,56,26
+Hirsutism,LA,37,28,68
+Hoarseness,LA,43,64,63
+Hot Flashes,LA,47,70,29
+Hydrops Fetalis,LA,50,67,32
+Hyperacusis,LA,2,26,61
+Hyperalgesia,LA,37,28,68
+Hypercapnia,LA,42,60,71
+Hyperemesis Gravidarum,LA,57,44,10
+Hyperesthesia,LA,4,5,72
+Hyperventilation,LA,44,62,15
+Hypothermia,LA,9,69,39
+Hypoventilation,LA,51,73,33
+Illusions,LA,32,12,55
+Intermittent Claudication,LA,61,42,1
+Jaundice,LA,28,9,56
+Labor Pain,LA,14,3,46
+Lethargy,LA,13,2,45
+Livedo Reticularis,LA,2,26,61
+Low Back Pain,LA,25,17,53
+Mental Retardation,LA,32,12,55
+Metatarsalgia,LA,50,67,32
+Miosis,LA,35,29,66
+Morning Sickness,LA,63,57,24
+Motion Sickness,LA,1,23,59
+Mouth Breathing,LA,66,48,18
+Muscle Cramp,LA,55,35,7
+Muscle Weakness,LA,58,61,11
+Mutism,LA,10,16,37
+Myoclonus,LA,36,34,67
+Myotonia,LA,54,37,6
+Nausea,LA,69,52,20
+Neck Pain,LA,69,52,20
+Neuralgia,LA,43,64,63
+Nocturia,LA,45,63,16
+Obesity,LA,32,12,55
+Oliguria,LA,48,71,30
+Orthostatic Intolerance,LA,40,39,28
+Overweight,LA,28,9,56
+Pain,LA,69,52,20
+Pallor,LA,28,9,56
+Paralysis,LA,29,10,57
+Paraparesis,LA,42,60,71
+Paraplegia,LA,5,7,42
+Paresis,LA,59,40,2
+Paresthesia,LA,7,25,35
+Pelvic Pain,LA,45,63,16
+Photophobia,LA,18,20,65
+Polyuria,LA,10,30,37
+Presbycusis,LA,58,45,11
+Prosopagnosia,LA,12,1,44
+Proteinuria,LA,5,7,42
+Pruritus,LA,6,8,43
+Purpura,LA,28,9,56
+Quadriplegia,LA,10,35,37
+Sarcopenia,LA,60,41,18
+Sciatica,LA,68,51,19
+Scotoma,LA,37,28,68
+Seizures,LA,9,61,39
+Shoulder Pain,LA,69,52,20
+Sleep Deprivation,LA,13,2,45
+Sleep Disorders,LA,32,12,55
+Sneezing,LA,69,52,20
+Snoring,LA,46,66,17
+Spasm,LA,22,18,50
+Stupor,LA,72,54,23
+Stuttering,LA,34,14,41
+Sweating Sickness,LA,57,44,10
+Syncope,LA,23,18,51
+Tetany,LA,13,2,45
+Tics,LA,24,15,8
+Tinea Pedis,LA,62,43,12
+Tinnitus,LA,33,71,40
+Toothache,LA,69,52,20
+Torticollis,LA,27,32,52
+Tremor,LA,43,64,63
+Trismus,LA,66,48,4
+Urinary Incontinence,LA,33,6,40
+Vertigo,LA,16,4,48
+Vomiting,LA,69,52,20
+Weight Gain,LA,69,52,20
+Weight Loss,LA,69,52,20
+Abdominal Pain,ME,48,54,41
+Agnosia,ME,36,22,13
+Amblyopia,ME,51,69,51
+Amnesia,ME,18,25,4
+Angina Pectoris,ME,52,70,52
+Anisocoria,ME,25,45,19
+Anorexia,ME,72,7,72
+Anoxia,ME,79,11,81
+Aphasia,ME,44,2,34
+Apnea,ME,69,4,69
+Arthralgia,ME,8,37,16
+Asthenia,ME,21,28,5
+Ataxia,ME,68,3,68
+Back Pain,ME,46,52,39
+Birth Weight,ME,66,18,66
+Blindness,ME,72,7,72
+Body Weight,ME,83,9,80
+Bulimia,ME,72,7,72
+Cachexia,ME,75,63,75
+Catatonia,ME,50,57,43
+Chest Pain,ME,46,52,39
+Chills,ME,47,53,40
+Chorea,ME,27,47,21
+Colic,ME,30,50,24
+Coma,ME,15,30,1
+Confusion,ME,71,6,71
+Constipation,ME,46,52,39
+Cough,ME,46,52,39
+Cyanosis,ME,11,33,28
+Deafness,ME,82,8,79
+Delirium,ME,22,29,6
+Diarrhea,ME,46,52,39
+Diplopia,ME,31,13,25
+Dizziness,ME,42,56,32
+Dysarthria,ME,17,24,3
+Dyslexia,ME,68,3,68
+Dysmenorrhea,ME,55,76,55
+Dyspepsia,ME,31,15,25
+Dysphonia,ME,1,40,46
+Dyspnea,ME,67,19,67
+Dystonia,ME,6,17,14
+Dysuria,ME,64,73,64
+Earache,ME,33,81,27
+Ecchymosis,ME,13,35,30
+Echolalia,ME,2,41,47
+Edema,ME,77,1,77
+Encopresis,ME,51,69,51
+Eye Pain,ME,32,14,26
+Fatigue,ME,45,51,38
+Feminization,ME,82,8,79
+Fever,ME,46,52,39
+Flank Pain,ME,34,20,11
+Flatulence,ME,9,38,17
+Flushing,ME,7,26,15
+Gagging,ME,79,11,81
+Gastroparesis,ME,39,60,35
+Halitosis,ME,68,3,68
+Hallucinations,ME,16,27,2
+Headache,ME,46,52,39
+Hearing Loss,ME,62,77,62
+Heartburn,ME,46,52,39
+Hematemesis,ME,1,40,46
+Hemianopsia,ME,73,65,73
+Hemiplegia,ME,63,67,63
+Hemoptysis,ME,17,24,3
+Hiccup,ME,57,79,57
+Hirsutism,ME,26,46,20
+Hoarseness,ME,43,16,33
+Hot Flashes,ME,78,1,78
+Hyperalgesia,ME,68,3,68
+Hypercapnia,ME,28,48,22
+Hyperemesis Gravidarum,ME,37,58,44
+Hyperventilation,ME,61,74,61
+Hypothermia,ME,68,3,68
+Illusions,ME,72,7,72
+Jaundice,ME,41,62,37
+Lethargy,ME,32,14,26
+Low Back Pain,ME,65,68,65
+Metatarsalgia,ME,35,21,12
+Miosis,ME,53,71,53
+Morning Sickness,ME,31,13,25
+Motion Sickness,ME,6,17,14
+Muscle Weakness,ME,19,23,8
+Mutism,ME,12,34,29
+Myoclonus,ME,51,69,51
+Nausea,ME,46,52,39
+Neck Pain,ME,46,52,39
+Neuralgia,ME,20,23,9
+Nocturia,ME,31,13,25
+Obesity,ME,72,7,72
+Oliguria,ME,52,70,52
+Overweight,ME,71,6,71
+Pain,ME,46,52,39
+Pallor,ME,80,12,82
+Paralysis,ME,81,10,83
+Paraplegia,ME,75,63,75
+Paresis,ME,25,45,19
+Paresthesia,ME,3,42,48
+Pelvic Pain,ME,59,82,59
+Photophobia,ME,4,43,49
+Polyuria,ME,34,20,11
+Presbycusis,ME,14,36,31
+Prosopagnosia,ME,38,59,45
+Proteinuria,ME,64,73,64
+Pruritus,ME,56,78,56
+Purpura,ME,61,10,61
+Sciatica,ME,60,75,60
+Seizures,ME,70,5,70
+Shoulder Pain,ME,45,51,38
+Sleep Deprivation,ME,72,7,72
+Sneezing,ME,23,31,7
+Snoring,ME,70,5,70
+Spasm,ME,24,32,10
+Stupor,ME,29,49,23
+Stuttering,ME,68,3,68
+Syncope,ME,31,13,25
+Tetany,ME,54,72,54
+Tics,ME,5,44,50
+Tinea Pedis,ME,21,28,5
+Tinnitus,ME,40,61,36
+Toothache,ME,49,55,42
+Torticollis,ME,76,64,76
+Tremor,ME,73,65,73
+Trismus,ME,10,39,18
+Urinary Incontinence,ME,74,66,74
+Vertigo,ME,58,80,58
+Vomiting,ME,46,52,39
+Weight Gain,ME,46,52,39
+Weight Loss,ME,46,52,39
+Abdominal Pain,MD,12,9,15
+Acute Coronary Syndrome,MD,80,31,55
+Ageusia,MD,19,12,66
+Agnosia,MD,66,94,36
+Agraphia,MD,51,48,96
+Albuminuria,MD,55,69,30
+Alien Hand Syndrome,MD,28,17,58
+Amaurosis Fugax,MD,78,30,48
+Amblyopia,MD,70,81,42
+Amnesia,MD,12,9,15
+Angina Pectoris,MD,67,95,37
+Anisocoria,MD,82,33,57
+Anomia,MD,1,1,7
+Anorexia,MD,73,86,46
+Anoxia,MD,69,85,45
+Aphasia,MD,56,66,31
+Aphonia,MD,2,2,8
+Apnea,MD,11,8,13
+Arthralgia,MD,45,42,89
+Asthenia,MD,74,87,47
+Ataxia,MD,75,74,41
+Athetosis,MD,14,36,71
+Back Pain,MD,12,9,15
+Birth Weight,MD,92,49,23
+Blindness,MD,73,86,46
+Body Weight,MD,27,11,5
+Bulimia,MD,73,86,46
+Cachexia,MD,62,83,39
+Catatonia,MD,43,38,87
+Cerebellar Ataxia,MD,89,61,1
+Chest Pain,MD,12,9,15
+Chills,MD,12,9,15
+Chorea,MD,65,90,35
+Colic,MD,4,4,10
+Coma,MD,13,10,16
+Confusion,MD,79,50,49
+Constipation,MD,12,9,15
+Coprophagia,MD,15,37,72
+Cough,MD,12,9,15
+Cyanosis,MD,64,93,34
+Deafness,MD,73,86,46
+Delirium,MD,87,55,6
+Diarrhea,MD,12,9,15
+Diplopia,MD,37,28,77
+Dizziness,MD,12,9,15
+Dysarthria,MD,61,71,81
+Dysgeusia,MD,85,53,50
+Dyslexia,MD,71,88,43
+Dysmenorrhea,MD,83,51,52
+Dyspepsia,MD,77,76,82
+Dysphonia,MD,31,20,61
+Dyspnea,MD,5,5,11
+Dystonia,MD,63,84,40
+Dysuria,MD,7,13,17
+Earache,MD,90,62,2
+Ecchymosis,MD,18,40,75
+Echolalia,MD,41,79,84
+Edema,MD,26,65,4
+Emaciation,MD,28,17,58
+Encopresis,MD,72,89,44
+Eructation,MD,16,85,73
+Eye Pain,MD,10,7,15
+Facial Pain,MD,31,20,61
+Fasciculation,MD,32,21,62
+Fatigue,MD,12,9,15
+Feminization,MD,69,85,45
+Fever,MD,12,9,15
+Flank Pain,MD,55,69,30
+Flatulence,MD,66,94,36
+Flushing,MD,55,69,30
+Gagging,MD,91,64,3
+Gastroparesis,MD,90,63,2
+Halitosis,MD,84,52,53
+Hallucinations,MD,88,56,54
+Headache,MD,12,9,15
+Hearing Loss,MD,61,70,81
+Heart Murmurs,MD,74,87,47
+Heartburn,MD,12,9,15
+Hematemesis,MD,40,78,83
+Hemianopsia,MD,52,46,97
+Hemiplegia,MD,42,80,85
+Hemoglobinuria,MD,32,21,62
+Hemoptysis,MD,77,76,82
+Hiccup,MD,12,9,15
+Hirsutism,MD,83,51,52
+Hoarseness,MD,35,24,65
+Horner Syndrome,MD,96,60,27
+Hot Flashes,MD,12,9,15
+Hydrops Fetalis,MD,95,57,26
+Hyperacusis,MD,50,81,20
+Hyperalgesia,MD,23,92,70
+Hypercapnia,MD,86,54,51
+Hyperemesis Gravidarum,MD,3,3,9
+Hyperesthesia,MD,55,71,30
+Hyperphagia,MD,20,16,67
+Hyperventilation,MD,68,96,38
+Hypocapnia,MD,28,17,58
+Hypothermia,MD,64,93,34
+Hypoventilation,MD,60,25,80
+Illusions,MD,73,86,46
+Intermittent Claudication,MD,77,76,82
+Jaundice,MD,10,7,22
+Korsakoff Syndrome,MD,50,12,20
+Labor Pain,MD,9,15,19
+Lethargy,MD,70,70,42
+Livedo Reticularis,MD,33,22,63
+Low Back Pain,MD,58,73,33
+Mental Retardation,MD,73,86,46
+Metatarsalgia,MD,67,95,37
+Miosis,MD,62,83,39
+Morning Sickness,MD,54,68,29
+Motion Sickness,MD,93,57,24
+Mouth Breathing,MD,40,78,83
+Muscle Cramp,MD,95,59,26
+Muscle Weakness,MD,76,75,21
+Muscular Atrophy,MD,94,58,25
+Mutism,MD,32,21,62
+Myoclonus,MD,14,36,71
+Myokymia,MD,29,18,59
+Myotonia,MD,54,68,29
+Nausea,MD,12,9,15
+Neck Pain,MD,12,9,15
+Neuralgia,MD,75,74,41
+Nocturia,MD,53,71,28
+Obesity,MD,73,86,46
+Oliguria,MD,47,34,91
+Ophthalmoplegia,MD,55,71,30
+Orthostatic Intolerance,MD,95,59,26
+Overweight,MD,26,65,4
+Pain,MD,12,9,15
+Pallor,MD,21,91,68
+Paralysis,MD,12,9,15
+Paraparesis,MD,22,82,69
+Paraplegia,MD,67,95,37
+Paresis,MD,44,39,88
+Paresthesia,MD,49,47,93
+Pelvic Pain,MD,12,9,15
+Persistent Vegetative State,MD,14,36,71
+Phantom Limb,MD,39,77,86
+Photophobia,MD,77,76,82
+Polyuria,MD,64,93,34
+Presbycusis,MD,60,25,80
+Prosopagnosia,MD,30,19,60
+Proteinuria,MD,39,77,86
+Pruritus,MD,45,42,89
+Pseudophakia,MD,36,27,76
+Purpura,MD,76,75,21
+Purpura Fulminans,MD,36,27,76
+Quadriplegia,MD,24,44,94
+Renal Colic,MD,46,43,90
+Sarcopenia,MD,80,31,55
+Sciatica,MD,12,9,15
+Scotoma,MD,59,26,79
+Seizures,MD,6,6,12
+Shoulder Pain,MD,12,9,15
+Sleep Deprivation,MD,74,87,47
+Sleep Disorders,MD,74,87,47
+Sneezing,MD,12,9,15
+Snoring,MD,57,67,32
+Spasm,MD,11,8,14
+Stupor,MD,8,14,18
+Stuttering,MD,94,58,25
+Sweating Sickness,MD,25,45,95
+Syncope,MD,34,23,64
+Tetany,MD,59,26,79
+Tics,MD,38,29,78
+Tinea Pedis,MD,64,93,34
+Tinnitus,MD,11,8,13
+Toothache,MD,12,9,15
+Torticollis,MD,81,32,56
+Tremor,MD,53,72,28
+Trismus,MD,17,41,74
+Unconsciousness,MD,48,35,92
+Urinary Incontinence,MD,55,69,30
+Vertigo,MD,89,61,1
+Vomiting,MD,12,9,15
+Weight Gain,MD,12,9,15
+Weight Loss,MD,12,9,15
+Abdominal Pain,MA,90,27,92
+Acute Coronary Syndrome,MA,15,86,61
+Ageusia,MA,54,69,22
+Agnosia,MA,37,83,16
+Agraphia,MA,34,67,19
+Albuminuria,MA,78,11,75
+Alien Hand Syndrome,MA,93,31,98
+Amaurosis Fugax,MA,94,15,69
+Amblyopia,MA,98,6,66
+Amnesia,MA,90,27,92
+Angina Pectoris,MA,29,52,30
+Anisocoria,MA,12,88,6
+Anomia,MA,41,61,48
+Anorexia,MA,62,58,38
+Anoxia,MA,19,54,12
+Aphasia,MA,79,12,74
+Aphonia,MA,17,81,10
+Apnea,MA,89,27,91
+Arthralgia,MA,40,46,40
+Asthenia,MA,55,34,31
+Ataxia,MA,75,87,64
+Athetosis,MA,65,1,56
+Back Pain,MA,90,27,92
+Birth Weight,MA,95,80,9
+Blindness,MA,62,58,38
+Body Weight,MA,72,17,67
+Bulimia,MA,62,58,38
+Cachexia,MA,85,24,88
+Catalepsy,MA,17,81,10
+Catatonia,MA,73,18,84
+Cerebellar Ataxia,MA,27,52,28
+Chest Pain,MA,90,27,92
+Chills,MA,90,27,92
+Chorea,MA,19,54,12
+Colic,MA,90,27,92
+Coma,MA,90,27,92
+Communication Disorders,MA,10,55,80
+Confusion,MA,62,58,38
+Constipation,MA,90,27,92
+Coprophagia,MA,52,42,44
+Cough,MA,90,27,92
+Cyanosis,MA,24,49,18
+Deafness,MA,61,59,38
+Delirium,MA,86,25,89
+Diarrhea,MA,90,27,92
+Diplopia,MA,45,63,52
+Dizziness,MA,90,27,92
+Dysarthria,MA,30,9,70
+Dysgeusia,MA,24,49,18
+Dyslexia,MA,62,58,38
+Dysmenorrhea,MA,36,77,15
+Dyspepsia,MA,25,50,26
+Dysphonia,MA,15,86,61
+Dyspnea,MA,92,30,20
+Dystonia,MA,22,70,23
+Dysuria,MA,82,21,95
+Earache,MA,91,28,93
+Ecchymosis,MA,88,26,90
+Echolalia,MA,16,75,62
+Edema,MA,85,24,88
+Emaciation,MA,74,85,63
+Encopresis,MA,10,55,80
+Eructation,MA,70,91,82
+Eye Hemorrhage,MA,39,45,39
+Eye Pain,MA,90,27,92
+Facial Pain,MA,58,58,35
+Facial Paralysis,MA,46,37,58
+Fasciculation,MA,60,60,37
+Fatigue,MA,90,27,92
+Feminization,MA,64,58,36
+Fetal Weight,MA,63,56,34
+Fever,MA,90,27,92
+Flank Pain,MA,85,24,88
+Flatulence,MA,61,51,38
+Flushing,MA,90,27,92
+Gagging,MA,88,26,90
+Gastroparesis,MA,90,27,92
+Halitosis,MA,39,45,39
+Hallucinations,MA,90,27,92
+Headache,MA,90,27,92
+Hearing Loss,MA,32,73,25
+Heart Murmurs,MA,64,58,36
+Heartburn,MA,90,27,92
+Hematemesis,MA,26,51,27
+Hemianopsia,MA,26,51,27
+Hemiplegia,MA,43,64,50
+Hemoglobinuria,MA,26,51,27
+Hemoptysis,MA,95,80,9
+Hiccup,MA,87,29,94
+Hirsutism,MA,53,57,21
+Hoarseness,MA,1,32,1
+Horner Syndrome,MA,2,33,2
+Hot Flashes,MA,90,27,92
+Hydrops Fetalis,MA,3,65,3
+Hyperacusis,MA,38,74,45
+Hyperalgesia,MA,13,89,7
+Hypercapnia,MA,31,10,71
+Hyperemesis Gravidarum,MA,80,19,85
+Hyperesthesia,MA,67,3,53
+Hyperphagia,MA,43,64,50
+Hyperventilation,MA,50,40,42
+Hypocapnia,MA,66,2,57
+Hypothermia,MA,97,93,65
+Hypoventilation,MA,14,90,8
+Illusions,MA,62,58,38
+Intermittent Claudication,MA,42,62,49
+Jaundice,MA,74,85,63
+Korsakoff Syndrome,MA,25,50,26
+Labor Pain,MA,83,22,96
+Language Disorders,MA,27,58,28
+Lethargy,MA,6,43,76
+Livedo Reticularis,MA,69,5,55
+Low Back Pain,MA,87,16,87
+Mental Retardation,MA,62,58,38
+Metatarsalgia,MA,18,82,11
+Miosis,MA,44,84,51
+Morning Sickness,MA,81,20,86
+Motion Sickness,MA,59,16,87
+Mouth Breathing,MA,76,7,72
+Muscle Cramp,MA,56,34,32
+Muscle Weakness,MA,96,47,46
+Muscular Atrophy,MA,37,59,16
+Mutism,MA,60,59,37
+Myoclonus,MA,27,58,28
+Myokymia,MA,35,68,17
+Myotonia,MA,44,84,51
+Nausea,MA,90,27,92
+Neck Pain,MA,90,27,92
+Neuralgia,MA,25,50,26
+Nocturia,MA,84,23,97
+Obesity,MA,62,58,38
+Oliguria,MA,86,25,89
+Ophthalmoplegia,MA,48,36,60
+Orthostatic Intolerance,MA,4,66,4
+Overweight,MA,40,46,40
+Pain,MA,90,27,92
+Pallor,MA,68,4,54
+Paralysis,MA,90,27,92
+Paraparesis,MA,45,63,52
+Paraplegia,MA,33,48,47
+Paresis,MA,97,36,65
+Paresthesia,MA,17,81,10
+Pelvic Pain,MA,90,27,92
+Persistent Vegetative State,MA,67,3,53
+Phantom Limb,MA,5,83,5
+Photophobia,MA,64,76,36
+Polyuria,MA,51,41,43
+Presbycusis,MA,71,94,83
+Prosopagnosia,MA,20,84,13
+Proteinuria,MA,63,56,34
+Pruritus,MA,99,13,68
+Pseudophakia,MA,90,27,92
+Psychomotor Agitation,MA,97,71,65
+Purpura,MA,58,83,35
+Purpura Fulminans,MA,23,72,24
+Quadriplegia,MA,96,14,68
+Renal Colic,MA,77,8,73
+Sarcopenia,MA,78,11,75
+Sciatica,MA,90,27,92
+Scotoma,MA,28,53,29
+Seizures,MA,7,79,77
+Shoulder Pain,MA,90,27,92
+Sleep Deprivation,MA,9,78,79
+Sleep Disorders,MA,62,58,38
+Sneezing,MA,90,27,92
+Snoring,MA,90,27,92
+Spasm,MA,89,27,91
+Speech Disorders,MA,21,92,14
+Stupor,MA,79,12,74
+Stuttering,MA,49,39,41
+Sweating Sickness,MA,47,38,59
+Syncope,MA,36,77,15
+Tetany,MA,11,6,81
+Thinness,MA,45,63,52
+Tics,MA,57,35,33
+Tinea Pedis,MA,6,43,76
+Tinnitus,MA,90,27,92
+Toothache,MA,90,27,92
+Torticollis,MA,8,78,78
+Tremor,MA,49,39,41
+Trismus,MA,1,32,1
+Unconsciousness,MA,38,74,45
+Urinary Incontinence,MA,53,57,21
+Vertigo,MA,9,44,79
+Vomiting,MA,90,27,92
+Weight Gain,MA,90,27,92
+Weight Loss,MA,90,27,92
+Abdominal Pain,MI,11,57,87
+Acute Coronary Syndrome,MI,44,9,7
+Ageusia,MI,28,93,55
+Agnosia,MI,41,11,9
+Agraphia,MI,19,83,65
+Albuminuria,MI,33,49,11
+Alien Hand Syndrome,MI,30,49,78
+Amaurosis Fugax,MI,54,30,22
+Amblyopia,MI,68,33,75
+Amnesia,MI,10,56,86
+Angina Pectoris,MI,56,28,24
+Anisocoria,MI,50,71,72
+Anomia,MI,5,51,81
+Anorexia,MI,66,47,37
+Anoxia,MI,69,34,26
+Aphasia,MI,78,19,14
+Aphonia,MI,88,73,58
+Apnea,MI,7,53,82
+Arthralgia,MI,74,15,41
+Asthenia,MI,65,46,36
+Ataxia,MI,72,13,39
+Athetosis,MI,41,11,9
+Back Pain,MI,11,57,87
+Birth Weight,MI,51,72,73
+Blindness,MI,66,47,37
+Body Weight,MI,71,36,28
+Bulimia,MI,66,47,37
+Cachexia,MI,49,70,71
+Catalepsy,MI,27,69,54
+Catatonia,MI,33,92,11
+Cerebellar Ataxia,MI,30,49,78
+Chest Pain,MI,11,57,87
+Chills,MI,11,57,87
+Chorea,MI,59,12,45
+Colic,MI,9,54,84
+Coma,MI,10,56,86
+Communication Disorders,MI,55,31,23
+Confusion,MI,66,47,37
+Constipation,MI,11,57,87
+Coprophagia,MI,33,74,11
+Cough,MI,11,57,87
+Cyanosis,MI,68,33,75
+Deafness,MI,66,47,37
+Delirium,MI,73,14,40
+Diarrhea,MI,11,57,87
+Diplopia,MI,47,4,4
+Dizziness,MI,11,57,87
+Dysarthria,MI,32,50,80
+Dysgeusia,MI,53,37,21
+Dyslexia,MI,66,47,37
+Dysmenorrhea,MI,1,79,56
+Dyspepsia,MI,24,66,51
+Dysphonia,MI,53,37,21
+Dyspnea,MI,9,55,85
+Dystonia,MI,15,89,61
+Dysuria,MI,2,61,88
+Earache,MI,11,57,87
+Ecchymosis,MI,90,76,60
+Echolalia,MI,19,84,66
+Edema,MI,11,57,87
+Emaciation,MI,31,48,79
+Encopresis,MI,62,43,31
+Eructation,MI,61,38,48
+Eye Hemorrhage,MI,74,15,41
+Eye Pain,MI,11,57,87
+Facial Pain,MI,45,10,8
+Facial Paralysis,MI,86,41,33
+Fasciculation,MI,26,68,53
+Fatigue,MI,11,57,87
+Feminization,MI,61,38,48
+Fetal Weight,MI,80,26,19
+Fever,MI,11,57,87
+Flank Pain,MI,11,57,87
+Flatulence,MI,66,47,37
+Flushing,MI,11,57,87
+Gagging,MI,9,54,84
+Gastroparesis,MI,11,57,87
+Halitosis,MI,61,38,48
+Hallucinations,MI,8,57,83
+Headache,MI,11,57,87
+Hearing Loss,MI,58,91,47
+Heart Murmurs,MI,57,29,25
+Heartburn,MI,11,57,87
+Hematemesis,MI,21,77,68
+Hemianopsia,MI,25,67,52
+Hemiplegia,MI,4,63,76
+Hemoglobinuria,MI,61,38,48
+Hemoptysis,MI,89,75,59
+Hiccup,MI,11,57,87
+Hirsutism,MI,42,7,29
+Hoarseness,MI,63,17,43
+Horner Syndrome,MI,23,88,70
+Hot Flashes,MI,11,57,87
+Hydrops Fetalis,MI,89,75,59
+Hyperacusis,MI,40,39,49
+Hyperalgesia,MI,39,5,5
+Hypercalciuria,MI,62,43,31
+Hypercapnia,MI,17,86,63
+Hyperemesis Gravidarum,MI,8,60,83
+Hyperesthesia,MI,88,73,58
+Hyperkinesis,MI,20,85,67
+Hyperoxia,MI,29,65,50
+Hyperphagia,MI,65,46,36
+Hyperventilation,MI,55,32,23
+Hypesthesia,MI,36,1,1
+Hypocapnia,MI,16,90,62
+Hypothermia,MI,64,45,35
+Hypoventilation,MI,61,38,48
+Illusions,MI,66,47,37
+Intermittent Claudication,MI,39,5,5
+Jaundice,MI,11,57,87
+Korsakoff Syndrome,MI,13,59,89
+Labor Pain,MI,37,2,2
+Lethargy,MI,77,80,57
+Livedo Reticularis,MI,49,70,71
+Low Back Pain,MI,7,53,82
+Mental Retardation,MI,66,47,37
+Metatarsalgia,MI,76,18,44
+Miosis,MI,83,21,16
+Morning Sickness,MI,11,57,87
+Motion Sickness,MI,79,20,15
+Mouth Breathing,MI,46,8,10
+Muscle Cramp,MI,48,6,6
+Muscle Weakness,MI,38,3,3
+Muscular Atrophy,MI,67,27,38
+Mutism,MI,64,45,35
+Myoclonus,MI,59,12,45
+Myokymia,MI,80,26,19
+Myotonia,MI,61,38,48
+Nausea,MI,11,57,87
+Neck Pain,MI,11,57,87
+Neuralgia,MI,75,16,42
+Nocturia,MI,39,5,5
+Obesity,MI,66,47,37
+Oliguria,MI,78,25,14
+Ophthalmoplegia,MI,54,30,22
+Orthostatic Intolerance,MI,46,12,10
+Overweight,MI,85,23,18
+Pain,MI,11,57,87
+Pallor,MI,58,91,47
+Paralysis,MI,11,57,87
+Paraparesis,MI,84,22,17
+Paraplegia,MI,69,34,26
+Paresis,MI,1,79,56
+Paresthesia,MI,6,52,81
+Pelvic Pain,MI,11,57,87
+Persistent Vegetative State,MI,86,41,33
+Phantom Limb,MI,34,78,12
+Photophobia,MI,80,26,19
+Polyuria,MI,43,7,30
+Presbycusis,MI,22,81,69
+Prosopagnosia,MI,53,37,21
+Proteinuria,MI,81,44,32
+Pruritus,MI,33,82,11
+Pseudophakia,MI,3,62,77
+Psychomotor Agitation,MI,27,69,54
+Purpura,MI,82,24,20
+Purpura Fulminans,MI,29,65,50
+Quadriplegia,MI,60,40,46
+Renal Colic,MI,80,26,19
+Reticulocytosis,MI,14,64,91
+Sarcopenia,MI,36,1,1
+Sciatica,MI,11,57,87
+Scotoma,MI,83,21,16
+Seizures,MI,11,57,87
+Shoulder Pain,MI,11,57,87
+Sleep Deprivation,MI,55,31,23
+Sleep Disorders,MI,66,47,37
+Sneezing,MI,11,57,87
+Snoring,MI,11,57,87
+Spasm,MI,11,57,87
+Speech Disorders,MI,66,47,37
+Stupor,MI,31,48,79
+Stuttering,MI,76,24,20
+Sweating Sickness,MI,18,87,64
+Syncope,MI,56,28,24
+Tetany,MI,35,31,13
+Thinness,MI,80,26,19
+Tics,MI,87,42,34
+Tinea Pedis,MI,47,4,4
+Tinnitus,MI,12,58,90
+Toothache,MI,11,57,87
+Torticollis,MI,33,25,11
+Tremor,MI,70,35,27
+Trismus,MI,26,68,53
+Unconsciousness,MI,52,72,74
+Urinary Incontinence,MI,38,3,3
+Vertigo,MI,50,71,72
+Vomiting,MI,11,57,87
+Weight Gain,MI,11,57,87
+Weight Loss,MI,11,57,87
+Abdominal Pain,MN,8,9,8
+Acute Coronary Syndrome,MN,81,43,81
+Ageusia,MN,1,73,68
+Agnosia,MN,30,22,12
+Alien Hand Syndrome,MN,32,54,23
+Amaurosis Fugax,MN,15,39,53
+Amblyopia,MN,55,33,43
+Amnesia,MN,7,8,7
+Angina Pectoris,MN,77,67,77
+Anisocoria,MN,49,14,36
+Anomia,MN,23,49,15
+Anorexia,MN,61,40,49
+Anoxia,MN,40,30,40
+Aphasia,MN,59,38,47
+Aphonia,MN,23,49,15
+Apnea,MN,47,4,33
+Arthralgia,MN,34,56,25
+Asthenia,MN,23,49,15
+Ataxia,MN,57,35,45
+Athetosis,MN,13,42,51
+Back Pain,MN,8,9,8
+Birth Weight,MN,59,37,47
+Blindness,MN,61,40,49
+Body Weight,MN,6,7,6
+Bulimia,MN,61,40,49
+Cachexia,MN,28,20,18
+Catalepsy,MN,32,54,23
+Catatonia,MN,35,80,26
+Cerebellar Ataxia,MN,71,76,65
+Chest Pain,MN,8,9,8
+Chills,MN,8,9,8
+Chorea,MN,82,17,82
+Colic,MN,40,30,40
+Coma,MN,10,11,10
+Communication Disorders,MN,16,43,54
+Confusion,MN,51,16,38
+Constipation,MN,8,9,8
+Coprophagia,MN,84,70,84
+Cough,MN,8,9,8
+Cyanosis,MN,42,27,42
+Deafness,MN,60,29,48
+Delirium,MN,4,1,1
+Diarrhea,MN,8,9,8
+Diplopia,MN,36,81,27
+Dizziness,MN,8,9,8
+Dysarthria,MN,56,34,44
+Dysgeusia,MN,85,18,85
+Dyslexia,MN,59,38,47
+Dysmenorrhea,MN,55,33,43
+Dyspepsia,MN,56,34,44
+Dysphonia,MN,28,20,18
+Dyspnea,MN,65,84,72
+Dystonia,MN,52,32,39
+Dysuria,MN,86,48,86
+Earache,MN,8,9,8
+Ecchymosis,MN,24,50,16
+Echolalia,MN,30,22,12
+Edema,MN,54,12,32
+Emaciation,MN,66,68,60
+Encopresis,MN,37,24,28
+Eructation,MN,71,77,65
+Eye Pain,MN,8,9,8
+Facial Pain,MN,61,40,49
+Fasciculation,MN,33,55,24
+Fatigue,MN,8,9,8
+Feminization,MN,61,40,49
+Fever,MN,8,9,8
+Flank Pain,MN,23,49,15
+Flatulence,MN,29,21,19
+Flushing,MN,17,45,57
+Gagging,MN,9,10,9
+Gastroparesis,MN,41,31,41
+Halitosis,MN,41,31,41
+Hallucinations,MN,38,25,29
+Headache,MN,8,9,8
+Hearing Loss,MN,56,41,44
+Heartburn,MN,8,9,8
+Hematemesis,MN,73,79,67
+Hemianopsia,MN,41,31,41
+Hemiplegia,MN,35,80,26
+Hemoglobinuria,MN,63,57,70
+Hemoptysis,MN,83,71,83
+Hiccup,MN,8,9,8
+Hirsutism,MN,62,41,50
+Hoarseness,MN,21,52,21
+Horner Syndrome,MN,3,75,11
+Hot Flashes,MN,45,2,2
+Hydrops Fetalis,MN,75,83,74
+Hyperacusis,MN,31,23,13
+Hyperalgesia,MN,80,48,80
+Hypercapnia,MN,11,63,4
+Hyperemesis Gravidarum,MN,76,86,76
+Hyperesthesia,MN,75,82,74
+Hyperventilation,MN,26,58,55
+Hypocapnia,MN,63,57,70
+Hypothermia,MN,15,39,53
+Hypoventilation,MN,67,65,61
+Illusions,MN,61,40,49
+Intermittent Claudication,MN,17,45,57
+Jaundice,MN,58,36,46
+Korsakoff Syndrome,MN,78,85,78
+Labor Pain,MN,4,1,1
+Lethargy,MN,68,66,62
+Livedo Reticularis,MN,46,3,3
+Low Back Pain,MN,77,12,77
+Mental Retardation,MN,61,40,49
+Metatarsalgia,MN,66,68,60
+Miosis,MN,19,47,59
+Morning Sickness,MN,7,8,7
+Motion Sickness,MN,5,13,75
+Mouth Breathing,MN,39,26,30
+Muscle Cramp,MN,18,46,58
+Muscle Weakness,MN,16,43,54
+Muscular Atrophy,MN,61,40,49
+Mutism,MN,37,24,28
+Myoclonus,MN,62,41,50
+Myotonia,MN,28,20,18
+Nausea,MN,8,9,8
+Neck Pain,MN,8,9,8
+Neuralgia,MN,59,38,47
+Nocturia,MN,69,61,63
+Obesity,MN,61,40,49
+Oliguria,MN,79,59,79
+Ophthalmoplegia,MN,32,54,23
+Orthostatic Intolerance,MN,72,78,66
+Overweight,MN,53,19,31
+Pain,MN,8,9,8
+Pallor,MN,25,50,17
+Paralysis,MN,8,9,8
+Paraparesis,MN,50,15,37
+Paraplegia,MN,81,44,81
+Paresis,MN,41,31,41
+Paresthesia,MN,53,19,31
+Pelvic Pain,MN,13,9,51
+Persistent Vegetative State,MN,49,14,36
+Photophobia,MN,79,16,79
+Polyuria,MN,14,42,52
+Presbycusis,MN,70,69,64
+Prosopagnosia,MN,84,71,84
+Proteinuria,MN,74,82,73
+Pruritus,MN,74,82,73
+Pseudophakia,MN,12,64,5
+Purpura,MN,62,41,50
+Quadriplegia,MN,37,24,28
+Renal Colic,MN,53,19,31
+Sarcopenia,MN,78,70,78
+Sciatica,MN,8,9,8
+Scotoma,MN,64,62,71
+Seizures,MN,44,6,35
+Shoulder Pain,MN,8,9,8
+Sleep Deprivation,MN,57,35,45
+Sleep Disorders,MN,61,40,49
+Sneezing,MN,8,9,8
+Snoring,MN,8,9,8
+Spasm,MN,47,4,33
+Speech Disorders,MN,57,35,45
+Stupor,MN,22,51,22
+Stuttering,MN,40,30,40
+Susac Syndrome,MN,27,60,56
+Sweating Sickness,MN,2,74,69
+Syncope,MN,43,28,14
+Tetany,MN,78,72,78
+Thinness,MN,20,51,20
+Tics,MN,56,34,44
+Tinea Pedis,MN,18,46,58
+Tinnitus,MN,48,5,34
+Toothache,MN,8,9,8
+Torticollis,MN,60,29,48
+Tremor,MN,59,37,47
+Trismus,MN,33,55,24
+Unconsciousness,MN,36,81,27
+Urinary Incontinence,MN,20,53,20
+Vertigo,MN,50,15,37
+Vomiting,MN,8,9,8
+Weight Gain,MN,8,9,8
+Weight Loss,MN,6,7,6
+Abdominal Pain,MS,46,21,46
+Agnosia,MS,15,35,15
+Alien Hand Syndrome,MS,49,25,49
+Amblyopia,MS,51,12,51
+Amnesia,MS,17,19,17
+Angina Pectoris,MS,31,30,31
+Anorexia,MS,18,55,18
+Anoxia,MS,8,40,8
+Aphasia,MS,4,38,4
+Apnea,MS,31,30,31
+Arthralgia,MS,32,32,32
+Asthenia,MS,52,10,52
+Ataxia,MS,19,53,19
+Back Pain,MS,46,21,46
+Birth Weight,MS,5,33,5
+Blindness,MS,19,53,19
+Body Weight,MS,33,16,33
+Bulimia,MS,18,55,18
+Cachexia,MS,34,4,34
+Catatonia,MS,10,42,10
+Chest Pain,MS,46,21,46
+Chills,MS,46,21,46
+Chorea,MS,10,42,10
+Colic,MS,12,44,12
+Coma,MS,24,48,24
+Confusion,MS,7,39,7
+Constipation,MS,46,21,46
+Coprophagia,MS,51,12,51
+Cough,MS,46,21,46
+Cyanosis,MS,54,52,54
+Deafness,MS,30,29,30
+Delirium,MS,54,52,54
+Diarrhea,MS,46,21,46
+Diplopia,MS,52,10,52
+Dizziness,MS,55,54,55
+Dysarthria,MS,5,33,5
+Dyslexia,MS,16,56,16
+Dysmenorrhea,MS,1,9,1
+Dyspepsia,MS,56,2,56
+Dysphonia,MS,10,42,10
+Dyspnea,MS,3,37,3
+Dystonia,MS,28,27,28
+Dysuria,MS,44,23,44
+Earache,MS,15,3,15
+Ecchymosis,MS,8,40,8
+Echolalia,MS,1,9,1
+Edema,MS,31,30,31
+Encopresis,MS,37,7,37
+Eye Pain,MS,57,1,57
+Fatigue,MS,16,31,16
+Feminization,MS,26,50,26
+Fever,MS,46,21,46
+Flank Pain,MS,32,32,32
+Flatulence,MS,23,46,23
+Flushing,MS,19,54,19
+Gagging,MS,32,32,32
+Gastroparesis,MS,53,11,53
+Halitosis,MS,20,47,20
+Hallucinations,MS,21,47,21
+Headache,MS,46,21,46
+Hearing Loss,MS,54,52,54
+Heartburn,MS,46,21,46
+Hematemesis,MS,38,8,38
+Hemianopsia,MS,34,4,34
+Hemiplegia,MS,2,36,2
+Hemoptysis,MS,10,42,10
+Hiccup,MS,52,10,52
+Hirsutism,MS,22,46,22
+Hoarseness,MS,3,37,3
+Hot Flashes,MS,13,45,13
+Hypercapnia,MS,27,20,27
+Hyperemesis Gravidarum,MS,1,9,1
+Hyperventilation,MS,32,32,32
+Hypothermia,MS,35,5,35
+Hypoventilation,MS,36,6,36
+Illusions,MS,18,55,18
+Intermittent Claudication,MS,6,34,6
+Jaundice,MS,32,32,32
+Labor Pain,MS,32,32,32
+Lethargy,MS,12,44,12
+Low Back Pain,MS,57,1,57
+Mental Retardation,MS,18,51,18
+Metatarsalgia,MS,57,1,57
+Miosis,MS,52,10,52
+Morning Sickness,MS,11,43,11
+Motion Sickness,MS,54,52,54
+Muscle Weakness,MS,9,41,9
+Mutism,MS,37,7,37
+Myoclonus,MS,1,9,1
+Nausea,MS,46,21,46
+Neck Pain,MS,48,21,47
+Neuralgia,MS,31,30,31
+Nocturia,MS,38,8,38
+Obesity,MS,18,55,18
+Oliguria,MS,1,9,1
+Overweight,MS,20,47,20
+Pain,MS,46,21,46
+Pallor,MS,47,22,48
+Paralysis,MS,25,49,25
+Paraplegia,MS,43,24,43
+Paresis,MS,30,29,30
+Paresthesia,MS,41,17,41
+Pelvic Pain,MS,32,32,32
+Photophobia,MS,38,8,38
+Polyuria,MS,39,14,39
+Presbycusis,MS,46,21,46
+Proteinuria,MS,1,51,1
+Pruritus,MS,30,29,30
+Purpura,MS,19,53,19
+Purpura Fulminans,MS,19,53,19
+Quadriplegia,MS,42,18,42
+Sarcopenia,MS,50,26,50
+Sciatica,MS,45,31,45
+Scotoma,MS,40,15,40
+Seizures,MS,22,50,22
+Shoulder Pain,MS,46,21,46
+Sleep Deprivation,MS,13,45,13
+Sleep Disorders,MS,20,47,20
+Sneezing,MS,29,28,29
+Snoring,MS,32,32,32
+Spasm,MS,14,56,14
+Stupor,MS,1,9,1
+Stuttering,MS,18,55,18
+Syncope,MS,26,57,26
+Tetany,MS,52,10,52
+Tics,MS,20,47,20
+Tinea Pedis,MS,15,42,15
+Tinnitus,MS,7,39,7
+Toothache,MS,46,21,46
+Torticollis,MS,31,30,31
+Tremor,MS,32,32,32
+Urinary Incontinence,MS,58,13,58
+Vertigo,MS,10,42,10
+Vomiting,MS,2,36,2
+Weight Gain,MS,46,21,46
+Weight Loss,MS,46,21,46
+Abdominal Pain,MO,9,78,10
+Acute Coronary Syndrome,MO,35,63,28
+Ageusia,MO,18,89,19
+Agnosia,MO,39,58,41
+Agraphia,MO,4,69,4
+Alien Hand Syndrome,MO,82,33,82
+Amaurosis Fugax,MO,49,9,48
+Amblyopia,MO,68,44,72
+Amnesia,MO,9,78,9
+Angina Pectoris,MO,32,14,30
+Anisocoria,MO,45,50,23
+Anomia,MO,31,64,29
+Anorexia,MO,65,45,69
+Anoxia,MO,67,24,71
+Aphasia,MO,74,73,75
+Aphonia,MO,1,66,1
+Apnea,MO,74,73,75
+Arthralgia,MO,55,42,61
+Asthenia,MO,66,35,70
+Ataxia,MO,36,48,38
+Athetosis,MO,16,3,17
+Back Pain,MO,9,78,10
+Birth Weight,MO,51,82,50
+Blindness,MO,65,45,69
+Body Weight,MO,37,65,40
+Bulimia,MO,65,45,69
+Cachexia,MO,48,7,47
+Catatonia,MO,35,63,28
+Cerebellar Ataxia,MO,48,7,47
+Chest Pain,MO,9,78,10
+Chills,MO,9,78,10
+Chorea,MO,81,32,81
+Colic,MO,60,39,64
+Coma,MO,12,83,13
+Communication Disorders,MO,63,40,67
+Confusion,MO,75,11,76
+Constipation,MO,9,78,10
+Coprophagia,MO,45,50,23
+Cough,MO,9,78,10
+Cyanosis,MO,83,34,83
+Deafness,MO,66,45,70
+Delirium,MO,43,61,45
+Diarrhea,MO,9,78,10
+Diplopia,MO,67,24,71
+Dizziness,MO,9,78,10
+Dysarthria,MO,59,18,63
+Dysgeusia,MO,42,60,44
+Dyslexia,MO,71,28,58
+Dysmenorrhea,MO,53,8,52
+Dyspepsia,MO,66,26,70
+Dysphonia,MO,2,67,2
+Dyspnea,MO,17,19,18
+Dystonia,MO,54,88,54
+Dysuria,MO,3,68,3
+Earache,MO,9,78,10
+Ecchymosis,MO,3,68,3
+Echolalia,MO,23,52,32
+Edema,MO,19,85,8
+Emaciation,MO,31,64,29
+Encopresis,MO,56,36,62
+Eructation,MO,30,57,22
+Eye Hemorrhage,MO,56,38,62
+Eye Pain,MO,9,78,10
+Facial Pain,MO,50,10,49
+Fasciculation,MO,85,5,85
+Fatigue,MO,9,78,10
+Feminization,MO,64,45,68
+Fetal Weight,MO,70,2,57
+Fever,MO,9,78,10
+Flank Pain,MO,89,77,89
+Flatulence,MO,69,16,73
+Flushing,MO,20,86,34
+Gagging,MO,11,80,12
+Gastroparesis,MO,8,78,10
+Halitosis,MO,82,33,82
+Hallucinations,MO,87,75,87
+Headache,MO,9,78,10
+Hearing Loss,MO,82,33,82
+Heartburn,MO,9,78,10
+Hematemesis,MO,14,20,15
+Hemianopsia,MO,76,11,77
+Hemiplegia,MO,44,62,46
+Hemoglobinuria,MO,21,2,36
+Hemoptysis,MO,33,12,31
+Hiccup,MO,9,78,10
+Hirsutism,MO,77,23,78
+Hoarseness,MO,56,38,62
+Horner Syndrome,MO,25,54,24
+Hot Flashes,MO,7,81,7
+Hydrops Fetalis,MO,27,15,35
+Hyperacusis,MO,24,53,33
+Hyperalgesia,MO,28,55,20
+Hypercapnia,MO,22,1,37
+Hyperemesis Gravidarum,MO,13,84,14
+Hyperesthesia,MO,42,60,44
+Hyperphagia,MO,73,22,74
+Hyperventilation,MO,71,29,58
+Hypocapnia,MO,28,55,20
+Hypothermia,MO,65,43,69
+Hypoventilation,MO,56,38,62
+Illusions,MO,65,45,69
+Intermittent Claudication,MO,34,27,27
+Jaundice,MO,58,37,60
+Korsakoff Syndrome,MO,10,79,11
+Labor Pain,MO,39,58,41
+Lethargy,MO,29,56,21
+Livedo Reticularis,MO,77,22,78
+Low Back Pain,MO,46,51,55
+Mental Retardation,MO,65,45,69
+Metatarsalgia,MO,77,72,78
+Miosis,MO,75,13,76
+Morning Sickness,MO,9,78,9
+Motion Sickness,MO,41,59,43
+Mouth Breathing,MO,47,3,56
+Muscle Cramp,MO,79,30,79
+Muscle Weakness,MO,81,32,81
+Muscular Atrophy,MO,66,35,70
+Mutism,MO,61,46,65
+Myoclonus,MO,55,42,61
+Myotonia,MO,86,74,86
+Nausea,MO,9,78,10
+Neck Pain,MO,9,78,10
+Neuralgia,MO,57,35,62
+Nocturia,MO,73,22,74
+Obesity,MO,65,45,69
+Oliguria,MO,53,87,53
+Ophthalmoplegia,MO,62,47,66
+Orthostatic Intolerance,MO,90,6,90
+Overweight,MO,38,49,39
+Pain,MO,9,78,10
+Pallor,MO,57,37,60
+Paralysis,MO,9,78,10
+Paraparesis,MO,49,9,48
+Paraplegia,MO,26,26,25
+Paresis,MO,76,72,77
+Paresthesia,MO,80,31,80
+Pelvic Pain,MO,9,78,10
+Persistent Vegetative State,MO,86,74,86
+Phantom Limb,MO,40,23,42
+Photophobia,MO,56,38,62
+Polyuria,MO,82,33,82
+Presbycusis,MO,88,76,88
+Prosopagnosia,MO,56,38,62
+Proteinuria,MO,84,4,84
+Pruritus,MO,34,27,27
+Pseudophakia,MO,21,2,36
+Purpura,MO,65,44,69
+Purpura Fulminans,MO,5,70,5
+Quadriplegia,MO,31,64,29
+Renal Colic,MO,61,46,65
+Sarcopenia,MO,15,21,16
+Sciatica,MO,9,78,10
+Scotoma,MO,70,17,57
+Seizures,MO,8,78,10
+Shoulder Pain,MO,9,78,10
+Sleep Deprivation,MO,65,45,69
+Sleep Disorders,MO,65,45,69
+Sneezing,MO,9,78,10
+Snoring,MO,9,78,10
+Spasm,MO,41,59,43
+Speech Disorders,MO,64,41,68
+Stupor,MO,22,1,37
+Stuttering,MO,65,46,69
+Sweating Sickness,MO,78,25,26
+Syncope,MO,14,20,15
+Synkinesis,MO,6,71,6
+Tetany,MO,68,44,72
+Thinness,MO,42,60,44
+Tics,MO,65,45,69
+Tinea Pedis,MO,56,36,62
+Tinnitus,MO,52,87,51
+Toothache,MO,9,78,10
+Torticollis,MO,72,36,59
+Tremor,MO,82,33,82
+Trismus,MO,84,4,84
+Unconsciousness,MO,82,33,82
+Urinary Incontinence,MO,63,40,67
+Vertigo,MO,7,81,7
+Vomiting,MO,9,78,10
+Weight Gain,MO,9,78,10
+Weight Loss,MO,9,78,10
+Abdominal Pain,MT,32,2,43
+Amnesia,MT,31,43,36
+Anorexia,MT,6,7,4
+Anoxia,MT,4,16,1
+Aphasia,MT,4,16,1
+Apnea,MT,19,12,24
+Ataxia,MT,22,27,19
+Back Pain,MT,37,48,48
+Birth Weight,MT,22,27,19
+Blindness,MT,6,7,4
+Body Weight,MT,42,22,53
+Bulimia,MT,7,8,5
+Cachexia,MT,4,16,1
+Chest Pain,MT,38,49,49
+Chills,MT,36,47,47
+Chorea,MT,23,4,16
+Colic,MT,48,32,42
+Coma,MT,21,30,26
+Confusion,MT,18,11,23
+Constipation,MT,14,44,12
+Cough,MT,37,48,48
+Cyanosis,MT,50,35,30
+Deafness,MT,6,7,4
+Delirium,MT,10,14,8
+Diarrhea,MT,37,48,48
+Diplopia,MT,25,6,18
+Dizziness,MT,29,33,33
+Dysarthria,MT,53,38,39
+Dyslexia,MT,5,17,2
+Dysmenorrhea,MT,16,23,21
+Dyspepsia,MT,52,37,38
+Dysphonia,MT,51,36,37
+Dyspnea,MT,32,2,43
+Dystonia,MT,24,5,17
+Dysuria,MT,41,51,52
+Earache,MT,18,11,23
+Ecchymosis,MT,53,38,39
+Edema,MT,8,13,6
+Encopresis,MT,49,34,20
+Eye Pain,MT,46,20,57
+Fatigue,MT,21,30,26
+Feminization,MT,4,16,1
+Fever,MT,36,47,47
+Flatulence,MT,11,15,9
+Flushing,MT,49,34,20
+Gagging,MT,51,36,37
+Gastroparesis,MT,44,54,55
+Halitosis,MT,35,41,46
+Hallucinations,MT,20,29,25
+Headache,MT,37,48,48
+Hearing Loss,MT,51,36,37
+Heartburn,MT,39,50,50
+Hemiplegia,MT,52,37,38
+Hemoptysis,MT,27,40,15
+Hiccup,MT,47,31,41
+Hot Flashes,MT,19,12,24
+Hyperemesis Gravidarum,MT,47,31,41
+Hyperventilation,MT,29,21,31
+Hypothermia,MT,9,10,7
+Illusions,MT,8,9,6
+Jaundice,MT,28,39,31
+Lethargy,MT,23,4,16
+Low Back Pain,MT,1,24,27
+Morning Sickness,MT,30,19,35
+Motion Sickness,MT,26,1,14
+Nausea,MT,37,48,48
+Neck Pain,MT,12,46,10
+Neuralgia,MT,1,24,27
+Obesity,MT,8,9,6
+Oliguria,MT,33,42,44
+Overweight,MT,49,34,20
+Pain,MT,37,48,48
+Pallor,MT,26,1,14
+Paralysis,MT,11,15,9
+Paresthesia,MT,20,29,25
+Pelvic Pain,MT,43,55,54
+Polyuria,MT,44,54,55
+Presbycusis,MT,23,4,16
+Pruritus,MT,34,52,45
+Purpura,MT,13,13,11
+Sarcopenia,MT,54,57,40
+Sciatica,MT,48,32,42
+Seizures,MT,17,28,22
+Shoulder Pain,MT,37,48,48
+Sleep Deprivation,MT,20,29,25
+Sneezing,MT,28,53,32
+Snoring,MT,40,39,51
+Spasm,MT,20,29,25
+Stupor,MT,10,14,8
+Stuttering,MT,5,18,3
+Syncope,MT,8,9,6
+Tetany,MT,45,56,56
+Tics,MT,29,3,34
+Tinnitus,MT,2,25,28
+Toothache,MT,10,14,8
+Torticollis,MT,20,29,25
+Tremor,MT,7,8,5
+Vertigo,MT,11,15,9
+Vomiting,MT,3,26,29
+Weight Gain,MT,15,45,13
+Weight Loss,MT,29,55,31
+Abdominal Pain,NE,4,64,7
+Agnosia,NE,62,55,63
+Amblyopia,NE,22,71,59
+Amnesia,NE,30,59,53
+Angina Pectoris,NE,71,2,27
+Anisocoria,NE,28,49,40
+Anorexia,NE,49,41,77
+Anoxia,NE,48,37,79
+Aphasia,NE,50,28,46
+Apnea,NE,32,80,55
+Arthralgia,NE,17,50,60
+Asthenia,NE,31,24,54
+Ataxia,NE,18,51,61
+Back Pain,NE,4,64,7
+Birth Weight,NE,46,33,73
+Blindness,NE,49,41,77
+Body Weight,NE,39,42,78
+Bulimia,NE,49,41,77
+Cachexia,NE,6,57,9
+Catatonia,NE,3,54,6
+Chest Pain,NE,4,64,7
+Chills,NE,72,1,28
+Chorea,NE,21,69,58
+Colic,NE,34,25,36
+Coma,NE,43,7,26
+Confusion,NE,50,37,79
+Constipation,NE,4,64,7
+Coprophagia,NE,77,31,20
+Cough,NE,4,64,7
+Cyanosis,NE,37,18,34
+Deafness,NE,50,28,46
+Delirium,NE,80,8,51
+Diarrhea,NE,4,64,7
+Diplopia,NE,21,69,58
+Dizziness,NE,2,53,5
+Dysarthria,NE,70,12,25
+Dysgeusia,NE,16,44,41
+Dyslexia,NE,36,17,33
+Dysmenorrhea,NE,60,23,67
+Dyspepsia,NE,23,70,1
+Dysphonia,NE,19,51,62
+Dyspnea,NE,72,1,28
+Dystonia,NE,17,50,60
+Dysuria,NE,8,61,11
+Earache,NE,32,72,55
+Ecchymosis,NE,75,3,31
+Echolalia,NE,11,19,15
+Edema,NE,27,28,47
+Emaciation,NE,62,55,63
+Encopresis,NE,79,43,14
+Eye Pain,NE,42,14,69
+Fatigue,NE,67,9,22
+Feminization,NE,20,68,57
+Fever,NE,4,64,7
+Flank Pain,NE,74,79,30
+Flatulence,NE,61,26,68
+Flushing,NE,58,21,65
+Gagging,NE,73,5,29
+Gastroparesis,NE,72,1,28
+Halitosis,NE,20,68,57
+Hallucinations,NE,29,78,52
+Headache,NE,4,64,7
+Hearing Loss,NE,76,4,32
+Heartburn,NE,4,64,7
+Hematemesis,NE,26,29,49
+Hemianopsia,NE,70,12,25
+Hemiplegia,NE,48,37,79
+Hemoptysis,NE,60,23,67
+Hiccup,NE,9,62,12
+Hirsutism,NE,45,34,72
+Hoarseness,NE,44,72,71
+Hot Flashes,NE,68,10,23
+Hypercapnia,NE,17,50,60
+Hyperemesis Gravidarum,NE,23,60,2
+Hyperventilation,NE,53,40,82
+Hypothermia,NE,46,33,73
+Hypoventilation,NE,63,56,64
+Illusions,NE,49,41,77
+Jaundice,NE,56,73,75
+Labor Pain,NE,40,15,70
+Lethargy,NE,1,52,4
+Low Back Pain,NE,45,35,72
+Metatarsalgia,NE,1,52,4
+Miosis,NE,66,58,45
+Morning Sickness,NE,40,15,70
+Motion Sickness,NE,77,5,20
+Muscle Weakness,NE,77,31,20
+Mutism,NE,64,45,43
+Myoclonus,NE,74,78,30
+Myotonia,NE,20,68,57
+Nausea,NE,4,64,7
+Neck Pain,NE,4,64,7
+Neuralgia,NE,29,80,52
+Nocturia,NE,78,32,21
+Obesity,NE,49,41,77
+Oliguria,NE,57,74,76
+Overweight,NE,71,2,27
+Pain,NE,4,64,7
+Pallor,NE,79,43,14
+Paralysis,NE,32,63,55
+Paraplegia,NE,12,20,16
+Paresis,NE,65,46,44
+Paresthesia,NE,59,22,66
+Pelvic Pain,NE,24,60,3
+Phantom Limb,NE,16,44,42
+Photophobia,NE,7,27,10
+Polyuria,NE,69,11,24
+Presbycusis,NE,54,47,38
+Prosopagnosia,NE,13,75,17
+Proteinuria,NE,71,2,27
+Pruritus,NE,41,16,35
+Purpura,NE,51,38,80
+Renal Colic,NE,55,48,39
+Sarcopenia,NE,70,12,25
+Sciatica,NE,42,14,69
+Scotoma,NE,14,76,18
+Seizures,NE,38,13,50
+Shoulder Pain,NE,4,64,7
+Sleep Deprivation,NE,49,41,77
+Sleep Disorders,NE,51,38,80
+Sneezing,NE,47,36,74
+Snoring,NE,73,6,29
+Spasm,NE,52,39,81
+Stupor,NE,10,67,13
+Stuttering,NE,38,34,50
+Syncope,NE,36,17,33
+Tetany,NE,15,77,19
+Tics,NE,25,27,48
+Tinea Pedis,NE,41,16,35
+Tinnitus,NE,33,81,56
+Toothache,NE,35,66,37
+Torticollis,NE,25,30,48
+Tremor,NE,52,39,81
+Trismus,NE,48,37,79
+Urinary Incontinence,NE,69,11,24
+Vertigo,NE,20,68,57
+Vomiting,NE,4,64,7
+Weight Gain,NE,5,65,8
+Weight Loss,NE,5,65,8
+Abdominal Pain,NV,18,16,18
+Ageusia,NV,12,39,12
+Agnosia,NV,55,3,40
+Amblyopia,NV,63,53,51
+Amnesia,NV,19,19,21
+Angina Pectoris,NV,33,65,62
+Anisocoria,NV,15,11,15
+Anomia,NV,14,10,14
+Anorexia,NV,38,68,67
+Anoxia,NV,33,65,62
+Aphasia,NV,6,25,6
+Apnea,NV,37,15,66
+Arthralgia,NV,65,53,52
+Asthenia,NV,38,68,67
+Ataxia,NV,68,48,43
+Back Pain,NV,20,20,19
+Birth Weight,NV,53,30,41
+Blindness,NV,61,56,48
+Body Weight,NV,69,48,44
+Bulimia,NV,61,56,48
+Cachexia,NV,65,53,52
+Catatonia,NV,51,17,38
+Chest Pain,NV,20,20,19
+Chills,NV,20,20,19
+Chorea,NV,9,35,9
+Colic,NV,67,47,56
+Coma,NV,49,62,60
+Confusion,NV,46,44,36
+Constipation,NV,20,20,19
+Coprophagia,NV,7,23,7
+Cough,NV,20,20,19
+Cyanosis,NV,40,67,69
+Deafness,NV,54,31,42
+Delirium,NV,64,46,46
+Diarrhea,NV,20,20,19
+Diplopia,NV,3,2,3
+Dizziness,NV,20,46,46
+Dysarthria,NV,42,41,33
+Dysgeusia,NV,2,1,2
+Dyslexia,NV,59,55,49
+Dysmenorrhea,NV,25,28,26
+Dyspepsia,NV,1,13,1
+Dysphonia,NV,46,44,36
+Dyspnea,NV,32,60,61
+Dystonia,NV,49,57,60
+Dysuria,NV,14,10,14
+Earache,NV,18,16,18
+Ecchymosis,NV,48,61,59
+Echolalia,NV,6,25,6
+Edema,NV,3,2,3
+Emaciation,NV,22,22,23
+Encopresis,NV,38,68,67
+Eye Pain,NV,35,14,64
+Fatigue,NV,4,4,4
+Feminization,NV,69,50,44
+Fever,NV,20,20,19
+Flank Pain,NV,42,41,33
+Flatulence,NV,25,28,26
+Flushing,NV,41,50,70
+Gagging,NV,32,57,61
+Gastroparesis,NV,1,13,1
+Halitosis,NV,47,59,58
+Hallucinations,NV,40,67,69
+Headache,NV,20,20,19
+Hearing Loss,NV,59,55,49
+Heartburn,NV,20,20,19
+Hematemesis,NV,27,5,28
+Hemianopsia,NV,38,68,67
+Hemiplegia,NV,5,25,5
+Hemoptysis,NV,63,32,51
+Hiccup,NV,44,61,22
+Hirsutism,NV,33,65,62
+Hoarseness,NV,14,10,14
+Hot Flashes,NV,43,42,34
+Hydrops Fetalis,NV,42,41,33
+Hyperacusis,NV,57,63,54
+Hyperalgesia,NV,16,12,16
+Hypercapnia,NV,30,8,31
+Hyperemesis Gravidarum,NV,2,1,2
+Hyperphagia,NV,53,30,41
+Hyperventilation,NV,26,29,27
+Hypothermia,NV,62,54,53
+Hypoventilation,NV,45,43,35
+Illusions,NV,61,56,48
+Jaundice,NV,69,49,44
+Labor Pain,NV,27,5,28
+Lethargy,NV,23,26,24
+Low Back Pain,NV,39,69,68
+Mental Retardation,NV,66,45,45
+Metatarsalgia,NV,50,38,37
+Miosis,NV,2,1,2
+Morning Sickness,NV,3,2,3
+Motion Sickness,NV,65,53,52
+Mouth Breathing,NV,3,2,3
+Muscle Cramp,NV,17,18,17
+Muscle Weakness,NV,3,2,3
+Mutism,NV,33,65,62
+Myoclonus,NV,52,33,39
+Myotonia,NV,48,61,59
+Nausea,NV,20,20,19
+Neck Pain,NV,20,20,19
+Neuralgia,NV,46,44,36
+Nocturia,NV,28,6,29
+Obesity,NV,61,56,48
+Oliguria,NV,13,40,13
+Overweight,NV,70,52,47
+Pain,NV,20,20,19
+Pallor,NV,8,24,8
+Paralysis,NV,20,20,19
+Paraplegia,NV,3,2,3
+Paresis,NV,5,25,5
+Paresthesia,NV,65,53,52
+Pelvic Pain,NV,35,14,64
+Photophobia,NV,26,29,27
+Polyuria,NV,50,38,37
+Presbycusis,NV,17,18,17
+Prosopagnosia,NV,10,36,10
+Proteinuria,NV,45,43,35
+Pruritus,NV,48,61,59
+Purpura,NV,66,45,45
+Quadriplegia,NV,24,27,25
+Renal Colic,NV,57,63,54
+Sarcopenia,NV,45,43,35
+Sciatica,NV,18,20,18
+Scotoma,NV,2,1,2
+Seizures,NV,60,51,50
+Shoulder Pain,NV,20,20,19
+Sleep Deprivation,NV,58,64,55
+Sleep Disorders,NV,64,56,48
+Sneezing,NV,21,21,20
+Snoring,NV,68,48,43
+Spasm,NV,36,58,65
+Stupor,NV,29,7,30
+Stuttering,NV,48,60,59
+Sweating Sickness,NV,31,9,32
+Syncope,NV,47,59,58
+Tetany,NV,30,8,31
+Tics,NV,34,66,63
+Tinea Pedis,NV,11,37,11
+Tinnitus,NV,39,69,68
+Toothache,NV,20,20,19
+Torticollis,NV,65,53,52
+Tremor,NV,2,1,2
+Trismus,NV,48,61,59
+Unconsciousness,NV,55,32,40
+Urinary Incontinence,NV,69,48,44
+Vertigo,NV,56,34,57
+Vomiting,NV,20,20,19
+Weight Gain,NV,19,19,21
+Weight Loss,NV,19,19,21
+Abdominal Pain,NH,63,23,72
+Agnosia,NH,9,64,9
+Albuminuria,NH,67,26,75
+Amblyopia,NH,56,31,63
+Amnesia,NH,42,16,42
+Anisocoria,NH,54,29,61
+Anorexia,NH,29,71,29
+Aphasia,NH,18,51,18
+Apnea,NH,69,67,76
+Arthralgia,NH,21,52,21
+Asthenia,NH,51,39,52
+Ataxia,NH,32,40,32
+Back Pain,NH,63,23,72
+Birth Weight,NH,21,52,21
+Blindness,NH,29,71,29
+Body Weight,NH,13,65,13
+Bulimia,NH,29,71,29
+Cachexia,NH,33,44,33
+Catatonia,NH,19,59,19
+Chest Pain,NH,63,23,72
+Chills,NH,63,6,72
+Chorea,NH,5,55,5
+Colic,NH,32,73,32
+Coma,NH,3,57,3
+Confusion,NH,35,46,35
+Constipation,NH,63,23,72
+Coprophagia,NH,6,56,6
+Cough,NH,63,23,72
+Cyanosis,NH,33,44,33
+Deafness,NH,22,74,22
+Delirium,NH,26,3,26
+Diarrhea,NH,63,23,72
+Diplopia,NH,47,34,47
+Dizziness,NH,75,13,57
+Dysarthria,NH,33,44,33
+Dyslexia,NH,11,61,11
+Dysmenorrhea,NH,57,32,64
+Dyspepsia,NH,70,42,54
+Dysphonia,NH,34,45,34
+Dyspnea,NH,45,27,45
+Dystonia,NH,10,77,10
+Dysuria,NH,64,24,73
+Earache,NH,24,7,24
+Ecchymosis,NH,33,44,33
+Echolalia,NH,52,9,59
+Edema,NH,41,70,41
+Encopresis,NH,48,35,48
+Eye Pain,NH,20,53,20
+Fatigue,NH,74,12,56
+Feminization,NH,31,75,31
+Fever,NH,63,23,72
+Flatulence,NH,28,1,28
+Flushing,NH,38,49,38
+Gagging,NH,4,76,4
+Gastroparesis,NH,66,21,70
+Halitosis,NH,72,41,53
+Hallucinations,NH,43,5,43
+Headache,NH,63,23,72
+Hearing Loss,NH,27,54,27
+Heartburn,NH,63,23,72
+Hemianopsia,NH,55,30,62
+Hemiplegia,NH,59,15,66
+Hemoptysis,NH,62,20,69
+Hiccup,NH,42,16,42
+Hirsutism,NH,37,48,37
+Hot Flashes,NH,4,76,4
+Hypercapnia,NH,49,36,49
+Hyperemesis Gravidarum,NH,16,50,16
+Hyperventilation,NH,37,48,37
+Hypothermia,NH,32,40,32
+Hypoventilation,NH,47,34,47
+Illusions,NH,29,71,29
+Jaundice,NH,30,72,30
+Lethargy,NH,68,17,77
+Low Back Pain,NH,15,11,15
+Metatarsalgia,NH,25,4,25
+Miosis,NH,1,60,1
+Morning Sickness,NH,73,43,55
+Motion Sickness,NH,59,15,66
+Muscle Hypotonia,NH,21,52,21
+Mutism,NH,10,77,10
+Myoclonus,NH,10,77,10
+Nausea,NH,63,23,72
+Neck Pain,NH,63,23,72
+Neuralgia,NH,72,41,53
+Nocturia,NH,53,10,60
+Obesity,NH,29,71,29
+Oliguria,NH,25,6,25
+Orthostatic Intolerance,NH,44,8,44
+Overweight,NH,32,40,32
+Pain,NH,63,23,72
+Pallor,NH,71,22,71
+Paralysis,NH,2,58,2
+Paresthesia,NH,33,44,33
+Pelvic Pain,NH,23,5,23
+Polyuria,NH,76,14,58
+Presbycusis,NH,60,18,67
+Prosopagnosia,NH,61,19,68
+Proteinuria,NH,31,75,31
+Pruritus,NH,21,52,21
+Purpura,NH,50,38,51
+Sciatica,NH,23,2,23
+Seizures,NH,21,52,21
+Shoulder Pain,NH,63,23,72
+Sleep Deprivation,NH,14,78,14
+Sneezing,NH,7,62,7
+Snoring,NH,74,12,56
+Spasm,NH,28,1,28
+Stupor,NH,65,25,74
+Stuttering,NH,17,50,17
+Sweating Sickness,NH,58,33,65
+Syncope,NH,49,37,50
+Tetany,NH,72,41,53
+Tics,NH,36,47,36
+Tinnitus,NH,39,68,39
+Toothache,NH,40,69,40
+Torticollis,NH,8,63,8
+Tremor,NH,24,40,24
+Urinary Incontinence,NH,46,28,46
+Vertigo,NH,12,66,12
+Vomiting,NH,63,23,72
+Weight Gain,NH,63,23,72
+Weight Loss,NH,63,23,72
+Abdominal Pain,NJ,66,10,16
+Acute Coronary Syndrome,NJ,37,53,58
+Ageusia,NJ,2,46,39
+Agnosia,NJ,43,28,75
+Agraphia,NJ,81,26,23
+Albuminuria,NJ,58,4,27
+Alien Hand Syndrome,NJ,11,69,5
+Amaurosis Fugax,NJ,60,77,25
+Amblyopia,NJ,15,61,46
+Amnesia,NJ,66,10,16
+Angina Pectoris,NJ,13,66,50
+Anisocoria,NJ,65,7,11
+Anomia,NJ,10,68,4
+Anorexia,NJ,13,66,50
+Anoxia,NJ,64,6,10
+Aphasia,NJ,70,55,14
+Aphonia,NJ,49,36,79
+Apnea,NJ,66,10,16
+Arthralgia,NJ,1,43,43
+Asthenia,NJ,16,63,41
+Ataxia,NJ,21,40,38
+Athetosis,NJ,38,54,59
+Back Pain,NJ,66,10,16
+Birth Weight,NJ,68,11,18
+Blindness,NJ,13,66,50
+Body Weight,NJ,5,77,1
+Bulimia,NJ,13,66,50
+Cachexia,NJ,47,38,62
+Catalepsy,NJ,2,46,39
+Catatonia,NJ,22,49,65
+Cerebellar Ataxia,NJ,61,3,26
+Chest Pain,NJ,66,10,16
+Chills,NJ,66,10,16
+Chorea,NJ,42,32,74
+Colic,NJ,67,10,17
+Coma,NJ,66,10,16
+Communication Disorders,NJ,40,33,72
+Confusion,NJ,51,27,24
+Constipation,NJ,66,10,16
+Coprophagia,NJ,40,34,72
+Cough,NJ,66,10,16
+Cyanosis,NJ,48,36,78
+Deafness,NJ,14,65,47
+Delirium,NJ,27,31,70
+Diarrhea,NJ,66,10,16
+Diplopia,NJ,22,49,65
+Dizziness,NJ,66,10,16
+Dysarthria,NJ,41,30,73
+Dysgeusia,NJ,52,20,29
+Dyslexia,NJ,69,72,49
+Dysmenorrhea,NJ,7,69,3
+Dyspepsia,NJ,25,50,68
+Dysphonia,NJ,23,49,66
+Dyspnea,NJ,40,33,72
+Dystonia,NJ,62,74,63
+Dysuria,NJ,29,59,12
+Earache,NJ,65,7,11
+Ecchymosis,NJ,64,6,10
+Echolalia,NJ,39,54,60
+Edema,NJ,11,67,5
+Emaciation,NJ,71,12,19
+Encopresis,NJ,14,65,47
+Eructation,NJ,55,23,32
+Eye Hemorrhage,NJ,51,27,24
+Eye Pain,NJ,66,10,16
+Facial Pain,NJ,38,54,59
+Facial Paralysis,NJ,12,59,45
+Fasciculation,NJ,2,46,39
+Fatigue,NJ,66,10,16
+Feminization,NJ,13,66,50
+Fever,NJ,66,10,16
+Flank Pain,NJ,26,39,69
+Flatulence,NJ,13,66,50
+Flushing,NJ,66,10,16
+Gagging,NJ,73,41,48
+Gastroparesis,NJ,66,10,16
+Halitosis,NJ,34,58,55
+Hallucinations,NJ,66,10,16
+Headache,NJ,66,10,16
+Hearing Loss,NJ,6,76,2
+Heart Murmurs,NJ,19,38,36
+Heartburn,NJ,66,10,16
+Hematemesis,NJ,26,31,69
+Hemianopsia,NJ,46,35,61
+Hemiplegia,NJ,12,55,45
+Hemoglobinuria,NJ,42,32,74
+Hemoptysis,NJ,11,70,5
+Hiccup,NJ,66,10,16
+Hirsutism,NJ,37,53,58
+Hoarseness,NJ,44,29,76
+Horner Syndrome,NJ,45,1,77
+Hot Flashes,NJ,66,10,16
+Hydrops Fetalis,NJ,60,77,25
+Hyperacusis,NJ,14,65,47
+Hyperalgesia,NJ,61,3,26
+Hypercapnia,NJ,76,15,8
+Hyperemesis Gravidarum,NJ,74,13,6
+Hyperesthesia,NJ,78,17,20
+Hyperphagia,NJ,18,37,35
+Hyperventilation,NJ,46,35,61
+Hypocapnia,NJ,42,32,74
+Hypothermia,NJ,8,72,51
+Hypoventilation,NJ,42,32,74
+Illusions,NJ,13,66,50
+Intermittent Claudication,NJ,5,45,1
+Jaundice,NJ,11,67,5
+Korsakoff Syndrome,NJ,18,37,35
+Labor Pain,NJ,72,8,15
+Language Disorders,NJ,13,66,50
+Lethargy,NJ,41,30,73
+Livedo Reticularis,NJ,10,68,4
+Low Back Pain,NJ,6,76,2
+Mental Retardation,NJ,13,66,50
+Metatarsalgia,NJ,45,1,77
+Miosis,NJ,8,71,51
+Morning Sickness,NJ,72,9,15
+Motion Sickness,NJ,50,42,80
+Mouth Breathing,NJ,35,51,56
+Muscle Cramp,NJ,24,48,67
+Muscle Weakness,NJ,36,52,57
+Muscular Atrophy,NJ,33,66,54
+Mutism,NJ,17,64,42
+Myoclonus,NJ,44,29,76
+Myokymia,NJ,8,71,51
+Myotonia,NJ,2,46,39
+Nausea,NJ,66,10,16
+Neck Pain,NJ,66,10,16
+Neuralgia,NJ,32,57,53
+Nocturia,NJ,49,43,79
+Obesity,NJ,13,66,50
+Oliguria,NJ,64,6,10
+Ophthalmoplegia,NJ,57,25,34
+Orthostatic Intolerance,NJ,20,39,37
+Overweight,NJ,63,75,64
+Pain,NJ,66,10,16
+Pallor,NJ,12,55,45
+Paralysis,NJ,66,10,16
+Paraparesis,NJ,56,24,33
+Paraplegia,NJ,12,62,45
+Paresis,NJ,33,58,54
+Paresthesia,NJ,14,65,47
+Pelvic Pain,NJ,66,10,16
+Persistent Vegetative State,NJ,48,36,78
+Phantom Limb,NJ,80,19,22
+Photophobia,NJ,24,48,67
+Polyuria,NJ,1,44,43
+Presbycusis,NJ,65,7,11
+Prosopagnosia,NJ,53,21,30
+Proteinuria,NJ,24,48,67
+Pruritus,NJ,30,60,13
+Pseudophakia,NJ,39,54,60
+Purpura,NJ,31,56,52
+Quadriplegia,NJ,35,51,56
+Renal Colic,NJ,28,2,71
+Sarcopenia,NJ,54,22,31
+Sciatica,NJ,66,10,16
+Scotoma,NJ,15,61,46
+Seizures,NJ,66,10,16
+Shoulder Pain,NJ,66,10,16
+Sleep Deprivation,NJ,13,66,50
+Sleep Disorders,NJ,13,66,50
+Sneezing,NJ,66,10,16
+Snoring,NJ,66,10,16
+Spasm,NJ,66,10,16
+Speech Disorders,NJ,8,69,51
+Stupor,NJ,3,47,40
+Stuttering,NJ,9,72,49
+Sweating Sickness,NJ,79,18,21
+Syncope,NJ,77,16,9
+Tetany,NJ,31,56,52
+Thinness,NJ,75,14,7
+Tics,NJ,7,73,3
+Tinea Pedis,NJ,39,54,60
+Tinnitus,NJ,69,10,16
+Toothache,NJ,66,10,16
+Torticollis,NJ,43,28,75
+Tremor,NJ,4,45,44
+Trismus,NJ,10,68,4
+Unconsciousness,NJ,2,46,39
+Urinary Incontinence,NJ,14,65,47
+Vertigo,NJ,65,7,11
+Vocal Cord Paralysis,NJ,59,5,28
+Vomiting,NJ,66,10,16
+Weight Gain,NJ,66,10,16
+Weight Loss,NJ,66,10,16
+Abdominal Pain,NM,14,71,3
+Agnosia,NM,54,6,56
+Amblyopia,NM,49,1,49
+Amnesia,NM,7,54,19
+Angina Pectoris,NM,33,34,33
+Anisocoria,NM,42,29,42
+Anorexia,NM,16,63,11
+Anoxia,NM,43,30,43
+Aphasia,NM,21,67,8
+Apnea,NM,27,59,28
+Arthralgia,NM,11,56,23
+Asthenia,NM,41,28,41
+Ataxia,NM,34,26,34
+Back Pain,NM,65,17,65
+Birth Weight,NM,31,50,25
+Blindness,NM,16,62,11
+Body Weight,NM,20,66,7
+Bulimia,NM,16,63,11
+Cachexia,NM,41,28,41
+Catatonia,NM,69,24,69
+Chest Pain,NM,65,17,65
+Chills,NM,28,51,29
+Chorea,NM,29,48,30
+Colic,NM,60,11,60
+Coma,NM,10,55,22
+Confusion,NM,17,41,12
+Constipation,NM,65,17,65
+Coprophagia,NM,27,25,28
+Cough,NM,65,17,65
+Cyanosis,NM,12,70,1
+Deafness,NM,19,42,14
+Delirium,NM,44,31,44
+Diarrhea,NM,65,17,65
+Diplopia,NM,9,57,21
+Dizziness,NM,59,10,59
+Dysarthria,NM,45,32,45
+Dyslexia,NM,18,64,13
+Dysmenorrhea,NM,61,12,61
+Dyspepsia,NM,27,58,28
+Dysphonia,NM,9,57,21
+Dyspnea,NM,28,51,29
+Dystonia,NM,51,3,53
+Dysuria,NM,36,52,36
+Earache,NM,30,40,24
+Ecchymosis,NM,49,1,49
+Echolalia,NM,68,21,68
+Edema,NM,17,41,12
+Emaciation,NM,57,22,51
+Encopresis,NM,6,53,18
+Eye Pain,NM,47,46,47
+Fatigue,NM,23,61,6
+Feminization,NM,6,53,18
+Fever,NM,65,17,65
+Flatulence,NM,32,50,26
+Flushing,NM,2,36,15
+Gagging,NM,29,49,30
+Gastroparesis,NM,48,47,48
+Halitosis,NM,21,67,8
+Hallucinations,NM,22,65,9
+Headache,NM,65,17,65
+Hearing Loss,NM,1,60,5
+Heartburn,NM,65,17,65
+Hematemesis,NM,58,9,52
+Hemiplegia,NM,12,70,1
+Hemoptysis,NM,35,27,35
+Hiccup,NM,67,20,67
+Hirsutism,NM,13,70,2
+Hoarseness,NM,1,59,5
+Hot Flashes,NM,5,38,31
+Hypercapnia,NM,37,35,37
+Hyperemesis Gravidarum,NM,63,14,63
+Hyperventilation,NM,47,46,47
+Hypothermia,NM,35,27,35
+Hypoventilation,NM,38,43,38
+Illusions,NM,16,63,11
+Jaundice,NM,30,40,24
+Labor Pain,NM,40,45,40
+Lethargy,NM,4,39,17
+Low Back Pain,NM,22,65,9
+Miosis,NM,46,33,46
+Morning Sickness,NM,59,10,59
+Motion Sickness,NM,30,40,24
+Muscle Weakness,NM,21,62,8
+Mutism,NM,39,44,39
+Myoclonus,NM,27,23,28
+Nausea,NM,65,17,65
+Neck Pain,NM,66,16,66
+Neuralgia,NM,24,68,10
+Nocturia,NM,61,12,61
+Obesity,NM,16,63,11
+Oliguria,NM,56,8,58
+Overweight,NM,13,70,2
+Pain,NM,65,17,65
+Pallor,NM,64,15,64
+Paralysis,NM,50,16,50
+Paraplegia,NM,21,67,8
+Paresis,NM,21,67,8
+Paresthesia,NM,7,54,19
+Pelvic Pain,NM,49,1,49
+Photophobia,NM,53,5,55
+Polyuria,NM,7,54,19
+Presbycusis,NM,53,5,55
+Prosopagnosia,NM,62,13,62
+Proteinuria,NM,1,60,5
+Pruritus,NM,21,67,8
+Purpura,NM,20,66,7
+Sciatica,NM,26,18,27
+Seizures,NM,1,60,5
+Shoulder Pain,NM,65,17,65
+Sleep Deprivation,NM,21,67,8
+Sleep Disorders,NM,21,62,8
+Sneezing,NM,14,71,3
+Snoring,NM,31,50,25
+Spasm,NM,3,37,16
+Stupor,NM,55,7,57
+Stuttering,NM,34,26,34
+Sweating Sickness,NM,52,4,54
+Syncope,NM,34,26,34
+Tetany,NM,33,34,33
+Tics,NM,8,2,20
+Tinnitus,NM,25,69,32
+Toothache,NM,26,19,27
+Torticollis,NM,31,50,25
+Tremor,NM,30,40,24
+Urinary Incontinence,NM,10,55,22
+Vertigo,NM,15,72,4
+Vomiting,NM,65,17,65
+Weight Gain,NM,65,17,65
+Weight Loss,NM,65,17,65
+Abdominal Pain,NY,12,27,82
+Acute Coronary Syndrome,NY,69,63,28
+Ageusia,NY,43,82,64
+Agnosia,NY,44,83,65
+Agraphia,NY,45,84,66
+Albuminuria,NY,46,76,75
+Alien Hand Syndrome,NY,62,54,21
+Amaurosis Fugax,NY,63,55,22
+Amblyopia,NY,56,42,8
+Amnesia,NY,12,27,82
+Angina Pectoris,NY,63,55,22
+Anisocoria,NY,85,74,46
+Anomia,NY,60,57,19
+Anorexia,NY,74,68,33
+Anoxia,NY,4,86,67
+Aphasia,NY,10,59,86
+Aphonia,NY,33,9,55
+Apnea,NY,12,27,82
+Arthralgia,NY,2,17,71
+Asthenia,NY,63,55,22
+Ataxia,NY,24,44,43
+Athetosis,NY,82,52,41
+Back Pain,NY,12,27,82
+Birth Weight,NY,12,27,82
+Blindness,NY,74,68,33
+Body Weight,NY,12,27,82
+Bulimia,NY,74,68,33
+Cachexia,NY,17,2,73
+Catalepsy,NY,87,49,48
+Catatonia,NY,67,19,26
+Cerebellar Ataxia,NY,78,46,37
+Chest Pain,NY,12,27,82
+Chills,NY,12,27,82
+Chorea,NY,77,64,36
+Colic,NY,12,27,82
+Coma,NY,12,27,82
+Communication Disorders,NY,73,59,32
+Confusion,NY,64,56,23
+Constipation,NY,12,27,82
+Coprophagia,NY,51,30,3
+Cough,NY,12,27,82
+Cyanosis,NY,5,85,68
+Deafness,NY,74,68,33
+Delirium,NY,6,28,83
+Diarrhea,NY,12,27,82
+Diplopia,NY,49,41,1
+Dizziness,NY,12,27,82
+Dysarthria,NY,17,7,73
+Dysgeusia,NY,35,11,57
+Dyskinesias,NY,86,75,47
+Dyslexia,NY,73,59,32
+Dysmenorrhea,NY,47,77,76
+Dyspepsia,NY,21,25,89
+Dysphonia,NY,85,74,46
+Dyspnea,NY,12,27,82
+Dystonia,NY,25,15,61
+Dysuria,NY,12,27,82
+Earache,NY,12,27,82
+Ecchymosis,NY,12,27,82
+Echolalia,NY,50,43,2
+Edema,NY,12,27,82
+Emaciation,NY,83,1,44
+Encopresis,NY,74,68,33
+Eructation,NY,27,5,63
+Eye Hemorrhage,NY,23,5,42
+Eye Pain,NY,12,27,82
+Facial Pain,NY,75,69,34
+Facial Paralysis,NY,90,45,51
+Fasciculation,NY,77,64,36
+Fatigue,NY,12,27,82
+Feminization,NY,74,68,33
+Fetal Distress,NY,52,38,4
+Fetal Weight,NY,70,65,29
+Fever,NY,12,27,82
+Fever of Unknown Origin,NY,52,37,4
+Flank Pain,NY,12,27,82
+Flatulence,NY,74,68,33
+Flushing,NY,12,27,82
+Gagging,NY,7,22,79
+Gastroparesis,NY,12,27,82
+Gerstmann Syndrome,NY,43,82,64
+Halitosis,NY,49,41,1
+Hallucinations,NY,12,27,82
+Headache,NY,12,27,82
+Hearing Disorders,NY,68,62,27
+Hearing Loss,NY,5,85,68
+Heart Murmurs,NY,74,68,33
+Heartburn,NY,12,27,82
+Hematemesis,NY,54,20,6
+Hemianopsia,NY,20,2,69
+Hemifacial Spasm,NY,41,80,17
+Hemiplegia,NY,1,47,70
+Hemoglobinuria,NY,76,70,35
+Hemoptysis,NY,55,21,7
+Hiccup,NY,12,27,82
+Hirsutism,NY,84,71,45
+Hoarseness,NY,18,4,74
+Horner Syndrome,NY,66,51,25
+Hot Flashes,NY,12,27,82
+Hydrops Fetalis,NY,44,83,65
+Hyperacusis,NY,70,65,29
+Hyperalgesia,NY,51,38,3
+Hypercalciuria,NY,28,58,12
+Hypercapnia,NY,20,26,69
+Hyperemesis Gravidarum,NY,15,29,88
+Hyperesthesia,NY,59,40,11
+Hypergammaglobulinemia,NY,62,54,21
+Hyperkinesis,NY,28,58,12
+Hyperoxia,NY,58,39,10
+Hyperphagia,NY,30,31,14
+Hyperventilation,NY,61,57,20
+Hypesthesia,NY,81,33,40
+Hypocapnia,NY,24,44,43
+Hypokinesia,NY,89,6,50
+Hypothermia,NY,53,61,5
+Hypoventilation,NY,1,47,70
+Illusions,NY,74,68,33
+Intermittent Claudication,NY,26,32,62
+Jaundice,NY,12,27,82
+Korsakoff Syndrome,NY,42,81,18
+Labor Pain,NY,12,27,82
+Language Disorders,NY,74,68,33
+Learning Disorders,NY,74,68,33
+Lethargy,NY,22,16,78
+Livedo Reticularis,NY,16,3,52
+Low Back Pain,NY,12,27,82
+Memory Disorders,NY,39,78,15
+Mental Fatigue,NY,65,53,24
+Mental Retardation,NY,74,68,33
+Metatarsalgia,NY,72,67,31
+Miosis,NY,57,60,9
+Morning Sickness,NY,12,27,82
+Motion Sickness,NY,12,27,82
+Mouth Breathing,NY,12,27,82
+Muscle Cramp,NY,19,4,74
+Muscle Weakness,NY,2,18,71
+Muscular Atrophy,NY,75,69,34
+Mutism,NY,72,67,31
+Myoclonus,NY,23,45,42
+Myokymia,NY,87,49,48
+Myotonia,NY,71,66,30
+Nausea,NY,12,27,82
+Neck Pain,NY,12,27,82
+Necrolytic Migratory Erythema,NY,4,86,67
+Neuralgia,NY,14,27,85
+Nocturia,NY,57,36,9
+Obesity,NY,74,68,33
+Oliguria,NY,12,27,82
+Ophthalmoplegia,NY,46,76,75
+Orthostatic Intolerance,NY,39,78,15
+Overweight,NY,47,77,76
+Pain,NY,12,27,82
+Pallor,NY,10,25,86
+Paralysis,NY,12,27,82
+Paraparesis,NY,71,66,30
+Paraplegia,NY,84,71,45
+Paresis,NY,66,51,25
+Paresthesia,NY,12,27,82
+Pelvic Pain,NY,12,27,82
+Persistent Vegetative State,NY,80,72,39
+Phantom Limb,NY,29,30,13
+Photophobia,NY,16,37,52
+Polyuria,NY,57,36,9
+Presbycusis,NY,37,13,59
+Prosopagnosia,NY,58,39,10
+Proteinuria,NY,66,78,25
+Pruritus,NY,13,27,84
+Pseudobulbar Palsy,NY,83,1,44
+Pseudophakia,NY,48,8,77
+Psychomotor Agitation,NY,31,73,53
+Purpura,NY,79,34,38
+Purpura Fulminans,NY,26,32,62
+Quadriplegia,NY,23,7,42
+Renal Colic,NY,3,87,72
+Respiratory Sounds,NY,36,12,58
+Reticulocytosis,NY,25,15,61
+Sarcopenia,NY,57,36,9
+Sciatica,NY,12,27,82
+Scotoma,NY,68,62,27
+Seizures,NY,12,27,82
+Shoulder Pain,NY,12,27,82
+Sleep Deprivation,NY,73,59,32
+Sleep Disorders,NY,74,68,33
+Sneezing,NY,12,27,82
+Snoring,NY,12,27,82
+Spasm,NY,12,27,82
+Speech Disorders,NY,63,55,22
+Stupor,NY,12,27,82
+Stuttering,NY,74,68,33
+Susac Syndrome,NY,32,48,54
+Sweating Sickness,NY,38,14,60
+Syncope,NY,11,35,87
+Synkinesis,NY,34,10,56
+Tetany,NY,49,35,1
+Thinness,NY,69,63,28
+Tics,NY,22,16,78
+Tinea Pedis,NY,65,53,24
+Tinnitus,NY,12,27,82
+Toothache,NY,12,27,82
+Torticollis,NY,9,24,81
+Tremor,NY,8,23,80
+Trismus,NY,88,50,49
+Unconsciousness,NY,80,72,39
+Urinary Incontinence,NY,5,85,68
+Vertigo,NY,44,83,65
+Vocal Cord Paralysis,NY,40,79,16
+Voice Disorders,NY,74,68,33
+Vomiting,NY,12,27,82
+Weight Gain,NY,12,27,82
+Weight Loss,NY,12,27,82
+Abdominal Pain,NC,11,11,6
+Acute Coronary Syndrome,NC,47,36,51
+Ageusia,NC,32,16,12
+Agnosia,NC,69,42,77
+Agraphia,NC,32,16,12
+Albuminuria,NC,20,81,29
+Alien Hand Syndrome,NC,18,54,53
+Amaurosis Fugax,NC,28,48,37
+Amblyopia,NC,23,59,32
+Amnesia,NC,10,10,5
+Angina Pectoris,NC,56,23,40
+Anisocoria,NC,43,63,47
+Anomia,NC,3,76,63
+Anorexia,NC,47,36,51
+Anoxia,NC,20,67,29
+Aphasia,NC,59,2,57
+Aphonia,NC,1,74,61
+Apnea,NC,44,57,48
+Arthralgia,NC,72,79,80
+Asthenia,NC,45,34,49
+Ataxia,NC,23,26,32
+Athetosis,NC,79,4,72
+Back Pain,NC,11,11,6
+Birth Weight,NC,61,60,59
+Blindness,NC,47,36,51
+Body Weight,NC,7,70,2
+Bulimia,NC,47,36,51
+Cachexia,NC,52,59,24
+Catalepsy,NC,67,52,75
+Catatonia,NC,20,21,29
+Cerebellar Ataxia,NC,31,15,11
+Chest Pain,NC,11,11,6
+Chills,NC,11,11,6
+Chorea,NC,46,46,50
+Colic,NC,58,25,43
+Coma,NC,15,12,10
+Communication Disorders,NC,41,35,45
+Confusion,NC,40,66,44
+Constipation,NC,11,11,6
+Coprophagia,NC,29,49,38
+Cough,NC,11,11,6
+Cyanosis,NC,48,32,23
+Deafness,NC,47,36,51
+Delirium,NC,65,45,65
+Diarrhea,NC,11,11,6
+Diplopia,NC,53,29,25
+Dizziness,NC,11,11,6
+Dysarthria,NC,17,53,52
+Dysgeusia,NC,74,5,68
+Dyslexia,NC,60,37,58
+Dysmenorrhea,NC,35,43,15
+Dyspepsia,NC,52,26,24
+Dysphonia,NC,53,29,25
+Dyspnea,NC,26,51,35
+Dystonia,NC,73,80,81
+Dysuria,NC,49,30,27
+Earache,NC,11,11,6
+Ecchymosis,NC,51,33,20
+Echolalia,NC,63,58,55
+Edema,NC,24,56,33
+Emaciation,NC,75,6,70
+Encopresis,NC,76,81,71
+Eructation,NC,33,20,13
+Eye Hemorrhage,NC,54,27,26
+Eye Pain,NC,11,11,6
+Facial Pain,NC,53,29,25
+Facial Paralysis,NC,26,51,35
+Fasciculation,NC,54,27,26
+Fatigue,NC,11,11,6
+Feminization,NC,47,36,51
+Fetal Weight,NC,53,29,25
+Fever,NC,11,11,6
+Flank Pain,NC,36,44,16
+Flatulence,NC,37,38,17
+Flushing,NC,50,47,21
+Gagging,NC,10,10,5
+Gastroparesis,NC,9,9,4
+Halitosis,NC,47,36,51
+Hallucinations,NC,11,11,6
+Headache,NC,11,11,6
+Hearing Loss,NC,30,49,39
+Heart Murmurs,NC,47,36,51
+Heartburn,NC,11,11,6
+Hematemesis,NC,30,49,39
+Hemianopsia,NC,40,66,44
+Hemiplegia,NC,57,24,41
+Hemoglobinuria,NC,67,52,75
+Hemoptysis,NC,34,17,14
+Hiccup,NC,11,11,6
+Hirsutism,NC,41,35,45
+Hoarseness,NC,54,28,26
+Horner Syndrome,NC,63,58,55
+Hot Flashes,NC,11,11,6
+Hydrops Fetalis,NC,78,73,67
+Hyperacusis,NC,43,63,47
+Hyperalgesia,NC,37,38,17
+Hypercapnia,NC,72,79,80
+Hyperemesis Gravidarum,NC,55,31,28
+Hyperesthesia,NC,71,83,79
+Hyperphagia,NC,29,49,38
+Hyperventilation,NC,52,26,24
+Hypocapnia,NC,35,43,15
+Hypothermia,NC,54,27,26
+Hypoventilation,NC,33,20,13
+Illusions,NC,47,36,51
+Intermittent Claudication,NC,8,68,3
+Jaundice,NC,52,26,24
+Korsakoff Syndrome,NC,12,7,7
+Labor Pain,NC,14,11,9
+Language Disorders,NC,54,27,42
+Learning Disorders,NC,70,82,78
+Lethargy,NC,68,50,76
+Livedo Reticularis,NC,20,20,29
+Low Back Pain,NC,39,41,19
+Mental Retardation,NC,47,36,51
+Metatarsalgia,NC,20,28,29
+Miosis,NC,66,1,74
+Morning Sickness,NC,13,8,8
+Motion Sickness,NC,24,56,33
+Mouth Breathing,NC,6,69,1
+Muscle Cramp,NC,66,1,74
+Muscle Weakness,NC,28,48,37
+Muscular Atrophy,NC,42,65,46
+Mutism,NC,30,49,39
+Myoclonus,NC,20,22,29
+Myokymia,NC,80,14,73
+Myotonia,NC,57,24,41
+Nausea,NC,11,11,6
+Neck Pain,NC,11,11,6
+Neuralgia,NC,21,18,30
+Nocturia,NC,6,71,1
+Obesity,NC,47,36,51
+Oliguria,NC,42,65,46
+Ophthalmoplegia,NC,2,75,62
+Orthostatic Intolerance,NC,64,62,56
+Overweight,NC,62,61,60
+Pain,NC,11,11,6
+Pallor,NC,27,52,36
+Paralysis,NC,24,11,33
+Paraparesis,NC,20,69,29
+Paraplegia,NC,38,40,18
+Paresis,NC,38,40,18
+Paresthesia,NC,68,50,76
+Pelvic Pain,NC,11,11,6
+Persistent Vegetative State,NC,42,65,46
+Phantom Limb,NC,77,72,66
+Photophobia,NC,56,23,40
+Polyuria,NC,31,15,11
+Presbycusis,NC,77,72,66
+Prosopagnosia,NC,64,62,56
+Proteinuria,NC,52,26,24
+Pruritus,NC,44,57,48
+Pseudophakia,NC,54,27,26
+Psychomotor Agitation,NC,4,77,64
+Purpura,NC,47,36,51
+Quadriplegia,NC,57,24,42
+Renal Colic,NC,34,17,14
+Sarcopenia,NC,67,3,75
+Sciatica,NC,11,11,6
+Scotoma,NC,30,49,39
+Seizures,NC,48,32,23
+Shoulder Pain,NC,11,11,6
+Sleep Deprivation,NC,54,27,26
+Sleep Disorders,NC,47,36,51
+Sneezing,NC,11,11,6
+Snoring,NC,11,58,6
+Spasm,NC,9,9,4
+Speech Disorders,NC,46,14,50
+Stupor,NC,35,43,15
+Stuttering,NC,27,46,36
+Sweating Sickness,NC,5,78,69
+Syncope,NC,22,19,31
+Tetany,NC,19,55,54
+Thinness,NC,17,53,52
+Tics,NC,20,39,29
+Tinea Pedis,NC,78,73,67
+Tinnitus,NC,16,13,22
+Toothache,NC,11,11,6
+Torticollis,NC,45,34,49
+Tremor,NC,21,18,30
+Trismus,NC,53,29,25
+Unconsciousness,NC,28,48,37
+Urinary Incontinence,NC,70,82,78
+Vertigo,NC,25,64,34
+Vomiting,NC,11,11,6
+Weight Gain,NC,11,11,6
+Weight Loss,NC,11,11,6
+Abdominal Pain,ND,3,22,3
+Agnosia,ND,28,31,39
+Amnesia,ND,1,57,1
+Angina Pectoris,ND,27,35,4
+Anorexia,ND,13,4,52
+Aphasia,ND,27,35,4
+Apnea,ND,38,27,8
+Ataxia,ND,6,16,45
+Back Pain,ND,53,48,30
+Birth Weight,ND,27,35,4
+Blindness,ND,13,4,52
+Body Weight,ND,8,18,47
+Bulimia,ND,7,17,46
+Cachexia,ND,57,59,19
+Catatonia,ND,37,26,7
+Chest Pain,ND,45,40,18
+Chills,ND,1,57,1
+Chorea,ND,46,28,5
+Colic,ND,11,1,50
+Coma,ND,14,28,5
+Confusion,ND,30,21,41
+Constipation,ND,15,6,10
+Cough,ND,43,38,16
+Cyanosis,ND,21,12,56
+Deafness,ND,32,53,34
+Delirium,ND,47,33,24
+Diarrhea,ND,53,48,30
+Diplopia,ND,11,1,50
+Dizziness,ND,39,27,9
+Dysarthria,ND,43,38,16
+Dyslexia,ND,11,2,50
+Dysmenorrhea,ND,36,34,38
+Dyspepsia,ND,17,8,12
+Dyspnea,ND,31,23,42
+Dystonia,ND,58,60,20
+Dysuria,ND,61,52,23
+Earache,ND,22,13,57
+Ecchymosis,ND,50,43,27
+Edema,ND,7,17,46
+Eye Pain,ND,23,24,58
+Fatigue,ND,30,21,41
+Feminization,ND,2,36,2
+Fever,ND,53,48,30
+Flatulence,ND,47,33,24
+Flushing,ND,59,61,21
+Gagging,ND,18,5,53
+Gastroparesis,ND,4,14,43
+Halitosis,ND,10,19,49
+Hallucinations,ND,28,31,39
+Headache,ND,53,48,30
+Hearing Loss,ND,43,38,16
+Heartburn,ND,26,42,61
+Hemiplegia,ND,56,51,33
+Hemoptysis,ND,51,44,28
+Hiccup,ND,55,50,31
+Hot Flashes,ND,12,3,51
+Hyperemesis Gravidarum,ND,16,7,11
+Hyperventilation,ND,34,55,36
+Hypothermia,ND,24,25,59
+Illusions,ND,13,4,52
+Jaundice,ND,40,10,13
+Lethargy,ND,57,59,19
+Low Back Pain,ND,29,32,40
+Morning Sickness,ND,23,24,58
+Motion Sickness,ND,7,17,46
+Nausea,ND,53,48,30
+Neck Pain,ND,9,20,48
+Neuralgia,ND,2,30,2
+Obesity,ND,13,4,52
+Oliguria,ND,4,14,43
+Overweight,ND,41,37,14
+Pain,ND,53,48,30
+Pallor,ND,37,26,7
+Paralysis,ND,25,58,60
+Paraplegia,ND,4,14,43
+Paresthesia,ND,5,15,44
+Pelvic Pain,ND,42,36,15
+Polyuria,ND,52,45,29
+Pruritus,ND,4,14,43
+Purpura,ND,14,5,53
+Sciatica,ND,21,12,56
+Seizures,ND,19,9,54
+Shoulder Pain,ND,46,29,6
+Sneezing,ND,33,54,35
+Snoring,ND,44,39,17
+Spasm,ND,6,16,45
+Stupor,ND,60,41,22
+Stuttering,ND,20,11,55
+Syncope,ND,11,1,50
+Tetany,ND,35,56,37
+Tics,ND,27,35,4
+Tinnitus,ND,1,58,1
+Toothache,ND,48,46,25
+Torticollis,ND,1,57,1
+Tremor,ND,44,39,17
+Vertigo,ND,19,9,54
+Vomiting,ND,60,41,22
+Weight Gain,ND,49,47,26
+Weight Loss,ND,54,49,32
+Abdominal Pain,OH,78,12,18
+Acute Coronary Syndrome,OH,40,74,59
+Ageusia,OH,83,30,29
+Agnosia,OH,41,35,60
+Agraphia,OH,46,41,55
+Albuminuria,OH,57,31,85
+Alien Hand Syndrome,OH,88,23,25
+Amaurosis Fugax,OH,43,77,62
+Amblyopia,OH,30,81,30
+Amnesia,OH,77,11,17
+Angina Pectoris,OH,45,50,52
+Anisocoria,OH,65,86,6
+Anomia,OH,15,53,37
+Anorexia,OH,26,56,45
+Anoxia,OH,20,60,39
+Aphasia,OH,10,71,73
+Aphonia,OH,50,82,78
+Apnea,OH,73,12,5
+Arthralgia,OH,7,66,70
+Asthenia,OH,5,64,68
+Ataxia,OH,10,71,73
+Athetosis,OH,1,47,64
+Back Pain,OH,78,12,18
+Birth Weight,OH,79,14,19
+Blindness,OH,26,56,45
+Body Weight,OH,34,44,49
+Bulimia,OH,26,56,45
+Cachexia,OH,71,8,12
+Catalepsy,OH,1,47,64
+Catatonia,OH,11,68,74
+Cerebellar Ataxia,OH,8,73,71
+Chest Pain,OH,78,12,18
+Chills,OH,78,12,18
+Chorea,OH,4,37,67
+Colic,OH,81,15,20
+Coma,OH,80,13,17
+Communication Disorders,OH,25,61,44
+Confusion,OH,23,57,42
+Constipation,OH,78,12,18
+Coprophagia,OH,59,31,86
+Cough,OH,78,12,18
+Cyanosis,OH,43,78,62
+Deafness,OH,26,56,45
+Delirium,OH,74,6,15
+Diarrhea,OH,78,12,18
+Diplopia,OH,43,77,62
+Dizziness,OH,78,12,18
+Dysarthria,OH,47,38,53
+Dysgeusia,OH,6,65,69
+Dyslexia,OH,26,56,45
+Dysmenorrhea,OH,45,50,52
+Dyspepsia,OH,56,88,84
+Dysphonia,OH,29,59,36
+Dyspnea,OH,78,12,18
+Dystonia,OH,85,63,22
+Dysuria,OH,75,16,14
+Earache,OH,78,12,18
+Ecchymosis,OH,86,22,23
+Echolalia,OH,60,33,87
+Edema,OH,78,9,13
+Emaciation,OH,61,3,3
+Encopresis,OH,37,63,56
+Eructation,OH,82,28,28
+Eye Hemorrhage,OH,28,75,35
+Eye Pain,OH,78,12,18
+Facial Pain,OH,40,43,59
+Facial Paralysis,OH,6,65,69
+Fasciculation,OH,1,47,64
+Fatigue,OH,78,12,18
+Feminization,OH,26,56,45
+Fetal Weight,OH,31,51,31
+Fever,OH,78,12,18
+Flank Pain,OH,78,12,18
+Flatulence,OH,25,58,44
+Flushing,OH,78,12,18
+Gagging,OH,76,10,16
+Gastroparesis,OH,78,12,18
+Halitosis,OH,24,20,43
+Hallucinations,OH,78,12,18
+Headache,OH,78,12,18
+Hearing Loss,OH,21,54,40
+Heart Murmurs,OH,18,39,47
+Heartburn,OH,78,12,18
+Hematemesis,OH,44,21,63
+Hemianopsia,OH,9,70,72
+Hemiplegia,OH,71,8,12
+Hemoglobinuria,OH,70,27,27
+Hemoptysis,OH,27,76,34
+Hiccup,OH,78,12,18
+Hirsutism,OH,46,41,55
+Hoarseness,OH,8,73,71
+Horner Syndrome,OH,62,4,4
+Hot Flashes,OH,78,12,18
+Hydrops Fetalis,OH,49,42,54
+Hyperacusis,OH,32,51,32
+Hyperalgesia,OH,53,83,81
+Hypercalciuria,OH,49,42,54
+Hypercapnia,OH,66,25,7
+Hyperemesis Gravidarum,OH,69,19,10
+Hyperesthesia,OH,30,79,30
+Hyperphagia,OH,58,32,85
+Hyperventilation,OH,89,24,26
+Hypocapnia,OH,48,40,11
+Hypothermia,OH,25,62,44
+Hypoventilation,OH,67,20,8
+Illusions,OH,26,56,45
+Intermittent Claudication,OH,20,60,39
+Jaundice,OH,74,7,15
+Korsakoff Syndrome,OH,68,6,9
+Labor Pain,OH,76,10,16
+Language Disorders,OH,39,72,58
+Lethargy,OH,13,17,76
+Livedo Reticularis,OH,28,75,35
+Low Back Pain,OH,75,18,14
+Mental Retardation,OH,26,56,45
+Metatarsalgia,OH,27,76,34
+Miosis,OH,22,55,41
+Morning Sickness,OH,78,12,18
+Motion Sickness,OH,52,85,80
+Mouth Breathing,OH,55,87,83
+Muscle Cramp,OH,54,84,82
+Muscle Weakness,OH,73,34,5
+Muscular Atrophy,OH,28,58,35
+Mutism,OH,9,70,72
+Myoclonus,OH,37,80,56
+Myokymia,OH,12,69,75
+Myotonia,OH,16,53,38
+Nausea,OH,78,12,18
+Neck Pain,OH,78,12,18
+Neuralgia,OH,9,70,72
+Nocturia,OH,84,5,21
+Obesity,OH,26,56,45
+Oliguria,OH,48,40,11
+Ophthalmoplegia,OH,38,76,57
+Orthostatic Intolerance,OH,2,48,65
+Overweight,OH,33,52,33
+Pain,OH,78,12,18
+Pallor,OH,9,70,72
+Paralysis,OH,78,12,18
+Paraparesis,OH,1,47,64
+Paraplegia,OH,38,79,57
+Paresis,OH,39,72,58
+Paresthesia,OH,77,11,23
+Pelvic Pain,OH,78,12,18
+Persistent Vegetative State,OH,17,35,46
+Phantom Limb,OH,36,45,51
+Photophobia,OH,3,49,66
+Polyuria,OH,63,1,1
+Presbycusis,OH,15,46,37
+Prosopagnosia,OH,49,42,54
+Proteinuria,OH,26,56,45
+Pruritus,OH,42,36,61
+Pseudophakia,OH,71,8,12
+Psychomotor Agitation,OH,64,2,2
+Purpura,OH,46,56,55
+Quadriplegia,OH,41,46,60
+Renal Colic,OH,35,43,50
+Respiratory Sounds,OH,67,21,8
+Sarcopenia,OH,82,28,28
+Sciatica,OH,78,12,18
+Scotoma,OH,38,26,57
+Seizures,OH,78,12,18
+Shoulder Pain,OH,78,12,18
+Sleep Deprivation,OH,26,56,45
+Sleep Disorders,OH,26,56,45
+Sneezing,OH,78,12,18
+Snoring,OH,78,12,18
+Spasm,OH,78,12,18
+Speech Disorders,OH,31,51,31
+Stupor,OH,87,67,24
+Stuttering,OH,45,50,52
+Sweating Sickness,OH,70,27,27
+Syncope,OH,14,29,77
+Tetany,OH,72,9,13
+Thinness,OH,17,35,46
+Tics,OH,51,82,79
+Tinea Pedis,OH,53,83,81
+Tinnitus,OH,78,12,18
+Toothache,OH,78,12,18
+Torticollis,OH,54,84,82
+Tremor,OH,55,87,83
+Trismus,OH,5,64,68
+Unconsciousness,OH,84,5,21
+Urinary Incontinence,OH,19,61,48
+Vertigo,OH,52,85,80
+Vomiting,OH,78,12,18
+Weight Gain,OH,78,12,18
+Weight Loss,OH,78,12,18
+Abdominal Pain,OK,26,27,60
+Ageusia,OK,27,31,62
+Agnosia,OK,54,2,29
+Amblyopia,OK,59,51,9
+Amnesia,OK,23,23,55
+Angina Pectoris,OK,51,47,4
+Anisocoria,OK,61,56,11
+Anomia,OK,45,41,35
+Anorexia,OK,72,63,22
+Anoxia,OK,51,47,4
+Aphasia,OK,58,49,8
+Apnea,OK,54,2,29
+Arthralgia,OK,51,47,4
+Asthenia,OK,53,1,28
+Ataxia,OK,64,55,14
+Back Pain,OK,26,27,60
+Birth Weight,OK,31,71,66
+Blindness,OK,67,75,17
+Body Weight,OK,13,38,50
+Bulimia,OK,76,61,26
+Cachexia,OK,40,8,75
+Catalepsy,OK,35,5,70
+Catatonia,OK,19,21,54
+Chest Pain,OK,26,27,60
+Chills,OK,26,27,60
+Chorea,OK,66,74,16
+Colic,OK,12,37,49
+Coma,OK,14,39,51
+Confusion,OK,76,61,26
+Constipation,OK,26,27,60
+Coprophagia,OK,29,16,64
+Cough,OK,26,27,60
+Cyanosis,OK,9,35,46
+Deafness,OK,57,73,6
+Delirium,OK,67,75,17
+Diarrhea,OK,26,27,60
+Diplopia,OK,67,75,17
+Dizziness,OK,22,26,58
+Dysarthria,OK,11,36,48
+Dysgeusia,OK,54,2,29
+Dyslexia,OK,67,75,17
+Dysmenorrhea,OK,43,43,33
+Dyspepsia,OK,63,54,13
+Dysphonia,OK,75,58,25
+Dyspnea,OK,38,18,73
+Dystonia,OK,71,62,21
+Dysuria,OK,39,9,74
+Earache,OK,25,25,59
+Ecchymosis,OK,46,52,36
+Echolalia,OK,55,3,30
+Edema,OK,7,33,44
+Emaciation,OK,41,40,76
+Encopresis,OK,51,47,4
+Eye Pain,OK,30,17,65
+Facial Pain,OK,18,20,53
+Fatigue,OK,26,27,60
+Feminization,OK,1,12,38
+Fever,OK,26,27,60
+Flank Pain,OK,30,17,65
+Flatulence,OK,76,61,26
+Flushing,OK,62,57,12
+Gagging,OK,8,34,45
+Gastroparesis,OK,17,19,52
+Halitosis,OK,51,47,4
+Hallucinations,OK,52,48,5
+Headache,OK,26,27,60
+Hearing Loss,OK,75,61,25
+Heartburn,OK,26,27,60
+Hematemesis,OK,35,5,70
+Hemianopsia,OK,46,52,36
+Hemiplegia,OK,2,13,39
+Hemoptysis,OK,60,50,10
+Hiccup,OK,21,29,57
+Hirsutism,OK,56,72,7
+Hoarseness,OK,77,60,27
+Hot Flashes,OK,7,33,44
+Hydrops Fetalis,OK,6,11,43
+Hyperacusis,OK,29,16,64
+Hypercapnia,OK,24,24,56
+Hyperemesis Gravidarum,OK,15,30,61
+Hyperventilation,OK,73,64,23
+Hypothermia,OK,68,76,18
+Hypoventilation,OK,36,6,71
+Illusions,OK,72,63,22
+Jaundice,OK,33,69,68
+Labor Pain,OK,17,19,52
+Lethargy,OK,59,51,9
+Livedo Reticularis,OK,37,7,72
+Low Back Pain,OK,77,60,27
+Mental Retardation,OK,65,59,15
+Metatarsalgia,OK,37,7,72
+Miosis,OK,68,76,18
+Morning Sickness,OK,69,77,19
+Motion Sickness,OK,50,46,3
+Mouth Breathing,OK,36,6,71
+Muscle Cramp,OK,48,44,1
+Muscle Weakness,OK,34,66,69
+Mutism,OK,42,42,32
+Myoclonus,OK,44,68,34
+Nausea,OK,26,27,60
+Neck Pain,OK,26,27,60
+Neuralgia,OK,50,46,3
+Nocturia,OK,53,1,28
+Obesity,OK,72,63,22
+Oliguria,OK,10,35,47
+Orthostatic Intolerance,OK,3,14,40
+Overweight,OK,73,64,23
+Pain,OK,26,27,60
+Pallor,OK,32,70,67
+Paralysis,OK,22,26,58
+Paraplegia,OK,66,74,16
+Paresis,OK,61,56,11
+Paresthesia,OK,60,61,10
+Pelvic Pain,OK,26,28,60
+Photophobia,OK,61,56,11
+Polyuria,OK,57,73,6
+Presbycusis,OK,28,32,63
+Prosopagnosia,OK,5,10,42
+Proteinuria,OK,75,58,25
+Pruritus,OK,58,49,8
+Purpura,OK,65,67,15
+Quadriplegia,OK,45,41,35
+Sarcopenia,OK,45,41,35
+Sciatica,OK,21,26,57
+Scotoma,OK,63,54,13
+Seizures,OK,56,72,7
+Shoulder Pain,OK,26,27,60
+Sleep Deprivation,OK,76,61,26
+Sleep Disorders,OK,72,63,22
+Sneezing,OK,26,28,60
+Snoring,OK,63,54,13
+Spasm,OK,20,22,54
+Stupor,OK,4,15,41
+Stuttering,OK,71,62,21
+Sweating Sickness,OK,16,4,31
+Syncope,OK,74,65,24
+Tetany,OK,61,56,11
+Tics,OK,74,65,24
+Tinea Pedis,OK,8,34,45
+Tinnitus,OK,47,53,37
+Toothache,OK,26,27,60
+Torticollis,OK,43,43,33
+Tremor,OK,70,78,20
+Trismus,OK,11,36,48
+Urinary Incontinence,OK,42,42,32
+Vertigo,OK,49,45,2
+Vomiting,OK,26,27,60
+Weight Gain,OK,26,27,60
+Weight Loss,OK,25,25,59
+Abdominal Pain,OR,14,72,10
+Acute Coronary Syndrome,OR,57,1,77
+Ageusia,OR,17,77,17
+Agnosia,OR,43,52,73
+Albuminuria,OR,33,29,37
+Alien Hand Syndrome,OR,40,47,70
+Amaurosis Fugax,OR,1,36,27
+Amblyopia,OR,78,19,66
+Amnesia,OR,7,63,4
+Angina Pectoris,OR,24,33,6
+Anisocoria,OR,37,24,60
+Anomia,OR,25,34,7
+Anorexia,OR,75,18,58
+Anoxia,OR,55,12,54
+Aphasia,OR,52,5,74
+Apnea,OR,65,73,49
+Arthralgia,OR,46,2,68
+Asthenia,OR,49,58,44
+Ataxia,OR,70,16,41
+Back Pain,OR,14,72,10
+Birth Weight,OR,52,5,74
+Blindness,OR,75,18,58
+Body Weight,OR,63,76,16
+Bulimia,OR,75,18,58
+Cachexia,OR,48,57,43
+Catatonia,OR,26,35,8
+Cerebellar Ataxia,OR,21,45,19
+Chest Pain,OR,14,72,10
+Chills,OR,14,72,10
+Chorea,OR,73,8,51
+Colic,OR,64,10,48
+Coma,OR,59,64,79
+Confusion,OR,55,12,54
+Constipation,OR,14,72,10
+Coprophagia,OR,20,44,18
+Cough,OR,14,72,10
+Cyanosis,OR,67,7,47
+Deafness,OR,78,3,66
+Delirium,OR,31,25,33
+Diarrhea,OR,14,72,10
+Diplopia,OR,38,15,61
+Dizziness,OR,14,72,10
+Dysarthria,OR,69,10,53
+Dysgeusia,OR,54,6,76
+Dyslexia,OR,64,73,48
+Dysmenorrhea,OR,49,58,44
+Dyspepsia,OR,50,55,45
+Dysphonia,OR,60,42,13
+Dyspnea,OR,49,59,44
+Dystonia,OR,48,57,43
+Dysuria,OR,27,32,21
+Earache,OR,69,9,53
+Ecchymosis,OR,36,23,59
+Echolalia,OR,36,23,59
+Edema,OR,51,56,46
+Emaciation,OR,18,66,39
+Encopresis,OR,22,46,20
+Eructation,OR,46,50,68
+Eye Pain,OR,78,19,66
+Facial Pain,OR,30,54,24
+Fasciculation,OR,72,14,56
+Fatigue,OR,14,72,10
+Feminization,OR,74,17,57
+Fever,OR,14,72,10
+Flank Pain,OR,79,70,65
+Flatulence,OR,75,18,58
+Flushing,OR,67,7,47
+Gagging,OR,12,75,9
+Gastroparesis,OR,15,72,11
+Halitosis,OR,64,10,52
+Hallucinations,OR,15,68,11
+Headache,OR,14,72,10
+Hearing Loss,OR,64,73,48
+Heartburn,OR,14,72,10
+Hematemesis,OR,76,19,63
+Hemianopsia,OR,44,27,35
+Hemiplegia,OR,79,22,65
+Hemoptysis,OR,32,26,34
+Hiccup,OR,13,67,40
+Hirsutism,OR,47,51,69
+Hoarseness,OR,40,47,70
+Hot Flashes,OR,64,10,48
+Hydrops Fetalis,OR,20,44,18
+Hyperacusis,OR,52,5,74
+Hyperalgesia,OR,71,53,42
+Hypercapnia,OR,57,1,77
+Hyperemesis Gravidarum,OR,58,2,78
+Hyperesthesia,OR,34,30,38
+Hyperventilation,OR,68,10,52
+Hypocapnia,OR,57,1,77
+Hypothermia,OR,70,16,41
+Hypoventilation,OR,39,22,62
+Illusions,OR,75,18,58
+Intermittent Claudication,OR,35,20,67
+Jaundice,OR,41,48,71
+Korsakoff Syndrome,OR,29,31,23
+Labor Pain,OR,16,71,12
+Lethargy,OR,53,3,75
+Livedo Reticularis,OR,23,38,29
+Low Back Pain,OR,63,76,16
+Mental Retardation,OR,75,18,58
+Metatarsalgia,OR,45,28,36
+Miosis,OR,78,21,66
+Morning Sickness,OR,62,74,15
+Motion Sickness,OR,50,55,45
+Mouth Breathing,OR,71,53,42
+Muscle Cramp,OR,69,9,53
+Muscle Weakness,OR,50,55,45
+Mutism,OR,36,23,59
+Myoclonus,OR,68,10,52
+Myotonia,OR,29,31,23
+Nausea,OR,14,72,10
+Neck Pain,OR,14,72,10
+Neuralgia,OR,75,18,58
+Nocturia,OR,49,59,44
+Obesity,OR,75,18,58
+Oliguria,OR,33,29,37
+Ophthalmoplegia,OR,3,40,25
+Orthostatic Intolerance,OR,5,39,30
+Overweight,OR,70,16,41
+Pain,OR,14,72,10
+Pallor,OR,42,49,72
+Paralysis,OR,65,73,10
+Paraplegia,OR,30,54,24
+Paresis,OR,53,4,75
+Paresthesia,OR,8,21,5
+Pelvic Pain,OR,65,73,10
+Persistent Vegetative State,OR,4,69,26
+Photophobia,OR,33,29,37
+Polyuria,OR,71,53,42
+Presbycusis,OR,9,60,1
+Prosopagnosia,OR,37,24,60
+Proteinuria,OR,28,32,22
+Pruritus,OR,67,7,47
+Pseudophakia,OR,2,37,28
+Purpura,OR,73,8,51
+Purpura Fulminans,OR,19,65,31
+Quadriplegia,OR,71,53,42
+Renal Colic,OR,18,66,39
+Sarcopenia,OR,11,62,3
+Sciatica,OR,14,72,10
+Scotoma,OR,41,48,71
+Seizures,OR,66,73,50
+Shoulder Pain,OR,14,72,10
+Sleep Deprivation,OR,64,10,48
+Sleep Disorders,OR,72,14,56
+Sneezing,OR,14,72,10
+Snoring,OR,65,73,49
+Spasm,OR,62,74,15
+Stupor,OR,18,66,39
+Stuttering,OR,74,17,57
+Sweating Sickness,OR,10,61,2
+Syncope,OR,77,11,64
+Tetany,OR,69,9,53
+Tics,OR,56,13,55
+Tinea Pedis,OR,20,44,18
+Tinnitus,OR,64,73,48
+Toothache,OR,14,72,10
+Torticollis,OR,79,2,65
+Tremor,OR,64,10,48
+Trismus,OR,6,41,32
+Unconsciousness,OR,69,10,53
+Urinary Incontinence,OR,61,43,14
+Vertigo,OR,78,75,66
+Vomiting,OR,14,72,10
+Weight Gain,OR,14,72,10
+Weight Loss,OR,14,72,10
+Abdominal Pain,PA,15,24,17
+Acute Coronary Syndrome,PA,62,62,69
+Ageusia,PA,46,50,61
+Agnosia,PA,5,49,6
+Agraphia,PA,71,66,83
+Albuminuria,PA,23,88,22
+Alien Hand Syndrome,PA,46,50,61
+Amaurosis Fugax,PA,27,33,47
+Amblyopia,PA,66,78,73
+Amnesia,PA,15,24,17
+Angina Pectoris,PA,64,55,71
+Anisocoria,PA,74,69,86
+Anomia,PA,69,78,81
+Anorexia,PA,79,79,79
+Anoxia,PA,57,71,43
+Aphasia,PA,16,24,19
+Aphonia,PA,57,45,43
+Apnea,PA,17,26,18
+Arthralgia,PA,56,75,41
+Asthenia,PA,79,79,79
+Ataxia,PA,7,15,8
+Athetosis,PA,81,40,48
+Back Pain,PA,15,24,17
+Birth Weight,PA,13,4,15
+Blindness,PA,79,79,79
+Body Weight,PA,31,44,54
+Bulimia,PA,79,79,79
+Cachexia,PA,54,36,59
+Catalepsy,PA,71,66,83
+Catatonia,PA,46,51,61
+Cerebellar Ataxia,PA,48,47,63
+Chest Pain,PA,15,24,17
+Chills,PA,15,24,17
+Chorea,PA,60,60,67
+Colic,PA,15,24,17
+Coma,PA,15,24,17
+Communication Disorders,PA,79,79,79
+Confusion,PA,62,62,69
+Constipation,PA,15,24,17
+Coprophagia,PA,25,90,24
+Cough,PA,15,24,17
+Cyanosis,PA,51,35,56
+Deafness,PA,79,79,79
+Delirium,PA,12,23,13
+Diarrhea,PA,15,24,17
+Diplopia,PA,75,70,87
+Dizziness,PA,15,24,17
+Dysarthria,PA,3,28,52
+Dysgeusia,PA,33,86,25
+Dyslexia,PA,78,77,78
+Dysmenorrhea,PA,57,54,43
+Dyspepsia,PA,52,35,57
+Dysphonia,PA,46,50,61
+Dyspnea,PA,15,24,17
+Dystonia,PA,55,8,60
+Dysuria,PA,8,13,9
+Earache,PA,15,24,17
+Ecchymosis,PA,6,14,7
+Echolalia,PA,26,32,46
+Edema,PA,11,22,12
+Emaciation,PA,22,9,3
+Encopresis,PA,84,38,51
+Eructation,PA,46,50,61
+Eye Hemorrhage,PA,63,63,70
+Eye Pain,PA,15,24,17
+Facial Pain,PA,50,59,55
+Facial Paralysis,PA,41,82,34
+Fasciculation,PA,61,61,68
+Fatigue,PA,15,24,17
+Feminization,PA,79,79,79
+Fetal Weight,PA,38,81,31
+Fever,PA,15,24,17
+Flank Pain,PA,15,24,17
+Flatulence,PA,64,55,71
+Flushing,PA,10,21,11
+Gagging,PA,12,23,14
+Gastroparesis,PA,15,24,17
+Gerstmann Syndrome,PA,28,29,44
+Halitosis,PA,74,69,86
+Hallucinations,PA,15,24,17
+Headache,PA,15,24,17
+Hearing Loss,PA,78,77,78
+Heart Murmurs,PA,79,79,79
+Heartburn,PA,15,24,17
+Hematemesis,PA,61,61,68
+Hemianopsia,PA,35,57,27
+Hemifacial Spasm,PA,81,40,48
+Hemiplegia,PA,36,84,28
+Hemoglobinuria,PA,40,80,33
+Hemoptysis,PA,66,58,73
+Hiccup,PA,15,24,17
+Hirsutism,PA,4,42,53
+Hoarseness,PA,70,67,82
+Horner Syndrome,PA,46,51,61
+Hot Flashes,PA,15,24,17
+Hydrops Fetalis,PA,50,59,55
+Hyperacusis,PA,45,3,38
+Hyperalgesia,PA,6,14,7
+Hypercalciuria,PA,42,82,35
+Hypercapnia,PA,71,66,83
+Hyperemesis Gravidarum,PA,19,17,21
+Hyperesthesia,PA,58,30,65
+Hypergammaglobulinemia,PA,57,10,42
+Hyperkinesis,PA,42,82,35
+Hyperphagia,PA,84,38,51
+Hyperventilation,PA,76,79,76
+Hypesthesia,PA,28,28,44
+Hypocapnia,PA,82,41,49
+Hypokinesia,PA,41,82,34
+Hypothermia,PA,77,74,77
+Hypoventilation,PA,56,64,41
+Illusions,PA,79,79,79
+Intermittent Claudication,PA,73,68,85
+Jaundice,PA,67,52,74
+Korsakoff Syndrome,PA,59,65,66
+Labor Pain,PA,15,24,17
+Language Disorders,PA,79,79,79
+Learning Disorders,PA,79,79,79
+Lethargy,PA,14,19,16
+Livedo Reticularis,PA,47,46,62
+Low Back Pain,PA,15,25,17
+Mental Retardation,PA,79,79,79
+Metatarsalgia,PA,69,67,81
+Miosis,PA,83,37,50
+Morning Sickness,PA,15,24,17
+Motion Sickness,PA,1,1,4
+Mouth Breathing,PA,53,35,58
+Muscle Cramp,PA,70,67,82
+Muscle Weakness,PA,11,22,12
+Muscular Atrophy,PA,79,79,79
+Mutism,PA,79,71,79
+Myoclonus,PA,80,76,80
+Myokymia,PA,42,39,35
+Myotonia,PA,40,80,33
+Nausea,PA,15,24,17
+Neck Pain,PA,15,24,17
+Neuralgia,PA,68,53,75
+Nocturia,PA,46,50,61
+Obesity,PA,79,79,79
+Oliguria,PA,43,16,36
+Ophthalmoplegia,PA,72,67,84
+Orthostatic Intolerance,PA,24,89,23
+Overweight,PA,32,31,45
+Pain,PA,15,24,17
+Pallor,PA,3,43,52
+Paralysis,PA,15,24,17
+Paraparesis,PA,26,32,46
+Paraplegia,PA,48,47,63
+Paresis,PA,79,79,79
+Paresthesia,PA,84,38,51
+Pelvic Pain,PA,15,24,17
+Persistent Vegetative State,PA,56,75,41
+Phantom Limb,PA,51,49,56
+Photophobia,PA,82,41,49
+Polyuria,PA,34,87,26
+Presbycusis,PA,37,85,30
+Prosopagnosia,PA,44,72,37
+Proteinuria,PA,79,79,79
+Pruritus,PA,29,11,39
+Pseudophakia,PA,9,34,10
+Psychomotor Agitation,PA,84,38,51
+Purpura,PA,79,79,79
+Purpura Fulminans,PA,57,3,42
+Quadriplegia,PA,82,41,49
+Renal Colic,PA,39,83,32
+Respiratory Sounds,PA,70,67,82
+Reticulocytosis,PA,20,6,1
+Sarcopenia,PA,57,20,42
+Sciatica,PA,15,24,17
+Scotoma,PA,28,29,44
+Seizures,PA,15,24,17
+Shoulder Pain,PA,15,24,17
+Sleep Deprivation,PA,79,79,79
+Sleep Disorders,PA,79,79,79
+Sneezing,PA,15,24,17
+Snoring,PA,15,24,17
+Spasm,PA,15,24,17
+Speech Disorders,PA,41,81,34
+Stupor,PA,5,18,6
+Stuttering,PA,77,73,77
+Susac Syndrome,PA,10,21,11
+Sweating Sickness,PA,27,33,47
+Syncope,PA,73,68,85
+Synkinesis,PA,18,27,20
+Tetany,PA,76,73,76
+Thinness,PA,36,82,29
+Tics,PA,60,60,67
+Tinea Pedis,PA,49,48,64
+Tinnitus,PA,15,24,17
+Tonic Pupil,PA,21,7,2
+Toothache,PA,15,24,17
+Torticollis,PA,30,12,40
+Tremor,PA,2,2,5
+Trismus,PA,65,56,72
+Unconsciousness,PA,83,37,50
+Urinary Incontinence,PA,74,69,86
+Vertigo,PA,70,5,82
+Vocal Cord Paralysis,PA,73,68,85
+Vomiting,PA,15,24,17
+Weight Gain,PA,15,24,17
+Weight Loss,PA,15,24,17
+Abdominal Pain,RI,52,61,51
+Agnosia,RI,67,51,66
+Amblyopia,RI,57,74,56
+Amnesia,RI,49,1,39
+Anomia,RI,10,22,9
+Anorexia,RI,48,72,38
+Anoxia,RI,56,73,55
+Aphasia,RI,45,3,36
+Apnea,RI,71,55,70
+Arthralgia,RI,20,35,20
+Asthenia,RI,27,6,22
+Ataxia,RI,73,56,72
+Back Pain,RI,17,31,16
+Birth Weight,RI,5,46,1
+Blindness,RI,44,70,35
+Body Weight,RI,60,46,59
+Bulimia,RI,43,71,34
+Cachexia,RI,16,30,15
+Catatonia,RI,16,30,15
+Chest Pain,RI,17,31,16
+Chills,RI,47,5,30
+Chorea,RI,38,10,48
+Colic,RI,25,41,26
+Coma,RI,50,2,40
+Confusion,RI,44,70,35
+Constipation,RI,17,31,16
+Cough,RI,17,31,16
+Cyanosis,RI,65,43,64
+Deafness,RI,51,60,50
+Delirium,RI,23,39,28
+Diarrhea,RI,17,31,16
+Diplopia,RI,4,21,8
+Dizziness,RI,18,32,17
+Dysarthria,RI,67,51,66
+Dyslexia,RI,69,53,68
+Dysmenorrhea,RI,62,45,61
+Dyspepsia,RI,55,63,54
+Dysphonia,RI,29,9,24
+Dyspnea,RI,72,59,71
+Dystonia,RI,54,64,53
+Dysuria,RI,57,8,56
+Earache,RI,42,58,33
+Ecchymosis,RI,1,18,6
+Echolalia,RI,59,49,58
+Edema,RI,25,41,26
+Encopresis,RI,72,59,71
+Eye Pain,RI,40,37,31
+Fatigue,RI,63,47,62
+Feminization,RI,31,68,41
+Fever,RI,17,31,16
+Flank Pain,RI,64,48,63
+Flatulence,RI,48,72,38
+Flushing,RI,54,64,53
+Gagging,RI,60,50,59
+Gastroparesis,RI,25,41,26
+Halitosis,RI,7,16,3
+Hallucinations,RI,68,52,67
+Headache,RI,17,31,16
+Hearing Loss,RI,34,65,44
+Heartburn,RI,17,31,16
+Hemiplegia,RI,15,25,12
+Hemoptysis,RI,59,49,58
+Hiccup,RI,51,60,50
+Hirsutism,RI,26,42,27
+Hot Flashes,RI,36,12,46
+Hyperalgesia,RI,22,36,21
+Hypercapnia,RI,2,19,6
+Hyperemesis Gravidarum,RI,36,12,46
+Hyperventilation,RI,12,24,11
+Hypothermia,RI,55,63,54
+Hypoventilation,RI,11,23,10
+Illusions,RI,48,72,38
+Jaundice,RI,65,43,64
+Lethargy,RI,62,45,61
+Low Back Pain,RI,53,62,52
+Miosis,RI,57,15,56
+Morning Sickness,RI,70,54,69
+Motion Sickness,RI,27,6,22
+Mutism,RI,31,68,41
+Myoclonus,RI,3,20,7
+Nausea,RI,17,31,16
+Neck Pain,RI,17,31,16
+Neuralgia,RI,66,44,65
+Nocturia,RI,39,11,49
+Obesity,RI,48,72,38
+Oliguria,RI,28,7,23
+Orthostatic Intolerance,RI,30,8,25
+Overweight,RI,32,69,42
+Pain,RI,17,31,16
+Pallor,RI,35,66,45
+Paralysis,RI,6,28,2
+Paresthesia,RI,49,1,39
+Pelvic Pain,RI,58,33,57
+Polyuria,RI,42,58,33
+Presbycusis,RI,13,26,13
+Prosopagnosia,RI,14,27,14
+Proteinuria,RI,9,15,5
+Pruritus,RI,52,61,51
+Purpura,RI,74,57,73
+Sciatica,RI,19,34,18
+Seizures,RI,33,67,43
+Shoulder Pain,RI,17,31,16
+Sleep Deprivation,RI,43,71,34
+Sneezing,RI,21,29,19
+Snoring,RI,24,40,29
+Spasm,RI,33,67,43
+Stupor,RI,10,22,9
+Stuttering,RI,56,73,55
+Syncope,RI,61,50,60
+Tetany,RI,15,25,12
+Tics,RI,54,64,53
+Tinnitus,RI,46,4,37
+Toothache,RI,8,17,4
+Torticollis,RI,57,14,56
+Tremor,RI,37,13,47
+Vertigo,RI,41,38,32
+Vomiting,RI,17,31,16
+Weight Gain,RI,17,31,16
+Weight Loss,RI,17,31,16
+Abdominal Pain,SC,17,33,17
+Acute Coronary Syndrome,SC,58,66,58
+Ageusia,SC,46,17,46
+Agnosia,SC,64,73,64
+Alien Hand Syndrome,SC,16,32,16
+Amaurosis Fugax,SC,44,15,44
+Amblyopia,SC,50,55,50
+Amnesia,SC,15,16,15
+Angina Pectoris,SC,29,5,29
+Anisocoria,SC,71,65,71
+Anomia,SC,39,12,39
+Anorexia,SC,62,70,62
+Anoxia,SC,35,1,35
+Aphasia,SC,50,71,50
+Apnea,SC,63,72,63
+Arthralgia,SC,30,4,30
+Asthenia,SC,74,48,74
+Ataxia,SC,26,74,26
+Back Pain,SC,17,33,17
+Birth Weight,SC,76,44,76
+Blindness,SC,62,70,62
+Body Weight,SC,65,50,65
+Bulimia,SC,62,70,62
+Cachexia,SC,42,38,42
+Catalepsy,SC,23,42,23
+Catatonia,SC,36,2,36
+Chest Pain,SC,17,33,17
+Chills,SC,17,33,17
+Chorea,SC,41,37,41
+Colic,SC,53,56,53
+Coma,SC,72,52,72
+Confusion,SC,60,69,60
+Constipation,SC,17,33,17
+Coprophagia,SC,64,73,64
+Cough,SC,17,33,17
+Cyanosis,SC,36,2,36
+Deafness,SC,43,39,43
+Delirium,SC,75,45,75
+Diarrhea,SC,17,33,17
+Diplopia,SC,50,55,50
+Dizziness,SC,17,33,17
+Dysarthria,SC,40,14,40
+Dysgeusia,SC,71,65,71
+Dyslexia,SC,62,70,62
+Dysmenorrhea,SC,10,28,10
+Dyspepsia,SC,60,69,60
+Dysphonia,SC,29,5,29
+Dyspnea,SC,61,67,61
+Dystonia,SC,55,53,55
+Dysuria,SC,78,43,78
+Earache,SC,68,61,68
+Ecchymosis,SC,59,66,59
+Echolalia,SC,32,8,32
+Edema,SC,65,50,65
+Emaciation,SC,12,30,12
+Encopresis,SC,75,45,75
+Eye Pain,SC,13,31,13
+Facial Pain,SC,54,57,54
+Fatigue,SC,69,62,69
+Feminization,SC,56,54,56
+Fever,SC,17,33,17
+Flank Pain,SC,31,3,31
+Flatulence,SC,66,49,66
+Flushing,SC,67,60,67
+Gagging,SC,51,58,51
+Gastroparesis,SC,52,51,52
+Halitosis,SC,74,48,74
+Hallucinations,SC,7,25,7
+Headache,SC,17,33,17
+Hearing Loss,SC,27,74,27
+Heartburn,SC,17,33,17
+Hematemesis,SC,3,21,3
+Hemianopsia,SC,24,43,24
+Hemiplegia,SC,22,41,22
+Hemoptysis,SC,72,51,72
+Hiccup,SC,49,59,49
+Hirsutism,SC,25,55,25
+Hoarseness,SC,42,38,42
+Hot Flashes,SC,50,55,50
+Hydrops Fetalis,SC,1,19,1
+Hyperacusis,SC,77,46,77
+Hyperalgesia,SC,16,32,16
+Hypercapnia,SC,9,27,9
+Hyperemesis Gravidarum,SC,19,35,19
+Hyperesthesia,SC,5,23,5
+Hyperventilation,SC,58,66,58
+Hypothermia,SC,42,38,42
+Hypoventilation,SC,41,37,41
+Illusions,SC,62,70,62
+Intermittent Claudication,SC,63,72,63
+Jaundice,SC,60,66,60
+Labor Pain,SC,54,57,54
+Lethargy,SC,26,4,26
+Livedo Reticularis,SC,43,39,43
+Low Back Pain,SC,48,68,48
+Mental Retardation,SC,62,70,62
+Metatarsalgia,SC,24,10,24
+Miosis,SC,64,73,64
+Morning Sickness,SC,14,31,14
+Motion Sickness,SC,68,61,68
+Mouth Breathing,SC,73,47,73
+Muscle Cramp,SC,30,4,30
+Muscle Weakness,SC,24,63,24
+Mutism,SC,35,1,35
+Myoclonus,SC,21,40,21
+Nausea,SC,17,33,17
+Neck Pain,SC,17,33,17
+Neuralgia,SC,57,54,57
+Nocturia,SC,29,5,29
+Obesity,SC,62,70,62
+Oliguria,SC,77,43,77
+Ophthalmoplegia,SC,11,29,11
+Orthostatic Intolerance,SC,47,18,47
+Overweight,SC,48,68,48
+Pain,SC,17,33,17
+Pallor,SC,37,6,37
+Paralysis,SC,18,34,18
+Paraplegia,SC,77,46,77
+Paresis,SC,43,39,43
+Paresthesia,SC,55,53,55
+Pelvic Pain,SC,69,62,69
+Photophobia,SC,24,13,24
+Polyuria,SC,76,44,76
+Presbycusis,SC,6,24,6
+Prosopagnosia,SC,38,7,38
+Proteinuria,SC,45,63,45
+Pruritus,SC,53,56,53
+Purpura,SC,62,70,62
+Quadriplegia,SC,8,26,8
+Renal Colic,SC,73,47,73
+Sarcopenia,SC,7,25,7
+Sciatica,SC,17,33,17
+Scotoma,SC,66,49,66
+Seizures,SC,70,64,70
+Shoulder Pain,SC,17,33,17
+Sleep Deprivation,SC,21,40,21
+Sleep Disorders,SC,70,64,70
+Sneezing,SC,17,33,17
+Snoring,SC,58,66,58
+Spasm,SC,67,60,67
+Stupor,SC,2,20,2
+Stuttering,SC,28,75,28
+Sweating Sickness,SC,4,22,4
+Syncope,SC,77,46,77
+Tetany,SC,33,9,33
+Tics,SC,64,73,64
+Tinea Pedis,SC,22,41,22
+Tinnitus,SC,20,36,20
+Toothache,SC,17,33,17
+Torticollis,SC,71,65,71
+Tremor,SC,50,55,50
+Trismus,SC,58,66,58
+Urinary Incontinence,SC,34,11,34
+Vertigo,SC,76,44,76
+Vomiting,SC,17,33,17
+Weight Gain,SC,17,33,17
+Weight Loss,SC,17,33,17
+Abdominal Pain,SD,54,17,12
+Agnosia,SD,54,17,12
+Amnesia,SD,39,43,27
+Anorexia,SD,50,3,9
+Anoxia,SD,3,13,6
+Aphasia,SD,31,20,38
+Apnea,SD,51,47,10
+Asthenia,SD,14,9,33
+Ataxia,SD,8,1,2
+Back Pain,SD,26,33,53
+Birth Weight,SD,17,39,36
+Blindness,SD,7,1,3
+Body Weight,SD,43,52,18
+Bulimia,SD,53,3,3
+Cachexia,SD,19,23,44
+Chest Pain,SD,22,29,47
+Chills,SD,10,5,16
+Chorea,SD,39,43,27
+Colic,SD,15,10,34
+Coma,SD,44,53,19
+Confusion,SD,2,12,5
+Constipation,SD,26,32,53
+Cough,SD,26,33,53
+Cyanosis,SD,14,9,33
+Deafness,SD,38,42,26
+Delirium,SD,48,50,23
+Diarrhea,SD,26,33,53
+Diplopia,SD,8,1,2
+Dizziness,SD,29,36,50
+Dysarthria,SD,47,49,22
+Dyslexia,SD,6,2,1
+Dysmenorrhea,SD,41,45,29
+Dyspepsia,SD,23,30,54
+Dyspnea,SD,1,11,4
+Dystonia,SD,47,49,22
+Dysuria,SD,16,38,35
+Earache,SD,46,48,21
+Ecchymosis,SD,46,48,21
+Edema,SD,9,4,15
+Emaciation,SD,33,22,40
+Eye Pain,SD,18,40,37
+Fatigue,SD,10,5,16
+Fever,SD,26,33,53
+Flatulence,SD,9,4,15
+Flushing,SD,42,46,30
+Gagging,SD,11,6,17
+Gastroparesis,SD,27,34,48
+Halitosis,SD,40,44,28
+Hallucinations,SD,2,12,5
+Headache,SD,26,33,53
+Hearing Loss,SD,43,52,18
+Heartburn,SD,25,32,52
+Hemiplegia,SD,20,24,45
+Hemoptysis,SD,36,27,43
+Hiccup,SD,24,31,55
+Hirsutism,SD,46,48,21
+Hot Flashes,SD,16,38,35
+Hypercapnia,SD,32,21,39
+Hyperemesis Gravidarum,SD,12,7,31
+Hyperventilation,SD,43,52,18
+Hypothermia,SD,15,10,34
+Illusions,SD,7,1,3
+Jaundice,SD,46,48,21
+Lethargy,SD,43,52,18
+Low Back Pain,SD,8,1,2
+Miosis,SD,53,19,14
+Morning Sickness,SD,37,41,25
+Motion Sickness,SD,55,18,13
+Myoclonus,SD,17,39,36
+Nausea,SD,25,33,52
+Neck Pain,SD,37,41,25
+Neuralgia,SD,1,11,4
+Obesity,SD,7,1,3
+Oliguria,SD,28,35,49
+Overweight,SD,46,48,21
+Pain,SD,26,33,53
+Pallor,SD,16,38,35
+Paralysis,SD,34,25,41
+Paresis,SD,40,44,28
+Paresthesia,SD,1,11,4
+Pelvic Pain,SD,21,28,46
+Polyuria,SD,13,8,32
+Pruritus,SD,43,52,18
+Purpura,SD,45,54,20
+Sciatica,SD,3,13,6
+Seizures,SD,38,42,26
+Shoulder Pain,SD,21,28,46
+Sleep Deprivation,SD,4,14,7
+Sneezing,SD,49,51,24
+Snoring,SD,50,48,9
+Spasm,SD,5,15,8
+Stupor,SD,19,23,44
+Stuttering,SD,1,11,4
+Syncope,SD,8,1,2
+Tetany,SD,14,9,33
+Tics,SD,51,47,10
+Tinnitus,SD,6,2,1
+Toothache,SD,52,16,11
+Torticollis,SD,52,16,11
+Tremor,SD,47,49,22
+Vertigo,SD,4,14,7
+Vomiting,SD,26,33,53
+Weight Gain,SD,30,37,51
+Weight Loss,SD,35,26,42
+Abdominal Pain,TN,12,18,15
+Acute Coronary Syndrome,TN,75,76,36
+Ageusia,TN,22,10,3
+Agnosia,TN,47,82,73
+Albuminuria,TN,88,67,46
+Alien Hand Syndrome,TN,64,25,6
+Amaurosis Fugax,TN,26,55,52
+Amblyopia,TN,36,48,62
+Amnesia,TN,11,18,14
+Angina Pectoris,TN,35,46,61
+Anisocoria,TN,88,67,46
+Anomia,TN,81,70,49
+Anorexia,TN,53,51,79
+Anoxia,TN,88,67,46
+Aphasia,TN,20,85,8
+Aphonia,TN,65,26,7
+Apnea,TN,49,77,75
+Arthralgia,TN,42,52,68
+Asthenia,TN,56,38,82
+Ataxia,TN,87,66,45
+Athetosis,TN,72,30,31
+Back Pain,TN,12,18,15
+Birth Weight,TN,54,75,80
+Blindness,TN,53,51,79
+Body Weight,TN,39,60,65
+Bulimia,TN,53,51,79
+Cachexia,TN,83,78,40
+Catatonia,TN,74,3,5
+Cerebellar Ataxia,TN,72,30,31
+Chest Pain,TN,12,18,15
+Chills,TN,12,18,15
+Chorea,TN,33,57,59
+Colic,TN,43,49,69
+Coma,TN,15,21,18
+Communication Disorders,TN,52,64,78
+Confusion,TN,42,52,68
+Constipation,TN,12,18,15
+Coprophagia,TN,35,46,61
+Cough,TN,12,18,15
+Cyanosis,TN,60,39,86
+Deafness,TN,53,51,79
+Delirium,TN,1,29,27
+Diarrhea,TN,12,18,15
+Diplopia,TN,62,40,88
+Dizziness,TN,12,18,15
+Dysarthria,TN,16,8,19
+Dysgeusia,TN,5,23,26
+Dyslexia,TN,53,51,79
+Dysmenorrhea,TN,86,5,44
+Dyspepsia,TN,53,51,79
+Dysphonia,TN,41,53,67
+Dyspnea,TN,32,59,58
+Dystonia,TN,89,68,47
+Dysuria,TN,80,69,48
+Earache,TN,12,18,15
+Ecchymosis,TN,34,61,60
+Echolalia,TN,32,59,58
+Edema,TN,7,36,10
+Emaciation,TN,26,55,52
+Encopresis,TN,63,65,89
+Eructation,TN,6,74,25
+Eye Pain,TN,12,18,15
+Facial Pain,TN,31,58,57
+Fasciculation,TN,5,23,26
+Fatigue,TN,12,18,15
+Feminization,TN,39,60,65
+Fever,TN,12,18,15
+Flank Pain,TN,85,80,42
+Flatulence,TN,37,47,63
+Flushing,TN,35,46,61
+Gagging,TN,27,33,53
+Gastroparesis,TN,8,13,11
+Halitosis,TN,41,53,67
+Hallucinations,TN,43,42,69
+Headache,TN,12,18,15
+Hearing Loss,TN,53,51,79
+Heart Murmurs,TN,84,79,41
+Heartburn,TN,12,18,15
+Hematemesis,TN,4,6,30
+Hemianopsia,TN,61,41,87
+Hemiplegia,TN,56,24,82
+Hemoglobinuria,TN,66,72,23
+Hemoptysis,TN,87,66,45
+Hiccup,TN,9,16,12
+Hirsutism,TN,88,67,46
+Hoarseness,TN,30,62,56
+Horner Syndrome,TN,17,9,20
+Hot Flashes,TN,38,15,64
+Hydrops Fetalis,TN,76,24,37
+Hyperacusis,TN,31,58,57
+Hyperalgesia,TN,24,12,4
+Hypercalciuria,TN,68,27,34
+Hypercapnia,TN,32,59,58
+Hyperemesis Gravidarum,TN,10,17,13
+Hyperesthesia,TN,3,7,29
+Hyperventilation,TN,25,56,51
+Hypocapnia,TN,62,40,88
+Hypothermia,TN,48,83,74
+Hypoventilation,TN,56,24,82
+Illusions,TN,53,51,79
+Intermittent Claudication,TN,54,75,80
+Jaundice,TN,42,52,68
+Korsakoff Syndrome,TN,39,60,65
+Labor Pain,TN,57,22,83
+Lethargy,TN,2,29,28
+Livedo Reticularis,TN,42,52,68
+Low Back Pain,TN,77,81,43
+Mental Retardation,TN,53,51,79
+Metatarsalgia,TN,25,56,51
+Miosis,TN,86,65,44
+Morning Sickness,TN,33,57,59
+Motion Sickness,TN,40,50,66
+Mouth Breathing,TN,44,44,70
+Muscle Cramp,TN,82,71,50
+Muscle Weakness,TN,27,33,53
+Mutism,TN,67,73,24
+Myoclonus,TN,56,84,82
+Myotonia,TN,41,53,67
+Nausea,TN,12,18,15
+Neck Pain,TN,12,18,15
+Neuralgia,TN,29,63,55
+Nocturia,TN,60,39,86
+Obesity,TN,53,51,79
+Oliguria,TN,58,38,84
+Ophthalmoplegia,TN,30,62,56
+Orthostatic Intolerance,TN,25,56,51
+Overweight,TN,39,60,65
+Pain,TN,12,18,15
+Pallor,TN,80,69,48
+Paralysis,TN,12,18,15
+Paraparesis,TN,83,78,40
+Paraplegia,TN,88,67,46
+Paresis,TN,51,84,77
+Paresthesia,TN,59,37,85
+Pelvic Pain,TN,12,18,15
+Phantom Limb,TN,70,31,32
+Photophobia,TN,42,52,68
+Polyuria,TN,61,41,87
+Presbycusis,TN,5,23,26
+Prosopagnosia,TN,78,1,38
+Proteinuria,TN,45,45,71
+Pruritus,TN,28,34,54
+Pseudophakia,TN,3,7,29
+Purpura,TN,55,54,81
+Purpura Fulminans,TN,23,11,1
+Quadriplegia,TN,56,55,82
+Renal Colic,TN,42,52,68
+Reticulocytosis,TN,69,28,35
+Sarcopenia,TN,83,78,40
+Sciatica,TN,12,18,15
+Scotoma,TN,81,70,49
+Seizures,TN,14,20,17
+Shoulder Pain,TN,12,18,15
+Sleep Deprivation,TN,29,63,55
+Sleep Disorders,TN,53,51,79
+Sneezing,TN,12,18,15
+Snoring,TN,13,19,16
+Spasm,TN,38,15,64
+Stupor,TN,73,14,2
+Stuttering,TN,82,71,50
+Sweating Sickness,TN,21,86,9
+Syncope,TN,18,35,21
+Tetany,TN,46,82,72
+Tics,TN,54,75,80
+Tinea Pedis,TN,51,84,77
+Tinnitus,TN,19,4,22
+Toothache,TN,12,18,15
+Torticollis,TN,41,53,67
+Tremor,TN,46,82,72
+Trismus,TN,71,32,33
+Unconsciousness,TN,79,2,39
+Urinary Incontinence,TN,39,64,65
+Vertigo,TN,50,43,76
+Vomiting,TN,12,18,15
+Weight Gain,TN,12,18,15
+Weight Loss,TN,11,18,14
+Abdominal Pain,TX,67,13,66
+Acute Coronary Syndrome,TX,54,44,20
+Ageusia,TX,43,19,30
+Agnosia,TX,54,40,20
+Agraphia,TX,28,8,59
+Albuminuria,TX,15,62,48
+Alien Hand Syndrome,TX,6,23,7
+Amaurosis Fugax,TX,38,25,17
+Amblyopia,TX,43,48,30
+Amnesia,TX,67,13,66
+Angina Pectoris,TX,27,51,58
+Anisocoria,TX,50,35,29
+Anomia,TX,1,67,4
+Anorexia,TX,53,46,19
+Anoxia,TX,13,60,44
+Aphasia,TX,63,10,62
+Aphonia,TX,29,26,35
+Apnea,TX,70,1,68
+Arthralgia,TX,49,34,28
+Asthenia,TX,54,40,20
+Ataxia,TX,27,51,58
+Athetosis,TX,73,70,72
+Back Pain,TX,67,13,66
+Birth Weight,TX,67,13,66
+Blindness,TX,53,46,19
+Body Weight,TX,4,4,1
+Body Weight Changes,TX,77,65,76
+Bulimia,TX,53,46,19
+Cachexia,TX,9,7,10
+Catalepsy,TX,7,22,8
+Catatonia,TX,46,40,24
+Cerebellar Ataxia,TX,52,33,18
+Chest Pain,TX,67,13,66
+Chills,TX,67,13,66
+Chorea,TX,53,46,19
+Colic,TX,67,13,66
+Coma,TX,67,13,66
+Communication Disorders,TX,53,46,19
+Confusion,TX,35,29,11
+Constipation,TX,67,13,66
+Coprophagia,TX,41,31,13
+Cough,TX,67,13,66
+Cyanosis,TX,48,39,27
+Deafness,TX,53,46,19
+Delirium,TX,31,16,37
+Diarrhea,TX,67,13,66
+Diplopia,TX,51,45,26
+Dizziness,TX,67,13,66
+Dysarthria,TX,63,10,62
+Dysgeusia,TX,36,77,12
+Dyskinesias,TX,24,53,52
+Dyslexia,TX,59,44,33
+Dysmenorrhea,TX,59,44,33
+Dyspepsia,TX,59,42,33
+Dysphonia,TX,30,27,36
+Dyspnea,TX,67,13,66
+Dystonia,TX,19,79,55
+Dysuria,TX,67,13,66
+Earache,TX,67,13,66
+Ecchymosis,TX,65,6,64
+Echolalia,TX,6,23,7
+Edema,TX,71,2,69
+Emaciation,TX,61,75,60
+Encopresis,TX,30,27,36
+Eructation,TX,21,56,49
+Eye Hemorrhage,TX,32,16,38
+Eye Pain,TX,67,13,66
+Facial Pain,TX,10,58,41
+Facial Paralysis,TX,57,47,31
+Fasciculation,TX,3,74,6
+Fatigue,TX,67,13,66
+Feminization,TX,53,46,19
+Fetal Distress,TX,22,57,50
+Fetal Weight,TX,15,62,48
+Fever,TX,67,13,66
+Flank Pain,TX,67,13,66
+Flatulence,TX,53,46,19
+Flushing,TX,79,68,78
+Gagging,TX,67,13,66
+Gait Ataxia,TX,20,54,56
+Gastroparesis,TX,67,13,66
+Halitosis,TX,4,50,1
+Hallucinations,TX,67,13,66
+Headache,TX,67,13,66
+Hearing Disorders,TX,58,23,32
+Hearing Loss,TX,48,39,27
+Heart Murmurs,TX,52,33,18
+Heartburn,TX,67,13,66
+Hematemesis,TX,16,9,45
+Hemianopsia,TX,51,45,26
+Hemifacial Spasm,TX,76,67,75
+Hemiplegia,TX,66,12,65
+Hemoglobinuria,TX,38,25,17
+Hemoptysis,TX,1,20,4
+Hiccup,TX,67,13,66
+Hirsutism,TX,47,38,25
+Hoarseness,TX,3,72,6
+Horner Syndrome,TX,26,52,57
+Hot Flashes,TX,67,13,66
+Hydrops Fetalis,TX,43,48,30
+Hyperacusis,TX,55,36,21
+Hyperalgesia,TX,38,25,17
+Hypercalciuria,TX,57,47,31
+Hypercapnia,TX,17,78,46
+Hyperemesis Gravidarum,TX,69,14,67
+Hyperesthesia,TX,51,45,26
+Hypergammaglobulinemia,TX,8,21,9
+Hyperkinesis,TX,14,61,47
+Hyperoxia,TX,31,16,37
+Hyperphagia,TX,41,31,13
+Hyperventilation,TX,47,38,25
+Hypesthesia,TX,12,24,43
+Hypocapnia,TX,74,71,73
+Hypokinesia,TX,76,63,75
+Hypothermia,TX,55,41,21
+Hypoventilation,TX,10,58,41
+Illusions,TX,53,46,19
+Intermittent Claudication,TX,41,31,13
+Jaundice,TX,67,13,66
+Korsakoff Syndrome,TX,1,20,4
+Labor Pain,TX,67,13,66
+Language Disorders,TX,53,46,19
+Learning Disorders,TX,53,47,19
+Lethargy,TX,67,13,66
+Livedo Reticularis,TX,33,17,39
+Low Back Pain,TX,2,13,5
+Memory Disorders,TX,13,60,44
+Mental Fatigue,TX,2,24,5
+Mental Retardation,TX,53,46,19
+Metatarsalgia,TX,43,48,30
+Miosis,TX,34,18,40
+Morning Sickness,TX,67,13,66
+Motion Sickness,TX,72,3,54
+Mouth Breathing,TX,70,9,68
+Muscle Cramp,TX,56,37,22
+Muscle Rigidity,TX,58,42,32
+Muscle Spasticity,TX,39,30,14
+Muscle Weakness,TX,71,2,69
+Muscular Atrophy,TX,53,46,19
+Mutism,TX,59,48,33
+Myoclonus,TX,26,44,57
+Myokymia,TX,55,40,21
+Myotonia,TX,8,21,9
+Nausea,TX,67,13,66
+Neck Pain,TX,67,13,66
+Necrolytic Migratory Erythema,TX,80,15,79
+Neuralgia,TX,42,32,70
+Nocturia,TX,23,55,51
+Obesity,TX,53,46,19
+Oliguria,TX,66,12,65
+Ophthalmoplegia,TX,43,19,30
+Orthostatic Intolerance,TX,11,59,42
+Overweight,TX,48,39,27
+Pain,TX,67,13,66
+Pallor,TX,67,13,66
+Paralysis,TX,67,13,66
+Paraparesis,TX,29,26,35
+Paraplegia,TX,48,39,27
+Paresis,TX,43,48,30
+Paresthesia,TX,65,6,64
+Pelvic Pain,TX,67,13,66
+Persistent Vegetative State,TX,21,56,49
+Phantom Limb,TX,13,60,44
+Photophobia,TX,7,22,8
+Piriformis Muscle Syndrome,TX,58,49,32
+Polyuria,TX,64,11,63
+Presbycusis,TX,35,29,11
+Prosopagnosia,TX,45,41,23
+Prostatism,TX,43,19,30
+Proteinuria,TX,57,47,31
+Pruritus,TX,18,5,2
+Pseudobulbar Palsy,TX,10,58,41
+Pseudophakia,TX,48,39,27
+Psychomotor Agitation,TX,78,66,77
+Purpura,TX,53,51,19
+Purpura Fulminans,TX,12,24,43
+Quadriplegia,TX,62,74,61
+Renal Colic,TX,1,69,4
+Respiratory Sounds,TX,1,20,4
+Reticulocytosis,TX,24,53,52
+Sarcopenia,TX,29,26,35
+Sciatica,TX,67,13,66
+Scotoma,TX,37,28,16
+Seizures,TX,67,13,66
+Shoulder Pain,TX,67,13,66
+Sleep Deprivation,TX,59,42,33
+Sleep Disorders,TX,53,46,19
+Sneezing,TX,67,13,66
+Snoring,TX,67,13,66
+Spasm,TX,67,13,66
+Speech Disorders,TX,55,46,21
+Stupor,TX,64,11,63
+Stuttering,TX,45,41,23
+Sweating Sickness,TX,75,64,74
+Syncope,TX,44,19,3
+Synkinesis,TX,25,73,53
+Taste Disorders,TX,5,76,71
+Tetany,TX,40,30,15
+Thinness,TX,54,40,20
+Tics,TX,60,43,34
+Tinea Pedis,TX,39,30,14
+Tinnitus,TX,68,13,66
+Toothache,TX,67,13,66
+Torticollis,TX,26,50,57
+Tremor,TX,70,1,68
+Trismus,TX,37,28,16
+Unconsciousness,TX,58,49,32
+Urinary Incontinence,TX,55,40,21
+Vertigo,TX,70,1,68
+Virilism,TX,58,42,32
+Vocal Cord Paralysis,TX,23,55,51
+Voice Disorders,TX,14,61,47
+Vomiting,TX,67,13,66
+Waterhouse-Friderichsen Syndrome,TX,5,76,71
+Weight Gain,TX,67,13,66
+Weight Loss,TX,67,13,66
+Abdominal Pain,UT,48,19,63
+Agnosia,UT,6,44,7
+Amblyopia,UT,64,28,75
+Amnesia,UT,49,17,62
+Angina Pectoris,UT,24,72,24
+Anisocoria,UT,53,34,41
+Anomia,UT,42,12,55
+Anorexia,UT,9,43,11
+Anoxia,UT,16,51,4
+Aphasia,UT,35,40,46
+Apnea,UT,3,60,19
+Arthralgia,UT,22,69,21
+Asthenia,UT,22,69,21
+Ataxia,UT,2,56,18
+Back Pain,UT,48,19,63
+Birth Weight,UT,38,38,49
+Blindness,UT,9,43,11
+Body Weight,UT,9,43,11
+Bulimia,UT,13,50,15
+Cachexia,UT,60,25,71
+Catatonia,UT,31,64,38
+Chest Pain,UT,48,19,63
+Chills,UT,48,19,63
+Chorea,UT,16,51,4
+Colic,UT,26,73,32
+Coma,UT,12,9,14
+Communication Disorders,UT,21,48,2
+Confusion,UT,9,43,11
+Constipation,UT,48,19,63
+Coprophagia,UT,51,10,59
+Cough,UT,48,19,63
+Cyanosis,UT,25,71,23
+Deafness,UT,9,43,11
+Delirium,UT,53,34,41
+Diarrhea,UT,48,19,63
+Diplopia,UT,25,71,23
+Dizziness,UT,37,18,48
+Dysarthria,UT,30,67,35
+Dysgeusia,UT,70,1,25
+Dyslexia,UT,24,72,24
+Dysmenorrhea,UT,6,44,7
+Dyspepsia,UT,6,44,7
+Dysphonia,UT,15,49,3
+Dyspnea,UT,5,42,6
+Dystonia,UT,21,48,2
+Dysuria,UT,10,8,12
+Earache,UT,41,21,54
+Ecchymosis,UT,54,35,42
+Echolalia,UT,68,6,50
+Edema,UT,26,73,32
+Emaciation,UT,66,24,30
+Encopresis,UT,67,23,31
+Eye Pain,UT,34,56,45
+Facial Pain,UT,38,38,49
+Fatigue,UT,56,55,44
+Feminization,UT,8,39,10
+Fever,UT,48,19,63
+Flank Pain,UT,6,44,7
+Flatulence,UT,9,43,11
+Flushing,UT,9,43,11
+Gagging,UT,16,52,4
+Gastroparesis,UT,55,36,43
+Halitosis,UT,53,34,41
+Hallucinations,UT,20,47,1
+Headache,UT,48,19,63
+Hearing Loss,UT,15,49,3
+Heartburn,UT,48,19,63
+Hematemesis,UT,23,70,22
+Hemianopsia,UT,44,14,57
+Hemiplegia,UT,28,68,33
+Hemoptysis,UT,57,31,68
+Hiccup,UT,50,20,64
+Hirsutism,UT,6,44,7
+Hoarseness,UT,45,15,58
+Hot Flashes,UT,37,18,48
+Hydrops Fetalis,UT,47,7,51
+Hyperacusis,UT,57,31,68
+Hyperalgesia,UT,63,27,74
+Hypercapnia,UT,72,3,27
+Hyperemesis Gravidarum,UT,53,34,41
+Hyperventilation,UT,13,50,15
+Hypothermia,UT,36,37,47
+Hypoventilation,UT,18,72,24
+Illusions,UT,9,43,11
+Jaundice,UT,6,54,7
+Korsakoff Syndrome,UT,11,8,13
+Labor Pain,UT,18,65,39
+Lethargy,UT,29,58,34
+Low Back Pain,UT,6,45,8
+Mental Retardation,UT,8,39,10
+Metatarsalgia,UT,53,34,41
+Miosis,UT,69,30,67
+Morning Sickness,UT,5,42,6
+Motion Sickness,UT,32,62,36
+Mouth Breathing,UT,66,24,30
+Muscle Weakness,UT,14,67,16
+Mutism,UT,15,49,3
+Myoclonus,UT,20,47,1
+Nausea,UT,48,19,63
+Neck Pain,UT,48,19,63
+Neuralgia,UT,38,39,49
+Nocturia,UT,1,59,17
+Obesity,UT,9,43,11
+Oliguria,UT,43,13,56
+Overweight,UT,36,37,47
+Pain,UT,48,19,63
+Pallor,UT,71,2,26
+Paralysis,UT,27,74,65
+Paraplegia,UT,65,29,66
+Paresis,UT,67,23,31
+Paresthesia,UT,31,64,38
+Pelvic Pain,UT,4,61,20
+Photophobia,UT,53,34,41
+Polyuria,UT,62,26,73
+Presbycusis,UT,44,14,57
+Prosopagnosia,UT,6,44,7
+Proteinuria,UT,61,25,72
+Pruritus,UT,33,63,37
+Purpura,UT,14,40,16
+Quadriplegia,UT,39,22,52
+Sarcopenia,UT,73,4,28
+Sciatica,UT,48,19,63
+Scotoma,UT,74,5,29
+Seizures,UT,7,46,9
+Shoulder Pain,UT,48,19,63
+Sleep Deprivation,UT,3,60,19
+Sleep Disorders,UT,16,51,4
+Sneezing,UT,58,32,69
+Snoring,UT,17,53,5
+Spasm,UT,6,44,7
+Stupor,UT,52,11,60
+Stuttering,UT,9,43,11
+Susac Syndrome,UT,1,59,17
+Sweating Sickness,UT,46,16,61
+Syncope,UT,67,23,31
+Tetany,UT,40,41,53
+Tics,UT,38,39,49
+Tinea Pedis,UT,65,29,66
+Tinnitus,UT,14,54,16
+Toothache,UT,48,19,63
+Torticollis,UT,9,43,11
+Tremor,UT,59,33,70
+Trismus,UT,62,26,73
+Urinary Incontinence,UT,19,66,40
+Vertigo,UT,34,57,45
+Vomiting,UT,48,19,63
+Weight Gain,UT,48,19,63
+Weight Loss,UT,46,16,61
+Abdominal Pain,VT,27,66,50
+Amnesia,VT,10,41,38
+Anorexia,VT,62,27,20
+Aphasia,VT,1,37,29
+Apnea,VT,42,5,19
+Ataxia,VT,51,9,3
+Back Pain,VT,21,61,45
+Blindness,VT,62,27,20
+Body Weight,VT,45,3,17
+Bulimia,VT,62,25,20
+Cachexia,VT,57,19,22
+Chest Pain,VT,43,7,9
+Chills,VT,47,1,7
+Chorea,VT,16,51,54
+Colic,VT,49,12,1
+Coma,VT,38,29,27
+Confusion,VT,59,17,24
+Constipation,VT,22,13,46
+Cough,VT,21,61,45
+Delirium,VT,64,18,13
+Diarrhea,VT,21,61,45
+Dizziness,VT,66,20,15
+Dysarthria,VT,15,59,43
+Dyslexia,VT,42,5,19
+Dyspepsia,VT,17,52,55
+Dyspnea,VT,11,55,39
+Dystonia,VT,30,43,59
+Dysuria,VT,37,31,66
+Earache,VT,46,4,18
+Ecchymosis,VT,6,46,34
+Edema,VT,50,10,2
+Eye Pain,VT,9,41,37
+Fatigue,VT,3,15,31
+Feminization,VT,63,27,21
+Fever,VT,21,61,45
+Flatulence,VT,9,42,37
+Flushing,VT,60,23,25
+Gagging,VT,48,2,8
+Gastroparesis,VT,2,38,30
+Halitosis,VT,7,47,35
+Hallucinations,VT,53,30,11
+Headache,VT,21,61,45
+Hearing Loss,VT,55,26,52
+Heartburn,VT,23,62,47
+Hiccup,VT,33,45,62
+Hot Flashes,VT,26,65,49
+Hyperemesis Gravidarum,VT,13,57,41
+Hypothermia,VT,35,32,64
+Hypoventilation,VT,8,48,36
+Illusions,VT,62,27,20
+Jaundice,VT,51,9,3
+Lethargy,VT,24,63,48
+Low Back Pain,VT,32,21,61
+Morning Sickness,VT,39,34,28
+Motion Sickness,VT,51,9,3
+Nausea,VT,21,61,45
+Neck Pain,VT,56,53,53
+Neuralgia,VT,52,11,4
+Obesity,VT,62,27,20
+Overweight,VT,28,42,51
+Pain,VT,21,61,45
+Pallor,VT,36,33,65
+Paralysis,VT,40,14,5
+Paresthesia,VT,18,49,56
+Pelvic Pain,VT,29,54,58
+Pruritus,VT,25,64,48
+Purpura,VT,61,24,26
+Sciatica,VT,19,50,57
+Seizures,VT,54,22,12
+Shoulder Pain,VT,16,51,54
+Sleep Deprivation,VT,34,40,63
+Sneezing,VT,12,56,40
+Snoring,VT,5,35,33
+Spasm,VT,34,40,63
+Stuttering,VT,41,6,6
+Syncope,VT,67,36,16
+Tics,VT,4,39,32
+Tinnitus,VT,65,16,14
+Toothache,VT,9,41,37
+Torticollis,VT,14,58,42
+Tremor,VT,44,8,10
+Vertigo,VT,58,28,23
+Vomiting,VT,31,44,60
+Weight Gain,VT,20,60,44
+Weight Loss,VT,20,60,44
+Abdominal Pain,VA,56,52,26
+Acute Coronary Syndrome,VA,34,32,54
+Ageusia,VA,1,1,1
+Agnosia,VA,20,19,8
+Agraphia,VA,37,13,57
+Albuminuria,VA,5,36,5
+Alien Hand Syndrome,VA,12,18,34
+Amaurosis Fugax,VA,1,1,1
+Amblyopia,VA,50,30,20
+Amnesia,VA,57,53,27
+Angina Pectoris,VA,13,40,35
+Anisocoria,VA,54,50,24
+Anomia,VA,2,2,2
+Anorexia,VA,3,3,3
+Anoxia,VA,5,36,5
+Aphasia,VA,56,52,26
+Aphonia,VA,43,37,13
+Apnea,VA,56,52,26
+Arthralgia,VA,21,20,43
+Asthenia,VA,30,28,50
+Ataxia,VA,24,34,39
+Athetosis,VA,4,4,4
+Back Pain,VA,56,52,26
+Birth Weight,VA,56,52,26
+Blindness,VA,31,31,51
+Body Weight,VA,56,52,26
+Bulimia,VA,3,3,3
+Cachexia,VA,25,34,39
+Catalepsy,VA,49,6,19
+Catatonia,VA,53,12,23
+Cerebellar Ataxia,VA,23,35,44
+Chest Pain,VA,56,52,26
+Chills,VA,56,52,26
+Chorea,VA,31,31,51
+Colic,VA,56,52,26
+Coma,VA,6,46,6
+Confusion,VA,23,35,44
+Constipation,VA,56,52,26
+Coprophagia,VA,17,24,40
+Cough,VA,56,52,26
+Cyanosis,VA,11,17,33
+Deafness,VA,31,31,51
+Delirium,VA,56,52,26
+Diarrhea,VA,56,52,26
+Diplopia,VA,25,34,54
+Dizziness,VA,56,52,26
+Dysarthria,VA,30,28,50
+Dysgeusia,VA,36,49,56
+Dyslexia,VA,31,31,51
+Dysmenorrhea,VA,32,8,52
+Dyspepsia,VA,22,33,45
+Dysphonia,VA,29,9,49
+Dyspnea,VA,56,52,26
+Dystonia,VA,40,41,10
+Dysuria,VA,56,32,43
+Earache,VA,56,52,26
+Ecchymosis,VA,20,19,8
+Echolalia,VA,48,14,18
+Edema,VA,56,52,26
+Emaciation,VA,9,49,31
+Encopresis,VA,10,16,32
+Eructation,VA,5,36,5
+Eye Hemorrhage,VA,5,36,5
+Eye Pain,VA,56,52,26
+Facial Pain,VA,15,21,37
+Facial Paralysis,VA,45,44,15
+Fasciculation,VA,52,11,21
+Fatigue,VA,56,52,26
+Feminization,VA,27,30,47
+Fetal Weight,VA,10,16,32
+Fever,VA,56,52,26
+Flank Pain,VA,56,52,26
+Flatulence,VA,31,31,51
+Flushing,VA,60,55,29
+Gagging,VA,56,52,26
+Gastroparesis,VA,56,52,26
+Halitosis,VA,27,30,47
+Hallucinations,VA,56,52,26
+Headache,VA,56,52,26
+Hearing Loss,VA,31,31,51
+Heart Murmurs,VA,34,31,54
+Heartburn,VA,56,52,26
+Hematemesis,VA,8,48,9
+Hemianopsia,VA,32,13,52
+Hemiplegia,VA,44,43,14
+Hemoglobinuria,VA,46,45,16
+Hemoptysis,VA,55,51,25
+Hiccup,VA,56,52,26
+Hirsutism,VA,26,27,46
+Hoarseness,VA,55,51,25
+Horner Syndrome,VA,35,37,55
+Hot Flashes,VA,56,52,26
+Hydrops Fetalis,VA,52,10,21
+Hyperacusis,VA,36,21,56
+Hyperalgesia,VA,47,5,17
+Hypercapnia,VA,48,14,18
+Hyperemesis Gravidarum,VA,59,56,30
+Hyperesthesia,VA,44,43,14
+Hyperphagia,VA,43,39,13
+Hyperventilation,VA,26,27,46
+Hypocapnia,VA,15,21,37
+Hypothermia,VA,31,31,51
+Hypoventilation,VA,5,36,5
+Illusions,VA,31,31,51
+Intermittent Claudication,VA,58,54,28
+Jaundice,VA,56,52,26
+Korsakoff Syndrome,VA,56,52,26
+Labor Pain,VA,56,52,26
+Lethargy,VA,50,52,20
+Livedo Reticularis,VA,15,21,37
+Low Back Pain,VA,56,52,26
+Mental Retardation,VA,31,31,51
+Metatarsalgia,VA,51,10,21
+Miosis,VA,36,7,56
+Morning Sickness,VA,56,52,26
+Motion Sickness,VA,56,52,26
+Mouth Breathing,VA,56,52,26
+Muscle Cramp,VA,32,8,52
+Muscle Weakness,VA,31,31,51
+Muscular Atrophy,VA,4,4,4
+Mutism,VA,18,25,41
+Myoclonus,VA,25,34,54
+Myokymia,VA,11,17,33
+Myotonia,VA,18,25,41
+Nausea,VA,56,52,26
+Neck Pain,VA,56,52,26
+Neuralgia,VA,26,27,46
+Nocturia,VA,39,13,59
+Obesity,VA,31,31,51
+Oliguria,VA,7,47,7
+Ophthalmoplegia,VA,52,10,21
+Orthostatic Intolerance,VA,15,21,37
+Overweight,VA,56,52,26
+Pain,VA,56,52,26
+Pallor,VA,56,52,22
+Paralysis,VA,56,52,26
+Paraparesis,VA,47,5,17
+Paraplegia,VA,18,25,41
+Paresis,VA,35,33,55
+Paresthesia,VA,50,52,20
+Pelvic Pain,VA,56,52,26
+Persistent Vegetative State,VA,4,4,4
+Phantom Limb,VA,51,10,21
+Photophobia,VA,44,43,14
+Polyuria,VA,17,24,40
+Presbycusis,VA,42,38,12
+Prosopagnosia,VA,42,38,12
+Proteinuria,VA,10,16,32
+Pruritus,VA,21,20,43
+Pseudophakia,VA,38,15,58
+Purpura,VA,3,3,3
+Quadriplegia,VA,51,9,22
+Renal Colic,VA,24,34,39
+Respiratory Sounds,VA,5,36,5
+Sarcopenia,VA,41,42,11
+Sciatica,VA,56,52,26
+Scotoma,VA,50,8,20
+Seizures,VA,56,52,26
+Shoulder Pain,VA,56,52,26
+Sleep Deprivation,VA,31,31,51
+Sleep Disorders,VA,31,31,51
+Sneezing,VA,56,52,26
+Snoring,VA,56,52,26
+Spasm,VA,56,52,26
+Speech Disorders,VA,29,9,49
+Stupor,VA,54,50,24
+Stuttering,VA,31,31,51
+Sweating Sickness,VA,57,53,27
+Syncope,VA,56,52,26
+Tetany,VA,14,40,36
+Thinness,VA,19,26,42
+Tics,VA,3,3,3
+Tinea Pedis,VA,33,22,53
+Tinnitus,VA,56,52,26
+Toothache,VA,56,52,26
+Torticollis,VA,23,35,44
+Tremor,VA,28,29,48
+Trismus,VA,16,23,38
+Unconsciousness,VA,11,17,33
+Urinary Incontinence,VA,50,8,20
+Vertigo,VA,56,52,26
+Vomiting,VA,56,52,26
+Weight Gain,VA,56,52,26
+Weight Loss,VA,56,52,26
+Abdominal Pain,WA,60,73,26
+Acute Coronary Syndrome,WA,23,46,88
+Ageusia,WA,72,30,40
+Agnosia,WA,29,12,62
+Albuminuria,WA,80,56,50
+Alien Hand Syndrome,WA,46,64,6
+Amaurosis Fugax,WA,41,53,56
+Amblyopia,WA,5,61,55
+Amnesia,WA,60,73,26
+Angina Pectoris,WA,2,51,52
+Anisocoria,WA,12,40,72
+Anomia,WA,44,82,4
+Anorexia,WA,21,38,84
+Anoxia,WA,13,4,73
+Aphasia,WA,53,57,18
+Aphonia,WA,75,90,31
+Apnea,WA,51,28,16
+Arthralgia,WA,31,14,63
+Asthenia,WA,10,41,70
+Ataxia,WA,87,65,36
+Back Pain,WA,60,73,26
+Birth Weight,WA,63,70,29
+Blindness,WA,20,38,83
+Body Weight,WA,59,70,25
+Bulimia,WA,21,38,84
+Cachexia,WA,78,93,34
+Catalepsy,WA,77,92,33
+Catatonia,WA,22,39,85
+Cerebellar Ataxia,WA,33,16,65
+Chest Pain,WA,60,73,26
+Chills,WA,60,73,26
+Chorea,WA,13,38,73
+Colic,WA,62,68,28
+Coma,WA,60,73,26
+Confusion,WA,6,31,61
+Constipation,WA,60,73,26
+Coprophagia,WA,91,23,91
+Cough,WA,60,73,26
+Cyanosis,WA,4,50,54
+Deafness,WA,21,38,84
+Delirium,WA,83,7,45
+Diarrhea,WA,60,73,26
+Diplopia,WA,12,4,72
+Dizziness,WA,60,73,26
+Dysarthria,WA,10,41,70
+Dysgeusia,WA,65,77,7
+Dyslexia,WA,20,44,83
+Dysmenorrhea,WA,37,19,44
+Dyspepsia,WA,92,24,92
+Dysphonia,WA,35,17,67
+Dyspnea,WA,47,67,20
+Dystonia,WA,76,91,32
+Dysuria,WA,48,80,21
+Earache,WA,60,73,26
+Ecchymosis,WA,57,84,23
+Echolalia,WA,89,21,14
+Edema,WA,59,72,25
+Emaciation,WA,45,83,5
+Encopresis,WA,21,38,84
+Eructation,WA,84,8,46
+Eye Hemorrhage,WA,23,46,88
+Eye Pain,WA,60,73,26
+Facial Pain,WA,40,11,60
+Fasciculation,WA,24,47,89
+Fatigue,WA,60,73,26
+Feminization,WA,18,37,81
+Fever,WA,60,73,26
+Flank Pain,WA,47,67,20
+Flatulence,WA,39,35,59
+Flushing,WA,30,13,86
+Gagging,WA,15,5,75
+Gastroparesis,WA,60,73,26
+Halitosis,WA,18,37,81
+Hallucinations,WA,60,73,26
+Headache,WA,60,73,26
+Hearing Loss,WA,8,33,77
+Heart Murmurs,WA,16,29,79
+Heartburn,WA,60,73,26
+Hematemesis,WA,14,6,74
+Hemianopsia,WA,35,17,67
+Hemiplegia,WA,26,45,48
+Hemoglobinuria,WA,28,1,1
+Hemoptysis,WA,3,49,53
+Hiccup,WA,60,73,26
+Hirsutism,WA,42,54,57
+Hoarseness,WA,1,3,51
+Horner Syndrome,WA,4,50,54
+Hot Flashes,WA,60,73,26
+Hydrops Fetalis,WA,74,89,42
+Hyperacusis,WA,28,1,1
+Hyperalgesia,WA,55,62,12
+Hypercapnia,WA,73,87,41
+Hyperemesis Gravidarum,WA,64,75,30
+Hyperesthesia,WA,67,76,9
+Hyperventilation,WA,9,34,78
+Hypocapnia,WA,72,30,40
+Hypothermia,WA,11,43,71
+Hypoventilation,WA,7,32,76
+Illusions,WA,21,38,84
+Intermittent Claudication,WA,26,45,48
+Jaundice,WA,60,72,26
+Korsakoff Syndrome,WA,70,85,38
+Labor Pain,WA,88,66,37
+Lethargy,WA,3,49,53
+Livedo Reticularis,WA,6,31,61
+Low Back Pain,WA,61,74,27
+Mental Retardation,WA,21,38,84
+Metatarsalgia,WA,32,15,64
+Miosis,WA,26,45,48
+Morning Sickness,WA,60,73,26
+Motion Sickness,WA,90,22,87
+Mouth Breathing,WA,52,60,17
+Muscle Cramp,WA,33,16,65
+Muscle Weakness,WA,93,25,93
+Mutism,WA,19,36,82
+Myoclonus,WA,13,38,73
+Myotonia,WA,25,48,90
+Nausea,WA,60,73,26
+Neck Pain,WA,60,73,26
+Neuralgia,WA,81,2,2
+Nocturia,WA,85,10,43
+Obesity,WA,21,38,84
+Oliguria,WA,52,59,17
+Ophthalmoplegia,WA,1,55,51
+Orthostatic Intolerance,WA,79,94,35
+Overweight,WA,49,69,22
+Pain,WA,60,73,26
+Pallor,WA,38,20,69
+Paralysis,WA,60,73,26
+Paraparesis,WA,91,23,91
+Paraplegia,WA,34,16,66
+Paresis,WA,19,36,82
+Paresthesia,WA,69,79,11
+Pelvic Pain,WA,60,73,26
+Persistent Vegetative State,WA,7,32,76
+Phantom Limb,WA,43,52,58
+Photophobia,WA,82,2,3
+Polyuria,WA,85,10,43
+Presbycusis,WA,27,44,49
+Prosopagnosia,WA,67,76,9
+Proteinuria,WA,39,35,59
+Pruritus,WA,68,81,10
+Pseudophakia,WA,77,92,33
+Purpura,WA,22,39,85
+Quadriplegia,WA,71,86,39
+Renal Colic,WA,52,59,17
+Sarcopenia,WA,86,9,47
+Sciatica,WA,60,73,26
+Scotoma,WA,66,78,8
+Seizures,WA,58,71,24
+Shoulder Pain,WA,60,73,26
+Sleep Deprivation,WA,17,38,80
+Sleep Disorders,WA,21,38,84
+Sneezing,WA,60,73,26
+Snoring,WA,60,73,26
+Spasm,WA,54,58,19
+Stupor,WA,56,63,13
+Stuttering,WA,94,26,94
+Sweating Sickness,WA,73,88,41
+Syncope,WA,51,28,16
+Tetany,WA,50,27,15
+Thinness,WA,25,48,90
+Tics,WA,22,39,85
+Tinea Pedis,WA,24,47,89
+Tinnitus,WA,60,73,26
+Toothache,WA,60,73,26
+Torticollis,WA,1,42,51
+Tremor,WA,53,57,18
+Trismus,WA,13,4,73
+Unconsciousness,WA,36,18,68
+Urinary Incontinence,WA,16,29,79
+Vertigo,WA,50,27,15
+Vomiting,WA,60,73,26
+Weight Gain,WA,60,73,26
+Weight Loss,WA,60,73,26
+Abdominal Pain,WV,60,22,60
+Agnosia,WV,23,42,23
+Amblyopia,WV,30,36,30
+Amnesia,WV,24,19,24
+Angina Pectoris,WV,4,35,4
+Anisocoria,WV,25,29,25
+Anorexia,WV,14,56,14
+Anoxia,WV,40,73,40
+Aphasia,WV,32,38,32
+Apnea,WV,71,1,71
+Arthralgia,WV,9,27,9
+Asthenia,WV,54,52,54
+Ataxia,WV,73,44,73
+Back Pain,WV,64,21,64
+Birth Weight,WV,73,44,73
+Blindness,WV,27,43,27
+Body Weight,WV,28,57,28
+Bulimia,WV,14,56,14
+Cachexia,WV,7,8,7
+Catatonia,WV,49,48,49
+Chest Pain,WV,64,21,64
+Chills,WV,1,32,1
+Chorea,WV,25,29,25
+Colic,WV,36,69,36
+Coma,WV,42,58,42
+Confusion,WV,33,66,33
+Constipation,WV,64,21,64
+Cough,WV,64,21,64
+Cyanosis,WV,44,60,44
+Deafness,WV,22,30,22
+Delirium,WV,42,58,42
+Diarrhea,WV,64,21,64
+Diplopia,WV,42,58,42
+Dizziness,WV,72,24,72
+Dysarthria,WV,19,4,19
+Dyslexia,WV,13,57,13
+Dysmenorrhea,WV,48,65,48
+Dyspepsia,WV,24,29,24
+Dysphonia,WV,4,35,4
+Dyspnea,WV,18,14,18
+Dystonia,WV,26,39,26
+Dysuria,WV,67,12,67
+Earache,WV,35,68,35
+Ecchymosis,WV,56,50,56
+Echolalia,WV,49,48,49
+Edema,WV,52,54,52
+Encopresis,WV,5,9,5
+Eye Pain,WV,10,26,10
+Fatigue,WV,17,40,17
+Feminization,WV,9,26,9
+Fever,WV,64,21,64
+Flank Pain,WV,20,6,20
+Flatulence,WV,12,28,12
+Flushing,WV,2,33,2
+Gagging,WV,51,47,51
+Gastroparesis,WV,26,39,26
+Halitosis,WV,37,70,37
+Hallucinations,WV,57,51,57
+Headache,WV,64,21,64
+Hearing Loss,WV,15,45,15
+Heartburn,WV,64,21,64
+Hematemesis,WV,9,27,9
+Hemianopsia,WV,66,20,66
+Hemiplegia,WV,3,34,3
+Hemoptysis,WV,8,46,8
+Hiccup,WV,40,73,40
+Hirsutism,WV,55,53,55
+Hoarseness,WV,73,44,73
+Hot Flashes,WV,11,25,11
+Hypercapnia,WV,69,17,69
+Hyperemesis Gravidarum,WV,62,15,62
+Hyperventilation,WV,18,4,18
+Hypothermia,WV,34,67,34
+Illusions,WV,13,57,13
+Jaundice,WV,61,7,61
+Labor Pain,WV,71,1,71
+Lethargy,WV,47,63,47
+Low Back Pain,WV,51,47,51
+Mental Retardation,WV,42,58,42
+Miosis,WV,59,11,59
+Morning Sickness,WV,43,59,43
+Motion Sickness,WV,26,39,26
+Muscle Weakness,WV,58,10,58
+Mutism,WV,9,27,9
+Myoclonus,WV,38,71,38
+Nausea,WV,64,21,64
+Neck Pain,WV,64,21,64
+Neuralgia,WV,11,25,11
+Nocturia,WV,49,48,49
+Obesity,WV,14,56,14
+Oliguria,WV,68,13,68
+Overweight,WV,29,64,29
+Pain,WV,64,21,64
+Pallor,WV,71,1,71
+Paralysis,WV,72,24,72
+Paraplegia,WV,58,10,58
+Paresis,WV,46,62,46
+Paresthesia,WV,40,73,40
+Pelvic Pain,WV,65,23,65
+Photophobia,WV,42,58,42
+Polyuria,WV,3,34,3
+Presbycusis,WV,31,37,31
+Proteinuria,WV,46,62,46
+Pruritus,WV,45,61,45
+Purpura,WV,53,55,53
+Sarcopenia,WV,70,18,70
+Sciatica,WV,50,49,50
+Seizures,WV,23,2,23
+Shoulder Pain,WV,64,21,64
+Sleep Deprivation,WV,42,58,42
+Sleep Disorders,WV,31,37,31
+Sneezing,WV,30,36,30
+Snoring,WV,22,31,22
+Spasm,WV,41,74,41
+Stupor,WV,9,27,9
+Stuttering,WV,9,27,9
+Syncope,WV,16,41,16
+Tetany,WV,6,42,6
+Tics,WV,39,72,39
+Tinea Pedis,WV,58,10,58
+Tinnitus,WV,9,27,9
+Toothache,WV,64,21,64
+Torticollis,WV,30,36,30
+Tremor,WV,22,30,22
+Urinary Incontinence,WV,21,3,21
+Vertigo,WV,63,16,63
+Vomiting,WV,19,5,19
+Weight Gain,WV,64,21,64
+Weight Loss,WV,64,21,64
+Abdominal Pain,WI,15,15,6
+Acute Coronary Syndrome,WI,82,36,23
+Ageusia,WI,8,81,19
+Agnosia,WI,90,40,31
+Albuminuria,WI,72,52,45
+Alien Hand Syndrome,WI,6,79,17
+Amaurosis Fugax,WI,23,83,70
+Amblyopia,WI,89,28,30
+Amnesia,WI,13,10,2
+Angina Pectoris,WI,69,32,41
+Anisocoria,WI,44,55,50
+Anomia,WI,23,83,70
+Anorexia,WI,71,34,43
+Anoxia,WI,31,61,89
+Aphasia,WI,37,24,66
+Apnea,WI,83,41,24
+Arthralgia,WI,66,29,67
+Asthenia,WI,88,53,29
+Ataxia,WI,77,49,38
+Athetosis,WI,38,86,74
+Back Pain,WI,15,15,6
+Birth Weight,WI,10,1,60
+Blindness,WI,71,34,43
+Body Weight,WI,67,30,68
+Bulimia,WI,71,34,43
+Cachexia,WI,37,24,66
+Catatonia,WI,74,44,33
+Chest Pain,WI,15,15,6
+Chills,WI,15,15,6
+Chorea,WI,52,37,37
+Colic,WI,65,2,59
+Coma,WI,14,11,3
+Communication Disorders,WI,52,38,37
+Confusion,WI,71,34,43
+Constipation,WI,15,15,6
+Coprophagia,WI,26,68,84
+Cough,WI,15,15,6
+Cyanosis,WI,48,51,48
+Deafness,WI,71,34,43
+Delirium,WI,11,3,61
+Diarrhea,WI,15,15,6
+Diplopia,WI,72,52,45
+Dizziness,WI,15,15,6
+Dysarthria,WI,80,43,21
+Dysgeusia,WI,3,75,13
+Dyslexia,WI,71,34,43
+Dysmenorrhea,WI,72,52,45
+Dyspepsia,WI,58,19,62
+Dysphonia,WI,84,42,25
+Dyspnea,WI,12,9,1
+Dystonia,WI,68,31,69
+Dysuria,WI,58,19,62
+Earache,WI,18,17,9
+Ecchymosis,WI,1,75,11
+Echolalia,WI,26,68,84
+Edema,WI,63,23,87
+Emaciation,WI,45,56,51
+Encopresis,WI,59,20,63
+Eructation,WI,53,7,53
+Eye Pain,WI,15,15,6
+Facial Pain,WI,80,37,21
+Fasciculation,WI,23,83,70
+Fatigue,WI,15,15,6
+Feminization,WI,71,34,43
+Fever,WI,15,15,6
+Flank Pain,WI,40,88,76
+Flatulence,WI,71,34,43
+Flushing,WI,22,25,20
+Gagging,WI,19,6,5
+Gastroparesis,WI,12,9,1
+Halitosis,WI,78,53,39
+Hallucinations,WI,25,8,72
+Headache,WI,15,15,6
+Hearing Loss,WI,73,40,46
+Heartburn,WI,15,15,6
+Hematemesis,WI,47,51,47
+Hemianopsia,WI,32,62,90
+Hemiplegia,WI,1,44,11
+Hemoglobinuria,WI,61,21,65
+Hemoptysis,WI,41,58,81
+Hiccup,WI,16,14,7
+Hirsutism,WI,60,22,64
+Hoarseness,WI,54,57,54
+Horner Syndrome,WI,49,54,49
+Hot Flashes,WI,19,6,5
+Hydrops Fetalis,WI,7,80,18
+Hyperacusis,WI,2,72,12
+Hyperalgesia,WI,47,53,47
+Hypercapnia,WI,35,50,78
+Hyperemesis Gravidarum,WI,4,77,14
+Hyperesthesia,WI,82,38,23
+Hyperventilation,WI,47,51,47
+Hypocapnia,WI,38,87,75
+Hypothermia,WI,28,35,44
+Hypoventilation,WI,51,26,36
+Illusions,WI,71,34,43
+Intermittent Claudication,WI,33,86,74
+Jaundice,WI,83,42,24
+Korsakoff Syndrome,WI,21,70,10
+Labor Pain,WI,85,4,26
+Lethargy,WI,61,21,65
+Livedo Reticularis,WI,82,36,23
+Low Back Pain,WI,91,71,32
+Mental Retardation,WI,71,34,43
+Metatarsalgia,WI,73,40,46
+Miosis,WI,79,82,40
+Morning Sickness,WI,20,12,4
+Motion Sickness,WI,51,26,36
+Mouth Breathing,WI,43,5,83
+Muscle Cramp,WI,64,27,58
+Muscle Weakness,WI,52,38,37
+Muscular Atrophy,WI,81,39,22
+Mutism,WI,78,53,39
+Myoclonus,WI,88,47,29
+Myotonia,WI,88,90,29
+Nausea,WI,15,15,6
+Neck Pain,WI,15,15,6
+Neuralgia,WI,71,34,43
+Nocturia,WI,55,57,55
+Obesity,WI,71,34,43
+Oliguria,WI,42,59,82
+Ophthalmoplegia,WI,5,76,15
+Orthostatic Intolerance,WI,46,84,52
+Overweight,WI,29,63,91
+Pain,WI,15,15,6
+Pallor,WI,36,91,79
+Paralysis,WI,15,15,6
+Paraparesis,WI,75,45,34
+Paraplegia,WI,56,66,56
+Paresis,WI,56,66,56
+Paresthesia,WI,27,69,85
+Pelvic Pain,WI,15,15,6
+Photophobia,WI,35,50,78
+Polyuria,WI,76,48,35
+Presbycusis,WI,88,83,29
+Prosopagnosia,WI,62,46,86
+Proteinuria,WI,77,49,38
+Pruritus,WI,75,45,34
+Pseudophakia,WI,30,60,88
+Purpura,WI,74,44,33
+Purpura Fulminans,WI,24,85,71
+Quadriplegia,WI,47,53,47
+Renal Colic,WI,87,64,28
+Sarcopenia,WI,53,7,53
+Sciatica,WI,15,15,6
+Scotoma,WI,90,57,31
+Seizures,WI,86,18,27
+Shoulder Pain,WI,15,15,6
+Sleep Deprivation,WI,71,34,60
+Sleep Disorders,WI,71,34,43
+Sneezing,WI,15,15,6
+Snoring,WI,16,14,7
+Spasm,WI,87,65,28
+Speech Disorders,WI,62,46,86
+Stupor,WI,30,60,88
+Stuttering,WI,50,74,73
+Sweating Sickness,WI,9,78,16
+Syncope,WI,88,73,29
+Tetany,WI,74,44,33
+Thinness,WI,39,89,77
+Tics,WI,64,27,58
+Tinea Pedis,WI,60,22,64
+Tinnitus,WI,20,13,4
+Toothache,WI,15,15,6
+Torticollis,WI,57,67,57
+Tremor,WI,70,33,42
+Trismus,WI,34,92,80
+Unconsciousness,WI,78,53,39
+Urinary Incontinence,WI,64,27,58
+Vertigo,WI,17,16,8
+Vomiting,WI,15,15,6
+Weight Gain,WI,15,15,6
+Weight Loss,WI,15,15,6
+Abdominal Pain,WY,32,17,12
+Amnesia,WY,23,23,2
+Anorexia,WY,13,1,41
+Aphasia,WY,33,37,15
+Apnea,WY,4,6,38
+Ataxia,WY,6,8,40
+Back Pain,WY,44,45,23
+Blindness,WY,1,3,35
+Body Weight,WY,22,9,1
+Bulimia,WY,14,19,42
+Chest Pain,WY,16,28,44
+Chills,WY,44,45,23
+Colic,WY,7,32,28
+Coma,WY,5,7,39
+Confusion,WY,5,7,39
+Constipation,WY,37,35,13
+Cough,WY,44,45,23
+Cyanosis,WY,41,42,20
+Delirium,WY,10,24,32
+Diarrhea,WY,44,45,23
+Dizziness,WY,20,11,48
+Dyslexia,WY,23,22,2
+Dysmenorrhea,WY,9,30,31
+Dyspepsia,WY,38,40,18
+Dyspnea,WY,27,20,6
+Dystonia,WY,24,22,3
+Dysuria,WY,35,39,17
+Earache,WY,39,41,19
+Edema,WY,5,7,39
+Eye Pain,WY,8,33,29
+Fatigue,WY,15,1,43
+Fever,WY,44,45,23
+Flatulence,WY,31,16,10
+Flushing,WY,27,20,6
+Gagging,WY,18,31,46
+Gastroparesis,WY,48,49,26
+Hallucinations,WY,40,34,30
+Headache,WY,44,45,23
+Hearing Loss,WY,37,35,13
+Heartburn,WY,46,47,24
+Hiccup,WY,47,48,25
+Hot Flashes,WY,25,23,4
+Hyperemesis Gravidarum,WY,42,43,21
+Hypothermia,WY,12,2,34
+Illusions,WY,13,1,41
+Jaundice,WY,26,18,5
+Lethargy,WY,29,14,8
+Low Back Pain,WY,43,44,22
+Morning Sickness,WY,34,38,16
+Motion Sickness,WY,36,36,14
+Nausea,WY,44,45,23
+Neck Pain,WY,11,25,33
+Neuralgia,WY,22,9,1
+Obesity,WY,1,3,35
+Overweight,WY,4,6,38
+Pain,WY,44,45,23
+Pallor,WY,22,9,1
+Paralysis,WY,35,39,17
+Pelvic Pain,WY,30,15,9
+Pruritus,WY,19,10,47
+Purpura,WY,22,9,1
+Sciatica,WY,27,20,6
+Seizures,WY,2,4,36
+Shoulder Pain,WY,17,26,45
+Sneezing,WY,43,44,22
+Snoring,WY,31,16,11
+Spasm,WY,3,5,37
+Stuttering,WY,17,29,45
+Syncope,WY,19,10,47
+Tetany,WY,43,44,22
+Tics,WY,24,22,3
+Tinnitus,WY,28,21,7
+Toothache,WY,15,27,43
+Tremor,WY,26,18,5
+Vertigo,WY,20,12,48
+Vomiting,WY,17,26,45
+Weight Gain,WY,21,13,49
+Weight Loss,WY,45,46,27
