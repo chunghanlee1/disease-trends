@@ -10,6 +10,7 @@ import pandas as pd
 import numpy as np
 from scipy.spatial.distance import squareform
 from scipy.cluster.hierarchy import linkage, fcluster
+pd.set_option('display.max_columns',100)
 
 try:
     data = pd.read_csv('data_processing/processed.csv')
@@ -39,6 +40,24 @@ for st in data['state'].unique():
             label_df = label_df.merge(to_merge, on='symptom')
         label_df['state']=st
     label_df_list.append(label_df)
-
 final_label_df = pd.concat(label_df_list, axis=0)[['symptom', 'state', 'Up to 2018-08-01', 'Up to 2018-09-01','aggregate_correlation']]
-final_label_df.to_csv('data_analysis/clustered_keywords_by_state.csv', index=False)
+
+
+#Create final df that contains both cluster labels and pairwise correlation
+final_merged_df = data.merge(final_label_df, on = ['symptom','state'], how='left', suffixes=('','_label')).merge(final_label_df, left_on = ['pair','state'], right_on = ['symptom','state'], how='left', suffixes=('','_label_pair')).drop(['symptom_label_pair'],axis=1)
+to_concat=[]
+#Check which pairs are in the same cluster for each of the periods and states
+for col in final_label_df.columns.difference(['symptom', 'state']):
+    #Filter for same cluster and omit duplicates
+    cluster_members = final_merged_df[col+'_label'] == final_merged_df[col+'_label_pair']
+    dup= final_merged_df['symptom'] != final_merged_df['pair']
+    filtered_df=final_merged_df[['symptom', 'pair' ,'state',col+'_label',col]][(cluster_members&dup)].rename(columns={col:'corr', col+'_label': 'cluster'})
+    #Melt the columns
+    if 'aggregate' in col:
+        filtered_df['period']= 'aggregate'
+    else:
+        filtered_df['period']= col[6:-3]
+    to_concat.append(filtered_df.reset_index(drop=True))
+final_merged_df = pd.concat(to_concat, axis=0)
+
+final_merged_df.to_csv('data_analysis/clustered_keywords_by_state.csv', index=False)
