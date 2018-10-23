@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+
+<head>
+	<title>DATA TRENDS CHLOROPETH</title>
+	<!-- author: keshav joshi -->
+
+	<!-- LOCAL IMPORTS -->
+	<!-- <script src="../d3v5/d3.min.js"></script> -->
+	<!-- <script src="./lib/d3.tip.v0.9.1.js"></script> -->
+	
+	<!-- WEB IMPORTS -->
+	<script src="https://d3js.org/d3.v3.min.js"></script>
+	<script src="http://d3js.org/topojson.v1.min.js"></script>
+	<script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+	<script src="https://d3js.org/d3-queue.v3.min.js"></script>
+
+	<!-- OBSOLETE IMPORTS -->
+	<script src="./lib/d3.tip.v0.6.3.js"></script>
+	<!-- <script src="../lib/d3-queue.v3.min.js"></script> -->
+	<!-- <script src="../lib/topojson.v1.min.js"></script> -->
+	
+	<style type="text/css">
+		body {
+	    	background-color: white;
+	    	color: black;
+	    	font: 10px sans-serif;
+		}
+				
+		.counties {
+		  fill: none;
+		  stroke: black;
+		  stroke-width: 0.1px;
+		}
+
+		.states {
+		  fill: none;
+		  stroke: grey;
+		  stroke-linejoin: round;
+		}
+
+		.tip {	
+		    position: absolute;			
+		    background: rgba(43,43,43, 0.8);
+			text-align: left;			
+		    padding: 5px;				
+		    opacity: 0.5;
+		}
+		
+		/* Tooltip CSS */
+		/* http://bl.ocks.org/denisemauldin/cb870e6f439864a5ae74d4fc561ac46f */
+		.d3-tip {
+			line-height: 1.5;
+			font-weight: 400;
+			font-family:"avenir next", Arial, sans-serif;
+			padding: 6px;
+			background: rgba(0, 0, 0, 0.6);
+			color: #FFA500;
+			border-radius: 1px;
+			pointer-events: none;
+		}
+
+		select {
+		    position: absolute;
+		    width:170px;
+		    top:30px;
+		    left:30px;
+		}
+
+	</style>
+
+</head>
+
+<body>
+	<script type="text/javascript">		
+		// Specify margin
+		var marg = 50;
+		var margin = {top: marg, right: marg, bottom: marg, left: marg},
+	    width = 960 - margin.left - margin.right,
+	    height = 600 - margin.top - margin.bottom;	
+
+		// initialize svg
+		var svg = d3.select("body").append("svg")
+	    	.attr("width", width + margin.left + margin.right)
+	    	.attr("height", height + margin.top + margin.bottom)
+	  	.append("g")
+	    	.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+	    // initialize geoPath
+        var geo = d3.geo.path();
+
+        // define scales
+        // TODO: nicer colorscale
+        var colorThresholds = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100];
+	    var colorScale = d3.scale.threshold()
+	    	.domain(colorThresholds.slice(0, 9))
+	    	.range(['#b8e1ff','#a4caeb','#90b4d8','#7c9dc5','#6887b2','#55709e','#415a8b',
+	    		'#2d4378','#192d65','#061752']);
+	
+		// add legend
+		var lWidth = 40, lHeight = 20;
+        var legend = svg.selectAll('.legend')
+        	.data(colorThresholds.map(function(d) {return d-0.1;}))
+        .enter().append('g')
+        	.attr('transform', function(d, i) {
+        		return "translate(" + (width/2 + i*lWidth - 10*lWidth/2) + "," + (height +10) + ")";
+        	});
+        
+        legend.append('rect')
+        	.attr('width', lWidth)
+        	.attr('height', lHeight)
+        	.attr('fill', colorScale)
+        	.attr('stroke', 'black')
+        	.attr('stroke-width', '0.5px');
+
+        legend.append('text')
+        	.attr('x', 32)
+        	.attr('y', 30)
+        	.text(function(d) {return d+0.1; });
+        svg.append('text')
+        	.attr('x', width/4 + 12)
+        	.attr('y', height+40)
+        	.text('0');
+
+        // add title
+		svg.append("text")
+		  .attr("x", (width / 2))             
+          .attr('y', 0)
+          .attr("text-anchor", "middle")  
+          .style("font-size", "20px") 
+		  .style('font-weight', 'bold')
+          .text("Symptom Searches over the years");
+
+		// initialize tip
+		// var tip = d3.tip()
+			// .attr('class', '.tip')
+			// .style('background-color', '#7FDBFF')
+			// .style('color', '#111111');
+		// svg.call(tip);
+
+		var selectedSymptom = "Sneezing";
+		var date = "2004-01-01"
+		var sdata, new_data, trend;
+
+		var q = d3.queue()
+			.defer(d3.json, "./lib/us.json")
+			.defer(d3.csv, "../data_processing/combined_state_id.csv");
+		q.await(renderMap);
+
+		// define tip
+		// tip.html(function(d) {
+				// return 'County: ' + name[d.id] + '<br/>' + 
+				// 'Percentage Educated: ' + d3.format('%')(percent_educated[d.id]/100) + '<br/>' +
+				// 'Qualified Professionals: ' + qualified_professionals[d.id] + '<br/>' + 
+				// 'High school graduates: ' + high_school[d.id] + '<br/>' + 
+				// 'Middle school or lower graduates: ' + middle_school_or_lower[d.id];
+			// });
+
+		function renderMap(error, us, data) {
+			sdata = data.filter(function(d) {return d.symptom === selectedSymptom;});
+			new_data = sdata.filter(function(d) {return d.date === date;});
+
+			// define chart
+			svg.append('path')
+				.datum(topojson.mesh(us, us.objects.states, function(a,b) {return a!==b; }))
+				.attr('class', 'states')
+				.attr('d', geo);
+
+			svg.append('g')
+				.attr('class', 'counties')
+			  .selectAll('path')
+			  .data(topojson.feature(us, us.objects.states).features)
+			  .enter().append('path')
+			  	.style('fill', function(d) { 
+			  		try {
+			  			trend = +new_data.filter(function(nd) {return d.id === +nd.id;})[0].trend;
+			  			return colorScale(trend);
+			  		}
+			  		catch(error) {
+			  			console.log(error);
+			  		}
+			  	})
+			  	.attr('class', 'counties')
+			  	.attr('d', geo);
+			  	// .on('mouseover', tip.show)
+			  	// .on('mouseout', tip.hide);			  	
+
+			// transitionMap(us, sdata);
+		};
+
+		function updateMap(error, us, data) {
+			sdata = data.filter(function(d) {return d.symptom === selectedSymptom;});
+			new_data = sdata.filter(function(d) {return d.date === date;});
+
+			// define chart
+			svg.append('g')
+				.attr('class', 'counties')
+			  .selectAll('path')
+			  .data(topojson.feature(us, us.objects.states).features)
+			  .enter().append('path')
+			  	.style('fill', function(d) { 
+			  		try {
+			  			trend = +new_data.filter(function(nd) {return d.id === +nd.id;})[0].trend;
+			  			return colorScale(trend);
+			  		}
+			  		catch(error) {
+			  			console.log(error);
+			  		}
+			  	})
+			  	.attr('class', 'counties')
+			  	.attr('d', geo);
+			  	// .on('mouseover', tip.show)
+			  	// .on('mouseout', tip.hide);			  	
+
+			// transitionMap(us, sdata);
+		};
+
+		// TODO:
+		// use .transition(); where all the data needs to be available to the object
+		// OR
+		// use a sql query service and pass date as a parameter/ increment locally
+		function transitionMap(us, sdata){
+			d3.selectAll(".counties").remove();
+			
+			// https://stackoverflow.com/questions/3674539/incrementing-a-date-in-javascript
+			var dateObj = new Date(date);
+			dateObj.setMonth(dateObj.getMonth() + 1)
+			date = dateObj.toISOString().slice(0,10);
+
+			var new_data = sdata.filter(function(d) {return d.date === date;});
+			svg.append('g')
+				.attr('class', 'counties')
+			  .selectAll('path')
+			  .data(topojson.feature(us, us.objects.states).features)
+			  .enter().append('path')
+			  	.style('fill', function(d) { 
+			  		var temp_data = new_data.filter(function(nd) {return d.id === +nd.id;});
+			  		try {
+			  			return colorScale(+new_data.filter(function(nd) {return d.id === +nd.id;})[0].trend);
+			  		}
+			  		catch(error) {
+			  			console.log(error);
+			  		}
+			  	})
+			  	.attr('class', 'counties')
+			  	.attr('d', geo);
+		};
+
+		// Specify options
+		// http://bl.ocks.org/jfreels/6734823
+		// ./data_summary.ipynb : list of symptoms
+		var symptoms = ['Sneezing', 'Abdominal Pain', 'Apnea', 'Vomiting', 'Seizures', 
+		'Back Pain', 'Tinnitus', 'Stuttering', 'Ataxia', 'Tremor', 'Amnesia', 
+		'Shoulder Pain', 'Snoring', 'Anorexia', 'Vertigo', 'Spasm', 'Aphasia', 'Syncope', 
+		'Tics', 'Toothache', 'Hallucinations', 'Blindness', 'Dysuria', 'Earache', 
+		'Motion Sickness', 'Morning Sickness', 'Edema', 'Low Back Pain', 'Lethargy', 
+		'Jaundice', 'Eye Pain', 'Illusions', 'Hypothermia', 'Weight Gain', 
+		'Hyperemesis Gravidarum', 'Hot Flashes', 'Hiccup', 'Heartburn', 'Fatigue', 'Fever', 
+		'Flatulence', 'Flushing', 'Gagging', 'Gastroparesis', 'Hearing Loss', 'Dystonia', 
+		'Nausea', 'Neck Pain', 'Dyspnea', 'Body Weight', 'Bulimia', 'Chest Pain', 'Purpura', 
+		'Chills', 'Colic', 'Coma', 'Pruritus', 'Confusion', 'Constipation', 'Cough', 'Sciatica', 
+		'Pelvic Pain', 'Pallor', 'Headache', 'Delirium', 'Diarrhea', 'Pain', 'Overweight', 
+		'Dizziness', 'Dyslexia', 'Obesity', 'Dyspepsia', 'Neuralgia', 'Paralysis', 'Weight Loss'];
+		var dropdown = d3.select('body').append('select')
+			.attr('class', 'select')
+			.on('change', onChange);
+		var options = dropdown.selectAll('option')
+			.data(symptoms).enter()
+			.append('option')
+			.text(function(d){ return d; });
+		// TODO: set default option
+		// dropdown.property("selected", function(d){return d === selectedSymptom});
+
+		function onChange() {
+			selectedSymptom = d3.select('select').property('value');
+			// remove all colors on geo
+			d3.selectAll(".counties").remove();
+			d3.queue()
+				.defer(d3.json, './lib/us.json')
+				.defer(d3.csv, "../data_processing/combined_state_id.csv")
+				.await(updateMap);
+		};
+
+	</script>
+</body>
+
+</html>
