@@ -13,7 +13,7 @@ from scipy.cluster.hierarchy import linkage, fcluster
 pd.set_option('display.max_columns',100)
 
 try:
-    data = pd.read_csv('data_processing/processed.csv')
+    data = pd.read_csv('data_processing/corr_by_state.csv')
 except FileNotFoundError:
     raise FileNotFoundError("Make sure your working directory is 'disease-trends' and not in any subdirectory")
 
@@ -49,22 +49,21 @@ for st in data['state'].unique():
 final_label_df = pd.concat(label_df_list, axis=0)
 
 
-#Create final df that contains both cluster labels and pairwise correlation
-final_merged_df = data.merge(final_label_df, on = ['symptom','state'], how='left', suffixes=('','_label')).merge(final_label_df, left_on = ['pair','state'], right_on = ['symptom','state'], how='left', suffixes=('','_label_pair')).drop(['symptom_label_pair'],axis=1)
+
 to_concat=[]
 #Check which pairs are in the same cluster for each of the periods and states
 for col in final_label_df.columns.difference(['symptom', 'state']):
-    #Filter for same cluster
-    cluster_members = final_merged_df[col+'_label'] == final_merged_df[col+'_label_pair']
     
-    filtered_df=final_merged_df[['symptom', 'pair' ,'state',col+'_label',col]][(cluster_members)].rename(columns={col:'corr', col+'_label': 'cluster'})
+    filtered_df=final_label_df[['symptom','state',col]].rename(columns={ col: 'cluster'})
+    
     #Melt the columns
     if 'aggregate' in col:
         filtered_df['period']= 'aggregate'
     else:
-        filtered_df['period']= col[6:-3]
+        filtered_df['period']= col
     to_concat.append(filtered_df.reset_index(drop=True))
-final_merged_df = pd.concat(to_concat, axis=0)
+    
+final_cluster_df = pd.concat(to_concat, axis=0)
 
 #be aware of NA values, which should have all been separated out
-final_merged_df.to_csv('data_analysis/clustered_keywords_by_state.csv', index=False)
+final_cluster_df.to_csv('data_analysis/clusters_by_state.csv', index=False)
