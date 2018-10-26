@@ -1,9 +1,8 @@
 DESCRIPTION 
 Query symptoms data from the Google Trends API, then calculate correlation and conduct heirarchical clustering.
 
-
-INSTALLATION 
-Software: 
+INSTALLATION
+Software:
 	Python 3.6+
 Required modules (installation instructions):
 	1. scipy 1.1.0 (https://www.scipy.org/install.html)
@@ -12,7 +11,7 @@ Required modules (installation instructions):
 	4. pandas 0.23.0 (https://pandas.pydata.org/pandas-docs/stable/install.html)
 
 
-EXECUTION 
+EXECUTION
 Set the 'CODE' folder as the working directory. Run the following files sequentially (warning: data collection may take up to thousands of hours due to rate limiting):
 	1. ?????
 	2. data_processing.py
