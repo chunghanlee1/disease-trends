@@ -7,15 +7,33 @@ Created on Fri Sep 21 13:16:42 2018
 
 
 import pandas as pd
-from collections import defaultdict
 #import json
 import numpy as np
+import sys
+import re
 
-#======================== Set window size ==================
+#======================== Set rolling window size ==================
 #Starting from date 2016-01-01 will give you rolling correlation calculations up to 2018-09-01
 #The earlier the start date, the larger the file size. It's around 500MB with 2016-01-01 as start date
-start_date= '2005-01-01'
+
+#Extract user specification of rolling window size
+if len(sys.argv) >=2:
+    res = re.findall("^[0-9]{4}\-[0-9]{2}$", sys.argv[1])
+    if res:
+        #Check that the supplied argument is valid month-date argument
+        dates = sys.argv[1].split('-')
+        if int(dates[0])>2018 or int(dates[0])<2004:
+            raise Exception("Please specify a year range from 2004 to 2018")
+        elif int(dates[1])>12 or int(dates[1])<1:
+            raise Exception("Please specify a valid month range from 01 to 12")
+        else:
+            start_date=sys.argv[1]+"-01"
+    else: 
+        raise Exception("Please specify a valid rolling window date, using the format yyyy-mm")
+else:
+    start_date= '2005-01-01'
 #=============================================================
+
 
 #======================Define Functions ====================
 
