@@ -1,5 +1,5 @@
 DESCRIPTION 
-Query symptoms data from the Google Trends API, then calculate correlation and conduct heirarchical clustering.
+The Python code (???) queries symptoms data from the Google Trends API, then 'data_processing.py' is used to calculate rolling window correlation between symptom pairs from raw trend data. Calculated correlation is separated by state and time period (i.e. rolling window). Finally, 'cluster_corr.py' runs heirarchical clustering on the correlation data, using correlation as the distance metric (higher positive correlation -> similar).
 
 INSTALLATION
 Software:
@@ -12,7 +12,7 @@ Required modules (installation instructions):
 
 
 EXECUTION
-Set the 'CODE' folder as the working directory. Run the following files sequentially (warning: data collection may take up to thousands of hours due to rate limiting):
+Set the 'CODE' folder as the working directory. Run the following files sequentially from the command line or using IDE (warning: data collection may take up to thousands of hours due to rate limiting):
 	1. ?????
 	2. data_processing.py
 	3. cluster_corr.py
