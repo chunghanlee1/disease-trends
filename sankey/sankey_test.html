@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<head>
+	<title>dat sankey</title>
+	<script src="./d3/d3.min.js" charset="utf-8"></script>
+	<script src="./d3-sankey-diagram/d3-sankey-diagram.js" charset="utf-8"></script>
+</head>
+<body>
+	<script type="text/javascript">
+	    var marg = 50;
+		var margin = {top: marg*0, right: marg*4, bottom: marg*0, left: marg*4},
+	    width = 1000 - margin.left - margin.right,
+	    height = 1000 - margin.top - margin.bottom;
+	    var svg = d3.select('body').append('svg')
+	    	    .attr("width", width + margin.left + margin.right)
+		    	.attr("height", height + margin.top + margin.bottom);
+		var layout = d3.sankey()
+               .extent([[100, 0], [width, height]]);
+
+		var diagram = d3.sankeyDiagram();
+
+		var disease = 'HIV Infections',
+			linkWidth = 'PubMed occurrence';
+		var nodes = [],
+			links = [],
+			order = [],
+			groups = []
+			targetOrder = [];
+		order.push([[disease]]);
+		nodes.push({'id':disease, 'title':disease});
+
+		d3.json('sankey_json.json', function(data) {
+		 	// var links = data.links;
+		 	// links.forEach(function(d) {
+		 		// targetOrder.push([d.target])
+		 	// });
+		 	// order.push(targetOrder);
+		 	// layout.ordering(order);
+			svg.datum(layout({'nodes': data.nodes, 'links': data.links}))
+				.call(diagram);
+		});
+
+	</script>
+</body>
+</html>
