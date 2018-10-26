@@ -1,4 +1,4 @@
-DESCRIPTION 
+DESCRIPTION
 Query symptoms data from the Google Trends API, then calculate correlation and conduct heirarchical clustering.
 
 
