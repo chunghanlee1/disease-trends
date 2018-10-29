@@ -40,11 +40,11 @@ def parse_args():
 
 def fetch_data(symptom, state, country_level):
     geo = 'US' 
-    if country_level is not None:
-        geo += '-state'
-        if state in country_level:
+    if country_level is None:
+        geo += '-'+state
+    elif state in country_level:
             return country_level[state]
-    for i in range(5):
+    for i in range(1):
         try:
             pytrend.build_payload(kw_list=[symptom], timeframe= 'all', geo=geo)
             interest_over_time_df = pytrend.interest_over_time()
@@ -65,8 +65,8 @@ def fetch_data(symptom, state, country_level):
             continue
 
 def main():
-    country_level = {} if args.country_level else None
     args = parse_args()
+    country_level = {} if args.country_level else None
     # Login to Google. Only need to run this once, the rest of requests will use the same session.
     pytrend = TrendReq()
     reader = DictReader(args.to_redo, fieldnames=['symptom', 'state', 'status'], delimiter='\t')
