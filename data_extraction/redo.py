@@ -77,7 +77,8 @@ def main():
         print(symptom,state)
         #For each state, fetch data...
         interest_over_time_df = fetch_data(symptom, state, country_level)
-        interest_over_time_df.to_csv(args.out, sep=',', encoding='utf-8')
+        if interest_over_time_df:
+            interest_over_time_df.to_csv(args.out, sep=',', encoding='utf-8')
            
 if(__name__=='__main__'):
     main()
