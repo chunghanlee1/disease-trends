@@ -10,6 +10,7 @@ import time
 from glob import glob
 from csv import DictReader, DictWriter
 from copy import deepcopy
+import re
 
 #Initiate data & variables
 states = [
@@ -26,7 +27,7 @@ def parse_args():
     parser.add_argument(
         '--out',
         type=FileType('w'),
-        default='combined.csv',
+        default='combined.tsv',
         help='Tab delimited file. First column is the symptom descriptor',
     )
     parser.add_argument(
@@ -41,11 +42,14 @@ fieldnames = ['date', 'trend', 'isPartial','state','symptom']
 
 def parse_symptoms(path, symptoms_dict):
     symptoms = deepcopy(symptoms_dict)
+    clean_symps = {re.sub('[^0-9a-zA-Z]+', ' ', s):s for s in symptoms}
     with open(path) as fh:
         reader = DictReader(filter(lambda x:not x.startswith(','), fh), fieldnames=fieldnames)
         for row in reader:
             if row['date'] != 'date':
-                symptoms[row['symptom']][row['state']].append(row)
+                try: symptoms[row['symptom']][row['state']].append(row)
+                except: symptoms[clean_symps[row['symptom']]][row['state']].append(row) 
+
     return symptoms
 
 def main():

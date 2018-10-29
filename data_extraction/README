@@ -9,5 +9,7 @@
 #Then run the following to extract the ones to redo
 grep NoData summary.tsv > no_data.tsv
 split no_data.tsv parts/nodata.
+# Then redo them, optionally only getting US wide data
 ./redo.py --out parts/redo.aa.tsv --to_redo parts/nodata.aa
+./redo.py --out parts/redo.aa.tsv --to_redo parts/nodata.aa --country_level
 

@@ -35,16 +35,12 @@ Pain, Postoperative	AL	NoData
 Pain, Postoperative	AK	NoData
 Pain, Postoperative	AZ	NoData
 Pain, Postoperative	AR	NoData
-Pain, Postoperative	CA	NoData
 Pain, Postoperative	CO	NoData
 Pain, Postoperative	CT	NoData
 Pain, Postoperative	DC	NoData
 Pain, Postoperative	DE	NoData
-Pain, Postoperative	FL	NoData
-Pain, Postoperative	GA	NoData
 Pain, Postoperative	HI	NoData
 Pain, Postoperative	ID	NoData
-Pain, Postoperative	IL	NoData
 Pain, Postoperative	IN	NoData
 Pain, Postoperative	IA	NoData
 Pain, Postoperative	KS	NoData
@@ -52,8 +48,6 @@ Pain, Postoperative	KY	NoData
 Pain, Postoperative	LA	NoData
 Pain, Postoperative	ME	NoData
 Pain, Postoperative	MD	NoData
-Pain, Postoperative	MA	NoData
-Pain, Postoperative	MI	NoData
 Pain, Postoperative	MN	NoData
 Pain, Postoperative	MS	NoData
 Pain, Postoperative	MO	NoData
@@ -63,21 +57,16 @@ Pain, Postoperative	NV	NoData
 Pain, Postoperative	NH	NoData
 Pain, Postoperative	NJ	NoData
 Pain, Postoperative	NM	NoData
-Pain, Postoperative	NY	NoData
 Pain, Postoperative	NC	NoData
 Pain, Postoperative	ND	NoData
-Pain, Postoperative	OH	NoData
 Pain, Postoperative	OK	NoData
 Pain, Postoperative	OR	NoData
-Pain, Postoperative	PA	NoData
 Pain, Postoperative	RI	NoData
 Pain, Postoperative	SC	NoData
 Pain, Postoperative	SD	NoData
 Pain, Postoperative	TN	NoData
-Pain, Postoperative	TX	NoData
 Pain, Postoperative	UT	NoData
 Pain, Postoperative	VT	NoData
-Pain, Postoperative	VA	NoData
 Pain, Postoperative	WA	NoData
 Pain, Postoperative	WV	NoData
 Pain, Postoperative	WI	NoData
@@ -89,7 +78,6 @@ Vision Disorders	AL	NoData
 Vision Disorders	AK	NoData
 Vision Disorders	AZ	NoData
 Vision Disorders	AR	NoData
-Vision Disorders	CA	NoData
 Vision Disorders	CO	NoData
 Vision Disorders	CT	NoData
 Vision Disorders	DC	NoData
@@ -128,7 +116,6 @@ Vision Disorders	RI	NoData
 Vision Disorders	SC	NoData
 Vision Disorders	SD	NoData
 Vision Disorders	TN	NoData
-Vision Disorders	TX	NoData
 Vision Disorders	UT	NoData
 Vision Disorders	VT	NoData
 Vision Disorders	VA	NoData
@@ -199,7 +186,6 @@ Urinary Incontinence	HI	NoData
 Urinary Incontinence	ID	NoData
 Urinary Incontinence	MT	NoData
 Urinary Incontinence	ND	NoData
-Urinary Incontinence	RI	NoData
 Urinary Incontinence	SD	NoData
 Urinary Incontinence	VT	NoData
 Urinary Incontinence	WY	NoData
@@ -211,7 +197,6 @@ Hearing Disorders	CO	NoData
 Hearing Disorders	CT	NoData
 Hearing Disorders	DC	NoData
 Hearing Disorders	DE	NoData
-Hearing Disorders	FL	NoData
 Hearing Disorders	GA	NoData
 Hearing Disorders	HI	NoData
 Hearing Disorders	ID	NoData
@@ -255,7 +240,6 @@ Sleep Disorders	DE	NoData
 Sleep Disorders	HI	NoData
 Sleep Disorders	ME	NoData
 Sleep Disorders	MT	NoData
-Sleep Disorders	NH	NoData
 Sleep Disorders	ND	NoData
 Sleep Disorders	RI	NoData
 Sleep Disorders	SD	NoData
@@ -269,7 +253,6 @@ Memory Disorders	CO	NoData
 Memory Disorders	CT	NoData
 Memory Disorders	DC	NoData
 Memory Disorders	DE	NoData
-Memory Disorders	FL	NoData
 Memory Disorders	GA	NoData
 Memory Disorders	HI	NoData
 Memory Disorders	ID	NoData
@@ -319,13 +302,11 @@ Learning Disorders	DC	NoData
 Learning Disorders	DE	NoData
 Learning Disorders	HI	NoData
 Learning Disorders	ID	NoData
-Learning Disorders	IN	NoData
 Learning Disorders	IA	NoData
 Learning Disorders	KS	NoData
 Learning Disorders	LA	NoData
 Learning Disorders	ME	NoData
 Learning Disorders	MD	NoData
-Learning Disorders	MA	NoData
 Learning Disorders	MI	NoData
 Learning Disorders	MN	NoData
 Learning Disorders	MS	NoData
@@ -337,7 +318,6 @@ Learning Disorders	NH	NoData
 Learning Disorders	NJ	NoData
 Learning Disorders	NM	NoData
 Learning Disorders	ND	NoData
-Learning Disorders	OH	NoData
 Learning Disorders	OK	NoData
 Learning Disorders	OR	NoData
 Learning Disorders	RI	NoData
@@ -346,59 +326,35 @@ Learning Disorders	SD	NoData
 Learning Disorders	TN	NoData
 Learning Disorders	UT	NoData
 Learning Disorders	VT	NoData
-Learning Disorders	VA	NoData
 Learning Disorders	WA	NoData
 Learning Disorders	WV	NoData
 Learning Disorders	WI	NoData
 Learning Disorders	WY	NoData
 Hearing Loss, Sensorineural	AL	NoData
 Hearing Loss, Sensorineural	AK	NoData
-Hearing Loss, Sensorineural	AZ	NoData
 Hearing Loss, Sensorineural	AR	NoData
-Hearing Loss, Sensorineural	CA	NoData
-Hearing Loss, Sensorineural	CO	NoData
-Hearing Loss, Sensorineural	CT	NoData
 Hearing Loss, Sensorineural	DC	NoData
 Hearing Loss, Sensorineural	DE	NoData
-Hearing Loss, Sensorineural	FL	NoData
-Hearing Loss, Sensorineural	GA	NoData
 Hearing Loss, Sensorineural	HI	NoData
 Hearing Loss, Sensorineural	ID	NoData
-Hearing Loss, Sensorineural	IL	NoData
-Hearing Loss, Sensorineural	IN	NoData
 Hearing Loss, Sensorineural	IA	NoData
 Hearing Loss, Sensorineural	KS	NoData
-Hearing Loss, Sensorineural	KY	NoData
 Hearing Loss, Sensorineural	LA	NoData
 Hearing Loss, Sensorineural	ME	NoData
 Hearing Loss, Sensorineural	MD	NoData
-Hearing Loss, Sensorineural	MA	NoData
-Hearing Loss, Sensorineural	MI	NoData
-Hearing Loss, Sensorineural	MN	NoData
 Hearing Loss, Sensorineural	MS	NoData
-Hearing Loss, Sensorineural	MO	NoData
 Hearing Loss, Sensorineural	MT	NoData
 Hearing Loss, Sensorineural	NE	NoData
 Hearing Loss, Sensorineural	NV	NoData
 Hearing Loss, Sensorineural	NH	NoData
-Hearing Loss, Sensorineural	NJ	NoData
 Hearing Loss, Sensorineural	NM	NoData
-Hearing Loss, Sensorineural	NY	NoData
-Hearing Loss, Sensorineural	NC	NoData
 Hearing Loss, Sensorineural	ND	NoData
-Hearing Loss, Sensorineural	OH	NoData
-Hearing Loss, Sensorineural	OK	NoData
 Hearing Loss, Sensorineural	OR	NoData
-Hearing Loss, Sensorineural	PA	NoData
 Hearing Loss, Sensorineural	RI	NoData
-Hearing Loss, Sensorineural	SC	NoData
 Hearing Loss, Sensorineural	SD	NoData
 Hearing Loss, Sensorineural	TN	NoData
-Hearing Loss, Sensorineural	TX	NoData
 Hearing Loss, Sensorineural	UT	NoData
 Hearing Loss, Sensorineural	VT	NoData
-Hearing Loss, Sensorineural	VA	NoData
-Hearing Loss, Sensorineural	WA	NoData
 Hearing Loss, Sensorineural	WV	NoData
 Hearing Loss, Sensorineural	WI	NoData
 Hearing Loss, Sensorineural	WY	NoData
@@ -481,7 +437,6 @@ Facial Paralysis	WA	NoData
 Facial Paralysis	WV	NoData
 Facial Paralysis	WI	NoData
 Facial Paralysis	WY	NoData
-Speech Disorders	AL	NoData
 Speech Disorders	AK	NoData
 Speech Disorders	CO	NoData
 Speech Disorders	CT	NoData
@@ -493,7 +448,6 @@ Speech Disorders	IN	NoData
 Speech Disorders	IA	NoData
 Speech Disorders	KS	NoData
 Speech Disorders	KY	NoData
-Speech Disorders	LA	NoData
 Speech Disorders	ME	NoData
 Speech Disorders	MD	NoData
 Speech Disorders	MS	NoData
@@ -508,7 +462,6 @@ Speech Disorders	OR	NoData
 Speech Disorders	RI	NoData
 Speech Disorders	SC	NoData
 Speech Disorders	SD	NoData
-Speech Disorders	TN	NoData
 Speech Disorders	UT	NoData
 Speech Disorders	VT	NoData
 Speech Disorders	WA	NoData
@@ -516,54 +469,27 @@ Speech Disorders	WV	NoData
 Speech Disorders	WY	NoData
 Obesity, Morbid	AL	NoData
 Obesity, Morbid	AK	NoData
-Obesity, Morbid	AZ	NoData
 Obesity, Morbid	AR	NoData
-Obesity, Morbid	CA	NoData
-Obesity, Morbid	CO	NoData
-Obesity, Morbid	CT	NoData
 Obesity, Morbid	DC	NoData
 Obesity, Morbid	DE	NoData
-Obesity, Morbid	FL	NoData
-Obesity, Morbid	GA	NoData
 Obesity, Morbid	HI	NoData
 Obesity, Morbid	ID	NoData
-Obesity, Morbid	IL	NoData
-Obesity, Morbid	IN	NoData
 Obesity, Morbid	IA	NoData
 Obesity, Morbid	KS	NoData
-Obesity, Morbid	KY	NoData
-Obesity, Morbid	LA	NoData
 Obesity, Morbid	ME	NoData
-Obesity, Morbid	MD	NoData
-Obesity, Morbid	MA	NoData
-Obesity, Morbid	MI	NoData
-Obesity, Morbid	MN	NoData
 Obesity, Morbid	MS	NoData
-Obesity, Morbid	MO	NoData
 Obesity, Morbid	MT	NoData
 Obesity, Morbid	NE	NoData
 Obesity, Morbid	NV	NoData
 Obesity, Morbid	NH	NoData
-Obesity, Morbid	NJ	NoData
 Obesity, Morbid	NM	NoData
-Obesity, Morbid	NY	NoData
-Obesity, Morbid	NC	NoData
 Obesity, Morbid	ND	NoData
-Obesity, Morbid	OH	NoData
 Obesity, Morbid	OK	NoData
-Obesity, Morbid	OR	NoData
-Obesity, Morbid	PA	NoData
 Obesity, Morbid	RI	NoData
-Obesity, Morbid	SC	NoData
 Obesity, Morbid	SD	NoData
-Obesity, Morbid	TN	NoData
-Obesity, Morbid	TX	NoData
 Obesity, Morbid	UT	NoData
 Obesity, Morbid	VT	NoData
-Obesity, Morbid	VA	NoData
-Obesity, Morbid	WA	NoData
 Obesity, Morbid	WV	NoData
-Obesity, Morbid	WI	NoData
 Obesity, Morbid	WY	NoData
 Muscle Weakness	AK	NoData
 Muscle Weakness	DC	NoData
@@ -581,7 +507,6 @@ Urinary Incontinence, Stress	AL	NoData
 Urinary Incontinence, Stress	AK	NoData
 Urinary Incontinence, Stress	AZ	NoData
 Urinary Incontinence, Stress	AR	NoData
-Urinary Incontinence, Stress	CA	NoData
 Urinary Incontinence, Stress	CO	NoData
 Urinary Incontinence, Stress	CT	NoData
 Urinary Incontinence, Stress	DC	NoData
@@ -609,7 +534,6 @@ Urinary Incontinence, Stress	NV	NoData
 Urinary Incontinence, Stress	NH	NoData
 Urinary Incontinence, Stress	NJ	NoData
 Urinary Incontinence, Stress	NM	NoData
-Urinary Incontinence, Stress	NY	NoData
 Urinary Incontinence, Stress	NC	NoData
 Urinary Incontinence, Stress	ND	NoData
 Urinary Incontinence, Stress	OH	NoData
@@ -620,7 +544,6 @@ Urinary Incontinence, Stress	RI	NoData
 Urinary Incontinence, Stress	SC	NoData
 Urinary Incontinence, Stress	SD	NoData
 Urinary Incontinence, Stress	TN	NoData
-Urinary Incontinence, Stress	TX	NoData
 Urinary Incontinence, Stress	UT	NoData
 Urinary Incontinence, Stress	VT	NoData
 Urinary Incontinence, Stress	VA	NoData
@@ -632,16 +555,12 @@ Abdomen, Acute	AL	NoData
 Abdomen, Acute	AK	NoData
 Abdomen, Acute	AZ	NoData
 Abdomen, Acute	AR	NoData
-Abdomen, Acute	CA	NoData
 Abdomen, Acute	CO	NoData
 Abdomen, Acute	CT	NoData
 Abdomen, Acute	DC	NoData
 Abdomen, Acute	DE	NoData
-Abdomen, Acute	FL	NoData
-Abdomen, Acute	GA	NoData
 Abdomen, Acute	HI	NoData
 Abdomen, Acute	ID	NoData
-Abdomen, Acute	IL	NoData
 Abdomen, Acute	IN	NoData
 Abdomen, Acute	IA	NoData
 Abdomen, Acute	KS	NoData
@@ -660,10 +579,8 @@ Abdomen, Acute	NV	NoData
 Abdomen, Acute	NH	NoData
 Abdomen, Acute	NJ	NoData
 Abdomen, Acute	NM	NoData
-Abdomen, Acute	NY	NoData
 Abdomen, Acute	NC	NoData
 Abdomen, Acute	ND	NoData
-Abdomen, Acute	OH	NoData
 Abdomen, Acute	OK	NoData
 Abdomen, Acute	OR	NoData
 Abdomen, Acute	PA	NoData
@@ -671,7 +588,6 @@ Abdomen, Acute	RI	NoData
 Abdomen, Acute	SC	NoData
 Abdomen, Acute	SD	NoData
 Abdomen, Acute	TN	NoData
-Abdomen, Acute	TX	NoData
 Abdomen, Acute	UT	NoData
 Abdomen, Acute	VT	NoData
 Abdomen, Acute	VA	NoData
@@ -680,7 +596,6 @@ Abdomen, Acute	WV	NoData
 Abdomen, Acute	WI	NoData
 Abdomen, Acute	WY	NoData
 Muscular Atrophy	AK	NoData
-Muscular Atrophy	AZ	NoData
 Muscular Atrophy	AR	NoData
 Muscular Atrophy	DC	NoData
 Muscular Atrophy	DE	NoData
@@ -703,59 +618,38 @@ Muscular Atrophy	OR	NoData
 Muscular Atrophy	RI	NoData
 Muscular Atrophy	SC	NoData
 Muscular Atrophy	SD	NoData
-Muscular Atrophy	TN	NoData
 Muscular Atrophy	UT	NoData
 Muscular Atrophy	VT	NoData
-Muscular Atrophy	WA	NoData
 Muscular Atrophy	WV	NoData
 Muscular Atrophy	WY	NoData
-Angina, Unstable	AL	NoData
 Angina, Unstable	AK	NoData
-Angina, Unstable	AZ	NoData
 Angina, Unstable	AR	NoData
-Angina, Unstable	CA	NoData
 Angina, Unstable	CO	NoData
 Angina, Unstable	CT	NoData
 Angina, Unstable	DC	NoData
 Angina, Unstable	DE	NoData
-Angina, Unstable	FL	NoData
-Angina, Unstable	GA	NoData
 Angina, Unstable	HI	NoData
 Angina, Unstable	ID	NoData
-Angina, Unstable	IL	NoData
-Angina, Unstable	IN	NoData
 Angina, Unstable	IA	NoData
 Angina, Unstable	KS	NoData
 Angina, Unstable	KY	NoData
 Angina, Unstable	LA	NoData
 Angina, Unstable	ME	NoData
-Angina, Unstable	MD	NoData
-Angina, Unstable	MA	NoData
-Angina, Unstable	MI	NoData
 Angina, Unstable	MN	NoData
 Angina, Unstable	MS	NoData
-Angina, Unstable	MO	NoData
 Angina, Unstable	MT	NoData
 Angina, Unstable	NE	NoData
 Angina, Unstable	NV	NoData
 Angina, Unstable	NH	NoData
-Angina, Unstable	NJ	NoData
 Angina, Unstable	NM	NoData
-Angina, Unstable	NY	NoData
-Angina, Unstable	NC	NoData
 Angina, Unstable	ND	NoData
-Angina, Unstable	OH	NoData
 Angina, Unstable	OK	NoData
 Angina, Unstable	OR	NoData
-Angina, Unstable	PA	NoData
 Angina, Unstable	RI	NoData
 Angina, Unstable	SC	NoData
 Angina, Unstable	SD	NoData
-Angina, Unstable	TN	NoData
-Angina, Unstable	TX	NoData
 Angina, Unstable	UT	NoData
 Angina, Unstable	VT	NoData
-Angina, Unstable	VA	NoData
 Angina, Unstable	WA	NoData
 Angina, Unstable	WV	NoData
 Angina, Unstable	WI	NoData
@@ -936,7 +830,6 @@ Muscle Spasticity	CO	NoData
 Muscle Spasticity	CT	NoData
 Muscle Spasticity	DC	NoData
 Muscle Spasticity	DE	NoData
-Muscle Spasticity	FL	NoData
 Muscle Spasticity	GA	NoData
 Muscle Spasticity	HI	NoData
 Muscle Spasticity	ID	NoData
@@ -959,7 +852,6 @@ Muscle Spasticity	NV	NoData
 Muscle Spasticity	NH	NoData
 Muscle Spasticity	NJ	NoData
 Muscle Spasticity	NM	NoData
-Muscle Spasticity	NY	NoData
 Muscle Spasticity	NC	NoData
 Muscle Spasticity	ND	NoData
 Muscle Spasticity	OH	NoData
@@ -1059,7 +951,6 @@ Respiratory Sounds	NV	NoData
 Respiratory Sounds	NH	NoData
 Respiratory Sounds	NJ	NoData
 Respiratory Sounds	NM	NoData
-Respiratory Sounds	NC	NoData
 Respiratory Sounds	ND	NoData
 Respiratory Sounds	OK	NoData
 Respiratory Sounds	OR	NoData
@@ -1071,55 +962,36 @@ Respiratory Sounds	UT	NoData
 Respiratory Sounds	VT	NoData
 Respiratory Sounds	WA	NoData
 Respiratory Sounds	WV	NoData
-Respiratory Sounds	WI	NoData
 Respiratory Sounds	WY	NoData
 Purpura, Thrombocytopenic	AL	NoData
 Purpura, Thrombocytopenic	AK	NoData
-Purpura, Thrombocytopenic	AZ	NoData
 Purpura, Thrombocytopenic	AR	NoData
-Purpura, Thrombocytopenic	CA	NoData
 Purpura, Thrombocytopenic	CO	NoData
 Purpura, Thrombocytopenic	CT	NoData
 Purpura, Thrombocytopenic	DC	NoData
 Purpura, Thrombocytopenic	DE	NoData
-Purpura, Thrombocytopenic	FL	NoData
-Purpura, Thrombocytopenic	GA	NoData
 Purpura, Thrombocytopenic	HI	NoData
 Purpura, Thrombocytopenic	ID	NoData
-Purpura, Thrombocytopenic	IL	NoData
 Purpura, Thrombocytopenic	IN	NoData
 Purpura, Thrombocytopenic	IA	NoData
 Purpura, Thrombocytopenic	KS	NoData
-Purpura, Thrombocytopenic	KY	NoData
 Purpura, Thrombocytopenic	LA	NoData
 Purpura, Thrombocytopenic	ME	NoData
 Purpura, Thrombocytopenic	MD	NoData
-Purpura, Thrombocytopenic	MA	NoData
-Purpura, Thrombocytopenic	MI	NoData
-Purpura, Thrombocytopenic	MN	NoData
 Purpura, Thrombocytopenic	MS	NoData
-Purpura, Thrombocytopenic	MO	NoData
 Purpura, Thrombocytopenic	MT	NoData
 Purpura, Thrombocytopenic	NE	NoData
 Purpura, Thrombocytopenic	NV	NoData
 Purpura, Thrombocytopenic	NH	NoData
-Purpura, Thrombocytopenic	NJ	NoData
 Purpura, Thrombocytopenic	NM	NoData
-Purpura, Thrombocytopenic	NY	NoData
-Purpura, Thrombocytopenic	NC	NoData
 Purpura, Thrombocytopenic	ND	NoData
-Purpura, Thrombocytopenic	OH	NoData
 Purpura, Thrombocytopenic	OK	NoData
 Purpura, Thrombocytopenic	OR	NoData
-Purpura, Thrombocytopenic	PA	NoData
 Purpura, Thrombocytopenic	RI	NoData
 Purpura, Thrombocytopenic	SC	NoData
 Purpura, Thrombocytopenic	SD	NoData
-Purpura, Thrombocytopenic	TN	NoData
-Purpura, Thrombocytopenic	TX	NoData
 Purpura, Thrombocytopenic	UT	NoData
 Purpura, Thrombocytopenic	VT	NoData
-Purpura, Thrombocytopenic	VA	NoData
 Purpura, Thrombocytopenic	WA	NoData
 Purpura, Thrombocytopenic	WV	NoData
 Purpura, Thrombocytopenic	WI	NoData
@@ -1204,16 +1076,11 @@ Pain, Intractable	AL	NoData
 Pain, Intractable	AK	NoData
 Pain, Intractable	AZ	NoData
 Pain, Intractable	AR	NoData
-Pain, Intractable	CA	NoData
 Pain, Intractable	CO	NoData
-Pain, Intractable	CT	NoData
 Pain, Intractable	DC	NoData
 Pain, Intractable	DE	NoData
-Pain, Intractable	FL	NoData
-Pain, Intractable	GA	NoData
 Pain, Intractable	HI	NoData
 Pain, Intractable	ID	NoData
-Pain, Intractable	IL	NoData
 Pain, Intractable	IN	NoData
 Pain, Intractable	IA	NoData
 Pain, Intractable	KS	NoData
@@ -1222,28 +1089,20 @@ Pain, Intractable	LA	NoData
 Pain, Intractable	ME	NoData
 Pain, Intractable	MD	NoData
 Pain, Intractable	MA	NoData
-Pain, Intractable	MI	NoData
-Pain, Intractable	MN	NoData
 Pain, Intractable	MS	NoData
 Pain, Intractable	MO	NoData
 Pain, Intractable	MT	NoData
 Pain, Intractable	NE	NoData
 Pain, Intractable	NV	NoData
 Pain, Intractable	NH	NoData
-Pain, Intractable	NJ	NoData
 Pain, Intractable	NM	NoData
-Pain, Intractable	NY	NoData
 Pain, Intractable	NC	NoData
 Pain, Intractable	ND	NoData
-Pain, Intractable	OH	NoData
 Pain, Intractable	OK	NoData
 Pain, Intractable	OR	NoData
-Pain, Intractable	PA	NoData
 Pain, Intractable	RI	NoData
 Pain, Intractable	SC	NoData
 Pain, Intractable	SD	NoData
-Pain, Intractable	TN	NoData
-Pain, Intractable	TX	NoData
 Pain, Intractable	UT	NoData
 Pain, Intractable	VT	NoData
 Pain, Intractable	VA	NoData
@@ -1267,7 +1126,6 @@ Language Disorders	KY	NoData
 Language Disorders	LA	NoData
 Language Disorders	ME	NoData
 Language Disorders	MD	NoData
-Language Disorders	MI	NoData
 Language Disorders	MN	NoData
 Language Disorders	MS	NoData
 Language Disorders	MO	NoData
@@ -1285,7 +1143,6 @@ Language Disorders	SD	NoData
 Language Disorders	TN	NoData
 Language Disorders	UT	NoData
 Language Disorders	VT	NoData
-Language Disorders	VA	NoData
 Language Disorders	WA	NoData
 Language Disorders	WV	NoData
 Language Disorders	WI	NoData
@@ -1294,7 +1151,6 @@ Cardiac Output, Low	AL	NoData
 Cardiac Output, Low	AK	NoData
 Cardiac Output, Low	AZ	NoData
 Cardiac Output, Low	AR	NoData
-Cardiac Output, Low	CA	NoData
 Cardiac Output, Low	CO	NoData
 Cardiac Output, Low	CT	NoData
 Cardiac Output, Low	DC	NoData
@@ -1333,7 +1189,6 @@ Cardiac Output, Low	RI	NoData
 Cardiac Output, Low	SC	NoData
 Cardiac Output, Low	SD	NoData
 Cardiac Output, Low	TN	NoData
-Cardiac Output, Low	TX	NoData
 Cardiac Output, Low	UT	NoData
 Cardiac Output, Low	VT	NoData
 Cardiac Output, Low	VA	NoData
@@ -1660,7 +1515,6 @@ Voice Disorders	AL	NoData
 Voice Disorders	AK	NoData
 Voice Disorders	AZ	NoData
 Voice Disorders	AR	NoData
-Voice Disorders	CA	NoData
 Voice Disorders	CO	NoData
 Voice Disorders	CT	NoData
 Voice Disorders	DC	NoData
@@ -1760,12 +1614,10 @@ Purpura, Thrombocytopenic, Idiopathic	AL	NoData
 Purpura, Thrombocytopenic, Idiopathic	AK	NoData
 Purpura, Thrombocytopenic, Idiopathic	AZ	NoData
 Purpura, Thrombocytopenic, Idiopathic	AR	NoData
-Purpura, Thrombocytopenic, Idiopathic	CA	NoData
 Purpura, Thrombocytopenic, Idiopathic	CO	NoData
 Purpura, Thrombocytopenic, Idiopathic	CT	NoData
 Purpura, Thrombocytopenic, Idiopathic	DC	NoData
 Purpura, Thrombocytopenic, Idiopathic	DE	NoData
-Purpura, Thrombocytopenic, Idiopathic	FL	NoData
 Purpura, Thrombocytopenic, Idiopathic	GA	NoData
 Purpura, Thrombocytopenic, Idiopathic	HI	NoData
 Purpura, Thrombocytopenic, Idiopathic	ID	NoData
@@ -1788,18 +1640,15 @@ Purpura, Thrombocytopenic, Idiopathic	NV	NoData
 Purpura, Thrombocytopenic, Idiopathic	NH	NoData
 Purpura, Thrombocytopenic, Idiopathic	NJ	NoData
 Purpura, Thrombocytopenic, Idiopathic	NM	NoData
-Purpura, Thrombocytopenic, Idiopathic	NY	NoData
 Purpura, Thrombocytopenic, Idiopathic	NC	NoData
 Purpura, Thrombocytopenic, Idiopathic	ND	NoData
 Purpura, Thrombocytopenic, Idiopathic	OH	NoData
 Purpura, Thrombocytopenic, Idiopathic	OK	NoData
 Purpura, Thrombocytopenic, Idiopathic	OR	NoData
-Purpura, Thrombocytopenic, Idiopathic	PA	NoData
 Purpura, Thrombocytopenic, Idiopathic	RI	NoData
 Purpura, Thrombocytopenic, Idiopathic	SC	NoData
 Purpura, Thrombocytopenic, Idiopathic	SD	NoData
 Purpura, Thrombocytopenic, Idiopathic	TN	NoData
-Purpura, Thrombocytopenic, Idiopathic	TX	NoData
 Purpura, Thrombocytopenic, Idiopathic	UT	NoData
 Purpura, Thrombocytopenic, Idiopathic	VT	NoData
 Purpura, Thrombocytopenic, Idiopathic	VA	NoData
@@ -1944,7 +1793,6 @@ Purpura, Thrombotic Thrombocytopenic	AL	NoData
 Purpura, Thrombotic Thrombocytopenic	AK	NoData
 Purpura, Thrombotic Thrombocytopenic	AZ	NoData
 Purpura, Thrombotic Thrombocytopenic	AR	NoData
-Purpura, Thrombotic Thrombocytopenic	CA	NoData
 Purpura, Thrombotic Thrombocytopenic	CO	NoData
 Purpura, Thrombotic Thrombocytopenic	CT	NoData
 Purpura, Thrombotic Thrombocytopenic	DC	NoData
@@ -1972,7 +1820,6 @@ Purpura, Thrombotic Thrombocytopenic	NV	NoData
 Purpura, Thrombotic Thrombocytopenic	NH	NoData
 Purpura, Thrombotic Thrombocytopenic	NJ	NoData
 Purpura, Thrombotic Thrombocytopenic	NM	NoData
-Purpura, Thrombotic Thrombocytopenic	NY	NoData
 Purpura, Thrombotic Thrombocytopenic	NC	NoData
 Purpura, Thrombotic Thrombocytopenic	ND	NoData
 Purpura, Thrombotic Thrombocytopenic	OH	NoData
@@ -2032,7 +1879,6 @@ Fever of Unknown Origin	RI	NoData
 Fever of Unknown Origin	SC	NoData
 Fever of Unknown Origin	SD	NoData
 Fever of Unknown Origin	TN	NoData
-Fever of Unknown Origin	TX	NoData
 Fever of Unknown Origin	UT	NoData
 Fever of Unknown Origin	VT	NoData
 Fever of Unknown Origin	VA	NoData
@@ -2322,7 +2168,6 @@ Fetal Distress	CO	NoData
 Fetal Distress	CT	NoData
 Fetal Distress	DC	NoData
 Fetal Distress	DE	NoData
-Fetal Distress	FL	NoData
 Fetal Distress	GA	NoData
 Fetal Distress	HI	NoData
 Fetal Distress	ID	NoData
@@ -2448,51 +2293,35 @@ Skin Manifestations	WI	NoData
 Skin Manifestations	WY	NoData
 Hearing Loss, Conductive	AL	NoData
 Hearing Loss, Conductive	AK	NoData
-Hearing Loss, Conductive	AZ	NoData
 Hearing Loss, Conductive	AR	NoData
-Hearing Loss, Conductive	CA	NoData
 Hearing Loss, Conductive	CO	NoData
 Hearing Loss, Conductive	CT	NoData
 Hearing Loss, Conductive	DC	NoData
 Hearing Loss, Conductive	DE	NoData
-Hearing Loss, Conductive	FL	NoData
-Hearing Loss, Conductive	GA	NoData
 Hearing Loss, Conductive	HI	NoData
 Hearing Loss, Conductive	ID	NoData
-Hearing Loss, Conductive	IL	NoData
-Hearing Loss, Conductive	IN	NoData
 Hearing Loss, Conductive	IA	NoData
 Hearing Loss, Conductive	KS	NoData
-Hearing Loss, Conductive	KY	NoData
 Hearing Loss, Conductive	LA	NoData
 Hearing Loss, Conductive	ME	NoData
 Hearing Loss, Conductive	MD	NoData
-Hearing Loss, Conductive	MA	NoData
 Hearing Loss, Conductive	MI	NoData
 Hearing Loss, Conductive	MN	NoData
 Hearing Loss, Conductive	MS	NoData
-Hearing Loss, Conductive	MO	NoData
 Hearing Loss, Conductive	MT	NoData
 Hearing Loss, Conductive	NE	NoData
 Hearing Loss, Conductive	NV	NoData
 Hearing Loss, Conductive	NH	NoData
-Hearing Loss, Conductive	NJ	NoData
 Hearing Loss, Conductive	NM	NoData
-Hearing Loss, Conductive	NY	NoData
-Hearing Loss, Conductive	NC	NoData
 Hearing Loss, Conductive	ND	NoData
-Hearing Loss, Conductive	OH	NoData
 Hearing Loss, Conductive	OK	NoData
 Hearing Loss, Conductive	OR	NoData
-Hearing Loss, Conductive	PA	NoData
 Hearing Loss, Conductive	RI	NoData
 Hearing Loss, Conductive	SC	NoData
 Hearing Loss, Conductive	SD	NoData
 Hearing Loss, Conductive	TN	NoData
-Hearing Loss, Conductive	TX	NoData
 Hearing Loss, Conductive	UT	NoData
 Hearing Loss, Conductive	VT	NoData
-Hearing Loss, Conductive	VA	NoData
 Hearing Loss, Conductive	WA	NoData
 Hearing Loss, Conductive	WV	NoData
 Hearing Loss, Conductive	WI	NoData
@@ -3257,12 +3086,10 @@ Angina Pectoris, Variant	WV	NoData
 Angina Pectoris, Variant	WI	NoData
 Angina Pectoris, Variant	WY	NoData
 Muscle Cramp	AK	NoData
-Muscle Cramp	AR	NoData
 Muscle Cramp	DC	NoData
 Muscle Cramp	DE	NoData
 Muscle Cramp	HI	NoData
 Muscle Cramp	ID	NoData
-Muscle Cramp	ME	NoData
 Muscle Cramp	MS	NoData
 Muscle Cramp	MT	NoData
 Muscle Cramp	NE	NoData
@@ -3271,7 +3098,6 @@ Muscle Cramp	NM	NoData
 Muscle Cramp	ND	NoData
 Muscle Cramp	RI	NoData
 Muscle Cramp	SD	NoData
-Muscle Cramp	UT	NoData
 Muscle Cramp	VT	NoData
 Muscle Cramp	WV	NoData
 Muscle Cramp	WY	NoData
@@ -3390,56 +3216,23 @@ Consciousness Disorders	WA	NoData
 Consciousness Disorders	WV	NoData
 Consciousness Disorders	WI	NoData
 Consciousness Disorders	WY	NoData
-Vision, Low	AL	NoData
 Vision, Low	AK	NoData
-Vision, Low	AZ	NoData
-Vision, Low	AR	NoData
-Vision, Low	CA	NoData
-Vision, Low	CO	NoData
-Vision, Low	CT	NoData
 Vision, Low	DC	NoData
 Vision, Low	DE	NoData
-Vision, Low	FL	NoData
-Vision, Low	GA	NoData
 Vision, Low	HI	NoData
 Vision, Low	ID	NoData
-Vision, Low	IL	NoData
-Vision, Low	IN	NoData
 Vision, Low	IA	NoData
-Vision, Low	KS	NoData
-Vision, Low	KY	NoData
-Vision, Low	LA	NoData
 Vision, Low	ME	NoData
-Vision, Low	MD	NoData
-Vision, Low	MA	NoData
-Vision, Low	MI	NoData
-Vision, Low	MN	NoData
-Vision, Low	MS	NoData
-Vision, Low	MO	NoData
 Vision, Low	MT	NoData
 Vision, Low	NE	NoData
-Vision, Low	NV	NoData
 Vision, Low	NH	NoData
-Vision, Low	NJ	NoData
 Vision, Low	NM	NoData
-Vision, Low	NY	NoData
-Vision, Low	NC	NoData
 Vision, Low	ND	NoData
-Vision, Low	OH	NoData
-Vision, Low	OK	NoData
-Vision, Low	OR	NoData
-Vision, Low	PA	NoData
 Vision, Low	RI	NoData
-Vision, Low	SC	NoData
 Vision, Low	SD	NoData
-Vision, Low	TN	NoData
-Vision, Low	TX	NoData
 Vision, Low	UT	NoData
 Vision, Low	VT	NoData
-Vision, Low	VA	NoData
-Vision, Low	WA	NoData
 Vision, Low	WV	NoData
-Vision, Low	WI	NoData
 Vision, Low	WY	NoData
 Polyuria	AK	NoData
 Polyuria	VT	NoData
@@ -3469,7 +3262,6 @@ Muscle Rigidity	CO	NoData
 Muscle Rigidity	CT	NoData
 Muscle Rigidity	DC	NoData
 Muscle Rigidity	DE	NoData
-Muscle Rigidity	FL	NoData
 Muscle Rigidity	GA	NoData
 Muscle Rigidity	HI	NoData
 Muscle Rigidity	ID	NoData
@@ -3492,7 +3284,6 @@ Muscle Rigidity	NV	NoData
 Muscle Rigidity	NH	NoData
 Muscle Rigidity	NJ	NoData
 Muscle Rigidity	NM	NoData
-Muscle Rigidity	NY	NoData
 Muscle Rigidity	NC	NoData
 Muscle Rigidity	ND	NoData
 Muscle Rigidity	OH	NoData
@@ -3514,12 +3305,10 @@ Supranuclear Palsy, Progressive	AL	NoData
 Supranuclear Palsy, Progressive	AK	NoData
 Supranuclear Palsy, Progressive	AZ	NoData
 Supranuclear Palsy, Progressive	AR	NoData
-Supranuclear Palsy, Progressive	CA	NoData
 Supranuclear Palsy, Progressive	CO	NoData
 Supranuclear Palsy, Progressive	CT	NoData
 Supranuclear Palsy, Progressive	DC	NoData
 Supranuclear Palsy, Progressive	DE	NoData
-Supranuclear Palsy, Progressive	FL	NoData
 Supranuclear Palsy, Progressive	GA	NoData
 Supranuclear Palsy, Progressive	HI	NoData
 Supranuclear Palsy, Progressive	ID	NoData
@@ -3531,7 +3320,6 @@ Supranuclear Palsy, Progressive	KY	NoData
 Supranuclear Palsy, Progressive	LA	NoData
 Supranuclear Palsy, Progressive	ME	NoData
 Supranuclear Palsy, Progressive	MD	NoData
-Supranuclear Palsy, Progressive	MA	NoData
 Supranuclear Palsy, Progressive	MI	NoData
 Supranuclear Palsy, Progressive	MN	NoData
 Supranuclear Palsy, Progressive	MS	NoData
@@ -3542,7 +3330,6 @@ Supranuclear Palsy, Progressive	NV	NoData
 Supranuclear Palsy, Progressive	NH	NoData
 Supranuclear Palsy, Progressive	NJ	NoData
 Supranuclear Palsy, Progressive	NM	NoData
-Supranuclear Palsy, Progressive	NY	NoData
 Supranuclear Palsy, Progressive	NC	NoData
 Supranuclear Palsy, Progressive	ND	NoData
 Supranuclear Palsy, Progressive	OH	NoData
@@ -3553,7 +3340,6 @@ Supranuclear Palsy, Progressive	RI	NoData
 Supranuclear Palsy, Progressive	SC	NoData
 Supranuclear Palsy, Progressive	SD	NoData
 Supranuclear Palsy, Progressive	TN	NoData
-Supranuclear Palsy, Progressive	TX	NoData
 Supranuclear Palsy, Progressive	UT	NoData
 Supranuclear Palsy, Progressive	VT	NoData
 Supranuclear Palsy, Progressive	VA	NoData
@@ -3600,12 +3386,10 @@ Hearing Loss, Bilateral	AL	NoData
 Hearing Loss, Bilateral	AK	NoData
 Hearing Loss, Bilateral	AZ	NoData
 Hearing Loss, Bilateral	AR	NoData
-Hearing Loss, Bilateral	CA	NoData
 Hearing Loss, Bilateral	CO	NoData
 Hearing Loss, Bilateral	CT	NoData
 Hearing Loss, Bilateral	DC	NoData
 Hearing Loss, Bilateral	DE	NoData
-Hearing Loss, Bilateral	FL	NoData
 Hearing Loss, Bilateral	GA	NoData
 Hearing Loss, Bilateral	HI	NoData
 Hearing Loss, Bilateral	ID	NoData
@@ -3628,7 +3412,6 @@ Hearing Loss, Bilateral	NV	NoData
 Hearing Loss, Bilateral	NH	NoData
 Hearing Loss, Bilateral	NJ	NoData
 Hearing Loss, Bilateral	NM	NoData
-Hearing Loss, Bilateral	NY	NoData
 Hearing Loss, Bilateral	NC	NoData
 Hearing Loss, Bilateral	ND	NoData
 Hearing Loss, Bilateral	OH	NoData
@@ -3639,7 +3422,6 @@ Hearing Loss, Bilateral	RI	NoData
 Hearing Loss, Bilateral	SC	NoData
 Hearing Loss, Bilateral	SD	NoData
 Hearing Loss, Bilateral	TN	NoData
-Hearing Loss, Bilateral	TX	NoData
 Hearing Loss, Bilateral	UT	NoData
 Hearing Loss, Bilateral	VT	NoData
 Hearing Loss, Bilateral	VA	NoData
@@ -3813,16 +3595,13 @@ Hearing Loss, Sudden	AL	NoData
 Hearing Loss, Sudden	AK	NoData
 Hearing Loss, Sudden	AZ	NoData
 Hearing Loss, Sudden	AR	NoData
-Hearing Loss, Sudden	CA	NoData
 Hearing Loss, Sudden	CO	NoData
 Hearing Loss, Sudden	CT	NoData
 Hearing Loss, Sudden	DC	NoData
 Hearing Loss, Sudden	DE	NoData
-Hearing Loss, Sudden	FL	NoData
 Hearing Loss, Sudden	GA	NoData
 Hearing Loss, Sudden	HI	NoData
 Hearing Loss, Sudden	ID	NoData
-Hearing Loss, Sudden	IL	NoData
 Hearing Loss, Sudden	IN	NoData
 Hearing Loss, Sudden	IA	NoData
 Hearing Loss, Sudden	KS	NoData
@@ -3831,7 +3610,6 @@ Hearing Loss, Sudden	LA	NoData
 Hearing Loss, Sudden	ME	NoData
 Hearing Loss, Sudden	MD	NoData
 Hearing Loss, Sudden	MA	NoData
-Hearing Loss, Sudden	MI	NoData
 Hearing Loss, Sudden	MN	NoData
 Hearing Loss, Sudden	MS	NoData
 Hearing Loss, Sudden	MO	NoData
@@ -3841,21 +3619,16 @@ Hearing Loss, Sudden	NV	NoData
 Hearing Loss, Sudden	NH	NoData
 Hearing Loss, Sudden	NJ	NoData
 Hearing Loss, Sudden	NM	NoData
-Hearing Loss, Sudden	NY	NoData
 Hearing Loss, Sudden	NC	NoData
 Hearing Loss, Sudden	ND	NoData
-Hearing Loss, Sudden	OH	NoData
 Hearing Loss, Sudden	OK	NoData
 Hearing Loss, Sudden	OR	NoData
-Hearing Loss, Sudden	PA	NoData
 Hearing Loss, Sudden	RI	NoData
 Hearing Loss, Sudden	SC	NoData
 Hearing Loss, Sudden	SD	NoData
 Hearing Loss, Sudden	TN	NoData
-Hearing Loss, Sudden	TX	NoData
 Hearing Loss, Sudden	UT	NoData
 Hearing Loss, Sudden	VT	NoData
-Hearing Loss, Sudden	VA	NoData
 Hearing Loss, Sudden	WA	NoData
 Hearing Loss, Sudden	WV	NoData
 Hearing Loss, Sudden	WI	NoData
@@ -3999,12 +3772,10 @@ Aphasia, Broca	AL	NoData
 Aphasia, Broca	AK	NoData
 Aphasia, Broca	AZ	NoData
 Aphasia, Broca	AR	NoData
-Aphasia, Broca	CA	NoData
 Aphasia, Broca	CO	NoData
 Aphasia, Broca	CT	NoData
 Aphasia, Broca	DC	NoData
 Aphasia, Broca	DE	NoData
-Aphasia, Broca	FL	NoData
 Aphasia, Broca	GA	NoData
 Aphasia, Broca	HI	NoData
 Aphasia, Broca	ID	NoData
@@ -4098,7 +3869,6 @@ Articulation Disorders	WV	NoData
 Articulation Disorders	WI	NoData
 Articulation Disorders	WY	NoData
 Communication Disorders	AK	NoData
-Communication Disorders	AR	NoData
 Communication Disorders	CO	NoData
 Communication Disorders	DC	NoData
 Communication Disorders	DE	NoData
@@ -4108,7 +3878,6 @@ Communication Disorders	IA	NoData
 Communication Disorders	KS	NoData
 Communication Disorders	ME	NoData
 Communication Disorders	MD	NoData
-Communication Disorders	MS	NoData
 Communication Disorders	MT	NoData
 Communication Disorders	NE	NoData
 Communication Disorders	NV	NoData
@@ -4121,7 +3890,6 @@ Communication Disorders	RI	NoData
 Communication Disorders	SC	NoData
 Communication Disorders	SD	NoData
 Communication Disorders	VT	NoData
-Communication Disorders	VA	NoData
 Communication Disorders	WA	NoData
 Communication Disorders	WV	NoData
 Communication Disorders	WY	NoData
@@ -4132,56 +3900,20 @@ Asthenia	MT	NoData
 Asthenia	ND	NoData
 Asthenia	VT	NoData
 Asthenia	WY	NoData
-Syncope, Vasovagal	AL	NoData
 Syncope, Vasovagal	AK	NoData
-Syncope, Vasovagal	AZ	NoData
 Syncope, Vasovagal	AR	NoData
-Syncope, Vasovagal	CA	NoData
-Syncope, Vasovagal	CO	NoData
-Syncope, Vasovagal	CT	NoData
 Syncope, Vasovagal	DC	NoData
 Syncope, Vasovagal	DE	NoData
-Syncope, Vasovagal	FL	NoData
-Syncope, Vasovagal	GA	NoData
 Syncope, Vasovagal	HI	NoData
 Syncope, Vasovagal	ID	NoData
-Syncope, Vasovagal	IL	NoData
-Syncope, Vasovagal	IN	NoData
-Syncope, Vasovagal	IA	NoData
-Syncope, Vasovagal	KS	NoData
-Syncope, Vasovagal	KY	NoData
-Syncope, Vasovagal	LA	NoData
 Syncope, Vasovagal	ME	NoData
-Syncope, Vasovagal	MD	NoData
-Syncope, Vasovagal	MA	NoData
-Syncope, Vasovagal	MI	NoData
-Syncope, Vasovagal	MN	NoData
-Syncope, Vasovagal	MS	NoData
-Syncope, Vasovagal	MO	NoData
 Syncope, Vasovagal	MT	NoData
-Syncope, Vasovagal	NE	NoData
-Syncope, Vasovagal	NV	NoData
 Syncope, Vasovagal	NH	NoData
-Syncope, Vasovagal	NJ	NoData
 Syncope, Vasovagal	NM	NoData
-Syncope, Vasovagal	NY	NoData
-Syncope, Vasovagal	NC	NoData
 Syncope, Vasovagal	ND	NoData
-Syncope, Vasovagal	OH	NoData
-Syncope, Vasovagal	OK	NoData
-Syncope, Vasovagal	OR	NoData
-Syncope, Vasovagal	PA	NoData
 Syncope, Vasovagal	RI	NoData
-Syncope, Vasovagal	SC	NoData
 Syncope, Vasovagal	SD	NoData
-Syncope, Vasovagal	TN	NoData
-Syncope, Vasovagal	TX	NoData
-Syncope, Vasovagal	UT	NoData
 Syncope, Vasovagal	VT	NoData
-Syncope, Vasovagal	VA	NoData
-Syncope, Vasovagal	WA	NoData
-Syncope, Vasovagal	WV	NoData
-Syncope, Vasovagal	WI	NoData
 Syncope, Vasovagal	WY	NoData
 Athetosis	AL	NoData
 Athetosis	AK	NoData
@@ -4507,7 +4239,6 @@ Fetal Weight	MT	NoData
 Fetal Weight	NE	NoData
 Fetal Weight	NV	NoData
 Fetal Weight	NH	NoData
-Fetal Weight	NJ	NoData
 Fetal Weight	NM	NoData
 Fetal Weight	ND	NoData
 Fetal Weight	OK	NoData
@@ -4515,7 +4246,6 @@ Fetal Weight	OR	NoData
 Fetal Weight	RI	NoData
 Fetal Weight	SC	NoData
 Fetal Weight	SD	NoData
-Fetal Weight	TN	NoData
 Fetal Weight	UT	NoData
 Fetal Weight	VT	NoData
 Fetal Weight	WA	NoData
@@ -4533,7 +4263,6 @@ Mental Fatigue	DE	NoData
 Mental Fatigue	GA	NoData
 Mental Fatigue	HI	NoData
 Mental Fatigue	ID	NoData
-Mental Fatigue	IL	NoData
 Mental Fatigue	IN	NoData
 Mental Fatigue	IA	NoData
 Mental Fatigue	KS	NoData
@@ -4850,7 +4579,6 @@ Aphasia, Wernicke	AL	NoData
 Aphasia, Wernicke	AK	NoData
 Aphasia, Wernicke	AZ	NoData
 Aphasia, Wernicke	AR	NoData
-Aphasia, Wernicke	CA	NoData
 Aphasia, Wernicke	CO	NoData
 Aphasia, Wernicke	CT	NoData
 Aphasia, Wernicke	DC	NoData
@@ -4974,16 +4702,12 @@ Amnesia, Retrograde	AL	NoData
 Amnesia, Retrograde	AK	NoData
 Amnesia, Retrograde	AZ	NoData
 Amnesia, Retrograde	AR	NoData
-Amnesia, Retrograde	CA	NoData
 Amnesia, Retrograde	CO	NoData
 Amnesia, Retrograde	CT	NoData
 Amnesia, Retrograde	DC	NoData
 Amnesia, Retrograde	DE	NoData
-Amnesia, Retrograde	FL	NoData
-Amnesia, Retrograde	GA	NoData
 Amnesia, Retrograde	HI	NoData
 Amnesia, Retrograde	ID	NoData
-Amnesia, Retrograde	IL	NoData
 Amnesia, Retrograde	IN	NoData
 Amnesia, Retrograde	IA	NoData
 Amnesia, Retrograde	KS	NoData
@@ -4992,28 +4716,21 @@ Amnesia, Retrograde	LA	NoData
 Amnesia, Retrograde	ME	NoData
 Amnesia, Retrograde	MD	NoData
 Amnesia, Retrograde	MA	NoData
-Amnesia, Retrograde	MI	NoData
 Amnesia, Retrograde	MN	NoData
 Amnesia, Retrograde	MS	NoData
-Amnesia, Retrograde	MO	NoData
 Amnesia, Retrograde	MT	NoData
 Amnesia, Retrograde	NE	NoData
 Amnesia, Retrograde	NV	NoData
 Amnesia, Retrograde	NH	NoData
-Amnesia, Retrograde	NJ	NoData
 Amnesia, Retrograde	NM	NoData
-Amnesia, Retrograde	NY	NoData
-Amnesia, Retrograde	NC	NoData
 Amnesia, Retrograde	ND	NoData
 Amnesia, Retrograde	OH	NoData
 Amnesia, Retrograde	OK	NoData
 Amnesia, Retrograde	OR	NoData
-Amnesia, Retrograde	PA	NoData
 Amnesia, Retrograde	RI	NoData
 Amnesia, Retrograde	SC	NoData
 Amnesia, Retrograde	SD	NoData
 Amnesia, Retrograde	TN	NoData
-Amnesia, Retrograde	TX	NoData
 Amnesia, Retrograde	UT	NoData
 Amnesia, Retrograde	VT	NoData
 Amnesia, Retrograde	VA	NoData
@@ -5106,7 +4823,6 @@ Muscle Hypertonia	WI	NoData
 Muscle Hypertonia	WY	NoData
 Eye Hemorrhage	AL	NoData
 Eye Hemorrhage	AK	NoData
-Eye Hemorrhage	AZ	NoData
 Eye Hemorrhage	AR	NoData
 Eye Hemorrhage	CO	NoData
 Eye Hemorrhage	CT	NoData
@@ -5137,7 +4853,6 @@ Eye Hemorrhage	TN	NoData
 Eye Hemorrhage	UT	NoData
 Eye Hemorrhage	VT	NoData
 Eye Hemorrhage	WV	NoData
-Eye Hemorrhage	WI	NoData
 Eye Hemorrhage	WY	NoData
 Hypocapnia	AK	NoData
 Hypocapnia	AR	NoData
@@ -5281,56 +4996,33 @@ Hemifacial Spasm	WA	NoData
 Hemifacial Spasm	WV	NoData
 Hemifacial Spasm	WI	NoData
 Hemifacial Spasm	WY	NoData
-Cheyne-Stokes Respiration	AL	NoData
 Cheyne-Stokes Respiration	AK	NoData
-Cheyne-Stokes Respiration	AZ	NoData
 Cheyne-Stokes Respiration	AR	NoData
-Cheyne-Stokes Respiration	CA	NoData
-Cheyne-Stokes Respiration	CO	NoData
 Cheyne-Stokes Respiration	CT	NoData
 Cheyne-Stokes Respiration	DC	NoData
 Cheyne-Stokes Respiration	DE	NoData
-Cheyne-Stokes Respiration	FL	NoData
-Cheyne-Stokes Respiration	GA	NoData
 Cheyne-Stokes Respiration	HI	NoData
 Cheyne-Stokes Respiration	ID	NoData
-Cheyne-Stokes Respiration	IL	NoData
-Cheyne-Stokes Respiration	IN	NoData
 Cheyne-Stokes Respiration	IA	NoData
 Cheyne-Stokes Respiration	KS	NoData
 Cheyne-Stokes Respiration	KY	NoData
 Cheyne-Stokes Respiration	LA	NoData
 Cheyne-Stokes Respiration	ME	NoData
 Cheyne-Stokes Respiration	MD	NoData
-Cheyne-Stokes Respiration	MA	NoData
-Cheyne-Stokes Respiration	MI	NoData
-Cheyne-Stokes Respiration	MN	NoData
 Cheyne-Stokes Respiration	MS	NoData
-Cheyne-Stokes Respiration	MO	NoData
 Cheyne-Stokes Respiration	MT	NoData
 Cheyne-Stokes Respiration	NE	NoData
 Cheyne-Stokes Respiration	NV	NoData
 Cheyne-Stokes Respiration	NH	NoData
-Cheyne-Stokes Respiration	NJ	NoData
 Cheyne-Stokes Respiration	NM	NoData
-Cheyne-Stokes Respiration	NY	NoData
-Cheyne-Stokes Respiration	NC	NoData
 Cheyne-Stokes Respiration	ND	NoData
-Cheyne-Stokes Respiration	OH	NoData
 Cheyne-Stokes Respiration	OK	NoData
-Cheyne-Stokes Respiration	OR	NoData
-Cheyne-Stokes Respiration	PA	NoData
 Cheyne-Stokes Respiration	RI	NoData
 Cheyne-Stokes Respiration	SC	NoData
 Cheyne-Stokes Respiration	SD	NoData
-Cheyne-Stokes Respiration	TN	NoData
-Cheyne-Stokes Respiration	TX	NoData
 Cheyne-Stokes Respiration	UT	NoData
 Cheyne-Stokes Respiration	VT	NoData
-Cheyne-Stokes Respiration	VA	NoData
-Cheyne-Stokes Respiration	WA	NoData
 Cheyne-Stokes Respiration	WV	NoData
-Cheyne-Stokes Respiration	WI	NoData
 Cheyne-Stokes Respiration	WY	NoData
 Fasciculation	AK	NoData
 Fasciculation	AR	NoData
@@ -5361,7 +5053,6 @@ Aging, Premature	AL	NoData
 Aging, Premature	AK	NoData
 Aging, Premature	AZ	NoData
 Aging, Premature	AR	NoData
-Aging, Premature	CA	NoData
 Aging, Premature	CO	NoData
 Aging, Premature	CT	NoData
 Aging, Premature	DC	NoData
@@ -5400,7 +5091,6 @@ Aging, Premature	RI	NoData
 Aging, Premature	SC	NoData
 Aging, Premature	SD	NoData
 Aging, Premature	TN	NoData
-Aging, Premature	TX	NoData
 Aging, Premature	UT	NoData
 Aging, Premature	VT	NoData
 Aging, Premature	VA	NoData
@@ -5494,13 +5184,10 @@ Edema, Cardiac	AL	NoData
 Edema, Cardiac	AK	NoData
 Edema, Cardiac	AZ	NoData
 Edema, Cardiac	AR	NoData
-Edema, Cardiac	CA	NoData
 Edema, Cardiac	CO	NoData
 Edema, Cardiac	CT	NoData
 Edema, Cardiac	DC	NoData
 Edema, Cardiac	DE	NoData
-Edema, Cardiac	FL	NoData
-Edema, Cardiac	GA	NoData
 Edema, Cardiac	HI	NoData
 Edema, Cardiac	ID	NoData
 Edema, Cardiac	IL	NoData
@@ -5522,7 +5209,6 @@ Edema, Cardiac	NV	NoData
 Edema, Cardiac	NH	NoData
 Edema, Cardiac	NJ	NoData
 Edema, Cardiac	NM	NoData
-Edema, Cardiac	NY	NoData
 Edema, Cardiac	NC	NoData
 Edema, Cardiac	ND	NoData
 Edema, Cardiac	OH	NoData
@@ -5533,7 +5219,6 @@ Edema, Cardiac	RI	NoData
 Edema, Cardiac	SC	NoData
 Edema, Cardiac	SD	NoData
 Edema, Cardiac	TN	NoData
-Edema, Cardiac	TX	NoData
 Edema, Cardiac	UT	NoData
 Edema, Cardiac	VT	NoData
 Edema, Cardiac	VA	NoData
@@ -5544,7 +5229,6 @@ Edema, Cardiac	WY	NoData
 Labor Pain	AK	NoData
 Labor Pain	DC	NoData
 Labor Pain	DE	NoData
-Labor Pain	HI	NoData
 Labor Pain	ME	NoData
 Labor Pain	MT	NoData
 Labor Pain	NH	NoData
@@ -5557,16 +5241,12 @@ Neuralgia, Postherpetic	AL	NoData
 Neuralgia, Postherpetic	AK	NoData
 Neuralgia, Postherpetic	AZ	NoData
 Neuralgia, Postherpetic	AR	NoData
-Neuralgia, Postherpetic	CA	NoData
 Neuralgia, Postherpetic	CO	NoData
 Neuralgia, Postherpetic	CT	NoData
 Neuralgia, Postherpetic	DC	NoData
 Neuralgia, Postherpetic	DE	NoData
-Neuralgia, Postherpetic	FL	NoData
-Neuralgia, Postherpetic	GA	NoData
 Neuralgia, Postherpetic	HI	NoData
 Neuralgia, Postherpetic	ID	NoData
-Neuralgia, Postherpetic	IL	NoData
 Neuralgia, Postherpetic	IN	NoData
 Neuralgia, Postherpetic	IA	NoData
 Neuralgia, Postherpetic	KS	NoData
@@ -5574,8 +5254,6 @@ Neuralgia, Postherpetic	KY	NoData
 Neuralgia, Postherpetic	LA	NoData
 Neuralgia, Postherpetic	ME	NoData
 Neuralgia, Postherpetic	MD	NoData
-Neuralgia, Postherpetic	MA	NoData
-Neuralgia, Postherpetic	MI	NoData
 Neuralgia, Postherpetic	MN	NoData
 Neuralgia, Postherpetic	MS	NoData
 Neuralgia, Postherpetic	MO	NoData
@@ -5583,23 +5261,16 @@ Neuralgia, Postherpetic	MT	NoData
 Neuralgia, Postherpetic	NE	NoData
 Neuralgia, Postherpetic	NV	NoData
 Neuralgia, Postherpetic	NH	NoData
-Neuralgia, Postherpetic	NJ	NoData
 Neuralgia, Postherpetic	NM	NoData
-Neuralgia, Postherpetic	NY	NoData
-Neuralgia, Postherpetic	NC	NoData
 Neuralgia, Postherpetic	ND	NoData
-Neuralgia, Postherpetic	OH	NoData
 Neuralgia, Postherpetic	OK	NoData
 Neuralgia, Postherpetic	OR	NoData
-Neuralgia, Postherpetic	PA	NoData
 Neuralgia, Postherpetic	RI	NoData
 Neuralgia, Postherpetic	SC	NoData
 Neuralgia, Postherpetic	SD	NoData
 Neuralgia, Postherpetic	TN	NoData
-Neuralgia, Postherpetic	TX	NoData
 Neuralgia, Postherpetic	UT	NoData
 Neuralgia, Postherpetic	VT	NoData
-Neuralgia, Postherpetic	VA	NoData
 Neuralgia, Postherpetic	WA	NoData
 Neuralgia, Postherpetic	WV	NoData
 Neuralgia, Postherpetic	WI	NoData
@@ -5632,7 +5303,6 @@ Waterhouse-Friderichsen Syndrome	NV	NoData
 Waterhouse-Friderichsen Syndrome	NH	NoData
 Waterhouse-Friderichsen Syndrome	NJ	NoData
 Waterhouse-Friderichsen Syndrome	NM	NoData
-Waterhouse-Friderichsen Syndrome	NY	NoData
 Waterhouse-Friderichsen Syndrome	NC	NoData
 Waterhouse-Friderichsen Syndrome	ND	NoData
 Waterhouse-Friderichsen Syndrome	OH	NoData
@@ -5959,7 +5629,6 @@ Gait Ataxia	CO	NoData
 Gait Ataxia	CT	NoData
 Gait Ataxia	DC	NoData
 Gait Ataxia	DE	NoData
-Gait Ataxia	FL	NoData
 Gait Ataxia	GA	NoData
 Gait Ataxia	HI	NoData
 Gait Ataxia	ID	NoData
@@ -6004,16 +5673,12 @@ Dyspnea, Paroxysmal	AL	NoData
 Dyspnea, Paroxysmal	AK	NoData
 Dyspnea, Paroxysmal	AZ	NoData
 Dyspnea, Paroxysmal	AR	NoData
-Dyspnea, Paroxysmal	CA	NoData
 Dyspnea, Paroxysmal	CO	NoData
 Dyspnea, Paroxysmal	CT	NoData
 Dyspnea, Paroxysmal	DC	NoData
 Dyspnea, Paroxysmal	DE	NoData
-Dyspnea, Paroxysmal	FL	NoData
-Dyspnea, Paroxysmal	GA	NoData
 Dyspnea, Paroxysmal	HI	NoData
 Dyspnea, Paroxysmal	ID	NoData
-Dyspnea, Paroxysmal	IL	NoData
 Dyspnea, Paroxysmal	IN	NoData
 Dyspnea, Paroxysmal	IA	NoData
 Dyspnea, Paroxysmal	KS	NoData
@@ -6032,18 +5697,13 @@ Dyspnea, Paroxysmal	NV	NoData
 Dyspnea, Paroxysmal	NH	NoData
 Dyspnea, Paroxysmal	NJ	NoData
 Dyspnea, Paroxysmal	NM	NoData
-Dyspnea, Paroxysmal	NY	NoData
-Dyspnea, Paroxysmal	NC	NoData
 Dyspnea, Paroxysmal	ND	NoData
 Dyspnea, Paroxysmal	OH	NoData
 Dyspnea, Paroxysmal	OK	NoData
 Dyspnea, Paroxysmal	OR	NoData
-Dyspnea, Paroxysmal	PA	NoData
 Dyspnea, Paroxysmal	RI	NoData
 Dyspnea, Paroxysmal	SC	NoData
 Dyspnea, Paroxysmal	SD	NoData
-Dyspnea, Paroxysmal	TN	NoData
-Dyspnea, Paroxysmal	TX	NoData
 Dyspnea, Paroxysmal	UT	NoData
 Dyspnea, Paroxysmal	VT	NoData
 Dyspnea, Paroxysmal	VA	NoData
@@ -6061,56 +5721,28 @@ Flank Pain	ND	NoData
 Flank Pain	SD	NoData
 Flank Pain	VT	NoData
 Flank Pain	WY	NoData
-Reflex, Babinski	AL	NoData
 Reflex, Babinski	AK	NoData
-Reflex, Babinski	AZ	NoData
 Reflex, Babinski	AR	NoData
-Reflex, Babinski	CA	NoData
-Reflex, Babinski	CO	NoData
-Reflex, Babinski	CT	NoData
 Reflex, Babinski	DC	NoData
 Reflex, Babinski	DE	NoData
-Reflex, Babinski	FL	NoData
-Reflex, Babinski	GA	NoData
 Reflex, Babinski	HI	NoData
 Reflex, Babinski	ID	NoData
-Reflex, Babinski	IL	NoData
-Reflex, Babinski	IN	NoData
-Reflex, Babinski	IA	NoData
-Reflex, Babinski	KS	NoData
-Reflex, Babinski	KY	NoData
 Reflex, Babinski	LA	NoData
 Reflex, Babinski	ME	NoData
-Reflex, Babinski	MD	NoData
-Reflex, Babinski	MA	NoData
-Reflex, Babinski	MI	NoData
-Reflex, Babinski	MN	NoData
 Reflex, Babinski	MS	NoData
-Reflex, Babinski	MO	NoData
 Reflex, Babinski	MT	NoData
 Reflex, Babinski	NE	NoData
 Reflex, Babinski	NV	NoData
 Reflex, Babinski	NH	NoData
-Reflex, Babinski	NJ	NoData
 Reflex, Babinski	NM	NoData
-Reflex, Babinski	NY	NoData
-Reflex, Babinski	NC	NoData
 Reflex, Babinski	ND	NoData
-Reflex, Babinski	OH	NoData
 Reflex, Babinski	OK	NoData
 Reflex, Babinski	OR	NoData
-Reflex, Babinski	PA	NoData
 Reflex, Babinski	RI	NoData
-Reflex, Babinski	SC	NoData
 Reflex, Babinski	SD	NoData
-Reflex, Babinski	TN	NoData
-Reflex, Babinski	TX	NoData
 Reflex, Babinski	UT	NoData
 Reflex, Babinski	VT	NoData
-Reflex, Babinski	VA	NoData
-Reflex, Babinski	WA	NoData
 Reflex, Babinski	WV	NoData
-Reflex, Babinski	WI	NoData
 Reflex, Babinski	WY	NoData
 Paraparesis, Spastic	AL	NoData
 Paraparesis, Spastic	AK	NoData
@@ -6215,56 +5847,31 @@ Korsakoff Syndrome	SD	NoData
 Korsakoff Syndrome	VT	NoData
 Korsakoff Syndrome	WV	NoData
 Korsakoff Syndrome	WY	NoData
-Cafe-au-Lait Spots	AL	NoData
 Cafe-au-Lait Spots	AK	NoData
-Cafe-au-Lait Spots	AZ	NoData
 Cafe-au-Lait Spots	AR	NoData
-Cafe-au-Lait Spots	CA	NoData
-Cafe-au-Lait Spots	CO	NoData
 Cafe-au-Lait Spots	CT	NoData
 Cafe-au-Lait Spots	DC	NoData
 Cafe-au-Lait Spots	DE	NoData
-Cafe-au-Lait Spots	FL	NoData
-Cafe-au-Lait Spots	GA	NoData
 Cafe-au-Lait Spots	HI	NoData
 Cafe-au-Lait Spots	ID	NoData
-Cafe-au-Lait Spots	IL	NoData
-Cafe-au-Lait Spots	IN	NoData
 Cafe-au-Lait Spots	IA	NoData
 Cafe-au-Lait Spots	KS	NoData
-Cafe-au-Lait Spots	KY	NoData
 Cafe-au-Lait Spots	LA	NoData
 Cafe-au-Lait Spots	ME	NoData
-Cafe-au-Lait Spots	MD	NoData
-Cafe-au-Lait Spots	MA	NoData
-Cafe-au-Lait Spots	MI	NoData
-Cafe-au-Lait Spots	MN	NoData
 Cafe-au-Lait Spots	MS	NoData
-Cafe-au-Lait Spots	MO	NoData
 Cafe-au-Lait Spots	MT	NoData
 Cafe-au-Lait Spots	NE	NoData
 Cafe-au-Lait Spots	NV	NoData
 Cafe-au-Lait Spots	NH	NoData
-Cafe-au-Lait Spots	NJ	NoData
 Cafe-au-Lait Spots	NM	NoData
-Cafe-au-Lait Spots	NY	NoData
-Cafe-au-Lait Spots	NC	NoData
 Cafe-au-Lait Spots	ND	NoData
-Cafe-au-Lait Spots	OH	NoData
 Cafe-au-Lait Spots	OK	NoData
 Cafe-au-Lait Spots	OR	NoData
-Cafe-au-Lait Spots	PA	NoData
 Cafe-au-Lait Spots	RI	NoData
-Cafe-au-Lait Spots	SC	NoData
 Cafe-au-Lait Spots	SD	NoData
-Cafe-au-Lait Spots	TN	NoData
-Cafe-au-Lait Spots	TX	NoData
 Cafe-au-Lait Spots	UT	NoData
 Cafe-au-Lait Spots	VT	NoData
-Cafe-au-Lait Spots	VA	NoData
-Cafe-au-Lait Spots	WA	NoData
 Cafe-au-Lait Spots	WV	NoData
-Cafe-au-Lait Spots	WI	NoData
 Cafe-au-Lait Spots	WY	NoData
 Nocturia	AK	NoData
 Nocturia	MT	NoData
@@ -6276,7 +5883,6 @@ Aphasia, Primary Progressive	AL	NoData
 Aphasia, Primary Progressive	AK	NoData
 Aphasia, Primary Progressive	AZ	NoData
 Aphasia, Primary Progressive	AR	NoData
-Aphasia, Primary Progressive	CA	NoData
 Aphasia, Primary Progressive	CO	NoData
 Aphasia, Primary Progressive	CT	NoData
 Aphasia, Primary Progressive	DC	NoData
@@ -6304,7 +5910,6 @@ Aphasia, Primary Progressive	NV	NoData
 Aphasia, Primary Progressive	NH	NoData
 Aphasia, Primary Progressive	NJ	NoData
 Aphasia, Primary Progressive	NM	NoData
-Aphasia, Primary Progressive	NY	NoData
 Aphasia, Primary Progressive	NC	NoData
 Aphasia, Primary Progressive	ND	NoData
 Aphasia, Primary Progressive	OH	NoData
@@ -6315,7 +5920,6 @@ Aphasia, Primary Progressive	RI	NoData
 Aphasia, Primary Progressive	SC	NoData
 Aphasia, Primary Progressive	SD	NoData
 Aphasia, Primary Progressive	TN	NoData
-Aphasia, Primary Progressive	TX	NoData
 Aphasia, Primary Progressive	UT	NoData
 Aphasia, Primary Progressive	VT	NoData
 Aphasia, Primary Progressive	VA	NoData
@@ -6327,7 +5931,6 @@ Hearing Loss, Unilateral	AL	NoData
 Hearing Loss, Unilateral	AK	NoData
 Hearing Loss, Unilateral	AZ	NoData
 Hearing Loss, Unilateral	AR	NoData
-Hearing Loss, Unilateral	CA	NoData
 Hearing Loss, Unilateral	CO	NoData
 Hearing Loss, Unilateral	CT	NoData
 Hearing Loss, Unilateral	DC	NoData
@@ -6654,16 +6257,13 @@ Amnesia, Transient Global	AL	NoData
 Amnesia, Transient Global	AK	NoData
 Amnesia, Transient Global	AZ	NoData
 Amnesia, Transient Global	AR	NoData
-Amnesia, Transient Global	CA	NoData
 Amnesia, Transient Global	CO	NoData
 Amnesia, Transient Global	CT	NoData
 Amnesia, Transient Global	DC	NoData
 Amnesia, Transient Global	DE	NoData
-Amnesia, Transient Global	FL	NoData
 Amnesia, Transient Global	GA	NoData
 Amnesia, Transient Global	HI	NoData
 Amnesia, Transient Global	ID	NoData
-Amnesia, Transient Global	IL	NoData
 Amnesia, Transient Global	IN	NoData
 Amnesia, Transient Global	IA	NoData
 Amnesia, Transient Global	KS	NoData
@@ -6671,8 +6271,6 @@ Amnesia, Transient Global	KY	NoData
 Amnesia, Transient Global	LA	NoData
 Amnesia, Transient Global	ME	NoData
 Amnesia, Transient Global	MD	NoData
-Amnesia, Transient Global	MA	NoData
-Amnesia, Transient Global	MI	NoData
 Amnesia, Transient Global	MN	NoData
 Amnesia, Transient Global	MS	NoData
 Amnesia, Transient Global	MO	NoData
@@ -6680,40 +6278,30 @@ Amnesia, Transient Global	MT	NoData
 Amnesia, Transient Global	NE	NoData
 Amnesia, Transient Global	NV	NoData
 Amnesia, Transient Global	NH	NoData
-Amnesia, Transient Global	NJ	NoData
 Amnesia, Transient Global	NM	NoData
-Amnesia, Transient Global	NY	NoData
 Amnesia, Transient Global	NC	NoData
 Amnesia, Transient Global	ND	NoData
-Amnesia, Transient Global	OH	NoData
 Amnesia, Transient Global	OK	NoData
 Amnesia, Transient Global	OR	NoData
-Amnesia, Transient Global	PA	NoData
 Amnesia, Transient Global	RI	NoData
 Amnesia, Transient Global	SC	NoData
 Amnesia, Transient Global	SD	NoData
 Amnesia, Transient Global	TN	NoData
-Amnesia, Transient Global	TX	NoData
 Amnesia, Transient Global	UT	NoData
 Amnesia, Transient Global	VT	NoData
-Amnesia, Transient Global	VA	NoData
 Amnesia, Transient Global	WA	NoData
 Amnesia, Transient Global	WV	NoData
 Amnesia, Transient Global	WI	NoData
 Amnesia, Transient Global	WY	NoData
 Brown-Sequard Syndrome	AL	NoData
 Brown-Sequard Syndrome	AK	NoData
-Brown-Sequard Syndrome	AZ	NoData
 Brown-Sequard Syndrome	AR	NoData
 Brown-Sequard Syndrome	CO	NoData
 Brown-Sequard Syndrome	CT	NoData
 Brown-Sequard Syndrome	DC	NoData
 Brown-Sequard Syndrome	DE	NoData
-Brown-Sequard Syndrome	FL	NoData
-Brown-Sequard Syndrome	GA	NoData
 Brown-Sequard Syndrome	HI	NoData
 Brown-Sequard Syndrome	ID	NoData
-Brown-Sequard Syndrome	IL	NoData
 Brown-Sequard Syndrome	IN	NoData
 Brown-Sequard Syndrome	IA	NoData
 Brown-Sequard Syndrome	KS	NoData
@@ -6721,8 +6309,6 @@ Brown-Sequard Syndrome	KY	NoData
 Brown-Sequard Syndrome	LA	NoData
 Brown-Sequard Syndrome	ME	NoData
 Brown-Sequard Syndrome	MD	NoData
-Brown-Sequard Syndrome	MA	NoData
-Brown-Sequard Syndrome	MI	NoData
 Brown-Sequard Syndrome	MN	NoData
 Brown-Sequard Syndrome	MS	NoData
 Brown-Sequard Syndrome	MO	NoData
@@ -6730,24 +6316,16 @@ Brown-Sequard Syndrome	MT	NoData
 Brown-Sequard Syndrome	NE	NoData
 Brown-Sequard Syndrome	NV	NoData
 Brown-Sequard Syndrome	NH	NoData
-Brown-Sequard Syndrome	NJ	NoData
 Brown-Sequard Syndrome	NM	NoData
-Brown-Sequard Syndrome	NY	NoData
-Brown-Sequard Syndrome	NC	NoData
 Brown-Sequard Syndrome	ND	NoData
-Brown-Sequard Syndrome	OH	NoData
 Brown-Sequard Syndrome	OK	NoData
 Brown-Sequard Syndrome	OR	NoData
-Brown-Sequard Syndrome	PA	NoData
 Brown-Sequard Syndrome	RI	NoData
 Brown-Sequard Syndrome	SC	NoData
 Brown-Sequard Syndrome	SD	NoData
 Brown-Sequard Syndrome	TN	NoData
-Brown-Sequard Syndrome	TX	NoData
 Brown-Sequard Syndrome	UT	NoData
 Brown-Sequard Syndrome	VT	NoData
-Brown-Sequard Syndrome	VA	NoData
-Brown-Sequard Syndrome	WA	NoData
 Brown-Sequard Syndrome	WV	NoData
 Brown-Sequard Syndrome	WI	NoData
 Brown-Sequard Syndrome	WY	NoData
@@ -6882,17 +6460,12 @@ Amnesia, Anterograde	AL	NoData
 Amnesia, Anterograde	AK	NoData
 Amnesia, Anterograde	AZ	NoData
 Amnesia, Anterograde	AR	NoData
-Amnesia, Anterograde	CA	NoData
 Amnesia, Anterograde	CO	NoData
 Amnesia, Anterograde	CT	NoData
 Amnesia, Anterograde	DC	NoData
 Amnesia, Anterograde	DE	NoData
-Amnesia, Anterograde	FL	NoData
-Amnesia, Anterograde	GA	NoData
 Amnesia, Anterograde	HI	NoData
 Amnesia, Anterograde	ID	NoData
-Amnesia, Anterograde	IL	NoData
-Amnesia, Anterograde	IN	NoData
 Amnesia, Anterograde	IA	NoData
 Amnesia, Anterograde	KS	NoData
 Amnesia, Anterograde	KY	NoData
@@ -6900,31 +6473,22 @@ Amnesia, Anterograde	LA	NoData
 Amnesia, Anterograde	ME	NoData
 Amnesia, Anterograde	MD	NoData
 Amnesia, Anterograde	MA	NoData
-Amnesia, Anterograde	MI	NoData
 Amnesia, Anterograde	MN	NoData
 Amnesia, Anterograde	MS	NoData
-Amnesia, Anterograde	MO	NoData
 Amnesia, Anterograde	MT	NoData
 Amnesia, Anterograde	NE	NoData
 Amnesia, Anterograde	NV	NoData
 Amnesia, Anterograde	NH	NoData
-Amnesia, Anterograde	NJ	NoData
 Amnesia, Anterograde	NM	NoData
-Amnesia, Anterograde	NY	NoData
-Amnesia, Anterograde	NC	NoData
 Amnesia, Anterograde	ND	NoData
-Amnesia, Anterograde	OH	NoData
 Amnesia, Anterograde	OK	NoData
 Amnesia, Anterograde	OR	NoData
-Amnesia, Anterograde	PA	NoData
 Amnesia, Anterograde	RI	NoData
 Amnesia, Anterograde	SC	NoData
 Amnesia, Anterograde	SD	NoData
 Amnesia, Anterograde	TN	NoData
-Amnesia, Anterograde	TX	NoData
 Amnesia, Anterograde	UT	NoData
 Amnesia, Anterograde	VT	NoData
-Amnesia, Anterograde	VA	NoData
 Amnesia, Anterograde	WA	NoData
 Amnesia, Anterograde	WV	NoData
 Amnesia, Anterograde	WI	NoData
@@ -7203,7 +6767,6 @@ Cardiac Output, High	AL	NoData
 Cardiac Output, High	AK	NoData
 Cardiac Output, High	AZ	NoData
 Cardiac Output, High	AR	NoData
-Cardiac Output, High	CA	NoData
 Cardiac Output, High	CO	NoData
 Cardiac Output, High	CT	NoData
 Cardiac Output, High	DC	NoData
@@ -7242,7 +6805,6 @@ Cardiac Output, High	RI	NoData
 Cardiac Output, High	SC	NoData
 Cardiac Output, High	SD	NoData
 Cardiac Output, High	TN	NoData
-Cardiac Output, High	TX	NoData
 Cardiac Output, High	UT	NoData
 Cardiac Output, High	VT	NoData
 Cardiac Output, High	VA	NoData
@@ -7250,56 +6812,22 @@ Cardiac Output, High	WA	NoData
 Cardiac Output, High	WV	NoData
 Cardiac Output, High	WI	NoData
 Cardiac Output, High	WY	NoData
-Pain, Referred	AL	NoData
 Pain, Referred	AK	NoData
-Pain, Referred	AZ	NoData
-Pain, Referred	AR	NoData
-Pain, Referred	CA	NoData
-Pain, Referred	CO	NoData
-Pain, Referred	CT	NoData
 Pain, Referred	DC	NoData
 Pain, Referred	DE	NoData
-Pain, Referred	FL	NoData
-Pain, Referred	GA	NoData
 Pain, Referred	HI	NoData
 Pain, Referred	ID	NoData
-Pain, Referred	IL	NoData
-Pain, Referred	IN	NoData
-Pain, Referred	IA	NoData
-Pain, Referred	KS	NoData
-Pain, Referred	KY	NoData
-Pain, Referred	LA	NoData
 Pain, Referred	ME	NoData
-Pain, Referred	MD	NoData
-Pain, Referred	MA	NoData
-Pain, Referred	MI	NoData
-Pain, Referred	MN	NoData
 Pain, Referred	MS	NoData
-Pain, Referred	MO	NoData
 Pain, Referred	MT	NoData
-Pain, Referred	NE	NoData
 Pain, Referred	NV	NoData
 Pain, Referred	NH	NoData
-Pain, Referred	NJ	NoData
 Pain, Referred	NM	NoData
-Pain, Referred	NY	NoData
-Pain, Referred	NC	NoData
 Pain, Referred	ND	NoData
-Pain, Referred	OH	NoData
-Pain, Referred	OK	NoData
-Pain, Referred	OR	NoData
-Pain, Referred	PA	NoData
 Pain, Referred	RI	NoData
-Pain, Referred	SC	NoData
 Pain, Referred	SD	NoData
-Pain, Referred	TN	NoData
-Pain, Referred	TX	NoData
-Pain, Referred	UT	NoData
 Pain, Referred	VT	NoData
-Pain, Referred	VA	NoData
-Pain, Referred	WA	NoData
 Pain, Referred	WV	NoData
-Pain, Referred	WI	NoData
 Pain, Referred	WY	NoData
 Neurobehavioral Manifestations	AL	NoData
 Neurobehavioral Manifestations	AK	NoData
@@ -8172,7 +7700,6 @@ Piriformis Muscle Syndrome	NV	NoData
 Piriformis Muscle Syndrome	NH	NoData
 Piriformis Muscle Syndrome	NJ	NoData
 Piriformis Muscle Syndrome	NM	NoData
-Piriformis Muscle Syndrome	NY	NoData
 Piriformis Muscle Syndrome	NC	NoData
 Piriformis Muscle Syndrome	ND	NoData
 Piriformis Muscle Syndrome	OH	NoData
