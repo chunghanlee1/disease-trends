@@ -14,10 +14,10 @@ EXECUTION
 Run the following steps sequentially from the command line or using IDE
 (warning: data collection will take thousands of hours due to rate
 limiting. We performed this step using many IP addresses):
-	1. cd data_execution and follow the instructions in README.txt
-	2. cd data_processing && ./data_processing.py
-	3. cd data_analysis && ./cluster_corr.py
+	1. cd data_extraction and follow the instructions in README.txt
+	2. data_processing/data_processing.py
+	3. data_analysis/cluster_corr.py
 Afterwards, the following files will be created:
-	1. combined.tsv
-	2. corr_by_state.csv
-	3. clusters_by_state.csv
+	1. data_extraction/combined.tsv
+	2. data_processing/corr_by_state.csv
+	3. data_analysis/clusters_by_state.csv
