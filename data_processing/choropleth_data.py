@@ -20,7 +20,7 @@ for window in dates:
 	# select window data
     alpha = corrs[['symptom', 'pair', 'state', window]].rename(columns={window: 'window'})
     # only correlations of non-same pairs
-    alpha = alpha[alpha.window!=1] # remove all pair correlation = 1 [alpha.symptom!=alpha.pair]
+    alpha = alpha[alpha.window<1] # remove all pair correlation = 1 [alpha.symptom!=alpha.pair]
     # select window data
     beta = clusters[clusters.period==window].drop(columns='period')
     
