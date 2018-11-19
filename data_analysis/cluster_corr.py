@@ -15,7 +15,7 @@ from scipy.cluster.hierarchy import linkage, fcluster
 pd.set_option('display.max_columns',100)
 
 infile = sys.argv[1]
-outfile = infile.partition('.')[1]
+outfile = infile.split('.')[1]
 outfile = 'data_analysis/clusters_by_state.'+outfile+'.csv'
 try:
     data = pd.read_csv(infile)
