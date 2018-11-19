@@ -9,12 +9,16 @@ Created on Fri Sep 21 18:51:03 2018
 
 import pandas as pd
 import numpy as np
+import sys
 from scipy.spatial.distance import squareform
 from scipy.cluster.hierarchy import linkage, fcluster
 pd.set_option('display.max_columns',100)
 
+infile = sys.argv[1]
+outfile = infile.partition('.')[1]
+outfile = 'data_analysis/clusters_by_state.'+outfile+'.csv'
 try:
-    data = pd.read_csv('data_processing/corr_by_state.csv')
+    data = pd.read_csv(infile)
 except FileNotFoundError:
     raise FileNotFoundError("Make sure your working directory is 'disease-trends' and not in any subdirectory")
 
@@ -67,4 +71,4 @@ for col in final_label_df.columns.difference(['symptom', 'state']):
 final_cluster_df = pd.concat(to_concat, axis=0)
 
 #be aware of NA values, which should have all been separated out
-final_cluster_df.to_csv('data_analysis/clusters_by_state.csv', index=False)
+final_cluster_df.to_csv(outfile, index=False)
