@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
+# vim: tabstop=8 expandtab shiftwidth=4 softtabstop=4
+# VIM: let g:pyindent_open_paren=2 g:pyindent_continue=2
 # -*- coding: utf-8 -*-
 """
 Created on Fri Sep 21 13:16:42 2018
 
-@author: Chunghan
+@author: Chunghan, glemmon
 """
 
 
@@ -67,9 +69,10 @@ def generate_corr_df(data, start_date = '2015-01-01'):
         corr_data = corr.reset_index(drop=False).melt(id_vars= ['symptom'], var_name= 'pair', value_name='aggregate')
         
         #Calculate rolling window correlation
-        end_window = segment_by_state.index.get_loc(start_date)
-        for i in range(end_window, segment_by_state.shape[0]):
-            window= segment_by_state.iloc[i-end_window:i,:]
+        for i in range(len(segment_by_state.index)):
+            start = max(i-6, 0)
+            stop = min(i+6+1, len(segment_by_state.index)+1)
+            window= segment_by_state.iloc[start:stop,:]
             window_corr= window.corr('pearson')
             window_corr = window_corr.reset_index(drop=False).melt(id_vars= ['symptom'], var_name= 'pair', value_name=segment_by_state.index[i][:-3])
             #Merge data with original dataframe
