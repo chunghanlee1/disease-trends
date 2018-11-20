@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
+# vim: tabstop=8 expandtab shiftwidth=4 softtabstop=4
+# VIM: let g:pyindent_open_paren=2 g:pyindent_continue=2
 # -*- coding: utf-8 -*-
 """
 Created on Fri Sep 21 13:16:42 2018
 
-@author: Chunghan
+@author: Chunghan, glemmon
 """
 
 
@@ -18,21 +20,11 @@ import re
 #The earlier the start date, the larger the file size. It's around 500MB with 2016-01-01 as start date
 
 #Extract user specification of rolling window size
-if len(sys.argv) >=2:
-    res = re.findall("^[0-9]{4}\-[0-9]{2}$", sys.argv[1])
-    if res:
-        #Check that the supplied argument is valid month-date argument
-        dates = sys.argv[1].split('-')
-        if int(dates[0])>2018 or int(dates[0])<2004:
-            raise Exception("Please specify a year range from 2004 to 2018")
-        elif int(dates[1])>12 or int(dates[1])<1:
-            raise Exception("Please specify a valid month range from 01 to 12")
-        else:
-            start_date=sys.argv[1]+"-01"
-    else: 
-        raise Exception("Please specify a valid rolling window date, using the format yyyy-mm")
+assert len(sys.argv) <= 2
+if len(sys.argv)==2:
+    window_size = int(sys.argv[1])
 else:
-    start_date= '2005-01-01'
+    window_size = 6
 #=============================================================
 
 
@@ -48,7 +40,7 @@ def remove_duplicated_columns(df):
     return df[~sorted_df.duplicated()]
     
 
-def generate_corr_df(data, start_date = '2015-01-01'):
+def generate_corr_df(data, window_size):
     """
     Calculate columns of correlation measures across time
     Input: Pandas Dataframe
@@ -67,9 +59,10 @@ def generate_corr_df(data, start_date = '2015-01-01'):
         corr_data = corr.reset_index(drop=False).melt(id_vars= ['symptom'], var_name= 'pair', value_name='aggregate')
         
         #Calculate rolling window correlation
-        end_window = segment_by_state.index.get_loc(start_date)
-        for i in range(end_window, segment_by_state.shape[0]):
-            window= segment_by_state.iloc[i-end_window:i,:]
+        for i in range(len(segment_by_state.index)):
+            start = max(i-window_size, 0)
+            stop = min(i+window_size+1, len(segment_by_state.index)+1)
+            window= segment_by_state.iloc[start:stop,:]
             window_corr= window.corr('pearson')
             window_corr = window_corr.reset_index(drop=False).melt(id_vars= ['symptom'], var_name= 'pair', value_name=segment_by_state.index[i][:-3])
             #Merge data with original dataframe
@@ -93,8 +86,8 @@ except FileNotFoundError:
     raise FileNotFoundError("Make sure your working directory is 'disease-trends' and not in any subdirectory")
     
 
-concat_data = generate_corr_df(data, start_date)
-concat_data.to_csv('data_processing/corr_by_state.csv', index=False)
+concat_data = generate_corr_df(data, window_size)
+concat_data.to_csv('data_processing/corr_by_state.'+str(window_size)+'.csv', index=False)
 #=======================================================
 
 
