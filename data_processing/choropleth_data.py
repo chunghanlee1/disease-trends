@@ -1,10 +1,16 @@
+#!/usr/bin/env python3
+# vim: tabstop=8 expandtab shiftwidth=4 softtabstop=4
+# VIM: let g:pyindent_open_paren=2 g:pyindent_continue=2
+# -*- coding: utf-8 -*-
 import pandas as pd
 import numpy as np
 import itertools as it
+import sys
 
+window_size = sys.argv[1]
 # load the data
-clusters = pd.read_csv('./clusters_by_state.csv')
-corrs = pd.read_csv('./corr_by_state.csv')
+clusters = pd.read_csv('data_processing/clusters_by_state.'+window_size+'.csv')
+corrs = pd.read_csv('data_analysis/corr_by_state.'+window_size+'.csv')
 
 # list of rolling windows
 years = np.arange(2005, 2018).astype(str)
@@ -42,4 +48,4 @@ for window in dates:
     temp = temp.append(iota)
 
 temp = temp.reset_index().drop('index', axis=1)
-temp.to_csv('./choropleth_data.csv', index=False)
+temp.to_csv('data_processing/choropleth_data.'+window_size+'.csv', index=False)

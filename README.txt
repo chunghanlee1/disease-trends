@@ -15,9 +15,11 @@ Run the following steps sequentially from the command line or using IDE
 (warning: data collection will take thousands of hours due to rate
 limiting. We performed this step using many IP addresses):
 	1. cd data_extraction and follow the instructions in README.txt
-	2. data_processing/data_processing.py
-	3. data_analysis/cluster_corr.py
+	2. data_processing/data_processing.bash
+	3. data_analysis/cluster_corr.bash
+	4. data_processing/choropleth_data.bash
 Afterwards, the following files will be created:
 	1. data_extraction/combined.tsv
-	2. data_processing/corr_by_state.csv
-	3. data_analysis/clusters_by_state.csv
+	2. data_processing/corr_by_state.<window size>.csv
+	3. data_analysis/clusters_by_state.<window size>.csv
+	4. data_processing/choropleth_data.<window size>.csv
