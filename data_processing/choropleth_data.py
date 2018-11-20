@@ -9,8 +9,8 @@ import sys
 
 window_size = sys.argv[1]
 # load the data
-clusters = pd.read_csv('data_processing/clusters_by_state.'+window_size+'.csv')
-corrs = pd.read_csv('data_analysis/corr_by_state.'+window_size+'.csv')
+clusters = pd.read_csv('data_analysis/clusters_by_state.'+window_size+'.csv')
+corrs = pd.read_csv('data_processing/corr_by_state.'+window_size+'.csv')
 
 # list of rolling windows
 years = np.arange(2005, 2018).astype(str)
@@ -40,12 +40,15 @@ for window in dates:
     delta = delta.drop(columns=['pair_cluster']).rename(columns={'symptom_cluster':'cluster'})
     
     # groupby clusters
-    iota = delta.groupby(by=['state','cluster']).agg({'window': 'mean', 'symptom': lambda x: set(x), 'pair': lambda x: set(x)}).rename(columns={'window':'corr'})
-    iota['members'] = iota.apply(lambda x: list(x['symptom'].union(x['pair'])), axis=1)
-    iota = iota.drop(columns=['symptom', 'pair']).reset_index().groupby(by='state').apply(lambda x: x.loc[x['corr'] == x['corr'].max()]).drop(columns=['state']).reset_index().drop(columns=['level_1'])
-    iota['window'] = window
+    try:
+        iota = delta.groupby(by=['state','cluster']).agg({'window': 'mean', 'symptom': lambda x: set(x), 'pair': lambda x: set(x)}).rename(columns={'window':'corr'})
+        iota['members'] = iota.apply(lambda x: list(x['symptom'].union(x['pair'])), axis=1)
+        iota = iota.drop(columns=['symptom', 'pair']).reset_index().groupby(by='state').apply(lambda x: x.loc[x['corr'] == x['corr'].max()]).drop(columns=['state']).reset_index().drop(columns=['level_1'])
+        iota['window'] = window
     
-    temp = temp.append(iota)
+        temp = temp.append(iota)
+    except:
+        pass
 
 temp = temp.reset_index().drop('index', axis=1)
 temp.to_csv('data_processing/choropleth_data.'+window_size+'.csv', index=False)

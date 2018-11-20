@@ -23,3 +23,9 @@ Afterwards, the following files will be created:
 	2. data_processing/corr_by_state.<window size>.csv
 	3. data_analysis/clusters_by_state.<window size>.csv
 	4. data_processing/choropleth_data.<window size>.csv
+FIGURES:
+	1. cd data_processing
+	2. ./cluster_member_histo.py choropleth_data.1.csv cluster_histo.1.png --rotate --corr_cutoff .96
+	2. ./cluster_member_histo.py choropleth_data.48.csv cluster_histo.48.png --rotate --corr_cutoff .60
+	3 ./cluster_size_histo.py choropleth_data.1.csv cluster_size_histo.1.png --rotate --corr_cutoff .5 
+	3 ./cluster_size_histo.py choropleth_data.48.csv cluster_size_histo.48.png --rotate --corr_cutoff .5 
