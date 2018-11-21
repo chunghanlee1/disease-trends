@@ -7,10 +7,12 @@ import numpy as np
 import itertools as it
 import sys
 
-window_size = sys.argv[1]
+clust_path = sys.argv[1]
+corr_path = sys.argv[2]
+out = sys.argv[3]
 # load the data
-clusters = pd.read_csv('data_analysis/clusters_by_state.'+window_size+'.csv')
-corrs = pd.read_csv('data_processing/corr_by_state.'+window_size+'.csv')
+clusters = pd.read_csv(clust_path)
+corrs = pd.read_csv(corr_path)
 
 # list of rolling windows
 years = np.arange(2005, 2018).astype(str)
@@ -51,4 +53,4 @@ for window in dates:
         pass
 
 temp = temp.reset_index().drop('index', axis=1)
-temp.to_csv('data_processing/choropleth_data.'+window_size+'.csv', index=False)
+temp.to_csv(out, index=False)

@@ -15,17 +15,18 @@ Run the following steps sequentially from the command line or using IDE
 (warning: data collection will take thousands of hours due to rate
 limiting. We performed this step using many IP addresses):
 	1. cd data_extraction and follow the instructions in README.txt
-	2. data_processing/data_processing.bash
-	3. data_analysis/cluster_corr.bash
-	4. data_processing/choropleth_data.bash
+	2. cd corr_by_state && ./data_processing.bash
+	3. clusters_by_state/cluster_corr.bash
+	4. corr_by_state/choropleth_data.bash
 Afterwards, the following files will be created:
 	1. data_extraction/combined.tsv
-	2. data_processing/corr_by_state.<window size>.csv
-	3. data_analysis/clusters_by_state.<window size>.csv
-	4. data_processing/choropleth_data.<window size>.csv
-FIGURES:
-	1. cd data_processing
-	2. ./cluster_member_histo.py choropleth_data.1.csv cluster_histo.1.png --rotate --corr_cutoff .96
-	2. ./cluster_member_histo.py choropleth_data.48.csv cluster_histo.48.png --rotate --corr_cutoff .60
-	3 ./cluster_size_histo.py choropleth_data.1.csv cluster_size_histo.1.png --rotate --corr_cutoff .5 
-	3 ./cluster_size_histo.py choropleth_data.48.csv cluster_size_histo.48.png --rotate --corr_cutoff .5 
+	2. corr_by_state/<window size>.csv
+	3. clusters_by_state/<window size>.csv
+	4. choropleth/choropleth_data.<window size>.csv
+FIGURES and TABLES:
+	1. cd corr_by_state && ./count.py *.csv
+	2. cd choropleth
+	3. ./cluster_member_histo.py 1.csv cluster_histo.1.png --rotate --corr_cutoff .96
+	4. ./cluster_member_histo.py 48.csv cluster_histo.48.png --rotate --corr_cutoff .60
+	5 ./cluster_size_histo.py 1.csv cluster_size_histo.1.png --rotate --corr_cutoff .5 
+	6. ./cluster_size_histo.py 48.csv cluster_size_histo.48.png --rotate --corr_cutoff .5 

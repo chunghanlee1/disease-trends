@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # vim: set tabstop=2 softtabstop=2 shiftwidth=2 noexpandtab colorcolumn=81 :
 # VIM: let g:pyindent_open_paren=2 g:pyindent_continue=2
+# -*- coding: utf-8 -*-
 import matplotlib
 matplotlib.use('Agg')
 from matplotlib import rcParams, pyplot as plt

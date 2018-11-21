@@ -87,7 +87,7 @@ except FileNotFoundError:
     
 
 concat_data = generate_corr_df(data, window_size)
-concat_data.to_csv('data_processing/corr_by_state.'+str(window_size)+'.csv', index=False)
+concat_data.to_csv('corr_by_state.'+str(window_size)+'.csv', index=False)
 #=======================================================
 
 
@@ -102,7 +102,7 @@ concat_data.to_csv('data_processing/corr_by_state.'+str(window_size)+'.csv', ind
 #x=json.dumps(symptom_disease_mapping, indent=1)
 #
 ##Writing JSON to file https://stackoverflow.com/questions/12309269/how-do-i-write-json-data-to-a-file
-#with open('data_processing/symptom_disease_mapping.json', 'w') as f:
+#with open('symptom_disease_mapping.json', 'w') as f:
 #    json.dump(symptom_disease_mapping, f)
 
 
