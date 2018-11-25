@@ -1,5 +1,8 @@
 DESCRIPTION 
-The Python code (???) queries symptoms data from the Google Trends API, then 'data_processing.py' is used to calculate rolling window correlation between symptom pairs from raw trend data. Calculated correlation is separated by state and time period (i.e. rolling window). Finally, 'cluster_corr.py' runs heirarchical clustering on the correlation data, using correlation as the distance metric (i.e. higher positive correlation is more similar).
+This file contains the instructions to reproduce our data analysis and visualization
+Since Google Trends impose rate limiting, data collection will take thousands of hours. 
+We collected the preliminery data using many IP addresses and have stored the result in the file data_extraction/combined.tsv
+You can just follow the instructions below to reproduce our results.
 
 INSTALLATION
 Software:
@@ -11,9 +14,7 @@ Required modules (installation instructions):
 	4. pandas 0.23.0 (https://pandas.pydata.org/pandas-docs/stable/install.html)
 
 EXECUTION
-Run the following steps sequentially from the command line or using IDE
-(warning: data collection will take thousands of hours due to rate
-limiting. We performed this step using many IP addresses):
+Run the following steps sequentially from the command line:
 	1. cd data_extraction and follow the instructions in README.txt
 	2. cd corr_by_state && ./data_processing.bash
 	3. clusters_by_state/cluster_corr.bash
