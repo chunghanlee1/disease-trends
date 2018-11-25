@@ -60,8 +60,10 @@ def generate_corr_df(data, window_size):
         
         #Calculate rolling window correlation
         for i in range(len(segment_by_state.index)):
-            start = max(i-window_size, 0)
-            stop = min(i+window_size+1, len(segment_by_state.index)+1)
+            start = i-window_size
+            if start < 0: continue # Not a big enough window
+            stop = i+window_size+1
+            if stop > len(segment_by_state.index)+1: continue
             window= segment_by_state.iloc[start:stop,:]
             window_corr= window.corr('pearson')
             window_corr = window_corr.reset_index(drop=False).melt(id_vars= ['symptom'], var_name= 'pair', value_name=segment_by_state.index[i][:-3])
@@ -81,13 +83,13 @@ def generate_corr_df(data, window_size):
 
 #======================== Process data ==================
 try:
-   data = pd.read_csv('data_extraction/combined.tsv')
+   data = pd.read_csv('../data_extraction/combined.tsv')
 except FileNotFoundError:
     raise FileNotFoundError("Make sure your working directory is 'disease-trends' and not in any subdirectory")
     
 
 concat_data = generate_corr_df(data, window_size)
-concat_data.to_csv('corr_by_state.'+str(window_size)+'.csv', index=False)
+concat_data.to_csv(str(window_size)+'.csv', index=False)
 #=======================================================
 
 

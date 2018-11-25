@@ -17,7 +17,7 @@ limiting. We performed this step using many IP addresses):
 	1. cd data_extraction and follow the instructions in README.txt
 	2. cd corr_by_state && ./data_processing.bash
 	3. clusters_by_state/cluster_corr.bash
-	4. corr_by_state/choropleth_data.bash
+	4. choropleth/choropleth_data.bash
 Afterwards, the following files will be created:
 	1. data_extraction/combined.tsv
 	2. corr_by_state/<window size>.csv
